@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<TriggernometryExport Version="1">
+  <ExportedTrigger Enabled="true" Source="Log" Name="Ability" Id="226a08d0-4502-4407-bac2-9ac153bd9485" RegularExpression="2b:You use %ability%." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+    <Actions>
+      <Action OrderNumber="1" AuraImageMode="Zoom" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" Enabled="%imageenabled%" ActionType="Aura" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" AuraName="%ability%-Image-Aura" AuraImage="%imageurl%" AuraXIniExpression="%x%" AuraYIniExpression="%y%" AuraWIniExpression="%width%" AuraHIniExpression="%width%" AuraOIniExpression="100" AuraTTLTickExpression="%cooldownms%-${_sincems}" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
+        <Condition Enabled="false" Grouping="Or" />
+        <Conditions />
+      </Action>
+      <Action OrderNumber="2" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="Bold" Enabled="%textenabled%" ActionType="TextAura" ExecutionDelayExpression="1" Asynchronous="False" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraName="%ability%-Text-Aura" TextAuraExpression="%cooldown%-${_since}" TextAuraXIniExpression="%x%" TextAuraYIniExpression="%y%" TextAuraWIniExpression="%width%" TextAuraHIniExpression="%height%" TextAuraOIniExpression="100" TextAuraTTLTickExpression="%cooldownms%-${_sincems}" TextAuraFontName="Microsoft Sans Serif" TextAuraUseOutline="True" TextAuraForeground="White" TextAuraBackground="Transparent" TextAuraOutline="Black" OBSControlType="StartStreaming" KeypressType="SendKeys">
+        <Condition Enabled="false" Grouping="Or" />
+        <Conditions />
+      </Action>
+      <Action OrderNumber="3" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" Enabled="%ttsenabled%" ActionType="UseTTS" ExecutionDelayExpression="%cooldownms%-5000" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="%ability%" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
+        <Condition Enabled="false" Grouping="Or" />
+        <Conditions />
+      </Action>
+    </Actions>
+    <Condition Enabled="false" Grouping="Or" />
+    <Conditions />
+  </ExportedTrigger>
+</TriggernometryExport>
