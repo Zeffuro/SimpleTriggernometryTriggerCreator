@@ -1,3 +1,12 @@
+var fetchHeaders = new Headers();
+fetchHeaders.append('pragma', 'no-cache');
+fetchHeaders.append('cache-control', 'no-cache');
+
+var fetchInit = {
+	method: 'GET',
+	headers: fetchHeaders,
+};
+
 async function searchXivApi(query) {
 	let url = `https://xivapi.com/search?string=${query}`;
 	return await fetch(url).then(response => response.json());
@@ -33,6 +42,7 @@ async function searchAbility() {
 	} else {
 		$(".info-anchor").append(`<p>No results found for ${query}</p>`);
 	}
+	window.scrollTo(0, document.body.scrollHeight);
 }
 
 async function getDetails(url, urlType) {
@@ -45,15 +55,18 @@ async function getDetails(url, urlType) {
 
 	console.log(urlType);
 	if (urlType == "Action") {
-		$("#triggertypeability").prop("checked", true);
+		$("#triggertypeability").prop("checked", true);		
+		$('#imageoverlayenabled').prop("checked", true);
 	}
 
 	if (urlType == "Status") {
 		//Category 1 is buff, category 2 is debuff.
 		if (data.Category == 1) {
 			$("#triggertypestatus").prop("checked", true);
+			$('#imageoverlayenabled').prop("checked", false);
 		} else {
 			$("#triggertypedot").prop("checked", true);
+			$('#imageoverlayenabled').prop("checked", false);
 		}
 	}
 
@@ -78,35 +91,77 @@ async function getDetails(url, urlType) {
 		$("#duration").val("");
 	}
 
-	console.log(data);
-	console.log(suggestedDuration);
-	//return data;
+	$("#imageurl").val(`https://xivapi.com${data.Icon}`);
+
+	currentRatio = 1;
+	$("#ratiotext").val(currentRatio);
+	$("#imageratio").val(currentRatio);
+	applyNewImageRatio();
+
+	loadImage();
+
+	window.scrollTo(0, document.body.scrollHeight);
 }
 
 async function generateTrigger() {
 	let template = "";
 	if ($('#triggertypeability').prop('checked')) {
-		template = await fetch("templates/Ability.xml").then(response => response.json());
+		template = await fetch("templates/Ability.xml", fetchInit).then(response => response.text());
 	}
 	if ($('#triggertypestatus').prop('checked')) {
-		template = await fetch("templates/Status.xml").then(response => response.json());
+		template = await fetch("templates/Status.xml", fetchInit).then(response => response.text());
 	}
 	if ($('#triggertypedot').prop('checked')) {
-		template = await fetch("templates/DoT.xml").then(response => response.json());
+		template = await fetch("templates/DoT.xml", fetchInit).then(response => response.text());
 	}
 
-	template.replace("%ability%", $("#abilityname").val());
-	template.replace("%imageenabled%", capitalize($('#imageenabled').prop('checked')));
-	template.replace("%textenabled%", capitalize($('#textenabled').prop('checked')));
-	template.replace("%ttsenabled%", capitalize($('#ttsenabled').prop('checked')));
-	template.replace("%duration%", $("#duration").val());
-	template.replace("%cooldown%", $("#cooldown").val());
-	template.replace("%cooldownms%", ($("#cooldown").val() * 1000));
+	let fontsize = 8.25 * currentRatio;
+	let x = $("#imagex").val();
+	let y = $("#imagey").val();
+	let overlayx = x - (4 * currentRatio);
+	let overlayy = y - (2 * currentRatio);
+	let overlaywidth = (48 * currentRatio);
+	let overlayheight = (48 * currentRatio);
 
-	$(".output-anchor").empty();
+	template = template.replace(/%ability%/g, $("#abilityname").val());
+	template = template.replace(/%imageenabled%/g, capitalize($('#imageenabled').prop('checked').toString()));
+	template = template.replace(/%imageoverlayenabled%/g, capitalize($('#imageoverlayenabled').prop('checked').toString()));
+	template = template.replace(/%imageurl%/g, $('#imageurl').val());
+	template = template.replace(/%textenabled%/g, capitalize($('#textenabled').prop('checked').toString()));
+	template = template.replace(/%ttsenabled%/g, capitalize($('#ttsenabled').prop('checked').toString()));
+	template = template.replace(/%duration%/g, $("#duration").val());
+	template = template.replace(/%cooldown%/g, $("#cooldown").val());
+	template = template.replace(/%cooldownms%/g, ($("#cooldown").val() * 1000));
+	template = template.replace(/%width%/g, $("#imagewidth").val());
+	template = template.replace(/%height%/g, $("#imageheight").val());
+	template = template.replace(/%x%/g, x);
+	template = template.replace(/%y%/g, y);
+	template = template.replace(/%overlayx%/g, overlayx);
+	template = template.replace(/%overlayy%/g, overlayy);
+	template = template.replace(/%overlaywidth%/g, overlaywidth);
+	template = template.replace(/%overlayheight%/g, overlayheight);
+	template = template.replace(/%fontsize%/g, fontsize);
+
+
 	$(".output-anchor").removeClass("d-none");
 
 	$("#triggeroutput").val(template);
+	window.scrollTo(0, document.body.scrollHeight);
+}
+
+function loadImage() {
+	var tmpImg = new Image();
+	tmpImg.src = $("#imageurl").val();
+	$(tmpImg).one('load', function () {
+		$("#imagewidth").val(tmpImg.width);
+		$("#imageheight").val(tmpImg.height);
+		$("#imageloaded").attr("width", tmpImg.width);
+		$("#imageloaded").attr("height", tmpImg.height);
+		originalWidth = tmpImg.width;
+		originalHeight = tmpImg.height;
+	});
+
+	$("#imageloaded").attr("src", $("#imageurl").val());
 }
 
 function copyTriggerToClipboard() {
@@ -120,3 +175,26 @@ const capitalize = (s) => {
 	if (typeof s !== 'string') return ''
 	return s.charAt(0).toUpperCase() + s.slice(1)
 }
+
+function applyNewImageRatio() {
+	$("#imagewidth").val(originalWidth * currentRatio);
+	$("#imageheight").val(originalHeight * currentRatio);
+	$("#imageloaded").attr("width", $("#imagewidth").val());
+	$("#imageloaded").attr("height", $("#imageheight").val());
+}
+
+var originalWidth = 0;
+var originalHeight = 0;
+var currentRatio = 1;
+
+$(document).on('input', '#imageratio', function () {
+	currentRatio = $(this).val();
+	$("#ratiotext").val(currentRatio);
+	applyNewImageRatio();
+});
+
+$(document).on('input', '#ratiotext', function () {
+	currentRatio = $(this).val();
+	$("#imageratio").val(currentRatio);
+	applyNewImageRatio();
+});
