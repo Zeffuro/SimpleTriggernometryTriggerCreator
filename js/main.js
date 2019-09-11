@@ -196,8 +196,8 @@ $(document).on("input", '#ratiotext', function () {
 	applyNewImageRatio();
 });
 
-$('#searchbutton').keypress(function (e) {
-	if (e.which == 13) {
+$(document).on("keypress", "#searchquery", function(e){
+	if(e.which == 13){
 		searchAbility();
 	}
 });
