@@ -25,17 +25,15 @@ async function searchAbility() {
 	//$(".info-anchor").empty();
 	$(".details-anchor").addClass("d-none");
 	$(".info-anchor").removeClass("d-none");
-	console.log(data.Results);
 	if (data.Results.length > 0) {
 		for (let [, result] of Object.entries(data.Results)) {
-			console.log(result);
 			let element = `
 			<tr>
 				<td>${result.ID}</td>
 				<td>${result.Name}</td>
 				<td>${result.UrlType}</td>
 				<td><img src='https://xivapi.com${result.Icon}'></td>
-				<td><button type="button" class="btn btn-primary" onclick="getDetails('${result.Url}','${result.UrlType}');">Use this</button></td>
+				<td><button type="button" class="btn btn-primary" id="detailsbutton" data-url="${result.Url}" data-urltype="${result.UrlType}">Use this</button></td>
 			</tr>`;
 			$(".results-anchor").append(element);
 		}
@@ -53,9 +51,8 @@ async function getDetails(url, urlType) {
 	let data = await fetchXivApiUrl(url);
 	$(".details-anchor").append(data.Description);
 
-	console.log(urlType);
 	if (urlType == "Action") {
-		$("#triggertypeability").prop("checked", true);		
+		$("#triggertypeability").prop("checked", true);
 		$('#imageoverlayenabled').prop("checked", true);
 	}
 
@@ -77,11 +74,11 @@ async function getDetails(url, urlType) {
 	}
 	$("#cooldown").val(cooldown);
 
-	let durationRegex = /Duration:<\/span> (?<duration>\d+)s/;
+	let durationRegex = /Duration:<\/span> (\d+)s/;
 	let durationMatch = data.Description.match(durationRegex);
 	let suggestedDuration = "";
 	if (durationMatch != null) {
-		suggestedDuration = durationMatch.groups.duration;
+		suggestedDuration = durationMatch[1];
 	}
 
 
@@ -187,14 +184,40 @@ var originalWidth = 0;
 var originalHeight = 0;
 var currentRatio = 1;
 
-$(document).on('input', '#imageratio', function () {
+$(document).on("input", '#imageratio', function () {
 	currentRatio = $(this).val();
 	$("#ratiotext").val(currentRatio);
 	applyNewImageRatio();
 });
 
-$(document).on('input', '#ratiotext', function () {
+$(document).on("input", '#ratiotext', function () {
 	currentRatio = $(this).val();
 	$("#imageratio").val(currentRatio);
 	applyNewImageRatio();
+});
+
+$('#searchbutton').keypress(function (e) {
+	if (e.which == 13) {
+		searchAbility();
+	}
+});
+
+$(document).on("click", "#searchbutton", function () {
+	searchAbility();
+});
+
+$(document).on("click", "#loadimagebutton", function () {
+	loadImage();
+});
+
+$(document).on("click", "#generatetriggerbutton", function () {
+	generateTrigger();
+});
+
+$(document).on("click", "#clipboardbutton", function () {
+	copyTriggerToClipboard();
+});
+
+$(document).on("click", "#detailsbutton", function () {
+	getDetails($(this).data('url'), $(this).data('urltype'));
 });
