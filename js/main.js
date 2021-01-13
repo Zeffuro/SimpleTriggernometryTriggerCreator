@@ -30,6 +30,7 @@ async function searchAbility() {
 			let element = `
 			<tr>
 				<td>${result.ID}</td>
+				<td>${result.ID.toString(16).toUpperCase()}</td>
 				<td>${result.Name}</td>
 				<td>${result.UrlType}</td>
 				<td><img src='https://xivapi.com${result.Icon}'></td>
