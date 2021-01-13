@@ -34,7 +34,7 @@ async function searchAbility() {
 				<td>${result.Name}</td>
 				<td>${result.UrlType}</td>
 				<td><img src='https://xivapi.com${result.Icon}'></td>
-				<td><button type="button" class="btn btn-primary" id="detailsbutton" data-url="${result.Url}" data-urltype="${result.UrlType}">Use this</button></td>
+				<td><button type="button" class="btn btn-primary" id="detailsbutton" data-url="${result.Url}" data-urltype="${result.UrlType}">Use this</button><a class="btn btn-primary" id="jsonbutton" href="https://xivapi.com${result.Url}" target="_blank">XIVAPI</a></td>
 			</tr>`;
 			$(".results-anchor").append(element);
 		}
