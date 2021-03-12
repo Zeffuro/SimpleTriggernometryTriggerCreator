@@ -7,9 +7,19 @@ var fetchInit = {
 	headers: fetchHeaders,
 };
 
-async function searchXivApi(query) {
-	let url = `https://xivapi.com/search?string=${query}`;
-	return await fetch(url).then(response => response.json());
+async function searchXivApi(query, indexes = "", pagination) {
+	let url = `https://xivapi.com/search?string=${query}&indexes=${indexes}`;
+	let data = await fetch(url).then(response => response.json());
+	let results = data.Results;
+	if(pagination){
+		while (data.Pagination.PageNext != undefined){
+			let pageUrl = `${url}&page=${data.Pagination.PageNext}`;
+			data = await fetch(pageUrl).then(response => response.json());
+			results = results.concat(data.Results);
+		}
+	}
+	
+	return results
 }
 
 async function fetchXivApiUrl(url) {
@@ -19,14 +29,14 @@ async function fetchXivApiUrl(url) {
 
 async function searchAbility() {
 	let query = $("[id=searchquery]").val();
-	let data = await searchXivApi(query);
+	let data = await searchXivApi(query, $("#actionselect").val(), $("#searchpages").prop("checked"));
 	$(".results-anchor").empty();
 	$(".details-anchor").empty();
 	//$(".info-anchor").empty();
 	$(".details-anchor").addClass("d-none");
 	$(".info-anchor").removeClass("d-none");
-	if (data.Results.length > 0) {
-		for (let [, result] of Object.entries(data.Results)) {
+	if (data.length > 0) {
+		for (let [, result] of Object.entries(data)) {
 			let element = `
 			<tr>
 				<td>${result.ID}</td>
