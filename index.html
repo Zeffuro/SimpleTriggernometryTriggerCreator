@@ -1,219 +1,368 @@
 <html>
+    <head>
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+        <meta content="utf-8" http-equiv="encoding" />
+        <link
+            rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+            crossorigin="anonymous"
+        />
+        <link
+            rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/slate/bootstrap.min.css"
+            integrity="sha384-FBPbZPVh+7ks5JJ70RJmIaqyGnvMbeJ5JQfEbW0Ac6ErfvEg9yG56JQJuMNptWsH"
+            crossorigin="anonymous"
+        />
+        <script
+            src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"
+        ></script>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"
+        ></script>
+        <script
+            src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"
+        ></script>
+        <script src="js/main.js"></script>
+        <title>Simple Triggernometry Trigger Creator by Zeffuro</title>
+    </head>
 
-<head>
-	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-	<meta content="utf-8" http-equiv="encoding">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/slate/bootstrap.min.css"
-		integrity="sha384-FBPbZPVh+7ks5JJ70RJmIaqyGnvMbeJ5JQfEbW0Ac6ErfvEg9yG56JQJuMNptWsH" crossorigin="anonymous">
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-	</script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-		integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
-	</script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-		integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
-	</script>
-	<script src="js/main.js"></script>
-	<title>Simple Triggernometry Trigger Creator by Zeffuro</title>
-</head>
-
-<body>
-	<div class="container">
-		<br />
-		<br />
-		<br />
-		<h2>Simple Triggernometry Trigger Creator by Zeffuro</h2>
-		<p>Hello there, you can use this page to create a simple aura and get started with Triggernometry or just use this to lookup data from XIVAPI</p>
-		<br />
-		<br />
-		<div class="row">
-			<div class="col-lg-3">
-				<div class="form-group">
-					<input type="search" class="form-control" placeholder="Search for ability / status"
-						id="searchquery">
-				</div>
-			</div>
-			<div class="col-lg-3">
-				<div class="form-group">
-					<button type="button" class="btn btn-primary" id="searchbutton">Search</button>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-3">
-				<fieldset class="form-group">
-					<div class="form-check">
-						<label class="form-check-label">
-						  <input id="searchpages" class="form-check-input" type="checkbox" value="">
-						  Search all pages
-						</label>
-					  </div>		  	
-				</fieldset>
-			</div>
-		</div>
-		<div class="row">			
-			<div class="col-lg-3">
-				<div class="form-group">
-					<label for="actionselect">Type</label>
-					<select class="form-control form-control-sm" id="actionselect">
-						<option>Any</option>
-						<option>Action</option>
-						<option>Status</option>
-						<option>Item</option>
-					  </select>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-12 info-anchor d-none">
-				<table class="table table-hover">
-					<thead>
-						<th scope="col">ID</th>
-						<th scope="col">Hex ID</th>
-						<th scope="col">Name</th>
-						<th scope="col">Type</th>
-						<th scope="col">Icon</th>
-						<th scope="col"></th>
-					</thead>
-					<tbody class="results-anchor">
-					</tbody>
-				</table>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-12 details-anchor d-none">
-			</div>
-		</div>
-		<div class="row trigger-anchor d-none">
-			<div class="col-lg-3">
-				<fieldset class="form-group">
-					<legend>Trigger Type</legend>
-					<div class="form-check">
-						<label class="form-check-label">
-							<input type="radio" class="form-check-input" name="triggertype" id="triggertypeability"
-								value="option1" checked="">
-							Ability Trigger
-						</label>
-					</div>
-					<div class="form-check">
-						<label class="form-check-label">
-							<input type="radio" class="form-check-input" name="triggertype" id="triggertypestatus"
-								value="option2">
-							Status Trigger (personal buffs etc)
-						</label>
-					</div>
-					<div class="form-check disabled">
-						<label class="form-check-label">
-							<input type="radio" class="form-check-input" name="triggertype" id="triggertypedot"
-								value="option3">
-							Enemy Status Trigger (Damage over Time etc)
-						</label>
-					</div>
-					<legend>Features</legend>
-					<div class="form-check">
-						<label class="form-check-label">
-							<input class="form-check-input" type="checkbox" value="" checked="" id="imageenabled">
-							Image Aura
-						</label>
-					</div>
-					<div class="form-check">
-						<label class="form-check-label">
-							<input class="form-check-input" type="checkbox" value="" checked=""
-								id="imageoverlayenabled">
-							Image Overlay (only use with default ability icons)
-						</label>
-					</div>
-					<div class="form-check">
-						<label class="form-check-label">
-							<input class="form-check-input" type="checkbox" value="" checked="" id="textenabled">
-							Text Aura
-						</label>
-					</div>
-					<div class="form-check">
-						<label class="form-check-label">
-							<input class="form-check-input" type="checkbox" value="" id="ttsenabled">
-							Text to Speech
-						</label>
-					</div>
-				</fieldset>
-			</div>
-			<div class="col-lg-3">
-				<fieldset class="form-group">
-					<legend>Ability/Status Name</legend>
-					<input type="text" class="form-control" placeholder="Ability/Status Name" id="abilityname">
-					<br />
-					<br />
-					<legend>Image</legend>
-					<img width="" height="" id="imageloaded" src="">
-					<br />
-					<form class="range-field my-4 w-25">
-						<input id="imageratio" type="range" min="0.5" max="10" step="0.5" value="1" />
-						<label for="ratiotext">Ratio</label>
-						<input type="text" class="form-control form-control-sm" placeholder="Ratio" id="ratiotext"
-							value=1>
-						<label for="imagewidth">Width</label>
-						<input type="text" class="form-control form-control-sm" placeholder="Width" id="imagewidth"
-							disabled>
-						<label for="imageheight">Height</label>
-						<input type="text" class="form-control form-control-sm" placeholder="Height" id="imageheight"
-							disabled>
-					</form>
-					<input type="text" class="form-control" placeholder="The image url you want to use" id="imageurl">
-					<button type="button" class="btn btn-primary" id="loadimagebutton">Load</button>
-				</fieldset>
-			</div>
-			<div class="col-lg-3">
-				<fieldset class="form-group">
-					<legend>Cooldown</legend>
-					<input type="text" class="form-control" placeholder="Cooldown in seconds" id="cooldown">
-					<br />
-					<br />
-					<legend>Location</legend>
-					<label for="imagex">X (Horizontal)</label>
-					<input type="text" class="form-control form-control-sm" placeholder="Horizontal location X"
-						id="imagex" value="960">
-					<label for="imagey">Y (Vertical)</label>
-					<input type="text" class="form-control form-control-sm" placeholder="Vertical location Y"
-						id="imagey" value="540">
-				</fieldset>
-			</div>
-			<div class="col-lg-3">
-				<fieldset class="form-group">
-					<legend>Duration</legend>
-					<input type="text" class="form-control" placeholder="Duration in seconds" id="duration">
-					<br />
-					<br />
-					<legend>Generate Trigger Export</legend>
-					<button type="button" class="btn btn-primary" id="generatetriggerbutton">Generate</button>
-				</fieldset>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-12 output-anchor d-none">
-				<textarea class="form-control" id="triggeroutput" rows="10"></textarea>
-				<button type="button" class="btn btn-primary" id="clipboardbutton">Copy to
-					clipboard</button>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-12">
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-			</div>
-		</div>
-	</div>
-</body>
-<footer>
-	<div class="footer-copyright text-center py-3">
-		<a href="https://github.com/Zeffuro/SimpleTriggernometryTriggerCreator/"> Find my project at Github</a>
-	</div>
-</footer>
-
+    <body>
+        <div class="container">
+            <br />
+            <br />
+            <br />
+            <h2>Simple Triggernometry Trigger Creator by Zeffuro</h2>
+            <p>
+                Hello there, you can use this page to create a simple aura and
+                get started with Triggernometry or just use this to lookup data
+                from XIVAPI
+            </p>
+            <br />
+            <br />
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="form-group">
+                        <input
+                            type="search"
+                            class="form-control"
+                            placeholder="Search for ability / status"
+                            id="searchquery"
+                        />
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="form-group">
+                        <button
+                            type="button"
+                            class="btn btn-primary"
+                            id="searchbutton"
+                        >
+                            Search
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3">
+                    <fieldset class="form-group">
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input
+                                    id="searchpages"
+                                    class="form-check-input"
+                                    type="checkbox"
+                                    value=""
+                                />
+                                Search all pages
+                            </label>
+                        </div>
+                    </fieldset>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="form-group">
+                        <label for="actionselect">Type</label>
+                        <select
+                            class="form-control form-control-sm"
+                            id="actionselect"
+                        >
+                            <option>Any</option>
+                            <option>Action</option>
+                            <option>Status</option>
+                            <option>Item</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 info-anchor d-none">
+                    <table class="table table-hover">
+                        <thead>
+                            <th scope="col">ID</th>
+                            <th scope="col">Hex ID</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Type</th>
+                            <th scope="col">Icon</th>
+                            <th scope="col">Icon HD</th>
+                            <th scope="col"></th>
+                        </thead>
+                        <tbody class="results-anchor"></tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 details-anchor d-none"></div>
+            </div>
+            <div class="row trigger-anchor d-none">
+                <div class="col-lg-3">
+                    <fieldset class="form-group">
+                        <legend>Trigger Type</legend>
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input
+                                    type="radio"
+                                    class="form-check-input"
+                                    name="triggertype"
+                                    id="triggertypeability"
+                                    value="option1"
+                                    checked=""
+                                />
+                                Ability Trigger
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input
+                                    type="radio"
+                                    class="form-check-input"
+                                    name="triggertype"
+                                    id="triggertypestatus"
+                                    value="option2"
+                                />
+                                Status Trigger (personal buffs etc)
+                            </label>
+                        </div>
+                        <div class="form-check disabled">
+                            <label class="form-check-label">
+                                <input
+                                    type="radio"
+                                    class="form-check-input"
+                                    name="triggertype"
+                                    id="triggertypedot"
+                                    value="option3"
+                                />
+                                Enemy Status Trigger (Damage over Time etc)
+                            </label>
+                        </div>
+                        <legend>Features</legend>
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input
+                                    class="form-check-input"
+                                    type="checkbox"
+                                    value=""
+                                    checked=""
+                                    id="imageenabled"
+                                />
+                                Image Aura
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input
+                                    class="form-check-input"
+                                    type="checkbox"
+                                    value=""
+                                    checked=""
+                                    id="imageoverlayenabled"
+                                />
+                                Image Overlay (only use with default ability
+                                icons)
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input
+                                    class="form-check-input"
+                                    type="checkbox"
+                                    value=""
+                                    checked=""
+                                    id="textenabled"
+                                />
+                                Text Aura
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input
+                                    class="form-check-input"
+                                    type="checkbox"
+                                    value=""
+                                    id="ttsenabled"
+                                />
+                                Text to Speech
+                            </label>
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="col-lg-3">
+                    <fieldset class="form-group">
+                        <legend>Ability/Status Name</legend>
+                        <input
+                            type="text"
+                            class="form-control"
+                            placeholder="Ability/Status Name"
+                            id="abilityname"
+                        />
+                        <br />
+                        <br />
+                        <legend>Image</legend>
+                        <img width="" height="" id="imageloaded" src="" />
+                        <br />
+                        <form class="range-field my-4 w-25">
+                            <input
+                                id="imageratio"
+                                type="range"
+                                min="0.5"
+                                max="10"
+                                step="0.5"
+                                value="1"
+                            />
+                            <label for="ratiotext">Ratio</label>
+                            <input
+                                type="text"
+                                class="form-control form-control-sm"
+                                placeholder="Ratio"
+                                id="ratiotext"
+                                value="1"
+                            />
+                            <label for="imagewidth">Width</label>
+                            <input
+                                type="text"
+                                class="form-control form-control-sm"
+                                placeholder="Width"
+                                id="imagewidth"
+                                disabled
+                            />
+                            <label for="imageheight">Height</label>
+                            <input
+                                type="text"
+                                class="form-control form-control-sm"
+                                placeholder="Height"
+                                id="imageheight"
+                                disabled
+                            />
+                        </form>
+                        <input
+                            type="text"
+                            class="form-control"
+                            placeholder="The image url you want to use"
+                            id="imageurl"
+                        />
+                        <button
+                            type="button"
+                            class="btn btn-primary"
+                            id="loadimagebutton"
+                        >
+                            Load
+                        </button>
+                    </fieldset>
+                </div>
+                <div class="col-lg-3">
+                    <fieldset class="form-group">
+                        <legend>Cooldown</legend>
+                        <input
+                            type="text"
+                            class="form-control"
+                            placeholder="Cooldown in seconds"
+                            id="cooldown"
+                        />
+                        <br />
+                        <br />
+                        <legend>Location</legend>
+                        <label for="imagex">X (Horizontal)</label>
+                        <input
+                            type="text"
+                            class="form-control form-control-sm"
+                            placeholder="Horizontal location X"
+                            id="imagex"
+                            value="960"
+                        />
+                        <label for="imagey">Y (Vertical)</label>
+                        <input
+                            type="text"
+                            class="form-control form-control-sm"
+                            placeholder="Vertical location Y"
+                            id="imagey"
+                            value="540"
+                        />
+                    </fieldset>
+                </div>
+                <div class="col-lg-3">
+                    <fieldset class="form-group">
+                        <legend>Duration</legend>
+                        <input
+                            type="text"
+                            class="form-control"
+                            placeholder="Duration in seconds"
+                            id="duration"
+                        />
+                        <br />
+                        <br />
+                        <legend>Generate Trigger Export</legend>
+                        <button
+                            type="button"
+                            class="btn btn-primary"
+                            id="generatetriggerbutton"
+                        >
+                            Generate
+                        </button>
+                    </fieldset>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 output-anchor d-none">
+                    <textarea
+                        class="form-control"
+                        id="triggeroutput"
+                        rows="10"
+                    ></textarea>
+                    <button
+                        type="button"
+                        class="btn btn-primary"
+                        id="clipboardbutton"
+                    >
+                        Copy to clipboard
+                    </button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                </div>
+            </div>
+        </div>
+    </body>
+    <footer>
+        <div class="footer-copyright text-center py-3">
+            <a
+                href="https://github.com/Zeffuro/SimpleTriggernometryTriggerCreator/"
+            >
+                Find my project at Github</a
+            >
+        </div>
+    </footer>
 </html>
