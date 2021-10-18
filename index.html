@@ -89,6 +89,18 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="form-group">
+                        <input
+                            type="search"
+                            class="form-control form-control-sm"
+                            placeholder="Filtered ID's (comma seperated)"
+                            id="filteredids"
+                        />
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="form-group">
                         <label for="actionselect">Type</label>
                         <select
                             class="form-control form-control-sm"
@@ -98,6 +110,17 @@
                             <option>Action</option>
                             <option>Status</option>
                             <option>Item</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="statusfilter">Status Filter</label>
+                        <select
+                            class="form-control form-control-sm"
+                            id="statusfilter"
+                        >
+                            <option>None</option>
+                            <option>Buffs</option>
+                            <option>Debuffs</option>
                         </select>
                     </div>
                 </div>

@@ -7,8 +7,8 @@ var fetchInit = {
     headers: fetchHeaders,
 };
 
-async function searchXivApi(query, indexes = "", pagination) {
-    let url = `https://xivapi.com/search?string=${query}&indexes=${indexes}`;
+async function searchXivApi(query, indexes = "", filter = "", pagination) {
+    let url = `https://xivapi.com/search?string=${query}&indexes=${indexes}&filters=${filter}`;
     console.log(url);
     let data = await fetch(url).then((response) => response.json());
     let results = data.Results;
@@ -25,6 +25,7 @@ async function searchXivApi(query, indexes = "", pagination) {
 
 async function fetchXivApiUrl(url) {
     let uri = `https://xivapi.com${url}`;
+    console.log(uri);
     return await fetch(uri).then((response) => response.json());
 }
 
@@ -33,8 +34,11 @@ async function searchAbility() {
     let data = await searchXivApi(
         query,
         $("#actionselect").val(),
+        generateFilter(),
         $("#searchpages").prop("checked"),
     );
+    let filteredIds = $("#filteredids").val();
+
     $(".results-anchor").empty();
     $(".details-anchor").empty();
     //$(".info-anchor").empty();
@@ -61,7 +65,17 @@ async function searchAbility() {
                 result.Url
             }" target="_blank">XIVAPI</a></td>
 			</tr>`;
-            $(".results-anchor").append(element);
+
+            let add = true;
+
+            if (
+                filteredIds != "" &&
+                !filteredIds.split(",").includes(result.ID.toString())
+            ) {
+                add = false;
+            }
+
+            if (add) $(".results-anchor").append(element);
         }
     } else {
         $(".info-anchor").append(`<p>No results found for ${query}</p>`);
@@ -201,6 +215,17 @@ function loadImage() {
     });
 
     $("#imageloaded").attr("src", $("#imageurl").val());
+}
+
+function generateFilter() {
+    let filter = $("#statusfilter").val();
+
+    switch (filter) {
+        case "Buffs":
+            return "Category=1";
+        case "Debuffs":
+            return "Category=2";
+    }
 }
 
 function copyTriggerToClipboard() {
