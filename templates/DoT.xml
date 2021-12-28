@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <TriggernometryExport Version="1">
-  <ExportedTrigger Enabled="true" Source="Log" Name="%ability%" Id="513d16cb-1967-42eb-8eb0-b70baea5d552" RegularExpression="1A:[\w-' ]{8}:(?&lt;target&gt;[\w-' ]+) gains the effect of %ability% from (?&lt;player&gt;[\w-' ]+) for (?&lt;duration&gt;[\d+.]+) Seconds" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+  <ExportedTrigger Enabled="true" Source="FFXIVNetwork" Name="%ability%" Id="%uuidv4%" RegularExpression="^26\|.*?\|%spellid%\|(?&lt;buffName&gt;[^\|]+)\|(?&lt;duration&gt;[\d]+)\.[\d]+\|(?&lt;casterID&gt;[^\|]+)\|(?&lt;casterName&gt;[^\|]+)\|[^\|]+\|[^\|]+\|(?&lt;buffStack&gt;[^\|]+)\|" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
     <Actions>
       <Action OrderNumber="1" AuraImageMode="Zoom" TextAuraAlignment="MiddleCenter" TextAuraFontSize="%fontsize%" TextAuraEffect="None" Enabled="%imageenabled%" ActionType="Aura" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" AuraName="%ability%-Image-Aura" AuraImage="%imageurl%" AuraXIniExpression="%x%" AuraYIniExpression="%y%" AuraWIniExpression="%width%" AuraHIniExpression="%width%" AuraOIniExpression="100" AuraTTLTickExpression="${duration}-${_since}" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
         <Condition Enabled="false" Grouping="Or" />
@@ -16,7 +16,7 @@
       </Action>
     </Actions>
     <Condition Enabled="true" Grouping="Or">
-      <ConditionSingle Enabled="true" ExpressionL="${player}" ExpressionTypeL="String" ExpressionR="${_ffxivparty[1].name}" ExpressionTypeR="String" ConditionType="StringEqualCase" />
+      <ConditionSingle Enabled="true" ExpressionL="${casterName}" ExpressionTypeL="String" ExpressionR="${_ffxivplayer}" ExpressionTypeR="String" ConditionType="StringEqualCase" />
     </Condition>
     <Conditions />
   </ExportedTrigger>

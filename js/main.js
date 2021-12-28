@@ -29,6 +29,15 @@ async function fetchXivApiUrl(url) {
     return await fetch(uri).then((response) => response.json());
 }
 
+function uuidv4() {
+    return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, (c) =>
+        (
+            c ^
+            (crypto.getRandomValues(new Uint8Array(1))[0] & (15 >> (c / 4)))
+        ).toString(16),
+    );
+}
+
 async function searchAbility() {
     let query = $("[id=searchquery]").val();
     let data = await searchXivApi(
@@ -108,6 +117,7 @@ async function getDetails(url, urlType) {
     }
 
     $("#abilityname").val(data.Name);
+    $("#spellid").val(data.ID.toString(16).toUpperCase());
     let cooldown = data.Recast100ms / 10;
     if (data.Recast100ms == null) {
         cooldown = "";
@@ -127,7 +137,9 @@ async function getDetails(url, urlType) {
         $("#duration").val("");
     }
 
-    $("#imageurl").val(`https://xivapi.com${data.Icon}`);
+    $("#imageurl").val(
+        `https://xivapi.com${data.Icon.replace(".png", "_hr1.png")}`,
+    );
 
     currentRatio = 1;
     $("#ratiotext").val(currentRatio);
@@ -165,7 +177,9 @@ async function generateTrigger() {
     let overlaywidth = 48 * currentRatio;
     let overlayheight = 48 * currentRatio;
 
+    template = template.replace(/%uuidv4%/g, uuidv4());
     template = template.replace(/%ability%/g, $("#abilityname").val());
+    template = template.replace(/%spellid%/g, $("#spellid").val());
     template = template.replace(
         /%imageenabled%/g,
         capitalize($("#imageenabled").prop("checked").toString()),
