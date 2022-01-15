@@ -66,6 +66,7 @@ async function searchAbility() {
                     ".png",
                     "_hr1.png",
                 )}'></td>
+				<td>${parseInt(result.Icon.split("/")[3].replace(".png", ""), 10)}</td>
 				<td><button type="button" class="btn btn-primary" id="detailsbutton" data-url="${
                     result.Url
                 }" data-urltype="${
