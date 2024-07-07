@@ -17,12 +17,18 @@ jobs:
       uses: actions/checkout@v4 # Updated to use Node.js 20
 
     - name: Create necessary directories
-      run: mkdir -p cn kr
+      run: mkdir -p csv
 
     - name: Get latest commit hash for Global Action.csv
-      id: get_kr_action_commit
+      id: get_global_action_commit
       run: |
         COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/Action.csv | jq -r '.[0].sha')
+        echo "COMMIT_HASH_GLOBAL_ACTION=$COMMIT_HASH" >> $GITHUB_ENV
+
+    - name: Get latest commit hash for Global Item.csv
+      id: get_global_item_commit
+      run: |
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/Item.csv | jq -r '.[0].sha')
         echo "COMMIT_HASH_GLOBAL_ACTION=$COMMIT_HASH" >> $GITHUB_ENV
 
     - name: Get latest commit hash for Global Status.csv
@@ -34,15 +40,23 @@ jobs:
     - name: Get local commit hashes
       id: get_local_commit_hashes
       run: |
-        LOCAL_COMMIT_HASH_GLOBAL_ACTION=$(git log -n 1 --pretty=format:%H -- kr/Action.csv 2>/dev/null || echo "no_file")
-        echo "LOCAL_COMMIT_HASH_GLOBAL_ACTION=$LOCAL_COMMIT_HASH_KR_ACTION" >> $GITHUB_ENV
-        LOCAL_COMMIT_HASH_GLOBAL_STATUS=$(git log -n 1 --pretty=format:%H -- kr/Status.csv 2>/dev/null || echo "no_file")
-        echo "LOCAL_COMMIT_HASH_GLOBAL_STATUS=$LOCAL_COMMIT_HASH_KR_STATUS" >> $GITHUB_ENV
+        LOCAL_COMMIT_HASH_GLOBAL_ACTION=$(git log -n 1 --pretty=format:%H -- csv/Action.csv 2>/dev/null || echo "no_file")
+        echo "LOCAL_COMMIT_HASH_GLOBAL_ACTION=$LOCAL_COMMIT_HASH_GLOBAL_ACTION" >> $GITHUB_ENV
+        LOCAL_COMMIT_HASH_GLOBAL_ACTION=$(git log -n 1 --pretty=format:%H -- csv/Item.csv 2>/dev/null || echo "no_file")
+        echo "LOCAL_COMMIT_HASH_GLOBAL_ITEM=$LOCAL_COMMIT_HASH_GLOBAL_ITEM" >> $GITHUB_ENV
+        LOCAL_COMMIT_HASH_GLOBAL_STATUS=$(git log -n 1 --pretty=format:%H -- csv/Status.csv 2>/dev/null || echo "no_file")
+        echo "LOCAL_COMMIT_HASH_GLOBAL_STATUS=$LOCAL_COMMIT_HASH_GLOBAL_STATUS" >> $GITHUB_ENV
 
     - name: Check if Global Action.csv has changed
       run: |
         if [ "${{ env.LOCAL_COMMIT_HASH_GLOBAL_ACTION }}" != "${{ env.COMMIT_HASH_GLOBAL_ACTION }}" ]; then
           curl -o csv/Action.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Action.csv
+        fi
+
+    - name: Check if Global Item.csv has changed
+      run: |
+        if [ "${{ env.LOCAL_COMMIT_HASH_GLOBAL_ITEM }}" != "${{ env.COMMIT_HASH_GLOBAL_ITEM }}" ]; then
+          curl -o csv/Item.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Item.csv
         fi
 
     - name: Check if Global Status.csv has changed
