@@ -15229,7 +15229,7 @@
     },
     {
         "ID": "3808",
-        "Name": null
+        "Name": "Directional Disregard"
     },
     {
         "ID": "3809",
@@ -15409,11 +15409,11 @@
     },
     {
         "ID": "3853",
-        "Name": "Tengetsu"
+        "Name": "Tengentsu"
     },
     {
         "ID": "3854",
-        "Name": "Tengetsu's Foresight"
+        "Name": "Tengentsu's Foresight"
     },
     {
         "ID": "3855",
@@ -15657,7 +15657,7 @@
     },
     {
         "ID": "3915",
-        "Name": null
+        "Name": "Lovely Poison"
     },
     {
         "ID": "3916",
@@ -15665,19 +15665,19 @@
     },
     {
         "ID": "3917",
-        "Name": null
+        "Name": "Infatuated"
     },
     {
         "ID": "3918",
-        "Name": null
+        "Name": "Head Over Heels"
     },
     {
         "ID": "3919",
-        "Name": null
+        "Name": "Hopeless Devotion"
     },
     {
         "ID": "3920",
-        "Name": null
+        "Name": "Fatal Attraction"
     },
     {
         "ID": "3921",
@@ -15737,7 +15737,7 @@
     },
     {
         "ID": "3935",
-        "Name": null
+        "Name": "Poison Resistance Down II"
     },
     {
         "ID": "3936",
@@ -16081,7 +16081,7 @@
     },
     {
         "ID": "4021",
-        "Name": null
+        "Name": "Doped"
     },
     {
         "ID": "4022",
@@ -16569,7 +16569,7 @@
     },
     {
         "ID": "4143",
-        "Name": null
+        "Name": "Top of the Hive"
     },
     {
         "ID": "4144",
