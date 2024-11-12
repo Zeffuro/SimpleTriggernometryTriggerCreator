@@ -78033,7 +78033,7 @@
     },
     {
         "ID": 19509,
-        "Name": "_rsv_19509_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Spark"
     },
     {
         "ID": 19510,
@@ -78913,11 +78913,11 @@
     },
     {
         "ID": 19729,
-        "Name": "_rsv_19729_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Lightning Vortex"
     },
     {
         "ID": 19730,
-        "Name": "_rsv_19730_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Thundering"
     },
     {
         "ID": 19731,
@@ -80129,11 +80129,11 @@
     },
     {
         "ID": 20033,
-        "Name": "_rsv_20033_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Soulshock"
     },
     {
         "ID": 20034,
-        "Name": "_rsv_20034_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Impact"
     },
     {
         "ID": 20035,
@@ -80165,7 +80165,7 @@
     },
     {
         "ID": 20042,
-        "Name": null
+        "Name": "Dying Memory"
     },
     {
         "ID": 20043,
@@ -116245,7 +116245,7 @@
     },
     {
         "ID": 29062,
-        "Name": "\u25cf\u30db\u30fc\u30ea\u30fc\u30b9\u30d4\u30ea\u30c3\u30c8"
+        "Name": "Holy Spirit"
     },
     {
         "ID": 29063,
@@ -116305,7 +116305,7 @@
     },
     {
         "ID": 29077,
-        "Name": "\u25cf\u30a4\u30f3\u30ca\u30fc\u30ab\u30aa\u30b9"
+        "Name": "Inner Chaos"
     },
     {
         "ID": 29078,
@@ -118629,7 +118629,7 @@
     },
     {
         "ID": 29658,
-        "Name": "\u25cf\u30bc\u30ce\u30b0\u30ed\u30b7\u30fc"
+        "Name": "Xenoglossy"
     },
     {
         "ID": 29659,
@@ -118861,7 +118861,7 @@
     },
     {
         "ID": 29716,
-        "Name": "\u9023\u74b0\u8a08"
+        "Name": "Chain Stratagem"
     },
     {
         "ID": 29717,
@@ -121413,7 +121413,7 @@
     },
     {
         "ID": 30354,
-        "Name": null
+        "Name": "World Shatter"
     },
     {
         "ID": 30355,
@@ -121669,7 +121669,7 @@
     },
     {
         "ID": 30418,
-        "Name": null
+        "Name": "Tyranny's Grasp"
     },
     {
         "ID": 30419,
@@ -122017,7 +122017,7 @@
     },
     {
         "ID": 30505,
-        "Name": null
+        "Name": "Divide and Conquer"
     },
     {
         "ID": 30506,
@@ -122457,7 +122457,7 @@
     },
     {
         "ID": 30615,
-        "Name": null
+        "Name": "\u25cf\u6c34\u30a8\u30ea\u30a2\u751f\u6210"
     },
     {
         "ID": 30616,
@@ -123581,11 +123581,11 @@
     },
     {
         "ID": 30896,
-        "Name": null
+        "Name": "Fire III"
     },
     {
         "ID": 30897,
-        "Name": null
+        "Name": "Blizzard III"
     },
     {
         "ID": 30898,
@@ -148469,7 +148469,7 @@
     },
     {
         "ID": 37118,
-        "Name": "_rsv_37118_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Fulminous Field"
     },
     {
         "ID": 37119,
@@ -148673,7 +148673,7 @@
     },
     {
         "ID": 37169,
-        "Name": "Right Wingblade"
+        "Name": "attack"
     },
     {
         "ID": 37170,
@@ -148689,11 +148689,11 @@
     },
     {
         "ID": 37173,
-        "Name": null
+        "Name": "Bosom Brook"
     },
     {
         "ID": 37174,
-        "Name": null
+        "Name": "Bosom Brook"
     },
     {
         "ID": 37175,
@@ -152169,7 +152169,7 @@
     },
     {
         "ID": 38043,
-        "Name": "_rsv_38043_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Thunder"
     },
     {
         "ID": 38044,
@@ -153361,55 +153361,55 @@
     },
     {
         "ID": 38341,
-        "Name": "_rsv_38341_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Electrope Edge"
     },
     {
         "ID": 38342,
-        "Name": "_rsv_38342_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Witchgleam"
     },
     {
         "ID": 38343,
-        "Name": "_rsv_38343_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Witchgleam"
     },
     {
         "ID": 38344,
-        "Name": "_rsv_38344_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Symphony Fantastique"
     },
     {
         "ID": 38345,
-        "Name": "_rsv_38345_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Spark"
     },
     {
         "ID": 38346,
-        "Name": "_rsv_38346_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Spark II"
     },
     {
         "ID": 38347,
-        "Name": "_rsv_38347_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Spark II"
     },
     {
         "ID": 38348,
-        "Name": "_rsv_38348_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Spark III"
     },
     {
         "ID": 38349,
-        "Name": "_rsv_38349_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Unmitigated Explosion"
     },
     {
         "ID": 38350,
-        "Name": "_rsv_38350_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Lightning Cage"
     },
     {
         "ID": 38351,
-        "Name": "_rsv_38351_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Lightning Cage"
     },
     {
         "ID": 38352,
-        "Name": "_rsv_38352_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Four Star"
     },
     {
         "ID": 38353,
-        "Name": "_rsv_38353_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Eight Star"
     },
     {
         "ID": 38354,
@@ -153421,83 +153421,83 @@
     },
     {
         "ID": 38356,
-        "Name": "_rsv_38356_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Ion Cluster"
     },
     {
         "ID": 38357,
-        "Name": "_rsv_38357_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Ionic Discharge"
     },
     {
         "ID": 38358,
-        "Name": "_rsv_38358_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Electron Stream"
     },
     {
         "ID": 38359,
-        "Name": "_rsv_38359_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Electron Stream"
     },
     {
         "ID": 38360,
-        "Name": "_rsv_38360_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Positron Stream"
     },
     {
         "ID": 38361,
-        "Name": "_rsv_38361_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Negatron Stream"
     },
     {
         "ID": 38362,
-        "Name": "_rsv_38362_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Axe Current"
     },
     {
         "ID": 38363,
-        "Name": "_rsv_38363_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Spinning Current"
     },
     {
         "ID": 38364,
-        "Name": "_rsv_38364_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Roundhouse Current"
     },
     {
         "ID": 38365,
-        "Name": "_rsv_38365_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Collider Current"
     },
     {
         "ID": 38366,
-        "Name": "_rsv_38366_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Witch Hunt"
     },
     {
         "ID": 38367,
-        "Name": "_rsv_38367_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Witch Hunt"
     },
     {
         "ID": 38368,
-        "Name": "_rsv_38368_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Widening Witch Hunt"
     },
     {
         "ID": 38369,
-        "Name": "_rsv_38369_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Narrowing Witch Hunt"
     },
     {
         "ID": 38370,
-        "Name": "_rsv_38370_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Lightning Vortex"
     },
     {
         "ID": 38371,
-        "Name": "_rsv_38371_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Thundering"
     },
     {
         "ID": 38372,
-        "Name": "_rsv_38372_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Witch Hunt"
     },
     {
         "ID": 38373,
-        "Name": "_rsv_38373_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Electrifying Witch Hunt"
     },
     {
         "ID": 38374,
-        "Name": "_rsv_38374_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Electrifying Witch Hunt"
     },
     {
         "ID": 38375,
-        "Name": "_rsv_38375_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Forked Lightning"
     },
     {
         "ID": 38376,
@@ -153513,7 +153513,7 @@
     },
     {
         "ID": 38379,
-        "Name": "_rsv_38379_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Electray"
     },
     {
         "ID": 38380,
@@ -153541,223 +153541,223 @@
     },
     {
         "ID": 38386,
-        "Name": "_rsv_38386_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Cross Tail Switch"
     },
     {
         "ID": 38387,
-        "Name": "_rsv_38387_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Cross Tail Switch"
     },
     {
         "ID": 38388,
-        "Name": "_rsv_38388_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Cross Tail Switch"
     },
     {
         "ID": 38389,
-        "Name": "_rsv_38389_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sabertail"
     },
     {
         "ID": 38390,
-        "Name": "_rsv_38390_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sabertail"
     },
     {
         "ID": 38391,
-        "Name": "_rsv_38391_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Blaze"
     },
     {
         "ID": 38392,
-        "Name": "_rsv_38392_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Blaze"
     },
     {
         "ID": 38393,
-        "Name": "_rsv_38393_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sword Quiver"
     },
     {
         "ID": 38394,
-        "Name": "_rsv_38394_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sword Quiver"
     },
     {
         "ID": 38395,
-        "Name": "_rsv_38395_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sword Quiver"
     },
     {
         "ID": 38396,
-        "Name": "_rsv_38396_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sword Quiver"
     },
     {
         "ID": 38397,
-        "Name": "_rsv_38397_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sword Quiver"
     },
     {
         "ID": 38398,
-        "Name": "_rsv_38398_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sword Quiver"
     },
     {
         "ID": 38399,
-        "Name": "_rsv_38399_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sword Quiver"
     },
     {
         "ID": 38400,
-        "Name": "_rsv_38400_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Burst"
     },
     {
         "ID": 38401,
-        "Name": "_rsv_38401_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Laceration"
     },
     {
         "ID": 38402,
-        "Name": "_rsv_38402_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Aetherial Conversion"
     },
     {
         "ID": 38403,
-        "Name": "_rsv_38403_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Aetherial Conversion"
     },
     {
         "ID": 38404,
-        "Name": "_rsv_38404_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Aetherial Conversion"
     },
     {
         "ID": 38405,
-        "Name": "_rsv_38405_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Aetherial Conversion"
     },
     {
         "ID": 38406,
-        "Name": "_rsv_38406_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Tail Thrust"
     },
     {
         "ID": 38407,
-        "Name": "_rsv_38407_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Tail Thrust"
     },
     {
         "ID": 38408,
-        "Name": "_rsv_38408_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Tail Thrust"
     },
     {
         "ID": 38409,
-        "Name": "_rsv_38409_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Tail Thrust"
     },
     {
         "ID": 38410,
-        "Name": "_rsv_38410_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Tail Thrust"
     },
     {
         "ID": 38411,
-        "Name": "_rsv_38411_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Tail Thrust"
     },
     {
         "ID": 38412,
-        "Name": "_rsv_38412_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Tail Thrust"
     },
     {
         "ID": 38413,
-        "Name": "_rsv_38413_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Tail Thrust"
     },
     {
         "ID": 38414,
-        "Name": "_rsv_38414_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Switch of Flame"
     },
     {
         "ID": 38415,
-        "Name": "_rsv_38415_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Switch of Tides"
     },
     {
         "ID": 38416,
-        "Name": "_rsv_38416_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Special"
     },
     {
         "ID": 38417,
-        "Name": "_rsv_38417_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Special"
     },
     {
         "ID": 38418,
-        "Name": "_rsv_38418_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Special"
     },
     {
         "ID": 38419,
-        "Name": "_rsv_38419_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Special"
     },
     {
         "ID": 38420,
-        "Name": "_rsv_38420_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Flame Slash"
     },
     {
         "ID": 38421,
-        "Name": "_rsv_38421_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Flame Slash"
     },
     {
         "ID": 38422,
-        "Name": "_rsv_38422_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Raining Swords"
     },
     {
         "ID": 38423,
-        "Name": "_rsv_38423_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Raining Swords"
     },
     {
         "ID": 38424,
-        "Name": "_rsv_38424_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Unmitigated Explosion"
     },
     {
         "ID": 38425,
-        "Name": "_rsv_38425_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Chain Lightning"
     },
     {
         "ID": 38426,
-        "Name": "_rsv_38426_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Chain Lightning"
     },
     {
         "ID": 38427,
-        "Name": "_rsv_38427_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Chain Lightning"
     },
     {
         "ID": 38428,
-        "Name": "_rsv_38428_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Chain Lightning"
     },
     {
         "ID": 38429,
-        "Name": "_rsv_38429_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Chain Lightning"
     },
     {
         "ID": 38430,
-        "Name": "_rsv_38430_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Mustard Bomb"
     },
     {
         "ID": 38431,
-        "Name": "_rsv_38431_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Mustard Bomb"
     },
     {
         "ID": 38432,
-        "Name": "_rsv_38432_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Kindling Cauldron"
     },
     {
         "ID": 38433,
-        "Name": "_rsv_38433_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Mustard Bomb"
     },
     {
         "ID": 38434,
-        "Name": "_rsv_38434_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Ion Cluster"
     },
     {
         "ID": 38435,
-        "Name": "_rsv_38435_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Twilight Sabbath"
     },
     {
         "ID": 38436,
-        "Name": "_rsv_38436_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Cannon"
     },
     {
         "ID": 38437,
-        "Name": "_rsv_38437_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Positron Stream"
     },
     {
         "ID": 38438,
-        "Name": "_rsv_38438_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Negatron Stream"
     },
     {
         "ID": 38439,
-        "Name": "_rsv_38439_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Thundering"
     },
     {
         "ID": 38440,
-        "Name": "_rsv_38440_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Soaring Soulpress"
     },
     {
         "ID": 38441,
@@ -153769,35 +153769,35 @@
     },
     {
         "ID": 38443,
-        "Name": "_rsv_38443_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Concentrated Burst"
     },
     {
         "ID": 38444,
-        "Name": "_rsv_38444_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Scattered Burst"
     },
     {
         "ID": 38445,
-        "Name": "_rsv_38445_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Spark"
     },
     {
         "ID": 38446,
-        "Name": "_rsv_38446_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Flare"
     },
     {
         "ID": 38447,
-        "Name": "_rsv_38447_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Azure Thunder"
     },
     {
         "ID": 38448,
-        "Name": "_rsv_38448_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Fire"
     },
     {
         "ID": 38449,
-        "Name": "_rsv_38449_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Fire"
     },
     {
         "ID": 38450,
-        "Name": "_rsv_38450_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Wicked Thunder"
     },
     {
         "ID": 38451,
@@ -155053,7 +155053,7 @@
     },
     {
         "ID": 38764,
-        "Name": "Overpower"
+        "Name": "Power Wave"
     },
     {
         "ID": 38765,
@@ -155153,11 +155153,11 @@
     },
     {
         "ID": 38789,
-        "Name": "_rsv_38789_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Witchgleam"
     },
     {
         "ID": 38790,
-        "Name": "_rsv_38790_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Witchgleam"
     },
     {
         "ID": 38791,
@@ -156465,19 +156465,19 @@
     },
     {
         "ID": 39117,
-        "Name": "_rsv_39117_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Fulminous Field"
     },
     {
         "ID": 39118,
-        "Name": "_rsv_39118_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Conduction Point"
     },
     {
         "ID": 39119,
-        "Name": "_rsv_39119_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Forked Fissures"
     },
     {
         "ID": 39120,
-        "Name": "_rsv_39120_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Cannonbolt"
     },
     {
         "ID": 39121,
@@ -156489,7 +156489,7 @@
     },
     {
         "ID": 39123,
-        "Name": "_rsv_39123_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Electrope Transplant"
     },
     {
         "ID": 39124,
@@ -156661,11 +156661,11 @@
     },
     {
         "ID": 39166,
-        "Name": "Hunter's Snap"
+        "Name": "Bloodcoil"
     },
     {
         "ID": 39167,
-        "Name": "Swiftskin's Coil"
+        "Name": "Sanguine Feast"
     },
     {
         "ID": 39168,
@@ -156709,7 +156709,7 @@
     },
     {
         "ID": 39178,
-        "Name": "\u98db\u86c7\u4e71\u5c3e\u6483"
+        "Name": "Uncoiled Twinblood"
     },
     {
         "ID": 39179,
@@ -157025,15 +157025,15 @@
     },
     {
         "ID": 39257,
-        "Name": "_rsv_39257_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Positron Stream"
     },
     {
         "ID": 39258,
-        "Name": "_rsv_39258_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Negatron Stream"
     },
     {
         "ID": 39259,
-        "Name": "_rsv_39259_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Soaring Soulpress"
     },
     {
         "ID": 39260,
@@ -157185,7 +157185,7 @@
     },
     {
         "ID": 39297,
-        "Name": "_rsv_39297_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Unmitigated Explosion"
     },
     {
         "ID": 39298,
@@ -158433,11 +158433,11 @@
     },
     {
         "ID": 39609,
-        "Name": "_rsv_39609_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Midnight Sabbath"
     },
     {
         "ID": 39610,
-        "Name": "_rsv_39610_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Sunrise Sabbath"
     },
     {
         "ID": 39611,
@@ -158469,7 +158469,7 @@
     },
     {
         "ID": 39618,
-        "Name": "_rsv_39618_-1_1_0_0_SE2DC5B04_EE2DC5B04"
+        "Name": "Witchgleam"
     },
     {
         "ID": 39619,
@@ -159189,7 +159189,7 @@
     },
     {
         "ID": 39798,
-        "Name": null
+        "Name": "Baleful Breath"
     },
     {
         "ID": 39799,
@@ -159441,7 +159441,7 @@
     },
     {
         "ID": 39861,
-        "Name": "Overpower"
+        "Name": "Power Wave"
     },
     {
         "ID": 39862,
@@ -159489,11 +159489,11 @@
     },
     {
         "ID": 39873,
-        "Name": null
+        "Name": "Great Whirlwind"
     },
     {
         "ID": 39874,
-        "Name": null
+        "Name": "Great Whirlwind"
     },
     {
         "ID": 39875,
@@ -159685,7 +159685,7 @@
     },
     {
         "ID": 39922,
-        "Name": null
+        "Name": "Baleful Breath"
     },
     {
         "ID": 39923,
@@ -159693,15 +159693,15 @@
     },
     {
         "ID": 39924,
-        "Name": null
+        "Name": "Dance of the Incomplete"
     },
     {
         "ID": 39925,
-        "Name": null
+        "Name": "the Voice of Thunder"
     },
     {
         "ID": 39926,
-        "Name": null
+        "Name": "Aratama"
     },
     {
         "ID": 39927,
@@ -159709,7 +159709,7 @@
     },
     {
         "ID": 39928,
-        "Name": null
+        "Name": "State of Shock"
     },
     {
         "ID": 39929,
@@ -159717,87 +159717,87 @@
     },
     {
         "ID": 39930,
-        "Name": null
+        "Name": "Fire and Lightning"
     },
     {
         "ID": 39931,
-        "Name": null
+        "Name": "Heavenly Strike"
     },
     {
         "ID": 39932,
-        "Name": null
+        "Name": "Sweep the Leg"
     },
     {
         "ID": 39933,
-        "Name": null
+        "Name": "Storm Pulse"
     },
     {
         "ID": 39934,
-        "Name": null
+        "Name": "Distant Clap"
     },
     {
         "ID": 39935,
-        "Name": null
+        "Name": "Fire and Lightning"
     },
     {
         "ID": 39936,
-        "Name": null
+        "Name": "Steel Claw"
     },
     {
         "ID": 39937,
-        "Name": null
+        "Name": "State of Shock"
     },
     {
         "ID": 39938,
-        "Name": null
+        "Name": "Clutch"
     },
     {
         "ID": 39939,
-        "Name": null
+        "Name": "Highest Stakes"
     },
     {
         "ID": 39940,
-        "Name": null
+        "Name": "Highest Stakes"
     },
     {
         "ID": 39941,
-        "Name": null
+        "Name": "Answer on High"
     },
     {
         "ID": 39942,
-        "Name": null
+        "Name": "Hundredfold Havoc"
     },
     {
         "ID": 39943,
-        "Name": null
+        "Name": "Hundredfold Havoc"
     },
     {
         "ID": 39944,
-        "Name": null
+        "Name": "Bombogenesis"
     },
     {
         "ID": 39945,
-        "Name": null
+        "Name": "Gale Force"
     },
     {
         "ID": 39946,
-        "Name": null
+        "Name": "Vacuum Claw"
     },
     {
         "ID": 39947,
-        "Name": null
+        "Name": "Vacuum Blade"
     },
     {
         "ID": 39948,
-        "Name": null
+        "Name": "Ominous Wind"
     },
     {
         "ID": 39949,
-        "Name": null
+        "Name": "Ominous Wind"
     },
     {
         "ID": 39950,
-        "Name": null
+        "Name": "Unrelenting Anguish"
     },
     {
         "ID": 39951,
@@ -159809,59 +159809,59 @@
     },
     {
         "ID": 39953,
-        "Name": null
+        "Name": "Aratama"
     },
     {
         "ID": 39954,
-        "Name": null
+        "Name": "Imperial Guard"
     },
     {
         "ID": 39955,
-        "Name": null
+        "Name": "Imperial Guard"
     },
     {
         "ID": 39956,
-        "Name": null
+        "Name": "Sweep the Leg"
     },
     {
         "ID": 39957,
-        "Name": null
+        "Name": "Sweep the Leg"
     },
     {
         "ID": 39958,
-        "Name": null
+        "Name": "Aratama"
     },
     {
         "ID": 39959,
-        "Name": null
+        "Name": "the Voice of Thunder"
     },
     {
         "ID": 39960,
-        "Name": null
+        "Name": "Aratama"
     },
     {
         "ID": 39961,
-        "Name": null
+        "Name": "the Roar of Thunder"
     },
     {
         "ID": 39962,
-        "Name": null
+        "Name": "White Herald"
     },
     {
         "ID": 39963,
-        "Name": null
+        "Name": "Fell Swoop"
     },
     {
         "ID": 39964,
-        "Name": null
+        "Name": "Storm Pulse"
     },
     {
         "ID": 39965,
-        "Name": null
+        "Name": "Aratama"
     },
     {
         "ID": 39966,
-        "Name": null
+        "Name": "the Roar of Thunder"
     },
     {
         "ID": 39967,
@@ -159873,7 +159873,7 @@
     },
     {
         "ID": 39969,
-        "Name": null
+        "Name": "Storm Pulse"
     },
     {
         "ID": 39970,
@@ -160217,7 +160217,7 @@
     },
     {
         "ID": 40055,
-        "Name": null
+        "Name": "Fire"
     },
     {
         "ID": 40056,
@@ -162241,35 +162241,35 @@
     },
     {
         "ID": 40561,
-        "Name": null
+        "Name": "Toxic Spit"
     },
     {
         "ID": 40562,
-        "Name": null
+        "Name": "Toxic Spit"
     },
     {
         "ID": 40563,
-        "Name": null
+        "Name": "Critical Bite"
     },
     {
         "ID": 40564,
-        "Name": null
+        "Name": "Might of the Quill"
     },
     {
         "ID": 40565,
-        "Name": null
+        "Name": "Keen Analysis"
     },
     {
         "ID": 40566,
-        "Name": null
+        "Name": "Ensnare"
     },
     {
         "ID": 40567,
-        "Name": null
+        "Name": "Turali Will"
     },
     {
         "ID": 40568,
-        "Name": null
+        "Name": "Piercing Insight"
     },
     {
         "ID": 40569,
@@ -162281,47 +162281,47 @@
     },
     {
         "ID": 40571,
-        "Name": null
+        "Name": "Candescent Ray"
     },
     {
         "ID": 40572,
-        "Name": null
+        "Name": "Candescent Ray"
     },
     {
         "ID": 40573,
-        "Name": null
+        "Name": "Tricera Snare"
     },
     {
         "ID": 40574,
-        "Name": null
+        "Name": "Tricera Snare"
     },
     {
         "ID": 40575,
-        "Name": null
+        "Name": "Firestorm"
     },
     {
         "ID": 40576,
-        "Name": null
+        "Name": "Firestorm"
     },
     {
         "ID": 40577,
-        "Name": null
+        "Name": "Searing Swell"
     },
     {
         "ID": 40578,
-        "Name": null
+        "Name": "Searing Swell"
     },
     {
         "ID": 40579,
-        "Name": null
+        "Name": "Searing Swell"
     },
     {
         "ID": 40580,
-        "Name": null
+        "Name": "Flame Blast"
     },
     {
         "ID": 40581,
-        "Name": null
+        "Name": "Aethercall"
     },
     {
         "ID": 40582,
@@ -162329,11 +162329,11 @@
     },
     {
         "ID": 40583,
-        "Name": null
+        "Name": "Regenerate"
     },
     {
         "ID": 40584,
-        "Name": null
+        "Name": "Primordial Roar"
     },
     {
         "ID": 40585,
@@ -162341,127 +162341,127 @@
     },
     {
         "ID": 40586,
-        "Name": null
+        "Name": "Razing Roar"
     },
     {
         "ID": 40587,
-        "Name": null
+        "Name": "Fireflow"
     },
     {
         "ID": 40588,
-        "Name": null
+        "Name": "Fireflow"
     },
     {
         "ID": 40589,
-        "Name": null
+        "Name": "Fireflow"
     },
     {
         "ID": 40590,
-        "Name": null
+        "Name": "Burning Bolt"
     },
     {
         "ID": 40591,
-        "Name": null
+        "Name": "Burning Bolt"
     },
     {
         "ID": 40592,
-        "Name": null
+        "Name": "Fire II"
     },
     {
         "ID": 40593,
-        "Name": null
+        "Name": "Hydroelectric Shock"
     },
     {
         "ID": 40594,
-        "Name": null
+        "Name": "Levinfang"
     },
     {
         "ID": 40595,
-        "Name": null
+        "Name": "Electrify"
     },
     {
         "ID": 40596,
-        "Name": null
+        "Name": "Burning Ward"
     },
     {
         "ID": 40597,
-        "Name": null
+        "Name": "Scorched Earth"
     },
     {
         "ID": 40598,
-        "Name": null
+        "Name": "Scorched Earth"
     },
     {
         "ID": 40599,
-        "Name": null
+        "Name": "Plain Pound"
     },
     {
         "ID": 40600,
-        "Name": null
+        "Name": "Tremblor"
     },
     {
         "ID": 40601,
-        "Name": null
+        "Name": "Earthquake"
     },
     {
         "ID": 40602,
-        "Name": null
+        "Name": "Straight Punch"
     },
     {
         "ID": 40603,
-        "Name": null
+        "Name": "Leporine Loaf"
     },
     {
         "ID": 40604,
-        "Name": null
+        "Name": "Crater Carve"
     },
     {
         "ID": 40605,
-        "Name": null
+        "Name": "Crater Carve"
     },
     {
         "ID": 40606,
-        "Name": null
+        "Name": "Leaping Earth"
     },
     {
         "ID": 40607,
-        "Name": null
+        "Name": "Boulder Dance"
     },
     {
         "ID": 40608,
-        "Name": null
+        "Name": "Boulder Dance"
     },
     {
         "ID": 40609,
-        "Name": null
+        "Name": "Boulder Dance"
     },
     {
         "ID": 40610,
-        "Name": null
+        "Name": "Beastly Roar"
     },
     {
         "ID": 40611,
-        "Name": null
+        "Name": "Rock Blast"
     },
     {
         "ID": 40612,
-        "Name": null
+        "Name": "Raging Claw"
     },
     {
         "ID": 40613,
-        "Name": null
+        "Name": "Raging Claw"
     },
     {
         "ID": 40614,
-        "Name": null
+        "Name": "Raging Claw"
     },
     {
         "ID": 40615,
-        "Name": null
+        "Name": "Jagged Edge"
     },
     {
         "ID": 40616,
-        "Name": null
+        "Name": "Turali Stone IV"
     },
     {
         "ID": 40617,
@@ -162469,11 +162469,11 @@
     },
     {
         "ID": 40618,
-        "Name": null
+        "Name": "Sonic Howl"
     },
     {
         "ID": 40619,
-        "Name": null
+        "Name": "Slabber"
     },
     {
         "ID": 40620,
@@ -162493,23 +162493,23 @@
     },
     {
         "ID": 40624,
-        "Name": null
+        "Name": "Caber Toss"
     },
     {
         "ID": 40625,
-        "Name": null
+        "Name": "Line Voltage"
     },
     {
         "ID": 40626,
-        "Name": null
+        "Name": "Cell Shock"
     },
     {
         "ID": 40627,
-        "Name": null
+        "Name": "Line Voltage"
     },
     {
         "ID": 40628,
-        "Name": null
+        "Name": "Divine Dominion"
     },
     {
         "ID": 40629,
@@ -162517,15 +162517,15 @@
     },
     {
         "ID": 40630,
-        "Name": null
+        "Name": "Gore"
     },
     {
         "ID": 40631,
-        "Name": null
+        "Name": "Sparking Fissure"
     },
     {
         "ID": 40632,
-        "Name": null
+        "Name": "Sparking Fissure"
     },
     {
         "ID": 40633,
@@ -162533,75 +162533,75 @@
     },
     {
         "ID": 40634,
-        "Name": null
+        "Name": "Electrify"
     },
     {
         "ID": 40635,
-        "Name": null
+        "Name": "Electrical Overload"
     },
     {
         "ID": 40636,
-        "Name": null
+        "Name": "Lightning Storm"
     },
     {
         "ID": 40637,
-        "Name": null
+        "Name": "Lightning Storm"
     },
     {
         "ID": 40638,
-        "Name": null
+        "Name": "Lightning Bolt"
     },
     {
         "ID": 40639,
-        "Name": null
+        "Name": "Free Spirits"
     },
     {
         "ID": 40640,
-        "Name": null
+        "Name": "Free Spirits"
     },
     {
         "ID": 40641,
-        "Name": null
+        "Name": "Soulweave"
     },
     {
         "ID": 40642,
-        "Name": null
+        "Name": "Soulweave"
     },
     {
         "ID": 40643,
-        "Name": null
+        "Name": "Phantom Flood"
     },
     {
         "ID": 40644,
-        "Name": null
+        "Name": "Phantom Flood"
     },
     {
         "ID": 40645,
-        "Name": null
+        "Name": "Lost Hope"
     },
     {
         "ID": 40646,
-        "Name": null
+        "Name": "Necrohazard"
     },
     {
         "ID": 40647,
-        "Name": null
+        "Name": "Bloodburst"
     },
     {
         "ID": 40648,
-        "Name": null
+        "Name": "Hundred Fists"
     },
     {
         "ID": 40649,
-        "Name": null
+        "Name": "Telltale Tears"
     },
     {
         "ID": 40650,
-        "Name": null
+        "Name": "Scrapline Storm"
     },
     {
         "ID": 40651,
-        "Name": null
+        "Name": "Soul Douse"
     },
     {
         "ID": 40652,
@@ -162613,23 +162613,23 @@
     },
     {
         "ID": 40654,
-        "Name": null
+        "Name": "Dark II"
     },
     {
         "ID": 40655,
-        "Name": null
+        "Name": "Dark II"
     },
     {
         "ID": 40656,
-        "Name": null
+        "Name": "Dark II"
     },
     {
         "ID": 40657,
-        "Name": null
+        "Name": "Dark II"
     },
     {
         "ID": 40658,
-        "Name": null
+        "Name": "Dark Souls"
     },
     {
         "ID": 40659,
@@ -162649,7 +162649,7 @@
     },
     {
         "ID": 40663,
-        "Name": null
+        "Name": "Piercing Insight"
     },
     {
         "ID": 40664,
@@ -162657,51 +162657,51 @@
     },
     {
         "ID": 40665,
-        "Name": null
+        "Name": "Line Voltage"
     },
     {
         "ID": 40666,
-        "Name": null
+        "Name": "Thunderball"
     },
     {
         "ID": 40667,
-        "Name": null
+        "Name": "\u30c6\u30fc\u30eb\u30b9\u30de\u30c3\u30b7\u30e5"
     },
     {
         "ID": 40668,
-        "Name": null
+        "Name": "Sweeping Gouge"
     },
     {
         "ID": 40669,
-        "Name": null
+        "Name": "\u30d0\u30ec\u30ea\u30f3\u30b0\u30b9\u30de\u30c3\u30b7\u30e5"
     },
     {
         "ID": 40670,
-        "Name": null
+        "Name": "Foul Bite"
     },
     {
         "ID": 40671,
-        "Name": null
+        "Name": "Glass Punch"
     },
     {
         "ID": 40672,
-        "Name": null
+        "Name": "Catapult"
     },
     {
         "ID": 40673,
-        "Name": null
+        "Name": "\u30ed\u30c3\u30af\u30d5\u30a9\u30fc\u30eb"
     },
     {
         "ID": 40674,
-        "Name": null
+        "Name": "\u706b\u7114"
     },
     {
         "ID": 40675,
-        "Name": null
+        "Name": "Wild Horn"
     },
     {
         "ID": 40676,
-        "Name": null
+        "Name": "Plummet"
     },
     {
         "ID": 40677,
@@ -162713,11 +162713,11 @@
     },
     {
         "ID": 40679,
-        "Name": null
+        "Name": "Glaciate"
     },
     {
         "ID": 40680,
-        "Name": null
+        "Name": "Glaciate"
     },
     {
         "ID": 40681,
@@ -162725,11 +162725,11 @@
     },
     {
         "ID": 40682,
-        "Name": null
+        "Name": "Spectral Blaze"
     },
     {
         "ID": 40683,
-        "Name": null
+        "Name": "Spectral Blaze"
     },
     {
         "ID": 40684,
@@ -162737,11 +162737,11 @@
     },
     {
         "ID": 40685,
-        "Name": null
+        "Name": "Scorching Streak"
     },
     {
         "ID": 40686,
-        "Name": null
+        "Name": "Scorching Streak"
     },
     {
         "ID": 40687,
@@ -162749,67 +162749,67 @@
     },
     {
         "ID": 40688,
-        "Name": null
+        "Name": "Piercing Stone"
     },
     {
         "ID": 40689,
-        "Name": null
+        "Name": "Piercing Stone"
     },
     {
         "ID": 40690,
-        "Name": null
+        "Name": "Piercing Stone"
     },
     {
         "ID": 40691,
-        "Name": null
+        "Name": "Glaciate"
     },
     {
         "ID": 40692,
-        "Name": null
+        "Name": "Glaciate"
     },
     {
         "ID": 40693,
-        "Name": null
+        "Name": "Bitter Chill"
     },
     {
         "ID": 40694,
-        "Name": null
+        "Name": "Frigid Ring"
     },
     {
         "ID": 40695,
-        "Name": null
+        "Name": "Spectral Blaze"
     },
     {
         "ID": 40696,
-        "Name": null
+        "Name": "Spectral Blaze"
     },
     {
         "ID": 40697,
-        "Name": null
+        "Name": "Fireflood"
     },
     {
         "ID": 40698,
-        "Name": null
+        "Name": "Scorching Streak"
     },
     {
         "ID": 40699,
-        "Name": null
+        "Name": "Scorching Streak"
     },
     {
         "ID": 40700,
-        "Name": null
+        "Name": "Blazing Ring"
     },
     {
         "ID": 40701,
-        "Name": null
+        "Name": "Piercing Stone"
     },
     {
         "ID": 40702,
-        "Name": null
+        "Name": "Piercing Stone"
     },
     {
         "ID": 40703,
-        "Name": null
+        "Name": "Piercing Stone"
     },
     {
         "ID": 40704,
@@ -162817,11 +162817,11 @@
     },
     {
         "ID": 40705,
-        "Name": null
+        "Name": "Rogue Wave"
     },
     {
         "ID": 40706,
-        "Name": null
+        "Name": "Rogue Wave"
     },
     {
         "ID": 40707,
@@ -162829,15 +162829,15 @@
     },
     {
         "ID": 40708,
-        "Name": null
+        "Name": "Windage"
     },
     {
         "ID": 40709,
-        "Name": null
+        "Name": "Windage"
     },
     {
         "ID": 40710,
-        "Name": null
+        "Name": "Windage"
     },
     {
         "ID": 40711,
@@ -162845,11 +162845,11 @@
     },
     {
         "ID": 40712,
-        "Name": null
+        "Name": "Furious Flare"
     },
     {
         "ID": 40713,
-        "Name": null
+        "Name": "Furious Flare"
     },
     {
         "ID": 40714,
@@ -162857,79 +162857,79 @@
     },
     {
         "ID": 40715,
-        "Name": null
+        "Name": "Thundering Pillar"
     },
     {
         "ID": 40716,
-        "Name": null
+        "Name": "Thundering Pillar"
     },
     {
         "ID": 40717,
-        "Name": null
+        "Name": "Unmitigated Explosion"
     },
     {
         "ID": 40718,
-        "Name": null
+        "Name": "Fervid Surge"
     },
     {
         "ID": 40719,
-        "Name": null
+        "Name": "Explosion"
     },
     {
         "ID": 40720,
-        "Name": null
+        "Name": "Unmitigated Explosion"
     },
     {
         "ID": 40721,
-        "Name": null
+        "Name": "Rogue Wave"
     },
     {
         "ID": 40722,
-        "Name": null
+        "Name": "Rogue Wave"
     },
     {
         "ID": 40723,
-        "Name": null
+        "Name": "Water Drop"
     },
     {
         "ID": 40724,
-        "Name": null
+        "Name": "Upwell"
     },
     {
         "ID": 40725,
-        "Name": null
+        "Name": "Upwell"
     },
     {
         "ID": 40726,
-        "Name": null
+        "Name": "Upwell"
     },
     {
         "ID": 40727,
-        "Name": null
+        "Name": "Thundering Pillar"
     },
     {
         "ID": 40728,
-        "Name": null
+        "Name": "Unmitigated Explosion"
     },
     {
         "ID": 40729,
-        "Name": null
+        "Name": "Furious Flare"
     },
     {
         "ID": 40730,
-        "Name": null
+        "Name": "Furious Flare"
     },
     {
         "ID": 40731,
-        "Name": null
+        "Name": "Blazing Surge"
     },
     {
         "ID": 40732,
-        "Name": null
+        "Name": "Blazing Surge"
     },
     {
         "ID": 40733,
-        "Name": null
+        "Name": "Blazing Surge"
     },
     {
         "ID": 40734,
@@ -162937,303 +162937,303 @@
     },
     {
         "ID": 40735,
-        "Name": null
+        "Name": "Burning Pillar"
     },
     {
         "ID": 40736,
-        "Name": null
+        "Name": "Burning Pillar"
     },
     {
         "ID": 40737,
-        "Name": null
+        "Name": "Burning Pillar"
     },
     {
         "ID": 40738,
-        "Name": null
+        "Name": "Great Ball of Fire"
     },
     {
         "ID": 40739,
-        "Name": null
+        "Name": "Great Ball of Fire"
     },
     {
         "ID": 40740,
-        "Name": null
+        "Name": "Unmitigated Explosion"
     },
     {
         "ID": 40741,
-        "Name": null
+        "Name": "Petrifying Light"
     },
     {
         "ID": 40742,
-        "Name": null
+        "Name": "Petrifying Light"
     },
     {
         "ID": 40743,
-        "Name": null
+        "Name": "Petrifying Light"
     },
     {
         "ID": 40744,
-        "Name": null
+        "Name": "Shackles"
     },
     {
         "ID": 40745,
-        "Name": null
+        "Name": "Shackles"
     },
     {
         "ID": 40746,
-        "Name": null
+        "Name": "Glaciate"
     },
     {
         "ID": 40747,
-        "Name": null
+        "Name": "Glaciate"
     },
     {
         "ID": 40748,
-        "Name": null
+        "Name": "Esuna"
     },
     {
         "ID": 40749,
-        "Name": null
+        "Name": "Fan of Flames"
     },
     {
         "ID": 40750,
-        "Name": null
+        "Name": "Burning Pillar"
     },
     {
         "ID": 40751,
-        "Name": null
+        "Name": "Burning Pillar"
     },
     {
         "ID": 40752,
-        "Name": null
+        "Name": "Fan of Flames"
     },
     {
         "ID": 40753,
-        "Name": null
+        "Name": "Fan of Flames"
     },
     {
         "ID": 40754,
-        "Name": null
+        "Name": "Great Ball of Fire"
     },
     {
         "ID": 40755,
-        "Name": null
+        "Name": "Great Ball of Fire"
     },
     {
         "ID": 40756,
-        "Name": null
+        "Name": "Petrifying Light"
     },
     {
         "ID": 40757,
-        "Name": null
+        "Name": "Petrifying Light"
     },
     {
         "ID": 40758,
-        "Name": null
+        "Name": "Bitter Chill"
     },
     {
         "ID": 40759,
-        "Name": null
+        "Name": "Bitter Chill"
     },
     {
         "ID": 40760,
-        "Name": null
+        "Name": "Frigid Ring"
     },
     {
         "ID": 40761,
-        "Name": null
+        "Name": "Withdraw"
     },
     {
         "ID": 40762,
-        "Name": null
+        "Name": "Withdraw"
     },
     {
         "ID": 40763,
-        "Name": null
+        "Name": "Fireflood"
     },
     {
         "ID": 40764,
-        "Name": null
+        "Name": "Fireflood"
     },
     {
         "ID": 40765,
-        "Name": null
+        "Name": "Leporine Loaf"
     },
     {
         "ID": 40766,
-        "Name": null
+        "Name": "Giga Slash"
     },
     {
         "ID": 40767,
-        "Name": null
+        "Name": "Giga Slash"
     },
     {
         "ID": 40768,
-        "Name": null
+        "Name": "Giga Slash"
     },
     {
         "ID": 40769,
-        "Name": null
+        "Name": "Giga Slash"
     },
     {
         "ID": 40770,
-        "Name": null
+        "Name": "Giga Slash"
     },
     {
         "ID": 40771,
-        "Name": null
+        "Name": "Giga Slash"
     },
     {
         "ID": 40772,
-        "Name": null
+        "Name": "Implosion"
     },
     {
         "ID": 40773,
-        "Name": null
+        "Name": "Implosion"
     },
     {
         "ID": 40774,
-        "Name": null
+        "Name": "Implosion"
     },
     {
         "ID": 40775,
-        "Name": null
+        "Name": "Implosion"
     },
     {
         "ID": 40776,
-        "Name": null
+        "Name": "Implosion"
     },
     {
         "ID": 40777,
-        "Name": null
+        "Name": "Implosion"
     },
     {
         "ID": 40778,
-        "Name": null
+        "Name": "Cthonic Fury"
     },
     {
         "ID": 40779,
-        "Name": null
+        "Name": "Cthonic Fury"
     },
     {
         "ID": 40780,
-        "Name": null
+        "Name": "Burning Court"
     },
     {
         "ID": 40781,
-        "Name": null
+        "Name": "Burning Moat"
     },
     {
         "ID": 40782,
-        "Name": null
+        "Name": "Burning Keep"
     },
     {
         "ID": 40783,
-        "Name": null
+        "Name": "Burning Battlements"
     },
     {
         "ID": 40784,
-        "Name": null
+        "Name": "Dark Nebula"
     },
     {
         "ID": 40785,
-        "Name": null
+        "Name": "Dark Nebula"
     },
     {
         "ID": 40786,
-        "Name": null
+        "Name": "Shadow Spawn"
     },
     {
         "ID": 40787,
-        "Name": null
+        "Name": "Umbra Smash"
     },
     {
         "ID": 40788,
-        "Name": null
+        "Name": "Umbra Smash"
     },
     {
         "ID": 40789,
-        "Name": null
+        "Name": "Binding Sigil"
     },
     {
         "ID": 40790,
-        "Name": null
+        "Name": "Fetters"
     },
     {
         "ID": 40791,
-        "Name": null
+        "Name": "Damning Strikes"
     },
     {
         "ID": 40792,
-        "Name": null
+        "Name": "Impact"
     },
     {
         "ID": 40793,
-        "Name": null
+        "Name": "Damning Strikes"
     },
     {
         "ID": 40794,
-        "Name": null
+        "Name": "Damning Strikes"
     },
     {
         "ID": 40795,
-        "Name": null
+        "Name": "Umbra Smash"
     },
     {
         "ID": 40796,
-        "Name": null
+        "Name": "Umbra Smash"
     },
     {
         "ID": 40797,
-        "Name": null
+        "Name": "Umbra Smash"
     },
     {
         "ID": 40798,
-        "Name": null
+        "Name": "Umbra Smash"
     },
     {
         "ID": 40799,
-        "Name": null
+        "Name": "Umbra Smash"
     },
     {
         "ID": 40800,
-        "Name": null
+        "Name": "Umbra Smash"
     },
     {
         "ID": 40801,
-        "Name": null
+        "Name": "Umbra Wave"
     },
     {
         "ID": 40802,
-        "Name": null
+        "Name": "Dark Nova"
     },
     {
         "ID": 40803,
-        "Name": null
+        "Name": "Dark Nova"
     },
     {
         "ID": 40804,
-        "Name": null
+        "Name": "Dark Nova"
     },
     {
         "ID": 40805,
-        "Name": null
+        "Name": "Dark Nova"
     },
     {
         "ID": 40806,
-        "Name": null
+        "Name": "Doom Arc"
     },
     {
         "ID": 40807,
-        "Name": null
+        "Name": "Unbridled Rage"
     },
     {
         "ID": 40808,
-        "Name": null
+        "Name": "Unbridled Rage"
     },
     {
         "ID": 40809,
-        "Name": null
+        "Name": "Flames of Hatred"
     },
     {
         "ID": 40810,
@@ -163241,51 +163241,51 @@
     },
     {
         "ID": 40811,
-        "Name": null
+        "Name": "Offensive Posture"
     },
     {
         "ID": 40812,
-        "Name": null
+        "Name": "Baleful Nail"
     },
     {
         "ID": 40813,
-        "Name": null
+        "Name": "Baleful Nail"
     },
     {
         "ID": 40814,
-        "Name": null
+        "Name": "Offensive Posture"
     },
     {
         "ID": 40815,
-        "Name": null
+        "Name": "Dragon Breath"
     },
     {
         "ID": 40816,
-        "Name": null
+        "Name": "Offensive Posture"
     },
     {
         "ID": 40817,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40818,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40819,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40820,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40821,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40822,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40823,
@@ -163293,19 +163293,19 @@
     },
     {
         "ID": 40824,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40825,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40826,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40827,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40828,
@@ -163313,19 +163313,19 @@
     },
     {
         "ID": 40829,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40830,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40831,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40832,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40833,
@@ -163333,19 +163333,19 @@
     },
     {
         "ID": 40834,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40835,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40836,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40837,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40838,
@@ -163353,87 +163353,87 @@
     },
     {
         "ID": 40839,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40840,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40841,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40842,
-        "Name": null
+        "Name": "Hurricane Wing"
     },
     {
         "ID": 40843,
-        "Name": null
+        "Name": "Great Whirlwind"
     },
     {
         "ID": 40844,
-        "Name": null
+        "Name": "Great Whirlwind"
     },
     {
         "ID": 40845,
-        "Name": null
+        "Name": "Absolute Terror"
     },
     {
         "ID": 40846,
-        "Name": null
+        "Name": "Absolute Terror"
     },
     {
         "ID": 40847,
-        "Name": null
+        "Name": "Winged Terror"
     },
     {
         "ID": 40848,
-        "Name": null
+        "Name": "Winged Terror"
     },
     {
         "ID": 40849,
-        "Name": null
+        "Name": "Horrid Roar"
     },
     {
         "ID": 40850,
-        "Name": null
+        "Name": "Horrid Roar"
     },
     {
         "ID": 40851,
-        "Name": null
+        "Name": "Horrid Roar"
     },
     {
         "ID": 40852,
-        "Name": null
+        "Name": "Baleful Breath "
     },
     {
         "ID": 40853,
-        "Name": null
+        "Name": "Baleful Breath "
     },
     {
         "ID": 40854,
-        "Name": null
+        "Name": "Dark Matter Blast"
     },
     {
         "ID": 40855,
-        "Name": null
+        "Name": "Sharp Spike"
     },
     {
         "ID": 40856,
-        "Name": null
+        "Name": "Sharp Spike"
     },
     {
         "ID": 40857,
-        "Name": null
+        "Name": "Shuddering Earth"
     },
     {
         "ID": 40858,
-        "Name": null
+        "Name": "Venom"
     },
     {
         "ID": 40859,
-        "Name": null
+        "Name": "Pestilent Sphere"
     },
     {
         "ID": 40860,
@@ -163737,119 +163737,119 @@
     },
     {
         "ID": 40935,
-        "Name": null
+        "Name": "Banishga"
     },
     {
         "ID": 40936,
-        "Name": null
+        "Name": "Knuckle Sandwich"
     },
     {
         "ID": 40937,
-        "Name": null
+        "Name": "Knuckle Sandwich"
     },
     {
         "ID": 40938,
-        "Name": null
+        "Name": "Knuckle Sandwich"
     },
     {
         "ID": 40939,
-        "Name": null
+        "Name": "Knuckle Sandwich"
     },
     {
         "ID": 40940,
-        "Name": null
+        "Name": "Knuckle Sandwich"
     },
     {
         "ID": 40941,
-        "Name": null
+        "Name": "Knuckle Sandwich"
     },
     {
         "ID": 40942,
-        "Name": null
+        "Name": "Brittle Impact"
     },
     {
         "ID": 40943,
-        "Name": null
+        "Name": "Brittle Impact"
     },
     {
         "ID": 40944,
-        "Name": null
+        "Name": "Brittle Impact"
     },
     {
         "ID": 40945,
-        "Name": null
+        "Name": "Nullifying Dropkick"
     },
     {
         "ID": 40946,
-        "Name": null
+        "Name": "Banish Storm"
     },
     {
         "ID": 40947,
-        "Name": null
+        "Name": "Banish"
     },
     {
         "ID": 40948,
-        "Name": null
+        "Name": "Crystalline Thorns"
     },
     {
         "ID": 40949,
-        "Name": null
+        "Name": "Thornbite"
     },
     {
         "ID": 40950,
-        "Name": null
+        "Name": "Auroral Uppercut"
     },
     {
         "ID": 40951,
-        "Name": null
+        "Name": "Auroral Uppercut"
     },
     {
         "ID": 40952,
-        "Name": null
+        "Name": "Auroral Uppercut"
     },
     {
         "ID": 40953,
-        "Name": null
+        "Name": "Auroral Uppercut"
     },
     {
         "ID": 40954,
-        "Name": null
+        "Name": "Banishga IV"
     },
     {
         "ID": 40955,
-        "Name": null
+        "Name": "Explosion"
     },
     {
         "ID": 40956,
-        "Name": null
+        "Name": "Asuran Fists"
     },
     {
         "ID": 40957,
-        "Name": null
+        "Name": "Nullifying Dropkick"
     },
     {
         "ID": 40958,
-        "Name": null
+        "Name": "Asuran Fists"
     },
     {
         "ID": 40959,
-        "Name": null
+        "Name": "Asuran Fists"
     },
     {
         "ID": 40960,
-        "Name": null
+        "Name": "Asuran Fists"
     },
     {
         "ID": 40961,
-        "Name": null
+        "Name": "Shockwave"
     },
     {
         "ID": 40962,
-        "Name": null
+        "Name": "Holy"
     },
     {
         "ID": 40963,
-        "Name": null
+        "Name": "Holy"
     },
     {
         "ID": 40964,
@@ -163877,107 +163877,107 @@
     },
     {
         "ID": 40970,
-        "Name": null
+        "Name": "Prosecution of War"
     },
     {
         "ID": 40971,
-        "Name": null
+        "Name": "Prosecution of War"
     },
     {
         "ID": 40972,
-        "Name": null
+        "Name": "Aethertithe"
     },
     {
         "ID": 40973,
-        "Name": null
+        "Name": "Aethertithe"
     },
     {
         "ID": 40974,
-        "Name": null
+        "Name": "Aethertithe"
     },
     {
         "ID": 40975,
-        "Name": null
+        "Name": "Aethertithe"
     },
     {
         "ID": 40976,
-        "Name": null
+        "Name": "Aethertithe"
     },
     {
         "ID": 40977,
-        "Name": null
+        "Name": "Retribute"
     },
     {
         "ID": 40978,
-        "Name": null
+        "Name": "Retribute"
     },
     {
         "ID": 40979,
-        "Name": null
+        "Name": "Coronation"
     },
     {
         "ID": 40980,
-        "Name": null
+        "Name": "Ruthless Regalia"
     },
     {
         "ID": 40981,
-        "Name": null
+        "Name": "Atomic Ray"
     },
     {
         "ID": 40982,
-        "Name": null
+        "Name": "Atomic Ray"
     },
     {
         "ID": 40983,
-        "Name": null
+        "Name": "Divide and Conquer"
     },
     {
         "ID": 40984,
-        "Name": null
+        "Name": "Divide and Conquer"
     },
     {
         "ID": 40985,
-        "Name": null
+        "Name": "Virtual Shift"
     },
     {
         "ID": 40986,
-        "Name": null
+        "Name": "Virtual Shift"
     },
     {
         "ID": 40987,
-        "Name": null
+        "Name": "Virtual Shift"
     },
     {
         "ID": 40988,
-        "Name": null
+        "Name": "World Shatter"
     },
     {
         "ID": 40989,
-        "Name": null
+        "Name": "Legitimate Force"
     },
     {
         "ID": 40990,
-        "Name": null
+        "Name": "Legitimate Force"
     },
     {
         "ID": 40991,
-        "Name": null
+        "Name": "Legitimate Force"
     },
     {
         "ID": 40992,
-        "Name": null
+        "Name": "Legitimate Force"
     },
     {
         "ID": 40993,
-        "Name": null
+        "Name": "Legitimate Force"
     },
     {
         "ID": 40994,
-        "Name": null
+        "Name": "Legitimate Force"
     },
     {
         "ID": 40995,
-        "Name": null
+        "Name": "Laws of Wind"
     },
     {
         "ID": 40996,
@@ -163985,18 +163985,5218 @@
     },
     {
         "ID": 40997,
-        "Name": null
+        "Name": "Aeroquell"
     },
     {
         "ID": 40998,
-        "Name": null
+        "Name": "Biting Chains"
     },
     {
         "ID": 40999,
-        "Name": null
+        "Name": "Aero IV"
     },
     {
         "ID": 41000,
+        "Name": "Laws of Earth"
+    },
+    {
+        "ID": 41001,
+        "Name": "Burst"
+    },
+    {
+        "ID": 41002,
+        "Name": "Big Burst"
+    },
+    {
+        "ID": 41003,
+        "Name": "Gravitational Empire"
+    },
+    {
+        "ID": 41004,
+        "Name": "Gravity Pillar"
+    },
+    {
+        "ID": 41005,
+        "Name": "Gravity Ray"
+    },
+    {
+        "ID": 41006,
+        "Name": "Meteor Impact"
+    },
+    {
+        "ID": 41007,
+        "Name": "Meteor Impact"
+    },
+    {
+        "ID": 41008,
+        "Name": "Meteor Impact"
+    },
+    {
+        "ID": 41009,
+        "Name": "Big Burst"
+    },
+    {
+        "ID": 41010,
+        "Name": null
+    },
+    {
+        "ID": 41011,
+        "Name": "Weighty Blow"
+    },
+    {
+        "ID": 41012,
+        "Name": "Weighty Blow"
+    },
+    {
+        "ID": 41013,
+        "Name": "Laws of Ice"
+    },
+    {
+        "ID": 41014,
+        "Name": "Laws of Ice"
+    },
+    {
+        "ID": 41015,
+        "Name": "Rush"
+    },
+    {
+        "ID": 41016,
+        "Name": "Rush"
+    },
+    {
+        "ID": 41017,
+        "Name": "Rush"
+    },
+    {
+        "ID": 41018,
+        "Name": "Rush"
+    },
+    {
+        "ID": 41019,
+        "Name": "Rush"
+    },
+    {
+        "ID": 41020,
+        "Name": "Rush"
+    },
+    {
+        "ID": 41021,
+        "Name": "Shatter"
+    },
+    {
+        "ID": 41022,
+        "Name": "Drear Rising"
+    },
+    {
+        "ID": 41023,
+        "Name": "Ice Dart"
+    },
+    {
+        "ID": 41024,
+        "Name": "Raised Tribute"
+    },
+    {
+        "ID": 41025,
+        "Name": "Absolute Authority"
+    },
+    {
+        "ID": 41026,
+        "Name": "Absolute Authority"
+    },
+    {
+        "ID": 41027,
+        "Name": "Absolute Authority"
+    },
+    {
+        "ID": 41028,
+        "Name": "Absolute Authority"
+    },
+    {
+        "ID": 41029,
+        "Name": "Absolute Authority"
+    },
+    {
+        "ID": 41030,
+        "Name": "Absolute Authority"
+    },
+    {
+        "ID": 41031,
+        "Name": "Absolute Authority"
+    },
+    {
+        "ID": 41032,
+        "Name": "Absolute Authority"
+    },
+    {
+        "ID": 41033,
+        "Name": "Absolute Authority"
+    },
+    {
+        "ID": 41034,
+        "Name": "Authority Eternal"
+    },
+    {
+        "ID": 41035,
+        "Name": "Authority Eternal"
+    },
+    {
+        "ID": 41036,
+        "Name": "Authority Eternal"
+    },
+    {
+        "ID": 41037,
+        "Name": null
+    },
+    {
+        "ID": 41038,
+        "Name": "Royal Domain"
+    },
+    {
+        "ID": 41039,
+        "Name": "Radical Shift"
+    },
+    {
+        "ID": 41040,
+        "Name": "Radical Shift"
+    },
+    {
+        "ID": 41041,
+        "Name": "Radical Shift"
+    },
+    {
+        "ID": 41042,
+        "Name": "Dimensional Distortion"
+    },
+    {
+        "ID": 41043,
+        "Name": "Dimensional Distortion"
+    },
+    {
+        "ID": 41044,
+        "Name": "Dimensional Distortion"
+    },
+    {
+        "ID": 41045,
+        "Name": "Tyranny's Grasp"
+    },
+    {
+        "ID": 41046,
+        "Name": null
+    },
+    {
+        "ID": 41047,
+        "Name": "Tyranny's Grasp"
+    },
+    {
+        "ID": 41048,
+        "Name": "Tyranny's Grasp"
+    },
+    {
+        "ID": 41049,
+        "Name": "Dying Memory"
+    },
+    {
+        "ID": 41050,
+        "Name": "Royal Banishment"
+    },
+    {
+        "ID": 41051,
+        "Name": "Royal Banishment"
+    },
+    {
+        "ID": 41052,
+        "Name": "Royal Banishment"
+    },
+    {
+        "ID": 41053,
+        "Name": "Preservation"
+    },
+    {
+        "ID": 41054,
+        "Name": "Damning Strikes"
+    },
+    {
+        "ID": 41055,
+        "Name": "the Decisive Battle"
+    },
+    {
+        "ID": 41056,
+        "Name": "the Decisive Battle"
+    },
+    {
+        "ID": 41057,
+        "Name": "the Decisive Battle"
+    },
+    {
+        "ID": 41058,
+        "Name": "the Decisive Battle"
+    },
+    {
+        "ID": 41059,
+        "Name": "the Decisive Battle"
+    },
+    {
+        "ID": 41060,
+        "Name": null
+    },
+    {
+        "ID": 41061,
+        "Name": null
+    },
+    {
+        "ID": 41062,
+        "Name": null
+    },
+    {
+        "ID": 41063,
+        "Name": "Guillotine"
+    },
+    {
+        "ID": 41064,
+        "Name": "Guillotine"
+    },
+    {
+        "ID": 41065,
+        "Name": "Guillotine"
+    },
+    {
+        "ID": 41066,
+        "Name": null
+    },
+    {
+        "ID": 41067,
+        "Name": "Havoc Spiral"
+    },
+    {
+        "ID": 41068,
+        "Name": "Spiral Finish"
+    },
+    {
+        "ID": 41069,
+        "Name": "Spiral Finish"
+    },
+    {
+        "ID": 41070,
+        "Name": "Havoc Spiral"
+    },
+    {
+        "ID": 41071,
+        "Name": "Havoc Spiral"
+    },
+    {
+        "ID": 41072,
+        "Name": "Rampage"
+    },
+    {
+        "ID": 41073,
+        "Name": null
+    },
+    {
+        "ID": 41074,
+        "Name": null
+    },
+    {
+        "ID": 41075,
+        "Name": "Rampage"
+    },
+    {
+        "ID": 41076,
+        "Name": "Rampage"
+    },
+    {
+        "ID": 41077,
+        "Name": "Rampage"
+    },
+    {
+        "ID": 41078,
+        "Name": "Cloudsplitter"
+    },
+    {
+        "ID": 41079,
+        "Name": "Cloudsplitter"
+    },
+    {
+        "ID": 41080,
+        "Name": "Meikyo Shisui"
+    },
+    {
+        "ID": 41081,
+        "Name": "Tachi: Yukikaze"
+    },
+    {
+        "ID": 41082,
+        "Name": "Tachi: Gekko"
+    },
+    {
+        "ID": 41083,
+        "Name": "Tachi: Kasha"
+    },
+    {
+        "ID": 41084,
+        "Name": "Concerted Dissolution"
+    },
+    {
+        "ID": 41085,
+        "Name": "Light's Chain"
+    },
+    {
+        "ID": 41086,
+        "Name": "Dragonfall"
+    },
+    {
+        "ID": 41087,
+        "Name": "Dragonfall"
+    },
+    {
+        "ID": 41088,
+        "Name": "Utsusemi"
+    },
+    {
+        "ID": 41089,
+        "Name": "Mighty Strikes"
+    },
+    {
+        "ID": 41090,
+        "Name": "Critical Strikes"
+    },
+    {
+        "ID": 41091,
+        "Name": "Cross Reaver"
+    },
+    {
+        "ID": 41092,
+        "Name": "Cross Reaver"
+    },
+    {
+        "ID": 41093,
+        "Name": "Dominion Slash"
+    },
+    {
+        "ID": 41094,
+        "Name": "Divine Dominion"
+    },
+    {
+        "ID": 41095,
+        "Name": "Arrogance Incarnate"
+    },
+    {
+        "ID": 41096,
+        "Name": "Arrogance Incarnate"
+    },
+    {
+        "ID": 41097,
+        "Name": "Holy"
+    },
+    {
+        "ID": 41098,
+        "Name": "Meteor"
+    },
+    {
+        "ID": 41099,
+        "Name": "Meteor"
+    },
+    {
+        "ID": 41100,
+        "Name": "Mijin Gakure"
+    },
+    {
+        "ID": 41101,
+        "Name": "Cover"
+    },
+    {
+        "ID": 41102,
+        "Name": null
+    },
+    {
+        "ID": 41103,
+        "Name": "Aethersplit"
+    },
+    {
+        "ID": 41104,
+        "Name": "Aethersplit"
+    },
+    {
+        "ID": 41105,
+        "Name": "Aethersplit"
+    },
+    {
+        "ID": 41106,
+        "Name": "Aethersplit"
+    },
+    {
+        "ID": 41107,
+        "Name": "Aethersplit"
+    },
+    {
+        "ID": 41108,
+        "Name": null
+    },
+    {
+        "ID": 41109,
+        "Name": "Raiton"
+    },
+    {
+        "ID": 41110,
+        "Name": "Impact"
+    },
+    {
+        "ID": 41111,
+        "Name": "Impact"
+    },
+    {
+        "ID": 41112,
+        "Name": "Shockwave"
+    },
+    {
+        "ID": 41113,
+        "Name": "Hydroelectric Shock"
+    },
+    {
+        "ID": 41114,
+        "Name": "Spike Flail"
+    },
+    {
+        "ID": 41115,
+        "Name": "Shuddering Earth"
+    },
+    {
+        "ID": 41116,
+        "Name": "Touchdown"
+    },
+    {
+        "ID": 41117,
+        "Name": null
+    },
+    {
+        "ID": 41118,
+        "Name": "Landslip"
+    },
+    {
+        "ID": 41119,
+        "Name": "\u30b9\u30c8\u30fc\u30f3"
+    },
+    {
+        "ID": 41120,
+        "Name": null
+    },
+    {
+        "ID": 41121,
+        "Name": "Line Voltage"
+    },
+    {
+        "ID": 41122,
+        "Name": "Line Voltage"
+    },
+    {
+        "ID": 41123,
+        "Name": "Firewater"
+    },
+    {
+        "ID": 41124,
+        "Name": "\u30c0\u30fc\u30af\u30ce\u30f4\u30a1"
+    },
+    {
+        "ID": 41125,
+        "Name": null
+    },
+    {
+        "ID": 41126,
+        "Name": null
+    },
+    {
+        "ID": 41127,
+        "Name": null
+    },
+    {
+        "ID": 41128,
+        "Name": null
+    },
+    {
+        "ID": 41129,
+        "Name": null
+    },
+    {
+        "ID": 41130,
+        "Name": null
+    },
+    {
+        "ID": 41131,
+        "Name": null
+    },
+    {
+        "ID": 41132,
+        "Name": null
+    },
+    {
+        "ID": 41133,
+        "Name": null
+    },
+    {
+        "ID": 41134,
+        "Name": null
+    },
+    {
+        "ID": 41135,
+        "Name": null
+    },
+    {
+        "ID": 41136,
+        "Name": null
+    },
+    {
+        "ID": 41137,
+        "Name": null
+    },
+    {
+        "ID": 41138,
+        "Name": null
+    },
+    {
+        "ID": 41139,
+        "Name": null
+    },
+    {
+        "ID": 41140,
+        "Name": null
+    },
+    {
+        "ID": 41141,
+        "Name": null
+    },
+    {
+        "ID": 41142,
+        "Name": null
+    },
+    {
+        "ID": 41143,
+        "Name": "Turali Tincture"
+    },
+    {
+        "ID": 41144,
+        "Name": "Nightfall"
+    },
+    {
+        "ID": 41145,
+        "Name": "Tera Slash"
+    },
+    {
+        "ID": 41146,
+        "Name": null
+    },
+    {
+        "ID": 41147,
+        "Name": null
+    },
+    {
+        "ID": 41148,
+        "Name": null
+    },
+    {
+        "ID": 41149,
+        "Name": null
+    },
+    {
+        "ID": 41150,
+        "Name": null
+    },
+    {
+        "ID": 41151,
+        "Name": null
+    },
+    {
+        "ID": 41152,
+        "Name": null
+    },
+    {
+        "ID": 41153,
+        "Name": null
+    },
+    {
+        "ID": 41154,
+        "Name": null
+    },
+    {
+        "ID": 41155,
+        "Name": null
+    },
+    {
+        "ID": 41156,
+        "Name": null
+    },
+    {
+        "ID": 41157,
+        "Name": null
+    },
+    {
+        "ID": 41158,
+        "Name": null
+    },
+    {
+        "ID": 41159,
+        "Name": null
+    },
+    {
+        "ID": 41160,
+        "Name": null
+    },
+    {
+        "ID": 41161,
+        "Name": null
+    },
+    {
+        "ID": 41162,
+        "Name": null
+    },
+    {
+        "ID": 41163,
+        "Name": null
+    },
+    {
+        "ID": 41164,
+        "Name": null
+    },
+    {
+        "ID": 41165,
+        "Name": null
+    },
+    {
+        "ID": 41166,
+        "Name": null
+    },
+    {
+        "ID": 41167,
+        "Name": null
+    },
+    {
+        "ID": 41168,
+        "Name": null
+    },
+    {
+        "ID": 41169,
+        "Name": null
+    },
+    {
+        "ID": 41170,
+        "Name": null
+    },
+    {
+        "ID": 41171,
+        "Name": null
+    },
+    {
+        "ID": 41172,
+        "Name": null
+    },
+    {
+        "ID": 41173,
+        "Name": null
+    },
+    {
+        "ID": 41174,
+        "Name": null
+    },
+    {
+        "ID": 41175,
+        "Name": null
+    },
+    {
+        "ID": 41176,
+        "Name": null
+    },
+    {
+        "ID": 41177,
+        "Name": null
+    },
+    {
+        "ID": 41178,
+        "Name": null
+    },
+    {
+        "ID": 41179,
+        "Name": null
+    },
+    {
+        "ID": 41180,
+        "Name": null
+    },
+    {
+        "ID": 41181,
+        "Name": null
+    },
+    {
+        "ID": 41182,
+        "Name": null
+    },
+    {
+        "ID": 41183,
+        "Name": null
+    },
+    {
+        "ID": 41184,
+        "Name": null
+    },
+    {
+        "ID": 41185,
+        "Name": null
+    },
+    {
+        "ID": 41186,
+        "Name": null
+    },
+    {
+        "ID": 41187,
+        "Name": null
+    },
+    {
+        "ID": 41188,
+        "Name": null
+    },
+    {
+        "ID": 41189,
+        "Name": null
+    },
+    {
+        "ID": 41190,
+        "Name": null
+    },
+    {
+        "ID": 41191,
+        "Name": null
+    },
+    {
+        "ID": 41192,
+        "Name": null
+    },
+    {
+        "ID": 41193,
+        "Name": null
+    },
+    {
+        "ID": 41194,
+        "Name": null
+    },
+    {
+        "ID": 41195,
+        "Name": null
+    },
+    {
+        "ID": 41196,
+        "Name": null
+    },
+    {
+        "ID": 41197,
+        "Name": null
+    },
+    {
+        "ID": 41198,
+        "Name": null
+    },
+    {
+        "ID": 41199,
+        "Name": null
+    },
+    {
+        "ID": 41200,
+        "Name": null
+    },
+    {
+        "ID": 41201,
+        "Name": null
+    },
+    {
+        "ID": 41202,
+        "Name": null
+    },
+    {
+        "ID": 41203,
+        "Name": null
+    },
+    {
+        "ID": 41204,
+        "Name": null
+    },
+    {
+        "ID": 41205,
+        "Name": null
+    },
+    {
+        "ID": 41206,
+        "Name": null
+    },
+    {
+        "ID": 41207,
+        "Name": null
+    },
+    {
+        "ID": 41208,
+        "Name": null
+    },
+    {
+        "ID": 41209,
+        "Name": null
+    },
+    {
+        "ID": 41210,
+        "Name": null
+    },
+    {
+        "ID": 41211,
+        "Name": null
+    },
+    {
+        "ID": 41212,
+        "Name": null
+    },
+    {
+        "ID": 41213,
+        "Name": null
+    },
+    {
+        "ID": 41214,
+        "Name": null
+    },
+    {
+        "ID": 41215,
+        "Name": null
+    },
+    {
+        "ID": 41216,
+        "Name": null
+    },
+    {
+        "ID": 41217,
+        "Name": null
+    },
+    {
+        "ID": 41218,
+        "Name": null
+    },
+    {
+        "ID": 41219,
+        "Name": null
+    },
+    {
+        "ID": 41220,
+        "Name": null
+    },
+    {
+        "ID": 41221,
+        "Name": null
+    },
+    {
+        "ID": 41222,
+        "Name": null
+    },
+    {
+        "ID": 41223,
+        "Name": null
+    },
+    {
+        "ID": 41224,
+        "Name": null
+    },
+    {
+        "ID": 41225,
+        "Name": null
+    },
+    {
+        "ID": 41226,
+        "Name": null
+    },
+    {
+        "ID": 41227,
+        "Name": null
+    },
+    {
+        "ID": 41228,
+        "Name": null
+    },
+    {
+        "ID": 41229,
+        "Name": null
+    },
+    {
+        "ID": 41230,
+        "Name": null
+    },
+    {
+        "ID": 41231,
+        "Name": null
+    },
+    {
+        "ID": 41232,
+        "Name": null
+    },
+    {
+        "ID": 41233,
+        "Name": null
+    },
+    {
+        "ID": 41234,
+        "Name": null
+    },
+    {
+        "ID": 41235,
+        "Name": null
+    },
+    {
+        "ID": 41236,
+        "Name": null
+    },
+    {
+        "ID": 41237,
+        "Name": null
+    },
+    {
+        "ID": 41238,
+        "Name": null
+    },
+    {
+        "ID": 41239,
+        "Name": null
+    },
+    {
+        "ID": 41240,
+        "Name": null
+    },
+    {
+        "ID": 41241,
+        "Name": null
+    },
+    {
+        "ID": 41242,
+        "Name": null
+    },
+    {
+        "ID": 41243,
+        "Name": null
+    },
+    {
+        "ID": 41244,
+        "Name": null
+    },
+    {
+        "ID": 41245,
+        "Name": "Razing Roar"
+    },
+    {
+        "ID": 41246,
+        "Name": "Razing Roar"
+    },
+    {
+        "ID": 41247,
+        "Name": "Razing Roar"
+    },
+    {
+        "ID": 41248,
+        "Name": null
+    },
+    {
+        "ID": 41249,
+        "Name": null
+    },
+    {
+        "ID": 41250,
+        "Name": null
+    },
+    {
+        "ID": 41251,
+        "Name": null
+    },
+    {
+        "ID": 41252,
+        "Name": null
+    },
+    {
+        "ID": 41253,
+        "Name": null
+    },
+    {
+        "ID": 41254,
+        "Name": null
+    },
+    {
+        "ID": 41255,
+        "Name": null
+    },
+    {
+        "ID": 41256,
+        "Name": null
+    },
+    {
+        "ID": 41257,
+        "Name": null
+    },
+    {
+        "ID": 41258,
+        "Name": "Sparking Fissure"
+    },
+    {
+        "ID": 41259,
+        "Name": null
+    },
+    {
+        "ID": 41260,
+        "Name": null
+    },
+    {
+        "ID": 41261,
+        "Name": null
+    },
+    {
+        "ID": 41262,
+        "Name": null
+    },
+    {
+        "ID": 41263,
+        "Name": null
+    },
+    {
+        "ID": 41264,
+        "Name": null
+    },
+    {
+        "ID": 41265,
+        "Name": null
+    },
+    {
+        "ID": 41266,
+        "Name": "Gore"
+    },
+    {
+        "ID": 41267,
+        "Name": "Sparking Fissure"
+    },
+    {
+        "ID": 41268,
+        "Name": null
+    },
+    {
+        "ID": 41269,
+        "Name": null
+    },
+    {
+        "ID": 41270,
+        "Name": "\u653b\u6483"
+    },
+    {
+        "ID": 41271,
+        "Name": "Primordial Roar"
+    },
+    {
+        "ID": 41272,
+        "Name": null
+    },
+    {
+        "ID": 41273,
+        "Name": null
+    },
+    {
+        "ID": 41274,
+        "Name": null
+    },
+    {
+        "ID": 41275,
+        "Name": "Critical Reaver"
+    },
+    {
+        "ID": 41276,
+        "Name": null
+    },
+    {
+        "ID": 41277,
+        "Name": null
+    },
+    {
+        "ID": 41278,
+        "Name": null
+    },
+    {
+        "ID": 41279,
+        "Name": null
+    },
+    {
+        "ID": 41280,
+        "Name": null
+    },
+    {
+        "ID": 41281,
+        "Name": null
+    },
+    {
+        "ID": 41282,
+        "Name": null
+    },
+    {
+        "ID": 41283,
+        "Name": null
+    },
+    {
+        "ID": 41284,
+        "Name": null
+    },
+    {
+        "ID": 41285,
+        "Name": null
+    },
+    {
+        "ID": 41286,
+        "Name": null
+    },
+    {
+        "ID": 41287,
+        "Name": null
+    },
+    {
+        "ID": 41288,
+        "Name": null
+    },
+    {
+        "ID": 41289,
+        "Name": null
+    },
+    {
+        "ID": 41290,
+        "Name": null
+    },
+    {
+        "ID": 41291,
+        "Name": null
+    },
+    {
+        "ID": 41292,
+        "Name": null
+    },
+    {
+        "ID": 41293,
+        "Name": null
+    },
+    {
+        "ID": 41294,
+        "Name": null
+    },
+    {
+        "ID": 41295,
+        "Name": null
+    },
+    {
+        "ID": 41296,
+        "Name": null
+    },
+    {
+        "ID": 41297,
+        "Name": null
+    },
+    {
+        "ID": 41298,
+        "Name": null
+    },
+    {
+        "ID": 41299,
+        "Name": null
+    },
+    {
+        "ID": 41300,
+        "Name": null
+    },
+    {
+        "ID": 41301,
+        "Name": null
+    },
+    {
+        "ID": 41302,
+        "Name": "Hurricane Wing"
+    },
+    {
+        "ID": 41303,
+        "Name": "Hurricane Wing"
+    },
+    {
+        "ID": 41304,
+        "Name": "Hurricane Wing"
+    },
+    {
+        "ID": 41305,
+        "Name": "Hurricane Wing"
+    },
+    {
+        "ID": 41306,
+        "Name": null
+    },
+    {
+        "ID": 41307,
+        "Name": null
+    },
+    {
+        "ID": 41308,
+        "Name": null
+    },
+    {
+        "ID": 41309,
+        "Name": null
+    },
+    {
+        "ID": 41310,
+        "Name": null
+    },
+    {
+        "ID": 41311,
+        "Name": null
+    },
+    {
+        "ID": 41312,
+        "Name": null
+    },
+    {
+        "ID": 41313,
+        "Name": null
+    },
+    {
+        "ID": 41314,
+        "Name": null
+    },
+    {
+        "ID": 41315,
+        "Name": null
+    },
+    {
+        "ID": 41316,
+        "Name": null
+    },
+    {
+        "ID": 41317,
+        "Name": null
+    },
+    {
+        "ID": 41318,
+        "Name": null
+    },
+    {
+        "ID": 41319,
+        "Name": null
+    },
+    {
+        "ID": 41320,
+        "Name": null
+    },
+    {
+        "ID": 41321,
+        "Name": null
+    },
+    {
+        "ID": 41322,
+        "Name": null
+    },
+    {
+        "ID": 41323,
+        "Name": null
+    },
+    {
+        "ID": 41324,
+        "Name": null
+    },
+    {
+        "ID": 41325,
+        "Name": null
+    },
+    {
+        "ID": 41326,
+        "Name": null
+    },
+    {
+        "ID": 41327,
+        "Name": null
+    },
+    {
+        "ID": 41328,
+        "Name": null
+    },
+    {
+        "ID": 41329,
+        "Name": null
+    },
+    {
+        "ID": 41330,
+        "Name": null
+    },
+    {
+        "ID": 41331,
+        "Name": null
+    },
+    {
+        "ID": 41332,
+        "Name": null
+    },
+    {
+        "ID": 41333,
+        "Name": null
+    },
+    {
+        "ID": 41334,
+        "Name": null
+    },
+    {
+        "ID": 41335,
+        "Name": "Dark Nova"
+    },
+    {
+        "ID": 41336,
+        "Name": null
+    },
+    {
+        "ID": 41337,
+        "Name": null
+    },
+    {
+        "ID": 41338,
+        "Name": null
+    },
+    {
+        "ID": 41339,
+        "Name": null
+    },
+    {
+        "ID": 41340,
+        "Name": null
+    },
+    {
+        "ID": 41341,
+        "Name": null
+    },
+    {
+        "ID": 41342,
+        "Name": null
+    },
+    {
+        "ID": 41343,
+        "Name": null
+    },
+    {
+        "ID": 41344,
+        "Name": null
+    },
+    {
+        "ID": 41345,
+        "Name": null
+    },
+    {
+        "ID": 41346,
+        "Name": null
+    },
+    {
+        "ID": 41347,
+        "Name": null
+    },
+    {
+        "ID": 41348,
+        "Name": null
+    },
+    {
+        "ID": 41349,
+        "Name": null
+    },
+    {
+        "ID": 41350,
+        "Name": null
+    },
+    {
+        "ID": 41351,
+        "Name": null
+    },
+    {
+        "ID": 41352,
+        "Name": null
+    },
+    {
+        "ID": 41353,
+        "Name": "Panzerfaust"
+    },
+    {
+        "ID": 41354,
+        "Name": null
+    },
+    {
+        "ID": 41355,
+        "Name": null
+    },
+    {
+        "ID": 41356,
+        "Name": null
+    },
+    {
+        "ID": 41357,
+        "Name": null
+    },
+    {
+        "ID": 41358,
+        "Name": null
+    },
+    {
+        "ID": 41359,
+        "Name": null
+    },
+    {
+        "ID": 41360,
+        "Name": null
+    },
+    {
+        "ID": 41361,
+        "Name": null
+    },
+    {
+        "ID": 41362,
+        "Name": null
+    },
+    {
+        "ID": 41363,
+        "Name": null
+    },
+    {
+        "ID": 41364,
+        "Name": "Mighty Strikes"
+    },
+    {
+        "ID": 41365,
+        "Name": "Critical Reaver"
+    },
+    {
+        "ID": 41366,
+        "Name": null
+    },
+    {
+        "ID": 41367,
+        "Name": null
+    },
+    {
+        "ID": 41368,
+        "Name": null
+    },
+    {
+        "ID": 41369,
+        "Name": null
+    },
+    {
+        "ID": 41370,
+        "Name": null
+    },
+    {
+        "ID": 41371,
+        "Name": null
+    },
+    {
+        "ID": 41372,
+        "Name": null
+    },
+    {
+        "ID": 41373,
+        "Name": null
+    },
+    {
+        "ID": 41374,
+        "Name": null
+    },
+    {
+        "ID": 41375,
+        "Name": null
+    },
+    {
+        "ID": 41376,
+        "Name": null
+    },
+    {
+        "ID": 41377,
+        "Name": null
+    },
+    {
+        "ID": 41378,
+        "Name": null
+    },
+    {
+        "ID": 41379,
+        "Name": null
+    },
+    {
+        "ID": 41380,
+        "Name": null
+    },
+    {
+        "ID": 41381,
+        "Name": null
+    },
+    {
+        "ID": 41382,
+        "Name": null
+    },
+    {
+        "ID": 41383,
+        "Name": null
+    },
+    {
+        "ID": 41384,
+        "Name": null
+    },
+    {
+        "ID": 41385,
+        "Name": null
+    },
+    {
+        "ID": 41386,
+        "Name": null
+    },
+    {
+        "ID": 41387,
+        "Name": null
+    },
+    {
+        "ID": 41388,
+        "Name": null
+    },
+    {
+        "ID": 41389,
+        "Name": null
+    },
+    {
+        "ID": 41390,
+        "Name": null
+    },
+    {
+        "ID": 41391,
+        "Name": null
+    },
+    {
+        "ID": 41392,
+        "Name": null
+    },
+    {
+        "ID": 41393,
+        "Name": "Scrapline"
+    },
+    {
+        "ID": 41394,
+        "Name": null
+    },
+    {
+        "ID": 41395,
+        "Name": null
+    },
+    {
+        "ID": 41396,
+        "Name": null
+    },
+    {
+        "ID": 41397,
+        "Name": null
+    },
+    {
+        "ID": 41398,
+        "Name": "Razing Roar"
+    },
+    {
+        "ID": 41399,
+        "Name": null
+    },
+    {
+        "ID": 41400,
+        "Name": null
+    },
+    {
+        "ID": 41401,
+        "Name": null
+    },
+    {
+        "ID": 41402,
+        "Name": null
+    },
+    {
+        "ID": 41403,
+        "Name": null
+    },
+    {
+        "ID": 41404,
+        "Name": null
+    },
+    {
+        "ID": 41405,
+        "Name": null
+    },
+    {
+        "ID": 41406,
+        "Name": null
+    },
+    {
+        "ID": 41407,
+        "Name": null
+    },
+    {
+        "ID": 41408,
+        "Name": null
+    },
+    {
+        "ID": 41409,
+        "Name": null
+    },
+    {
+        "ID": 41410,
+        "Name": null
+    },
+    {
+        "ID": 41411,
+        "Name": null
+    },
+    {
+        "ID": 41412,
+        "Name": null
+    },
+    {
+        "ID": 41413,
+        "Name": null
+    },
+    {
+        "ID": 41414,
+        "Name": null
+    },
+    {
+        "ID": 41415,
+        "Name": null
+    },
+    {
+        "ID": 41416,
+        "Name": null
+    },
+    {
+        "ID": 41417,
+        "Name": null
+    },
+    {
+        "ID": 41418,
+        "Name": null
+    },
+    {
+        "ID": 41419,
+        "Name": null
+    },
+    {
+        "ID": 41420,
+        "Name": null
+    },
+    {
+        "ID": 41421,
+        "Name": null
+    },
+    {
+        "ID": 41422,
+        "Name": null
+    },
+    {
+        "ID": 41423,
+        "Name": null
+    },
+    {
+        "ID": 41424,
+        "Name": null
+    },
+    {
+        "ID": 41425,
+        "Name": null
+    },
+    {
+        "ID": 41426,
+        "Name": null
+    },
+    {
+        "ID": 41427,
+        "Name": null
+    },
+    {
+        "ID": 41428,
+        "Name": "Supplication"
+    },
+    {
+        "ID": 41429,
+        "Name": "Sepulchre"
+    },
+    {
+        "ID": 41430,
+        "Name": "Shield Smite"
+    },
+    {
+        "ID": 41431,
+        "Name": "Imperator"
+    },
+    {
+        "ID": 41432,
+        "Name": "Primal Ruination"
+    },
+    {
+        "ID": 41433,
+        "Name": "Primal Wrath"
+    },
+    {
+        "ID": 41434,
+        "Name": "Scarlet Delirium"
+    },
+    {
+        "ID": 41435,
+        "Name": "Comeuppance"
+    },
+    {
+        "ID": 41436,
+        "Name": "Torcleaver"
+    },
+    {
+        "ID": 41437,
+        "Name": "Disesteem"
+    },
+    {
+        "ID": 41438,
+        "Name": "Impalement"
+    },
+    {
+        "ID": 41439,
+        "Name": "\u30e9\u30a4\u30ba\u30fb\u30aa\u30d6\u30fb\u30cf\u30fc\u30c8"
+    },
+    {
+        "ID": 41440,
+        "Name": "\u30eb\u30fc\u30e9\u30fc\u30fb\u30aa\u30d6\u30fb\u30cf\u30fc\u30c8"
+    },
+    {
+        "ID": 41441,
+        "Name": "\u30a8\u30f3\u30c9\u30fb\u30aa\u30d6\u30fb\u30cf\u30fc\u30c8"
+    },
+    {
+        "ID": 41442,
+        "Name": "Fated Brand"
+    },
+    {
+        "ID": 41443,
+        "Name": "Heart of Corundum"
+    },
+    {
+        "ID": 41444,
+        "Name": "Leaping Opo"
+    },
+    {
+        "ID": 41445,
+        "Name": "Rising Raptor"
+    },
+    {
+        "ID": 41446,
+        "Name": "Pouncing Coeurl"
+    },
+    {
+        "ID": 41447,
+        "Name": "Flint's Reply"
+    },
+    {
+        "ID": 41448,
+        "Name": "Fire's Reply"
+    },
+    {
+        "ID": 41449,
+        "Name": "Drakesbane"
+    },
+    {
+        "ID": 41450,
+        "Name": "Starcross"
+    },
+    {
+        "ID": 41451,
+        "Name": "Dokumori"
+    },
+    {
+        "ID": 41452,
+        "Name": "Zesho Meppo"
+    },
+    {
+        "ID": 41453,
+        "Name": "Zesho Meppo"
+    },
+    {
+        "ID": 41454,
+        "Name": "Tendo Setsugekka"
+    },
+    {
+        "ID": 41455,
+        "Name": "Tendo Kaeshi Setsugekka"
+    },
+    {
+        "ID": 41456,
+        "Name": "Executioner's Guillotine"
+    },
+    {
+        "ID": 41457,
+        "Name": "Fate Sealed"
+    },
+    {
+        "ID": 41458,
+        "Name": "Perfectio"
+    },
+    {
+        "ID": 41459,
+        "Name": "\u58f1\u306e\u5927\u86c7\u3010\u60e8\u6bd2\u3011"
+    },
+    {
+        "ID": 41460,
+        "Name": "\u25cf\u5f10\u306e\u5927\u86c7\u3010\u731b\u8972\u3011"
+    },
+    {
+        "ID": 41461,
+        "Name": "\u25cf\u53c2\u306e\u5927\u86c7\u3010\u75be\u901f\u3011"
+    },
+    {
+        "ID": 41462,
+        "Name": "\u53cc\u7259\u9023\u9583"
+    },
+    {
+        "ID": 41463,
+        "Name": "\u53cc\u7259\u4e71\u9583"
+    },
+    {
+        "ID": 41464,
+        "Name": "Harmonic Arrow"
+    },
+    {
+        "ID": 41465,
+        "Name": "Harmonic Arrow"
+    },
+    {
+        "ID": 41466,
+        "Name": "Harmonic Arrow"
+    },
+    {
+        "ID": 41467,
+        "Name": "Encore of Light"
+    },
+    {
+        "ID": 41468,
+        "Name": "Blazing Shot"
+    },
+    {
+        "ID": 41469,
+        "Name": "Full Metal Field"
+    },
+    {
+        "ID": 41470,
+        "Name": "Detonator"
+    },
+    {
+        "ID": 41471,
+        "Name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9"
+    },
+    {
+        "ID": 41472,
+        "Name": "Dance of the Dawn"
+    },
+    {
+        "ID": 41473,
+        "Name": "High Fire II"
+    },
+    {
+        "ID": 41474,
+        "Name": "High Blizzard II"
+    },
+    {
+        "ID": 41475,
+        "Name": "Elemental Weave"
+    },
+    {
+        "ID": 41476,
+        "Name": "Wreath of Fire"
+    },
+    {
+        "ID": 41477,
+        "Name": "Wreath of Fire"
+    },
+    {
+        "ID": 41478,
+        "Name": "Wreath of Ice"
+    },
+    {
+        "ID": 41479,
+        "Name": null
+    },
+    {
+        "ID": 41480,
+        "Name": "Flare Star"
+    },
+    {
+        "ID": 41481,
+        "Name": "Frost Star"
+    },
+    {
+        "ID": 41482,
+        "Name": "Ruin IV"
+    },
+    {
+        "ID": 41483,
+        "Name": "Necrotize"
+    },
+    {
+        "ID": 41484,
+        "Name": "Deathflare"
+    },
+    {
+        "ID": 41485,
+        "Name": "Brand of Purgatory"
+    },
+    {
+        "ID": 41486,
+        "Name": "Jolt III"
+    },
+    {
+        "ID": 41487,
+        "Name": "Grand Impact"
+    },
+    {
+        "ID": 41488,
+        "Name": "Enchanted Riposte"
+    },
+    {
+        "ID": 41489,
+        "Name": "Enchanted Zwerchhau"
+    },
+    {
+        "ID": 41490,
+        "Name": "Enchanted Redoublement"
+    },
+    {
+        "ID": 41491,
+        "Name": "Scorch"
+    },
+    {
+        "ID": 41492,
+        "Name": "Resolution"
+    },
+    {
+        "ID": 41493,
+        "Name": "Vice of Thorns"
+    },
+    {
+        "ID": 41494,
+        "Name": "Embolden"
+    },
+    {
+        "ID": 41495,
+        "Name": "Prefulgence"
+    },
+    {
+        "ID": 41496,
+        "Name": "Forte"
+    },
+    {
+        "ID": 41497,
+        "Name": "\u30a2\u30f3\u30ac\u30b8\u30a7\u30de\u30f3"
+    },
+    {
+        "ID": 41498,
+        "Name": "Southern Cross"
+    },
+    {
+        "ID": 41499,
+        "Name": "Glare IV"
+    },
+    {
+        "ID": 41500,
+        "Name": "Seraphic Halo"
+    },
+    {
+        "ID": 41501,
+        "Name": "Accession"
+    },
+    {
+        "ID": 41502,
+        "Name": "Seraphism"
+    },
+    {
+        "ID": 41503,
+        "Name": "Minor Arcana"
+    },
+    {
+        "ID": 41504,
+        "Name": "Lady of Crowns"
+    },
+    {
+        "ID": 41505,
+        "Name": "Lord of Crowns"
+    },
+    {
+        "ID": 41506,
+        "Name": "Epicycle"
+    },
+    {
+        "ID": 41507,
+        "Name": "Retrograde"
+    },
+    {
+        "ID": 41508,
+        "Name": "Oracle"
+    },
+    {
+        "ID": 41509,
+        "Name": "Wind's Reply"
+    },
+    {
+        "ID": 41510,
+        "Name": "Lethargy"
+    },
+    {
+        "ID": 41511,
+        "Name": "Fated Circle"
+    },
+    {
+        "ID": 41512,
+        "Name": null
+    },
+    {
+        "ID": 41513,
+        "Name": null
+    },
+    {
+        "ID": 41514,
+        "Name": "Soul Binding"
+    },
+    {
+        "ID": 41515,
+        "Name": null
+    },
+    {
+        "ID": 41516,
+        "Name": null
+    },
+    {
+        "ID": 41517,
+        "Name": null
+    },
+    {
+        "ID": 41518,
+        "Name": null
+    },
+    {
+        "ID": 41519,
+        "Name": null
+    },
+    {
+        "ID": 41520,
+        "Name": null
+    },
+    {
+        "ID": 41521,
+        "Name": null
+    },
+    {
+        "ID": 41522,
+        "Name": null
+    },
+    {
+        "ID": 41523,
+        "Name": null
+    },
+    {
+        "ID": 41524,
+        "Name": null
+    },
+    {
+        "ID": 41525,
+        "Name": null
+    },
+    {
+        "ID": 41526,
+        "Name": null
+    },
+    {
+        "ID": 41527,
+        "Name": null
+    },
+    {
+        "ID": 41528,
+        "Name": null
+    },
+    {
+        "ID": 41529,
+        "Name": null
+    },
+    {
+        "ID": 41530,
+        "Name": null
+    },
+    {
+        "ID": 41531,
+        "Name": "Burst"
+    },
+    {
+        "ID": 41532,
+        "Name": "Dark Nebula"
+    },
+    {
+        "ID": 41533,
+        "Name": null
+    },
+    {
+        "ID": 41534,
+        "Name": null
+    },
+    {
+        "ID": 41535,
+        "Name": null
+    },
+    {
+        "ID": 41536,
+        "Name": null
+    },
+    {
+        "ID": 41537,
+        "Name": null
+    },
+    {
+        "ID": 41538,
+        "Name": null
+    },
+    {
+        "ID": 41539,
+        "Name": null
+    },
+    {
+        "ID": 41540,
+        "Name": null
+    },
+    {
+        "ID": 41541,
+        "Name": null
+    },
+    {
+        "ID": 41542,
+        "Name": null
+    },
+    {
+        "ID": 41543,
+        "Name": null
+    },
+    {
+        "ID": 41544,
+        "Name": null
+    },
+    {
+        "ID": 41545,
+        "Name": null
+    },
+    {
+        "ID": 41546,
+        "Name": null
+    },
+    {
+        "ID": 41547,
+        "Name": null
+    },
+    {
+        "ID": 41548,
+        "Name": null
+    },
+    {
+        "ID": 41549,
+        "Name": null
+    },
+    {
+        "ID": 41550,
+        "Name": null
+    },
+    {
+        "ID": 41551,
+        "Name": null
+    },
+    {
+        "ID": 41552,
+        "Name": null
+    },
+    {
+        "ID": 41553,
+        "Name": null
+    },
+    {
+        "ID": 41554,
+        "Name": null
+    },
+    {
+        "ID": 41555,
+        "Name": null
+    },
+    {
+        "ID": 41556,
+        "Name": null
+    },
+    {
+        "ID": 41557,
+        "Name": null
+    },
+    {
+        "ID": 41558,
+        "Name": null
+    },
+    {
+        "ID": 41559,
+        "Name": null
+    },
+    {
+        "ID": 41560,
+        "Name": null
+    },
+    {
+        "ID": 41561,
+        "Name": null
+    },
+    {
+        "ID": 41562,
+        "Name": null
+    },
+    {
+        "ID": 41563,
+        "Name": null
+    },
+    {
+        "ID": 41564,
+        "Name": null
+    },
+    {
+        "ID": 41565,
+        "Name": null
+    },
+    {
+        "ID": 41566,
+        "Name": null
+    },
+    {
+        "ID": 41567,
+        "Name": null
+    },
+    {
+        "ID": 41568,
+        "Name": null
+    },
+    {
+        "ID": 41569,
+        "Name": null
+    },
+    {
+        "ID": 41570,
+        "Name": null
+    },
+    {
+        "ID": 41571,
+        "Name": null
+    },
+    {
+        "ID": 41572,
+        "Name": null
+    },
+    {
+        "ID": 41573,
+        "Name": null
+    },
+    {
+        "ID": 41574,
+        "Name": null
+    },
+    {
+        "ID": 41575,
+        "Name": null
+    },
+    {
+        "ID": 41576,
+        "Name": null
+    },
+    {
+        "ID": 41577,
+        "Name": "Zanshin"
+    },
+    {
+        "ID": 41578,
+        "Name": "Gravel Shower"
+    },
+    {
+        "ID": 41579,
+        "Name": "Caudal Swipe"
+    },
+    {
+        "ID": 41580,
+        "Name": "Megablaster"
+    },
+    {
+        "ID": 41581,
+        "Name": "Wild Charge"
+    },
+    {
+        "ID": 41582,
+        "Name": "Blade"
+    },
+    {
+        "ID": 41583,
+        "Name": "Vine Probe"
+    },
+    {
+        "ID": 41584,
+        "Name": "Sharp Sting"
+    },
+    {
+        "ID": 41585,
+        "Name": null
+    },
+    {
+        "ID": 41586,
+        "Name": null
+    },
+    {
+        "ID": 41587,
+        "Name": null
+    },
+    {
+        "ID": 41588,
+        "Name": null
+    },
+    {
+        "ID": 41589,
+        "Name": null
+    },
+    {
+        "ID": 41590,
+        "Name": null
+    },
+    {
+        "ID": 41591,
+        "Name": null
+    },
+    {
+        "ID": 41592,
+        "Name": null
+    },
+    {
+        "ID": 41593,
+        "Name": null
+    },
+    {
+        "ID": 41594,
+        "Name": null
+    },
+    {
+        "ID": 41595,
+        "Name": null
+    },
+    {
+        "ID": 41596,
+        "Name": null
+    },
+    {
+        "ID": 41597,
+        "Name": null
+    },
+    {
+        "ID": 41598,
+        "Name": null
+    },
+    {
+        "ID": 41599,
+        "Name": null
+    },
+    {
+        "ID": 41600,
+        "Name": null
+    },
+    {
+        "ID": 41601,
+        "Name": null
+    },
+    {
+        "ID": 41602,
+        "Name": null
+    },
+    {
+        "ID": 41603,
+        "Name": null
+    },
+    {
+        "ID": 41604,
+        "Name": null
+    },
+    {
+        "ID": 41605,
+        "Name": null
+    },
+    {
+        "ID": 41606,
+        "Name": null
+    },
+    {
+        "ID": 41607,
+        "Name": null
+    },
+    {
+        "ID": 41608,
+        "Name": null
+    },
+    {
+        "ID": 41609,
+        "Name": null
+    },
+    {
+        "ID": 41610,
+        "Name": null
+    },
+    {
+        "ID": 41611,
+        "Name": null
+    },
+    {
+        "ID": 41612,
+        "Name": null
+    },
+    {
+        "ID": 41613,
+        "Name": null
+    },
+    {
+        "ID": 41614,
+        "Name": null
+    },
+    {
+        "ID": 41615,
+        "Name": null
+    },
+    {
+        "ID": 41616,
+        "Name": null
+    },
+    {
+        "ID": 41617,
+        "Name": null
+    },
+    {
+        "ID": 41618,
+        "Name": null
+    },
+    {
+        "ID": 41619,
+        "Name": null
+    },
+    {
+        "ID": 41620,
+        "Name": null
+    },
+    {
+        "ID": 41621,
+        "Name": null
+    },
+    {
+        "ID": 41622,
+        "Name": null
+    },
+    {
+        "ID": 41623,
+        "Name": null
+    },
+    {
+        "ID": 41624,
+        "Name": null
+    },
+    {
+        "ID": 41625,
+        "Name": null
+    },
+    {
+        "ID": 41626,
+        "Name": null
+    },
+    {
+        "ID": 41627,
+        "Name": null
+    },
+    {
+        "ID": 41628,
+        "Name": null
+    },
+    {
+        "ID": 41629,
+        "Name": null
+    },
+    {
+        "ID": 41630,
+        "Name": null
+    },
+    {
+        "ID": 41631,
+        "Name": null
+    },
+    {
+        "ID": 41632,
+        "Name": null
+    },
+    {
+        "ID": 41633,
+        "Name": null
+    },
+    {
+        "ID": 41634,
+        "Name": null
+    },
+    {
+        "ID": 41635,
+        "Name": null
+    },
+    {
+        "ID": 41636,
+        "Name": null
+    },
+    {
+        "ID": 41637,
+        "Name": null
+    },
+    {
+        "ID": 41638,
+        "Name": null
+    },
+    {
+        "ID": 41639,
+        "Name": null
+    },
+    {
+        "ID": 41640,
+        "Name": null
+    },
+    {
+        "ID": 41641,
+        "Name": null
+    },
+    {
+        "ID": 41642,
+        "Name": null
+    },
+    {
+        "ID": 41643,
+        "Name": null
+    },
+    {
+        "ID": 41644,
+        "Name": null
+    },
+    {
+        "ID": 41645,
+        "Name": null
+    },
+    {
+        "ID": 41646,
+        "Name": null
+    },
+    {
+        "ID": 41647,
+        "Name": null
+    },
+    {
+        "ID": 41648,
+        "Name": null
+    },
+    {
+        "ID": 41649,
+        "Name": null
+    },
+    {
+        "ID": 41650,
+        "Name": null
+    },
+    {
+        "ID": 41651,
+        "Name": null
+    },
+    {
+        "ID": 41652,
+        "Name": "Seismostomp"
+    },
+    {
+        "ID": 41653,
+        "Name": "Digest"
+    },
+    {
+        "ID": 41654,
+        "Name": "Goblin Rush"
+    },
+    {
+        "ID": 41655,
+        "Name": "Bomb Toss"
+    },
+    {
+        "ID": 41656,
+        "Name": "Cursed Sphere"
+    },
+    {
+        "ID": 41657,
+        "Name": "Venom"
+    },
+    {
+        "ID": 41658,
+        "Name": "Psyche"
+    },
+    {
+        "ID": 41659,
+        "Name": "Spider Web"
+    },
+    {
+        "ID": 41660,
+        "Name": "Frog Kick"
+    },
+    {
+        "ID": 41661,
+        "Name": "Agaricus"
+    },
+    {
+        "ID": 41662,
+        "Name": "Beatdown"
+    },
+    {
+        "ID": 41663,
+        "Name": "Scoop"
+    },
+    {
+        "ID": 41664,
+        "Name": "Bubble Shower"
+    },
+    {
+        "ID": 41665,
+        "Name": "Small Claw"
+    },
+    {
+        "ID": 41666,
+        "Name": "Water III"
+    },
+    {
+        "ID": 41667,
+        "Name": "Mysterious Light"
+    },
+    {
+        "ID": 41668,
+        "Name": "Double Ray"
+    },
+    {
+        "ID": 41669,
+        "Name": "Carpomission"
+    },
+    {
+        "ID": 41670,
+        "Name": "Isle Drop"
+    },
+    {
+        "ID": 41671,
+        "Name": null
+    },
+    {
+        "ID": 41672,
+        "Name": "Wing Cutter"
+    },
+    {
+        "ID": 41673,
+        "Name": null
+    },
+    {
+        "ID": 41674,
+        "Name": null
+    },
+    {
+        "ID": 41675,
+        "Name": null
+    },
+    {
+        "ID": 41676,
+        "Name": null
+    },
+    {
+        "ID": 41677,
+        "Name": null
+    },
+    {
+        "ID": 41678,
+        "Name": null
+    },
+    {
+        "ID": 41679,
+        "Name": null
+    },
+    {
+        "ID": 41680,
+        "Name": null
+    },
+    {
+        "ID": 41681,
+        "Name": null
+    },
+    {
+        "ID": 41682,
+        "Name": null
+    },
+    {
+        "ID": 41683,
+        "Name": null
+    },
+    {
+        "ID": 41684,
+        "Name": null
+    },
+    {
+        "ID": 41685,
+        "Name": null
+    },
+    {
+        "ID": 41686,
+        "Name": null
+    },
+    {
+        "ID": 41687,
+        "Name": null
+    },
+    {
+        "ID": 41688,
+        "Name": null
+    },
+    {
+        "ID": 41689,
+        "Name": null
+    },
+    {
+        "ID": 41690,
+        "Name": null
+    },
+    {
+        "ID": 41691,
+        "Name": null
+    },
+    {
+        "ID": 41692,
+        "Name": null
+    },
+    {
+        "ID": 41693,
+        "Name": null
+    },
+    {
+        "ID": 41694,
+        "Name": null
+    },
+    {
+        "ID": 41695,
+        "Name": "Peck"
+    },
+    {
+        "ID": 41696,
+        "Name": null
+    },
+    {
+        "ID": 41697,
+        "Name": null
+    },
+    {
+        "ID": 41698,
+        "Name": "Panzerfaust"
+    },
+    {
+        "ID": 41699,
+        "Name": "Isle Drop"
+    },
+    {
+        "ID": 41700,
+        "Name": null
+    },
+    {
+        "ID": 41701,
+        "Name": null
+    },
+    {
+        "ID": 41702,
+        "Name": null
+    },
+    {
+        "ID": 41703,
+        "Name": null
+    },
+    {
+        "ID": 41704,
+        "Name": null
+    },
+    {
+        "ID": 41705,
+        "Name": null
+    },
+    {
+        "ID": 41706,
+        "Name": null
+    },
+    {
+        "ID": 41707,
+        "Name": null
+    },
+    {
+        "ID": 41708,
+        "Name": null
+    },
+    {
+        "ID": 41709,
+        "Name": null
+    },
+    {
+        "ID": 41710,
+        "Name": null
+    },
+    {
+        "ID": 41711,
+        "Name": null
+    },
+    {
+        "ID": 41712,
+        "Name": null
+    },
+    {
+        "ID": 41713,
+        "Name": null
+    },
+    {
+        "ID": 41714,
+        "Name": null
+    },
+    {
+        "ID": 41715,
+        "Name": null
+    },
+    {
+        "ID": 41716,
+        "Name": null
+    },
+    {
+        "ID": 41717,
+        "Name": null
+    },
+    {
+        "ID": 41718,
+        "Name": null
+    },
+    {
+        "ID": 41719,
+        "Name": null
+    },
+    {
+        "ID": 41720,
+        "Name": null
+    },
+    {
+        "ID": 41721,
+        "Name": null
+    },
+    {
+        "ID": 41722,
+        "Name": null
+    },
+    {
+        "ID": 41723,
+        "Name": null
+    },
+    {
+        "ID": 41724,
+        "Name": null
+    },
+    {
+        "ID": 41725,
+        "Name": null
+    },
+    {
+        "ID": 41726,
+        "Name": null
+    },
+    {
+        "ID": 41727,
+        "Name": null
+    },
+    {
+        "ID": 41728,
+        "Name": null
+    },
+    {
+        "ID": 41729,
+        "Name": null
+    },
+    {
+        "ID": 41730,
+        "Name": null
+    },
+    {
+        "ID": 41731,
+        "Name": null
+    },
+    {
+        "ID": 41732,
+        "Name": null
+    },
+    {
+        "ID": 41733,
+        "Name": null
+    },
+    {
+        "ID": 41734,
+        "Name": null
+    },
+    {
+        "ID": 41735,
+        "Name": null
+    },
+    {
+        "ID": 41736,
+        "Name": null
+    },
+    {
+        "ID": 41737,
+        "Name": null
+    },
+    {
+        "ID": 41738,
+        "Name": null
+    },
+    {
+        "ID": 41739,
+        "Name": null
+    },
+    {
+        "ID": 41740,
+        "Name": null
+    },
+    {
+        "ID": 41741,
+        "Name": null
+    },
+    {
+        "ID": 41742,
+        "Name": null
+    },
+    {
+        "ID": 41743,
+        "Name": null
+    },
+    {
+        "ID": 41744,
+        "Name": null
+    },
+    {
+        "ID": 41745,
+        "Name": null
+    },
+    {
+        "ID": 41746,
+        "Name": null
+    },
+    {
+        "ID": 41747,
+        "Name": null
+    },
+    {
+        "ID": 41748,
+        "Name": null
+    },
+    {
+        "ID": 41749,
+        "Name": null
+    },
+    {
+        "ID": 41750,
+        "Name": null
+    },
+    {
+        "ID": 41751,
+        "Name": null
+    },
+    {
+        "ID": 41752,
+        "Name": null
+    },
+    {
+        "ID": 41753,
+        "Name": null
+    },
+    {
+        "ID": 41754,
+        "Name": null
+    },
+    {
+        "ID": 41755,
+        "Name": null
+    },
+    {
+        "ID": 41756,
+        "Name": null
+    },
+    {
+        "ID": 41757,
+        "Name": null
+    },
+    {
+        "ID": 41758,
+        "Name": null
+    },
+    {
+        "ID": 41759,
+        "Name": null
+    },
+    {
+        "ID": 41760,
+        "Name": null
+    },
+    {
+        "ID": 41761,
+        "Name": null
+    },
+    {
+        "ID": 41762,
+        "Name": null
+    },
+    {
+        "ID": 41763,
+        "Name": null
+    },
+    {
+        "ID": 41764,
+        "Name": null
+    },
+    {
+        "ID": 41765,
+        "Name": null
+    },
+    {
+        "ID": 41766,
+        "Name": null
+    },
+    {
+        "ID": 41767,
+        "Name": null
+    },
+    {
+        "ID": 41768,
+        "Name": null
+    },
+    {
+        "ID": 41769,
+        "Name": null
+    },
+    {
+        "ID": 41770,
+        "Name": null
+    },
+    {
+        "ID": 41771,
+        "Name": null
+    },
+    {
+        "ID": 41772,
+        "Name": null
+    },
+    {
+        "ID": 41773,
+        "Name": null
+    },
+    {
+        "ID": 41774,
+        "Name": null
+    },
+    {
+        "ID": 41775,
+        "Name": null
+    },
+    {
+        "ID": 41776,
+        "Name": null
+    },
+    {
+        "ID": 41777,
+        "Name": null
+    },
+    {
+        "ID": 41778,
+        "Name": null
+    },
+    {
+        "ID": 41779,
+        "Name": null
+    },
+    {
+        "ID": 41780,
+        "Name": null
+    },
+    {
+        "ID": 41781,
+        "Name": null
+    },
+    {
+        "ID": 41782,
+        "Name": null
+    },
+    {
+        "ID": 41783,
+        "Name": null
+    },
+    {
+        "ID": 41784,
+        "Name": null
+    },
+    {
+        "ID": 41785,
+        "Name": null
+    },
+    {
+        "ID": 41786,
+        "Name": null
+    },
+    {
+        "ID": 41787,
+        "Name": null
+    },
+    {
+        "ID": 41788,
+        "Name": null
+    },
+    {
+        "ID": 41789,
+        "Name": null
+    },
+    {
+        "ID": 41790,
+        "Name": null
+    },
+    {
+        "ID": 41791,
+        "Name": null
+    },
+    {
+        "ID": 41792,
+        "Name": null
+    },
+    {
+        "ID": 41793,
+        "Name": null
+    },
+    {
+        "ID": 41794,
+        "Name": null
+    },
+    {
+        "ID": 41795,
+        "Name": null
+    },
+    {
+        "ID": 41796,
+        "Name": null
+    },
+    {
+        "ID": 41797,
+        "Name": null
+    },
+    {
+        "ID": 41798,
+        "Name": null
+    },
+    {
+        "ID": 41799,
+        "Name": null
+    },
+    {
+        "ID": 41800,
+        "Name": null
+    },
+    {
+        "ID": 41801,
+        "Name": null
+    },
+    {
+        "ID": 41802,
+        "Name": null
+    },
+    {
+        "ID": 41803,
+        "Name": null
+    },
+    {
+        "ID": 41804,
+        "Name": null
+    },
+    {
+        "ID": 41805,
+        "Name": null
+    },
+    {
+        "ID": 41806,
+        "Name": null
+    },
+    {
+        "ID": 41807,
+        "Name": null
+    },
+    {
+        "ID": 41808,
+        "Name": null
+    },
+    {
+        "ID": 41809,
+        "Name": null
+    },
+    {
+        "ID": 41810,
+        "Name": null
+    },
+    {
+        "ID": 41811,
+        "Name": null
+    },
+    {
+        "ID": 41812,
+        "Name": null
+    },
+    {
+        "ID": 41813,
+        "Name": null
+    },
+    {
+        "ID": 41814,
+        "Name": null
+    },
+    {
+        "ID": 41815,
+        "Name": null
+    },
+    {
+        "ID": 41816,
+        "Name": null
+    },
+    {
+        "ID": 41817,
+        "Name": null
+    },
+    {
+        "ID": 41818,
+        "Name": null
+    },
+    {
+        "ID": 41819,
+        "Name": null
+    },
+    {
+        "ID": 41820,
+        "Name": null
+    },
+    {
+        "ID": 41821,
+        "Name": null
+    },
+    {
+        "ID": 41822,
+        "Name": null
+    },
+    {
+        "ID": 41823,
+        "Name": null
+    },
+    {
+        "ID": 41824,
+        "Name": null
+    },
+    {
+        "ID": 41825,
+        "Name": null
+    },
+    {
+        "ID": 41826,
+        "Name": null
+    },
+    {
+        "ID": 41827,
+        "Name": null
+    },
+    {
+        "ID": 41828,
+        "Name": null
+    },
+    {
+        "ID": 41829,
+        "Name": null
+    },
+    {
+        "ID": 41830,
+        "Name": null
+    },
+    {
+        "ID": 41831,
+        "Name": null
+    },
+    {
+        "ID": 41832,
+        "Name": null
+    },
+    {
+        "ID": 41833,
+        "Name": null
+    },
+    {
+        "ID": 41834,
+        "Name": null
+    },
+    {
+        "ID": 41835,
+        "Name": null
+    },
+    {
+        "ID": 41836,
+        "Name": null
+    },
+    {
+        "ID": 41837,
+        "Name": null
+    },
+    {
+        "ID": 41838,
+        "Name": null
+    },
+    {
+        "ID": 41839,
+        "Name": null
+    },
+    {
+        "ID": 41840,
+        "Name": null
+    },
+    {
+        "ID": 41841,
+        "Name": null
+    },
+    {
+        "ID": 41842,
+        "Name": null
+    },
+    {
+        "ID": 41843,
+        "Name": null
+    },
+    {
+        "ID": 41844,
+        "Name": null
+    },
+    {
+        "ID": 41845,
+        "Name": null
+    },
+    {
+        "ID": 41846,
+        "Name": null
+    },
+    {
+        "ID": 41847,
+        "Name": null
+    },
+    {
+        "ID": 41848,
+        "Name": null
+    },
+    {
+        "ID": 41849,
+        "Name": null
+    },
+    {
+        "ID": 41850,
+        "Name": null
+    },
+    {
+        "ID": 41851,
+        "Name": null
+    },
+    {
+        "ID": 41852,
+        "Name": null
+    },
+    {
+        "ID": 41853,
+        "Name": null
+    },
+    {
+        "ID": 41854,
+        "Name": null
+    },
+    {
+        "ID": 41855,
+        "Name": null
+    },
+    {
+        "ID": 41856,
+        "Name": null
+    },
+    {
+        "ID": 41857,
+        "Name": null
+    },
+    {
+        "ID": 41858,
+        "Name": null
+    },
+    {
+        "ID": 41859,
+        "Name": null
+    },
+    {
+        "ID": 41860,
+        "Name": null
+    },
+    {
+        "ID": 41861,
+        "Name": null
+    },
+    {
+        "ID": 41862,
+        "Name": null
+    },
+    {
+        "ID": 41863,
+        "Name": null
+    },
+    {
+        "ID": 41864,
+        "Name": null
+    },
+    {
+        "ID": 41865,
+        "Name": null
+    },
+    {
+        "ID": 41866,
+        "Name": null
+    },
+    {
+        "ID": 41867,
+        "Name": null
+    },
+    {
+        "ID": 41868,
+        "Name": null
+    },
+    {
+        "ID": 41869,
+        "Name": null
+    },
+    {
+        "ID": 41870,
+        "Name": null
+    },
+    {
+        "ID": 41871,
+        "Name": null
+    },
+    {
+        "ID": 41872,
+        "Name": null
+    },
+    {
+        "ID": 41873,
+        "Name": null
+    },
+    {
+        "ID": 41874,
+        "Name": null
+    },
+    {
+        "ID": 41875,
+        "Name": null
+    },
+    {
+        "ID": 41876,
+        "Name": null
+    },
+    {
+        "ID": 41877,
+        "Name": null
+    },
+    {
+        "ID": 41878,
+        "Name": null
+    },
+    {
+        "ID": 41879,
+        "Name": null
+    },
+    {
+        "ID": 41880,
+        "Name": null
+    },
+    {
+        "ID": 41881,
+        "Name": null
+    },
+    {
+        "ID": 41882,
+        "Name": null
+    },
+    {
+        "ID": 41883,
+        "Name": null
+    },
+    {
+        "ID": 41884,
+        "Name": null
+    },
+    {
+        "ID": 41885,
+        "Name": null
+    },
+    {
+        "ID": 41886,
+        "Name": null
+    },
+    {
+        "ID": 41887,
+        "Name": null
+    },
+    {
+        "ID": 41888,
+        "Name": null
+    },
+    {
+        "ID": 41889,
+        "Name": null
+    },
+    {
+        "ID": 41890,
+        "Name": null
+    },
+    {
+        "ID": 41891,
+        "Name": null
+    },
+    {
+        "ID": 41892,
+        "Name": null
+    },
+    {
+        "ID": 41893,
+        "Name": null
+    },
+    {
+        "ID": 41894,
+        "Name": null
+    },
+    {
+        "ID": 41895,
+        "Name": null
+    },
+    {
+        "ID": 41896,
+        "Name": null
+    },
+    {
+        "ID": 41897,
+        "Name": null
+    },
+    {
+        "ID": 41898,
+        "Name": null
+    },
+    {
+        "ID": 41899,
+        "Name": "Echoes of Agony"
+    },
+    {
+        "ID": 41900,
+        "Name": "Echoes of Agony"
+    },
+    {
+        "ID": 41901,
+        "Name": null
+    },
+    {
+        "ID": 41902,
+        "Name": "Typhoon"
+    },
+    {
+        "ID": 41903,
+        "Name": null
+    },
+    {
+        "ID": 41904,
+        "Name": null
+    },
+    {
+        "ID": 41905,
+        "Name": null
+    },
+    {
+        "ID": 41906,
+        "Name": null
+    },
+    {
+        "ID": 41907,
+        "Name": null
+    },
+    {
+        "ID": 41908,
+        "Name": null
+    },
+    {
+        "ID": 41909,
+        "Name": null
+    },
+    {
+        "ID": 41910,
+        "Name": null
+    },
+    {
+        "ID": 41911,
+        "Name": null
+    },
+    {
+        "ID": 41912,
+        "Name": null
+    },
+    {
+        "ID": 41913,
+        "Name": null
+    },
+    {
+        "ID": 41914,
+        "Name": null
+    },
+    {
+        "ID": 41915,
+        "Name": null
+    },
+    {
+        "ID": 41916,
+        "Name": null
+    },
+    {
+        "ID": 41917,
+        "Name": null
+    },
+    {
+        "ID": 41918,
+        "Name": null
+    },
+    {
+        "ID": 41919,
+        "Name": null
+    },
+    {
+        "ID": 41920,
+        "Name": null
+    },
+    {
+        "ID": 41921,
+        "Name": null
+    },
+    {
+        "ID": 41922,
+        "Name": null
+    },
+    {
+        "ID": 41923,
+        "Name": null
+    },
+    {
+        "ID": 41924,
+        "Name": null
+    },
+    {
+        "ID": 41925,
+        "Name": null
+    },
+    {
+        "ID": 41926,
+        "Name": null
+    },
+    {
+        "ID": 41927,
+        "Name": null
+    },
+    {
+        "ID": 41928,
+        "Name": null
+    },
+    {
+        "ID": 41929,
+        "Name": null
+    },
+    {
+        "ID": 41930,
+        "Name": null
+    },
+    {
+        "ID": 41931,
+        "Name": null
+    },
+    {
+        "ID": 41932,
+        "Name": null
+    },
+    {
+        "ID": 41933,
+        "Name": null
+    },
+    {
+        "ID": 41934,
+        "Name": null
+    },
+    {
+        "ID": 41935,
+        "Name": null
+    },
+    {
+        "ID": 41936,
+        "Name": null
+    },
+    {
+        "ID": 41937,
+        "Name": null
+    },
+    {
+        "ID": 41938,
+        "Name": null
+    },
+    {
+        "ID": 41939,
+        "Name": null
+    },
+    {
+        "ID": 41940,
+        "Name": null
+    },
+    {
+        "ID": 41941,
+        "Name": null
+    },
+    {
+        "ID": 41942,
+        "Name": null
+    },
+    {
+        "ID": 41943,
+        "Name": null
+    },
+    {
+        "ID": 41944,
+        "Name": null
+    },
+    {
+        "ID": 41945,
+        "Name": null
+    },
+    {
+        "ID": 41946,
+        "Name": null
+    },
+    {
+        "ID": 41947,
+        "Name": null
+    },
+    {
+        "ID": 41948,
+        "Name": null
+    },
+    {
+        "ID": 41949,
+        "Name": null
+    },
+    {
+        "ID": 41950,
+        "Name": null
+    },
+    {
+        "ID": 41951,
+        "Name": null
+    },
+    {
+        "ID": 41952,
+        "Name": null
+    },
+    {
+        "ID": 41953,
+        "Name": null
+    },
+    {
+        "ID": 41954,
+        "Name": null
+    },
+    {
+        "ID": 41955,
+        "Name": null
+    },
+    {
+        "ID": 41956,
+        "Name": null
+    },
+    {
+        "ID": 41957,
+        "Name": null
+    },
+    {
+        "ID": 41958,
+        "Name": null
+    },
+    {
+        "ID": 41959,
+        "Name": null
+    },
+    {
+        "ID": 41960,
+        "Name": null
+    },
+    {
+        "ID": 41961,
+        "Name": null
+    },
+    {
+        "ID": 41962,
+        "Name": null
+    },
+    {
+        "ID": 41963,
+        "Name": null
+    },
+    {
+        "ID": 41964,
+        "Name": "Harmonic Arrow"
+    },
+    {
+        "ID": 41965,
+        "Name": null
+    },
+    {
+        "ID": 41966,
+        "Name": null
+    },
+    {
+        "ID": 41967,
+        "Name": null
+    },
+    {
+        "ID": 41968,
+        "Name": null
+    },
+    {
+        "ID": 41969,
+        "Name": null
+    },
+    {
+        "ID": 41970,
+        "Name": null
+    },
+    {
+        "ID": 41971,
+        "Name": null
+    },
+    {
+        "ID": 41972,
+        "Name": null
+    },
+    {
+        "ID": 41973,
+        "Name": null
+    },
+    {
+        "ID": 41974,
+        "Name": null
+    },
+    {
+        "ID": 41975,
+        "Name": null
+    },
+    {
+        "ID": 41976,
+        "Name": null
+    },
+    {
+        "ID": 41977,
+        "Name": null
+    },
+    {
+        "ID": 41978,
+        "Name": null
+    },
+    {
+        "ID": 41979,
+        "Name": null
+    },
+    {
+        "ID": 41980,
+        "Name": null
+    },
+    {
+        "ID": 41981,
+        "Name": null
+    },
+    {
+        "ID": 41982,
+        "Name": null
+    },
+    {
+        "ID": 41983,
+        "Name": null
+    },
+    {
+        "ID": 41984,
+        "Name": null
+    },
+    {
+        "ID": 41985,
+        "Name": null
+    },
+    {
+        "ID": 41986,
+        "Name": null
+    },
+    {
+        "ID": 41987,
+        "Name": null
+    },
+    {
+        "ID": 41988,
+        "Name": null
+    },
+    {
+        "ID": 41989,
+        "Name": null
+    },
+    {
+        "ID": 41990,
+        "Name": null
+    },
+    {
+        "ID": 41991,
+        "Name": null
+    },
+    {
+        "ID": 41992,
+        "Name": null
+    },
+    {
+        "ID": 41993,
+        "Name": null
+    },
+    {
+        "ID": 41994,
+        "Name": null
+    },
+    {
+        "ID": 41995,
+        "Name": null
+    },
+    {
+        "ID": 41996,
+        "Name": null
+    },
+    {
+        "ID": 41997,
+        "Name": null
+    },
+    {
+        "ID": 41998,
+        "Name": null
+    },
+    {
+        "ID": 41999,
+        "Name": null
+    },
+    {
+        "ID": 42000,
+        "Name": null
+    },
+    {
+        "ID": 42001,
+        "Name": null
+    },
+    {
+        "ID": 42002,
+        "Name": null
+    },
+    {
+        "ID": 42003,
+        "Name": null
+    },
+    {
+        "ID": 42004,
+        "Name": null
+    },
+    {
+        "ID": 42005,
+        "Name": null
+    },
+    {
+        "ID": 42006,
+        "Name": null
+    },
+    {
+        "ID": 42007,
+        "Name": null
+    },
+    {
+        "ID": 42008,
+        "Name": null
+    },
+    {
+        "ID": 42009,
+        "Name": null
+    },
+    {
+        "ID": 42010,
+        "Name": null
+    },
+    {
+        "ID": 42011,
+        "Name": null
+    },
+    {
+        "ID": 42012,
+        "Name": null
+    },
+    {
+        "ID": 42013,
+        "Name": null
+    },
+    {
+        "ID": 42014,
+        "Name": null
+    },
+    {
+        "ID": 42015,
+        "Name": null
+    },
+    {
+        "ID": 42016,
+        "Name": null
+    },
+    {
+        "ID": 42017,
+        "Name": null
+    },
+    {
+        "ID": 42018,
+        "Name": null
+    },
+    {
+        "ID": 42019,
+        "Name": null
+    },
+    {
+        "ID": 42020,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42021,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42022,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42023,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42024,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42025,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42026,
+        "Name": null
+    },
+    {
+        "ID": 42027,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42028,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42029,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42030,
+        "Name": "Giga Slash: Nightfall"
+    },
+    {
+        "ID": 42031,
+        "Name": "Rampart"
+    },
+    {
+        "ID": 42032,
+        "Name": null
+    },
+    {
+        "ID": 42033,
+        "Name": null
+    },
+    {
+        "ID": 42034,
+        "Name": null
+    },
+    {
+        "ID": 42035,
+        "Name": null
+    },
+    {
+        "ID": 42036,
+        "Name": null
+    },
+    {
+        "ID": 42037,
+        "Name": null
+    },
+    {
+        "ID": 42038,
+        "Name": null
+    },
+    {
+        "ID": 42039,
+        "Name": null
+    },
+    {
+        "ID": 42040,
+        "Name": null
+    },
+    {
+        "ID": 42041,
+        "Name": null
+    },
+    {
+        "ID": 42042,
+        "Name": null
+    },
+    {
+        "ID": 42043,
+        "Name": null
+    },
+    {
+        "ID": 42044,
+        "Name": null
+    },
+    {
+        "ID": 42045,
+        "Name": null
+    },
+    {
+        "ID": 42046,
+        "Name": null
+    },
+    {
+        "ID": 42047,
+        "Name": null
+    },
+    {
+        "ID": 42048,
+        "Name": null
+    },
+    {
+        "ID": 42049,
+        "Name": null
+    },
+    {
+        "ID": 42050,
+        "Name": null
+    },
+    {
+        "ID": 42051,
+        "Name": null
+    },
+    {
+        "ID": 42052,
+        "Name": "Damning Strikes"
+    },
+    {
+        "ID": 42053,
+        "Name": "Damning Strikes"
+    },
+    {
+        "ID": 42054,
+        "Name": "Damning Strikes"
+    },
+    {
+        "ID": 42055,
+        "Name": "Damning Strikes"
+    },
+    {
+        "ID": 42056,
+        "Name": "Proud Palisade"
+    },
+    {
+        "ID": 42057,
+        "Name": "Tender Flex"
+    },
+    {
+        "ID": 42058,
+        "Name": null
+    },
+    {
+        "ID": 42059,
+        "Name": null
+    },
+    {
+        "ID": 42060,
+        "Name": null
+    },
+    {
+        "ID": 42061,
+        "Name": null
+    },
+    {
+        "ID": 42062,
+        "Name": null
+    },
+    {
+        "ID": 42063,
+        "Name": null
+    },
+    {
+        "ID": 42064,
+        "Name": null
+    },
+    {
+        "ID": 42065,
+        "Name": null
+    },
+    {
+        "ID": 42066,
+        "Name": null
+    },
+    {
+        "ID": 42067,
+        "Name": null
+    },
+    {
+        "ID": 42068,
+        "Name": null
+    },
+    {
+        "ID": 42069,
+        "Name": null
+    },
+    {
+        "ID": 42070,
+        "Name": null
+    },
+    {
+        "ID": 42071,
+        "Name": null
+    },
+    {
+        "ID": 42072,
+        "Name": null
+    },
+    {
+        "ID": 42073,
+        "Name": null
+    },
+    {
+        "ID": 42074,
+        "Name": null
+    },
+    {
+        "ID": 42075,
+        "Name": null
+    },
+    {
+        "ID": 42076,
+        "Name": null
+    },
+    {
+        "ID": 42077,
+        "Name": null
+    },
+    {
+        "ID": 42078,
+        "Name": null
+    },
+    {
+        "ID": 42079,
+        "Name": null
+    },
+    {
+        "ID": 42080,
+        "Name": null
+    },
+    {
+        "ID": 42081,
+        "Name": null
+    },
+    {
+        "ID": 42082,
+        "Name": null
+    },
+    {
+        "ID": 42083,
+        "Name": null
+    },
+    {
+        "ID": 42084,
+        "Name": null
+    },
+    {
+        "ID": 42085,
+        "Name": null
+    },
+    {
+        "ID": 42086,
+        "Name": null
+    },
+    {
+        "ID": 42087,
+        "Name": null
+    },
+    {
+        "ID": 42088,
+        "Name": null
+    },
+    {
+        "ID": 42089,
+        "Name": null
+    },
+    {
+        "ID": 42090,
+        "Name": null
+    },
+    {
+        "ID": 42091,
+        "Name": null
+    },
+    {
+        "ID": 42092,
+        "Name": null
+    },
+    {
+        "ID": 42093,
+        "Name": null
+    },
+    {
+        "ID": 42094,
+        "Name": null
+    },
+    {
+        "ID": 42095,
+        "Name": null
+    },
+    {
+        "ID": 42096,
+        "Name": null
+    },
+    {
+        "ID": 42097,
+        "Name": null
+    },
+    {
+        "ID": 42098,
+        "Name": null
+    },
+    {
+        "ID": 42099,
+        "Name": null
+    },
+    {
+        "ID": 42100,
+        "Name": null
+    },
+    {
+        "ID": 42101,
+        "Name": null
+    },
+    {
+        "ID": 42102,
+        "Name": null
+    },
+    {
+        "ID": 42103,
+        "Name": null
+    },
+    {
+        "ID": 42104,
+        "Name": null
+    },
+    {
+        "ID": 42105,
+        "Name": null
+    },
+    {
+        "ID": 42106,
+        "Name": null
+    },
+    {
+        "ID": 42107,
+        "Name": null
+    },
+    {
+        "ID": 42108,
+        "Name": null
+    },
+    {
+        "ID": 42109,
+        "Name": null
+    },
+    {
+        "ID": 42110,
+        "Name": null
+    },
+    {
+        "ID": 42111,
+        "Name": null
+    },
+    {
+        "ID": 42112,
+        "Name": null
+    },
+    {
+        "ID": 42113,
+        "Name": null
+    },
+    {
+        "ID": 42114,
+        "Name": null
+    },
+    {
+        "ID": 42115,
+        "Name": null
+    },
+    {
+        "ID": 42116,
+        "Name": null
+    },
+    {
+        "ID": 42117,
+        "Name": null
+    },
+    {
+        "ID": 42118,
+        "Name": null
+    },
+    {
+        "ID": 42119,
+        "Name": null
+    },
+    {
+        "ID": 42120,
+        "Name": null
+    },
+    {
+        "ID": 42121,
+        "Name": null
+    },
+    {
+        "ID": 42122,
+        "Name": null
+    },
+    {
+        "ID": 42123,
+        "Name": null
+    },
+    {
+        "ID": 42124,
+        "Name": null
+    },
+    {
+        "ID": 42125,
+        "Name": null
+    },
+    {
+        "ID": 42126,
+        "Name": null
+    },
+    {
+        "ID": 42127,
+        "Name": null
+    },
+    {
+        "ID": 42128,
+        "Name": null
+    },
+    {
+        "ID": 42129,
+        "Name": null
+    },
+    {
+        "ID": 42130,
+        "Name": null
+    },
+    {
+        "ID": 42131,
+        "Name": null
+    },
+    {
+        "ID": 42132,
+        "Name": null
+    },
+    {
+        "ID": 42133,
+        "Name": null
+    },
+    {
+        "ID": 42134,
+        "Name": null
+    },
+    {
+        "ID": 42135,
+        "Name": null
+    },
+    {
+        "ID": 42136,
+        "Name": null
+    },
+    {
+        "ID": 42137,
+        "Name": null
+    },
+    {
+        "ID": 42138,
+        "Name": null
+    },
+    {
+        "ID": 42139,
+        "Name": null
+    },
+    {
+        "ID": 42140,
+        "Name": null
+    },
+    {
+        "ID": 42141,
+        "Name": null
+    },
+    {
+        "ID": 42142,
+        "Name": null
+    },
+    {
+        "ID": 42143,
+        "Name": null
+    },
+    {
+        "ID": 42144,
+        "Name": null
+    },
+    {
+        "ID": 42145,
+        "Name": null
+    },
+    {
+        "ID": 42146,
+        "Name": null
+    },
+    {
+        "ID": 42147,
+        "Name": null
+    },
+    {
+        "ID": 42148,
+        "Name": null
+    },
+    {
+        "ID": 42149,
+        "Name": null
+    },
+    {
+        "ID": 42150,
+        "Name": null
+    },
+    {
+        "ID": 42151,
+        "Name": null
+    },
+    {
+        "ID": 42152,
+        "Name": null
+    },
+    {
+        "ID": 42153,
+        "Name": null
+    },
+    {
+        "ID": 42154,
+        "Name": null
+    },
+    {
+        "ID": 42155,
+        "Name": null
+    },
+    {
+        "ID": 42156,
+        "Name": null
+    },
+    {
+        "ID": 42157,
+        "Name": null
+    },
+    {
+        "ID": 42158,
+        "Name": null
+    },
+    {
+        "ID": 42159,
+        "Name": null
+    },
+    {
+        "ID": 42160,
+        "Name": null
+    },
+    {
+        "ID": 42161,
+        "Name": null
+    },
+    {
+        "ID": 42162,
+        "Name": null
+    },
+    {
+        "ID": 42163,
+        "Name": null
+    },
+    {
+        "ID": 42164,
+        "Name": "Word of the Wood"
+    },
+    {
+        "ID": 42165,
+        "Name": "Word of the Wood"
+    },
+    {
+        "ID": 42166,
+        "Name": "Word of the Wood"
+    },
+    {
+        "ID": 42167,
+        "Name": "Word of the Wood"
+    },
+    {
+        "ID": 42168,
+        "Name": "Word of the Wood"
+    },
+    {
+        "ID": 42169,
+        "Name": "Word of the Wood"
+    },
+    {
+        "ID": 42170,
+        "Name": "Word of the Wood"
+    },
+    {
+        "ID": 42171,
+        "Name": "Word of the Wood"
+    },
+    {
+        "ID": 42172,
+        "Name": "Noxious Sap"
+    },
+    {
+        "ID": 42173,
+        "Name": "Noxious Sap"
+    },
+    {
+        "ID": 42174,
+        "Name": "Noxious Sap"
+    },
+    {
+        "ID": 42175,
+        "Name": null
+    },
+    {
+        "ID": 42176,
+        "Name": null
+    },
+    {
+        "ID": 42177,
+        "Name": null
+    },
+    {
+        "ID": 42178,
+        "Name": null
+    },
+    {
+        "ID": 42179,
+        "Name": null
+    },
+    {
+        "ID": 42180,
+        "Name": null
+    },
+    {
+        "ID": 42181,
+        "Name": null
+    },
+    {
+        "ID": 42182,
+        "Name": null
+    },
+    {
+        "ID": 42183,
+        "Name": null
+    },
+    {
+        "ID": 42184,
+        "Name": null
+    },
+    {
+        "ID": 42185,
+        "Name": null
+    },
+    {
+        "ID": 42186,
+        "Name": null
+    },
+    {
+        "ID": 42187,
+        "Name": null
+    },
+    {
+        "ID": 42188,
+        "Name": null
+    },
+    {
+        "ID": 42189,
+        "Name": null
+    },
+    {
+        "ID": 42190,
+        "Name": null
+    },
+    {
+        "ID": 42191,
+        "Name": null
+    },
+    {
+        "ID": 42192,
+        "Name": null
+    },
+    {
+        "ID": 42193,
+        "Name": "Power Wave"
+    },
+    {
+        "ID": 42194,
+        "Name": "Confiteor"
+    },
+    {
+        "ID": 42195,
+        "Name": null
+    },
+    {
+        "ID": 42196,
+        "Name": null
+    },
+    {
+        "ID": 42197,
+        "Name": null
+    },
+    {
+        "ID": 42198,
+        "Name": null
+    },
+    {
+        "ID": 42199,
+        "Name": null
+    },
+    {
+        "ID": 42200,
+        "Name": null
+    },
+    {
+        "ID": 42201,
+        "Name": null
+    },
+    {
+        "ID": 42202,
+        "Name": null
+    },
+    {
+        "ID": 42203,
+        "Name": null
+    },
+    {
+        "ID": 42204,
+        "Name": null
+    },
+    {
+        "ID": 42205,
+        "Name": null
+    },
+    {
+        "ID": 42206,
+        "Name": null
+    },
+    {
+        "ID": 42207,
+        "Name": null
+    },
+    {
+        "ID": 42208,
+        "Name": null
+    },
+    {
+        "ID": 42209,
+        "Name": null
+    },
+    {
+        "ID": 42210,
+        "Name": null
+    },
+    {
+        "ID": 42211,
+        "Name": null
+    },
+    {
+        "ID": 42212,
+        "Name": null
+    },
+    {
+        "ID": 42213,
+        "Name": null
+    },
+    {
+        "ID": 42214,
+        "Name": null
+    },
+    {
+        "ID": 42215,
+        "Name": null
+    },
+    {
+        "ID": 42216,
+        "Name": null
+    },
+    {
+        "ID": 42217,
+        "Name": null
+    },
+    {
+        "ID": 42218,
+        "Name": null
+    },
+    {
+        "ID": 42219,
+        "Name": null
+    },
+    {
+        "ID": 42220,
+        "Name": null
+    },
+    {
+        "ID": 42221,
+        "Name": null
+    },
+    {
+        "ID": 42222,
+        "Name": null
+    },
+    {
+        "ID": 42223,
+        "Name": null
+    },
+    {
+        "ID": 42224,
+        "Name": null
+    },
+    {
+        "ID": 42225,
+        "Name": null
+    },
+    {
+        "ID": 42226,
+        "Name": null
+    },
+    {
+        "ID": 42227,
+        "Name": null
+    },
+    {
+        "ID": 42228,
+        "Name": null
+    },
+    {
+        "ID": 42229,
+        "Name": null
+    },
+    {
+        "ID": 42230,
+        "Name": null
+    },
+    {
+        "ID": 42231,
+        "Name": null
+    },
+    {
+        "ID": 42232,
+        "Name": null
+    },
+    {
+        "ID": 42233,
+        "Name": null
+    },
+    {
+        "ID": 42234,
+        "Name": null
+    },
+    {
+        "ID": 42235,
+        "Name": null
+    },
+    {
+        "ID": 42236,
+        "Name": null
+    },
+    {
+        "ID": 42237,
+        "Name": null
+    },
+    {
+        "ID": 42238,
+        "Name": null
+    },
+    {
+        "ID": 42239,
+        "Name": null
+    },
+    {
+        "ID": 42240,
+        "Name": null
+    },
+    {
+        "ID": 42241,
+        "Name": null
+    },
+    {
+        "ID": 42242,
+        "Name": null
+    },
+    {
+        "ID": 42243,
+        "Name": null
+    },
+    {
+        "ID": 42244,
+        "Name": null
+    },
+    {
+        "ID": 42245,
+        "Name": null
+    },
+    {
+        "ID": 42246,
+        "Name": null
+    },
+    {
+        "ID": 42247,
+        "Name": null
+    },
+    {
+        "ID": 42248,
+        "Name": null
+    },
+    {
+        "ID": 42249,
+        "Name": null
+    },
+    {
+        "ID": 42250,
+        "Name": null
+    },
+    {
+        "ID": 42251,
+        "Name": null
+    },
+    {
+        "ID": 42252,
+        "Name": null
+    },
+    {
+        "ID": 42253,
+        "Name": null
+    },
+    {
+        "ID": 42254,
+        "Name": null
+    },
+    {
+        "ID": 42255,
+        "Name": null
+    },
+    {
+        "ID": 42256,
+        "Name": null
+    },
+    {
+        "ID": 42257,
+        "Name": null
+    },
+    {
+        "ID": 42258,
+        "Name": null
+    },
+    {
+        "ID": 42259,
+        "Name": null
+    },
+    {
+        "ID": 42260,
+        "Name": null
+    },
+    {
+        "ID": 42261,
+        "Name": null
+    },
+    {
+        "ID": 42262,
+        "Name": null
+    },
+    {
+        "ID": 42263,
+        "Name": null
+    },
+    {
+        "ID": 42264,
+        "Name": null
+    },
+    {
+        "ID": 42265,
+        "Name": null
+    },
+    {
+        "ID": 42266,
+        "Name": null
+    },
+    {
+        "ID": 42267,
+        "Name": null
+    },
+    {
+        "ID": 42268,
+        "Name": null
+    },
+    {
+        "ID": 42269,
+        "Name": null
+    },
+    {
+        "ID": 42270,
+        "Name": null
+    },
+    {
+        "ID": 42271,
+        "Name": null
+    },
+    {
+        "ID": 42272,
+        "Name": null
+    },
+    {
+        "ID": 42273,
+        "Name": null
+    },
+    {
+        "ID": 42274,
+        "Name": null
+    },
+    {
+        "ID": 42275,
+        "Name": null
+    },
+    {
+        "ID": 42276,
+        "Name": null
+    },
+    {
+        "ID": 42277,
+        "Name": null
+    },
+    {
+        "ID": 42278,
+        "Name": null
+    },
+    {
+        "ID": 42279,
+        "Name": null
+    },
+    {
+        "ID": 42280,
+        "Name": null
+    },
+    {
+        "ID": 42281,
+        "Name": null
+    },
+    {
+        "ID": 42282,
+        "Name": null
+    },
+    {
+        "ID": 42283,
+        "Name": null
+    },
+    {
+        "ID": 42284,
+        "Name": null
+    },
+    {
+        "ID": 42285,
+        "Name": null
+    },
+    {
+        "ID": 42286,
+        "Name": null
+    },
+    {
+        "ID": 42287,
+        "Name": null
+    },
+    {
+        "ID": 42288,
+        "Name": null
+    },
+    {
+        "ID": 42289,
+        "Name": null
+    },
+    {
+        "ID": 42290,
+        "Name": null
+    },
+    {
+        "ID": 42291,
+        "Name": null
+    },
+    {
+        "ID": 42292,
+        "Name": null
+    },
+    {
+        "ID": 42293,
+        "Name": null
+    },
+    {
+        "ID": 42294,
+        "Name": null
+    },
+    {
+        "ID": 42295,
+        "Name": null
+    },
+    {
+        "ID": 42296,
+        "Name": null
+    },
+    {
+        "ID": 42297,
+        "Name": null
+    },
+    {
+        "ID": 42298,
+        "Name": null
+    },
+    {
+        "ID": 42299,
+        "Name": null
+    },
+    {
+        "ID": 42300,
         "Name": null
     }
 ]

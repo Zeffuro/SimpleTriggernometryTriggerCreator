@@ -81637,7 +81637,7 @@
     },
     {
         "ID": 20410,
-        "Name": "Katana of Althyk"
+        "Name": "Katana of the Keeper"
     },
     {
         "ID": 20411,
@@ -114437,7 +114437,7 @@
     },
     {
         "ID": 28610,
-        "Name": "copy of <Emphasis>Ballroom Etiquette - Rival Imitation</Emphasis>"
+        "Name": "copy of <Emphasis>Ballroom Etiquette - Omega Simulations</Emphasis>"
     },
     {
         "ID": 28611,
@@ -161805,19 +161805,19 @@
     },
     {
         "ID": 40452,
-        "Name": null
+        "Name": "Far Eastern performer's mask"
     },
     {
         "ID": 40453,
-        "Name": null
+        "Name": "Far Eastern performer's dogi"
     },
     {
         "ID": 40454,
-        "Name": null
+        "Name": "pair of Far Eastern performer's kyakui"
     },
     {
         "ID": 40455,
-        "Name": null
+        "Name": "pair of Far Eastern performer's zori"
     },
     {
         "ID": 40456,
@@ -165273,15 +165273,15 @@
     },
     {
         "ID": 41319,
-        "Name": null
+        "Name": "Season Twelve final conflict chit"
     },
     {
         "ID": 41320,
-        "Name": null
+        "Name": "Season Twelve endless conflict chit"
     },
     {
         "ID": 41321,
-        "Name": null
+        "Name": "Season Twelve rising conflict chit"
     },
     {
         "ID": 41322,
@@ -165429,39 +165429,39 @@
     },
     {
         "ID": 41358,
-        "Name": null
+        "Name": "Season Twelve final conflict framer's kit"
     },
     {
         "ID": 41359,
-        "Name": null
+        "Name": "Season Twelve endless conflict framer's kit"
     },
     {
         "ID": 41360,
-        "Name": null
+        "Name": "Season Twelve rising conflict framer's kit"
     },
     {
         "ID": 41361,
-        "Name": null
+        "Name": "Season Twelve Crystal framer's kit"
     },
     {
         "ID": 41362,
-        "Name": null
+        "Name": "Season Twelve Diamond framer's kit"
     },
     {
         "ID": 41363,
-        "Name": null
+        "Name": "Season Twelve Platinum framer's kit"
     },
     {
         "ID": 41364,
-        "Name": null
+        "Name": "Season Twelve Gold framer's kit"
     },
     {
         "ID": 41365,
-        "Name": null
+        "Name": "Season Twelve Silver framer's kit"
     },
     {
         "ID": 41366,
-        "Name": null
+        "Name": "Season Twelve Bronze framer's kit"
     },
     {
         "ID": 41367,
@@ -165841,7 +165841,7 @@
     },
     {
         "ID": 41461,
-        "Name": null
+        "Name": "\u6f14\u6280\u6559\u672c:\u30cf\u30fc\u30c8\u30dd\u30fc\u30ba"
     },
     {
         "ID": 41462,
@@ -167225,7 +167225,7 @@
     },
     {
         "ID": 41807,
-        "Name": "rroneek horn token"
+        "Name": "mount token"
     },
     {
         "ID": 41808,
@@ -167249,7 +167249,7 @@
     },
     {
         "ID": 41813,
-        "Name": null
+        "Name": "wine coupe tower"
     },
     {
         "ID": 41814,
@@ -174253,7 +174253,7 @@
     },
     {
         "ID": 43564,
-        "Name": null
+        "Name": "company seal voucher"
     },
     {
         "ID": 43565,
@@ -174353,7 +174353,7 @@
     },
     {
         "ID": 43589,
-        "Name": null
+        "Name": "wind-up Erenville"
     },
     {
         "ID": 43590,
@@ -176285,7 +176285,7 @@
     },
     {
         "ID": 44072,
-        "Name": "axe beak wing"
+        "Name": "Alexandrian axe beak wing"
     },
     {
         "ID": 44073,
@@ -177089,7 +177089,7 @@
     },
     {
         "ID": 44273,
-        "Name": "bouncing bomb balloon"
+        "Name": "set of bouncing bomb balloons"
     },
     {
         "ID": 44274,
@@ -177353,43 +177353,43 @@
     },
     {
         "ID": 44339,
-        "Name": null
+        "Name": "Icuvlo's barter"
     },
     {
         "ID": 44340,
-        "Name": null
+        "Name": "moongripper"
     },
     {
         "ID": 44341,
-        "Name": null
+        "Name": "cazuela crab"
     },
     {
         "ID": 44342,
-        "Name": null
+        "Name": "Stardust sleeper"
     },
     {
         "ID": 44343,
-        "Name": null
+        "Name": "Ilyon Asoh cichlid"
     },
     {
         "ID": 44344,
-        "Name": null
+        "Name": "pixel loach"
     },
     {
         "ID": 44345,
-        "Name": null
+        "Name": "Hwittayoanaan cichlid"
     },
     {
         "ID": 44346,
-        "Name": null
+        "Name": "thunderswift trout"
     },
     {
         "ID": 44347,
-        "Name": null
+        "Name": "cloudsail"
     },
     {
         "ID": 44348,
-        "Name": null
+        "Name": "irregular tomestone of phantasmagoria"
     },
     {
         "ID": 44349,
@@ -177397,15 +177397,15 @@
     },
     {
         "ID": 44350,
-        "Name": null
+        "Name": "Seal Rock framer's kit"
     },
     {
         "ID": 44351,
-        "Name": null
+        "Name": "Red Sands framer's kit"
     },
     {
         "ID": 44352,
-        "Name": null
+        "Name": "loose fit attire coffer"
     },
     {
         "ID": 44353,
@@ -177457,146 +177457,5346 @@
     },
     {
         "ID": 44365,
-        "Name": null
+        "Name": "painting of Bayside Bevy"
     },
     {
         "ID": 44366,
-        "Name": null
+        "Name": "painting of the Resplendent Quarter"
     },
     {
         "ID": 44367,
-        "Name": null
+        "Name": "painting of High Tide Harbor"
     },
     {
         "ID": 44368,
-        "Name": null
+        "Name": "painting of the For'ard Cabins"
     },
     {
         "ID": 44369,
-        "Name": null
+        "Name": "painting of Hunu'iliy"
     },
     {
         "ID": 44370,
-        "Name": null
+        "Name": "painting of Wachunpelo"
     },
     {
         "ID": 44371,
-        "Name": null
+        "Name": "painting of Miplu's Mate Garden"
     },
     {
         "ID": 44372,
-        "Name": null
+        "Name": "painting of the Shades of Grief"
     },
     {
         "ID": 44373,
-        "Name": null
+        "Name": "painting of Naryor Gorna"
     },
     {
         "ID": 44374,
-        "Name": null
+        "Name": "painting of Chirwagur Saltern"
     },
     {
         "ID": 44375,
-        "Name": null
+        "Name": "painting of Worqor Lar Dor"
     },
     {
         "ID": 44376,
-        "Name": null
+        "Name": "painting of the House of Winds High"
     },
     {
         "ID": 44377,
-        "Name": null
+        "Name": "painting of Cave Kikitola"
     },
     {
         "ID": 44378,
-        "Name": null
+        "Name": "painting of Breath Between"
     },
     {
         "ID": 44379,
-        "Name": null
+        "Name": "painting of Kozanuakiy"
     },
     {
         "ID": 44380,
-        "Name": null
+        "Name": "painting of Earthenshire"
     },
     {
         "ID": 44381,
-        "Name": null
+        "Name": "painting of Marsh Ligaka"
     },
     {
         "ID": 44382,
-        "Name": null
+        "Name": "painting of Iq Br'aax"
     },
     {
         "ID": 44383,
-        "Name": null
+        "Name": "painting of Iq Rrax Tsoly"
     },
     {
         "ID": 44384,
-        "Name": null
+        "Name": "painting of the Xobr'it Cinderfield"
     },
     {
         "ID": 44385,
-        "Name": null
+        "Name": "painting of Choliselvaas"
     },
     {
         "ID": 44386,
-        "Name": null
+        "Name": "painting of the Ja Tiika Heartland"
     },
     {
         "ID": 44387,
-        "Name": null
+        "Name": "painting of the tree of living light"
     },
     {
         "ID": 44388,
-        "Name": null
+        "Name": "painting of Hhusatahwi"
     },
     {
         "ID": 44389,
-        "Name": null
+        "Name": "painting of Mehwahhetsoan"
     },
     {
         "ID": 44390,
-        "Name": null
+        "Name": "painting of Lake Toari"
     },
     {
         "ID": 44391,
-        "Name": null
+        "Name": "painting of Pyaayehe'pya"
     },
     {
         "ID": 44392,
-        "Name": null
+        "Name": "painting of Mount Loazensasaya"
     },
     {
         "ID": 44393,
-        "Name": null
+        "Name": "painting of Resolution"
     },
     {
         "ID": 44394,
-        "Name": null
+        "Name": "painting of the residential sector"
     },
     {
         "ID": 44395,
-        "Name": null
+        "Name": "painting of Mosaic"
     },
     {
         "ID": 44396,
-        "Name": null
+        "Name": "painting of True Vue"
     },
     {
         "ID": 44397,
-        "Name": null
+        "Name": "painting of the Nexus Arcade"
     },
     {
         "ID": 44398,
-        "Name": null
+        "Name": "painting of the Thunderyards"
     },
     {
         "ID": 44399,
-        "Name": null
+        "Name": "painting of the outskirts"
     },
     {
         "ID": 44400,
+        "Name": "painting of Everkeep"
+    },
+    {
+        "ID": 44401,
+        "Name": "painting of the crackling chasm"
+    },
+    {
+        "ID": 44402,
+        "Name": "painting of the nameslates"
+    },
+    {
+        "ID": 44403,
+        "Name": "painting of Archeo Alexandria"
+    },
+    {
+        "ID": 44404,
+        "Name": "painting of the Meso Terminal"
+    },
+    {
+        "ID": 44405,
+        "Name": "painting of Canal Town"
+    },
+    {
+        "ID": 44406,
+        "Name": "painting of Yesterland"
+    },
+    {
+        "ID": 44407,
+        "Name": "painting of Windspath Gardens"
+    },
+    {
+        "ID": 44408,
+        "Name": "painting of Asyle Volcane"
+    },
+    {
+        "ID": 44409,
+        "Name": "painting of the Steps of the Speaker"
+    },
+    {
+        "ID": 44410,
+        "Name": "neophyte's ring"
+    },
+    {
+        "ID": 44411,
+        "Name": "everseeker's saw"
+    },
+    {
+        "ID": 44412,
+        "Name": "everseeker's cross-pein hammer"
+    },
+    {
+        "ID": 44413,
+        "Name": "everseeker's raising hammer"
+    },
+    {
+        "ID": 44414,
+        "Name": "everseeker's lapidary hammer"
+    },
+    {
+        "ID": 44415,
+        "Name": "everseeker's creasing knife"
+    },
+    {
+        "ID": 44416,
+        "Name": "everseeker's needle"
+    },
+    {
+        "ID": 44417,
+        "Name": "everseeker's alembic"
+    },
+    {
+        "ID": 44418,
+        "Name": "everseeker's bomb frypan"
+    },
+    {
+        "ID": 44419,
+        "Name": "everseeker's pickaxe"
+    },
+    {
+        "ID": 44420,
+        "Name": "everseeker's hatchet"
+    },
+    {
+        "ID": 44421,
+        "Name": "everseeker's fishing rod"
+    },
+    {
+        "ID": 44422,
+        "Name": "everseeker's claw hammer"
+    },
+    {
+        "ID": 44423,
+        "Name": "everseeker's file"
+    },
+    {
+        "ID": 44424,
+        "Name": "pair of everseeker's pliers"
+    },
+    {
+        "ID": 44425,
+        "Name": "everseeker's grinding wheel"
+    },
+    {
+        "ID": 44426,
+        "Name": "everseeker's awl"
+    },
+    {
+        "ID": 44427,
+        "Name": "everseeker's spinning wheel"
+    },
+    {
+        "ID": 44428,
+        "Name": "everseeker's mortar"
+    },
+    {
+        "ID": 44429,
+        "Name": "everseeker's culinary knife"
+    },
+    {
+        "ID": 44430,
+        "Name": "everseeker's sledgehammer"
+    },
+    {
+        "ID": 44431,
+        "Name": "everseeker's garden scythe"
+    },
+    {
+        "ID": 44432,
+        "Name": "set of everseeker's headgear of crafting"
+    },
+    {
+        "ID": 44433,
+        "Name": "everseeker's top of crafting"
+    },
+    {
+        "ID": 44434,
+        "Name": "pair of everseeker's armguards of crafting"
+    },
+    {
+        "ID": 44435,
+        "Name": "pair of everseeker's slops of crafting"
+    },
+    {
+        "ID": 44436,
+        "Name": "pair of everseeker's workboots of crafting"
+    },
+    {
+        "ID": 44437,
+        "Name": "pair of everseeker's goggles of gathering"
+    },
+    {
+        "ID": 44438,
+        "Name": "everseeker's coat of gathering"
+    },
+    {
+        "ID": 44439,
+        "Name": "pair of everseeker's gloves of gathering"
+    },
+    {
+        "ID": 44440,
+        "Name": "pair of everseeker's kecks of gathering"
+    },
+    {
+        "ID": 44441,
+        "Name": "pair of everseeker's shoes of gathering"
+    },
+    {
+        "ID": 44442,
+        "Name": null
+    },
+    {
+        "ID": 44443,
+        "Name": null
+    },
+    {
+        "ID": 44444,
+        "Name": null
+    },
+    {
+        "ID": 44445,
+        "Name": null
+    },
+    {
+        "ID": 44446,
+        "Name": null
+    },
+    {
+        "ID": 44447,
+        "Name": null
+    },
+    {
+        "ID": 44448,
+        "Name": null
+    },
+    {
+        "ID": 44449,
+        "Name": null
+    },
+    {
+        "ID": 44450,
+        "Name": null
+    },
+    {
+        "ID": 44451,
+        "Name": null
+    },
+    {
+        "ID": 44452,
+        "Name": null
+    },
+    {
+        "ID": 44453,
+        "Name": null
+    },
+    {
+        "ID": 44454,
+        "Name": null
+    },
+    {
+        "ID": 44455,
+        "Name": null
+    },
+    {
+        "ID": 44456,
+        "Name": null
+    },
+    {
+        "ID": 44457,
+        "Name": null
+    },
+    {
+        "ID": 44458,
+        "Name": null
+    },
+    {
+        "ID": 44459,
+        "Name": null
+    },
+    {
+        "ID": 44460,
+        "Name": null
+    },
+    {
+        "ID": 44461,
+        "Name": null
+    },
+    {
+        "ID": 44462,
+        "Name": null
+    },
+    {
+        "ID": 44463,
+        "Name": null
+    },
+    {
+        "ID": 44464,
+        "Name": null
+    },
+    {
+        "ID": 44465,
+        "Name": null
+    },
+    {
+        "ID": 44466,
+        "Name": null
+    },
+    {
+        "ID": 44467,
+        "Name": null
+    },
+    {
+        "ID": 44468,
+        "Name": null
+    },
+    {
+        "ID": 44469,
+        "Name": null
+    },
+    {
+        "ID": 44470,
+        "Name": null
+    },
+    {
+        "ID": 44471,
+        "Name": null
+    },
+    {
+        "ID": 44472,
+        "Name": "Pelu pelplume"
+    },
+    {
+        "ID": 44473,
+        "Name": "Overseer Kanilokka card"
+    },
+    {
+        "ID": 44474,
+        "Name": "Ark Angel MR card"
+    },
+    {
+        "ID": 44475,
+        "Name": "Ark Angel TT card"
+    },
+    {
+        "ID": 44476,
+        "Name": "Ark Angel GK card"
+    },
+    {
+        "ID": 44477,
+        "Name": "Ark Angel HM card"
+    },
+    {
+        "ID": 44478,
+        "Name": "Ark Angel EV card"
+    },
+    {
+        "ID": 44479,
+        "Name": "Ttokrrone card"
+    },
+    {
+        "ID": 44480,
+        "Name": "Mica the Magical Mu card"
+    },
+    {
+        "ID": 44481,
+        "Name": "Prishe of the Distant Chains card"
+    },
+    {
+        "ID": 44482,
+        "Name": "Shadow Lord card"
+    },
+    {
+        "ID": 44483,
+        "Name": "Nano Lord"
+    },
+    {
+        "ID": 44484,
+        "Name": null
+    },
+    {
+        "ID": 44485,
+        "Name": "Adamant Weapon"
+    },
+    {
+        "ID": 44486,
+        "Name": "toco toquito"
+    },
+    {
+        "ID": 44487,
+        "Name": "shshuye"
+    },
+    {
+        "ID": 44488,
+        "Name": "spinettesaurus"
+    },
+    {
+        "ID": 44489,
+        "Name": "wind-up Pelupelu"
+    },
+    {
+        "ID": 44490,
+        "Name": "tin soldier S3"
+    },
+    {
+        "ID": 44491,
+        "Name": null
+    },
+    {
+        "ID": 44492,
+        "Name": null
+    },
+    {
+        "ID": 44493,
+        "Name": "wind-up Themis"
+    },
+    {
+        "ID": 44494,
+        "Name": "the Lawnblazer"
+    },
+    {
+        "ID": 44495,
+        "Name": "set of eternal barding"
+    },
+    {
+        "ID": 44496,
+        "Name": "set of Starlight Stalls barding"
+    },
+    {
+        "ID": 44497,
+        "Name": "punutiy horn"
+    },
+    {
+        "ID": 44498,
+        "Name": null
+    },
+    {
+        "ID": 44499,
+        "Name": "pair of wings of eternity"
+    },
+    {
+        "ID": 44500,
+        "Name": null
+    },
+    {
+        "ID": 44501,
+        "Name": null
+    },
+    {
+        "ID": 44502,
+        "Name": "barreltender whistle"
+    },
+    {
+        "ID": 44503,
+        "Name": null
+    },
+    {
+        "ID": 44504,
+        "Name": null
+    },
+    {
+        "ID": 44505,
+        "Name": null
+    },
+    {
+        "ID": 44506,
+        "Name": "copy of <Emphasis>Modern Aesthetics - Doing the Wave</Emphasis>"
+    },
+    {
+        "ID": 44507,
+        "Name": null
+    },
+    {
+        "ID": 44508,
+        "Name": "copy of <Emphasis>Ballroom Etiquette - Awaiting Orders</Emphasis>"
+    },
+    {
+        "ID": 44509,
+        "Name": null
+    },
+    {
+        "ID": 44510,
+        "Name": "copy of <Emphasis>Ballroom Etiquette - Fancy Beverages</Emphasis>"
+    },
+    {
+        "ID": 44511,
+        "Name": "copy of <Emphasis>Ballroom Etiquette - Flowerbed Maintenance</Emphasis>"
+    },
+    {
+        "ID": 44512,
+        "Name": "copy of <Emphasis>Ballroom Etiquette - Bubbly Diversions</Emphasis>"
+    },
+    {
+        "ID": 44513,
+        "Name": null
+    },
+    {
+        "ID": 44514,
+        "Name": "Ark Angel's circlet of fending"
+    },
+    {
+        "ID": 44515,
+        "Name": "Ark Angel's tunic of fending"
+    },
+    {
+        "ID": 44516,
+        "Name": "pair of Ark Angel's armguards of fending"
+    },
+    {
+        "ID": 44517,
+        "Name": "pair of Ark Angel's breeches of fending"
+    },
+    {
+        "ID": 44518,
+        "Name": "pair of Ark Angel's thighboots of fending"
+    },
+    {
+        "ID": 44519,
+        "Name": "Ark Angel's visor of maiming"
+    },
+    {
+        "ID": 44520,
+        "Name": "Ark Angel's cuirass of maiming"
+    },
+    {
+        "ID": 44521,
+        "Name": "pair of Ark Angel's gauntlets of maiming"
+    },
+    {
+        "ID": 44522,
+        "Name": "pair of Ark Angel's breeches of maiming"
+    },
+    {
+        "ID": 44523,
+        "Name": "pair of Ark Angel's thighboots of maiming"
+    },
+    {
+        "ID": 44524,
+        "Name": "Ark Angel's visor of striking"
+    },
+    {
+        "ID": 44525,
+        "Name": "Ark Angel's cuirass of striking"
+    },
+    {
+        "ID": 44526,
+        "Name": "pair of Ark Angel's gauntlets of striking"
+    },
+    {
+        "ID": 44527,
+        "Name": "pair of Ark Angel's breeches of striking"
+    },
+    {
+        "ID": 44528,
+        "Name": "pair of Ark Angel's thighboots of striking"
+    },
+    {
+        "ID": 44529,
+        "Name": "Ark Angel's circlet of aiming"
+    },
+    {
+        "ID": 44530,
+        "Name": "Ark Angel's corselet of aiming"
+    },
+    {
+        "ID": 44531,
+        "Name": "pair of Ark Angel's vambraces of aiming"
+    },
+    {
+        "ID": 44532,
+        "Name": "pair of Ark Angel's poleyns of aiming"
+    },
+    {
+        "ID": 44533,
+        "Name": "pair of Ark Angel's sabatons of aiming"
+    },
+    {
+        "ID": 44534,
+        "Name": "Ark Angel's face guard of scouting"
+    },
+    {
+        "ID": 44535,
+        "Name": "Ark Angel's corselet of scouting"
+    },
+    {
+        "ID": 44536,
+        "Name": "pair of Ark Angel's vambraces of scouting"
+    },
+    {
+        "ID": 44537,
+        "Name": "pair of Ark Angel's breeches of scouting"
+    },
+    {
+        "ID": 44538,
+        "Name": "pair of Ark Angel's greaves of scouting"
+    },
+    {
+        "ID": 44539,
+        "Name": "Ark Angel's circlet of healing"
+    },
+    {
+        "ID": 44540,
+        "Name": "Ark Angel's tunic of healing"
+    },
+    {
+        "ID": 44541,
+        "Name": "pair of Ark Angel's armguards of healing"
+    },
+    {
+        "ID": 44542,
+        "Name": "pair of Ark Angel's breeches of healing"
+    },
+    {
+        "ID": 44543,
+        "Name": "pair of Ark Angel's thighboots of healing"
+    },
+    {
+        "ID": 44544,
+        "Name": "Ark Angel's petasos of casting"
+    },
+    {
+        "ID": 44545,
+        "Name": "Ark Angel's coat of casting"
+    },
+    {
+        "ID": 44546,
+        "Name": "pair of Ark Angel's gloves of casting"
+    },
+    {
+        "ID": 44547,
+        "Name": "pair of Ark Angel's slops of casting"
+    },
+    {
+        "ID": 44548,
+        "Name": "pair of Ark Angel's boots of casting"
+    },
+    {
+        "ID": 44549,
+        "Name": "Ordelle coin"
+    },
+    {
+        "ID": 44550,
+        "Name": "Yuweyawata hairpin of fending"
+    },
+    {
+        "ID": 44551,
+        "Name": "Yuweyawata coat of fending"
+    },
+    {
+        "ID": 44552,
+        "Name": "pair of Yuweyawata dress gloves of fending"
+    },
+    {
+        "ID": 44553,
+        "Name": "pair of Yuweyawata bottoms of fending"
+    },
+    {
+        "ID": 44554,
+        "Name": "pair of Yuweyawata boots of fending"
+    },
+    {
+        "ID": 44555,
+        "Name": "Yuweyawata cap of maiming"
+    },
+    {
+        "ID": 44556,
+        "Name": "Yuweyawata coat of maiming"
+    },
+    {
+        "ID": 44557,
+        "Name": "pair of Yuweyawata gloves of maiming"
+    },
+    {
+        "ID": 44558,
+        "Name": "pair of Yuweyawata gaskins of maiming"
+    },
+    {
+        "ID": 44559,
+        "Name": "pair of Yuweyawata boots of maiming"
+    },
+    {
+        "ID": 44560,
+        "Name": "Yuweyawata hairpin of striking"
+    },
+    {
+        "ID": 44561,
+        "Name": "Yuweyawata jacket of striking"
+    },
+    {
+        "ID": 44562,
+        "Name": "pair of Yuweyawata dress gloves of striking"
+    },
+    {
+        "ID": 44563,
+        "Name": "pair of Yuweyawata bottoms of striking"
+    },
+    {
+        "ID": 44564,
+        "Name": "pair of Yuweyawata boots of striking"
+    },
+    {
+        "ID": 44565,
+        "Name": "Yuweyawata cap of aiming"
+    },
+    {
+        "ID": 44566,
+        "Name": "Yuweyawata coat of aiming"
+    },
+    {
+        "ID": 44567,
+        "Name": "pair of Yuweyawata gloves of aiming"
+    },
+    {
+        "ID": 44568,
+        "Name": "pair of Yuweyawata gaskins of aiming"
+    },
+    {
+        "ID": 44569,
+        "Name": "pair of Yuweyawata boots of aiming"
+    },
+    {
+        "ID": 44570,
+        "Name": "Yuweyawata cap of scouting"
+    },
+    {
+        "ID": 44571,
+        "Name": "Yuweyawata coat of scouting"
+    },
+    {
+        "ID": 44572,
+        "Name": "pair of Yuweyawata gloves of scouting"
+    },
+    {
+        "ID": 44573,
+        "Name": "pair of Yuweyawata gaskins of scouting"
+    },
+    {
+        "ID": 44574,
+        "Name": "pair of Yuweyawata boots of scouting"
+    },
+    {
+        "ID": 44575,
+        "Name": "Yuweyawata hat of healing"
+    },
+    {
+        "ID": 44576,
+        "Name": "Yuweyawata robe of healing"
+    },
+    {
+        "ID": 44577,
+        "Name": "pair of Yuweyawata gloves of healing"
+    },
+    {
+        "ID": 44578,
+        "Name": "pair of Yuweyawata brais of healing"
+    },
+    {
+        "ID": 44579,
+        "Name": "pair of Yuweyawata boots of healing"
+    },
+    {
+        "ID": 44580,
+        "Name": "Yuweyawata hat of casting"
+    },
+    {
+        "ID": 44581,
+        "Name": "Yuweyawata robe of casting"
+    },
+    {
+        "ID": 44582,
+        "Name": "pair of Yuweyawata gloves of casting"
+    },
+    {
+        "ID": 44583,
+        "Name": "pair of Yuweyawata brais of casting"
+    },
+    {
+        "ID": 44584,
+        "Name": "pair of Yuweyawata boots of casting"
+    },
+    {
+        "ID": 44585,
+        "Name": "pair of Yuweyawata earrings of fending"
+    },
+    {
+        "ID": 44586,
+        "Name": "pair of Yuweyawata earrings of slaying"
+    },
+    {
+        "ID": 44587,
+        "Name": "pair of Yuweyawata earrings of aiming"
+    },
+    {
+        "ID": 44588,
+        "Name": "pair of Yuweyawata earrings of healing"
+    },
+    {
+        "ID": 44589,
+        "Name": "pair of Yuweyawata earrings of casting"
+    },
+    {
+        "ID": 44590,
+        "Name": "Yuweyawata necklace of fending"
+    },
+    {
+        "ID": 44591,
+        "Name": "Yuweyawata necklace of slaying"
+    },
+    {
+        "ID": 44592,
+        "Name": "Yuweyawata necklace of aiming"
+    },
+    {
+        "ID": 44593,
+        "Name": "Yuweyawata necklace of healing"
+    },
+    {
+        "ID": 44594,
+        "Name": "Yuweyawata necklace of casting"
+    },
+    {
+        "ID": 44595,
+        "Name": "Yuweyawata amulet of fending"
+    },
+    {
+        "ID": 44596,
+        "Name": "Yuweyawata amulet of slaying"
+    },
+    {
+        "ID": 44597,
+        "Name": "Yuweyawata amulet of aiming"
+    },
+    {
+        "ID": 44598,
+        "Name": "Yuweyawata amulet of healing"
+    },
+    {
+        "ID": 44599,
+        "Name": "Yuweyawata amulet of casting"
+    },
+    {
+        "ID": 44600,
+        "Name": "Yuweyawata ring of fending"
+    },
+    {
+        "ID": 44601,
+        "Name": "Yuweyawata ring of slaying"
+    },
+    {
+        "ID": 44602,
+        "Name": "Yuweyawata ring of aiming"
+    },
+    {
+        "ID": 44603,
+        "Name": "Yuweyawata ring of healing"
+    },
+    {
+        "ID": 44604,
+        "Name": "Yuweyawata ring of casting"
+    },
+    {
+        "ID": 44605,
+        "Name": null
+    },
+    {
+        "ID": 44606,
+        "Name": null
+    },
+    {
+        "ID": 44607,
+        "Name": null
+    },
+    {
+        "ID": 44608,
+        "Name": null
+    },
+    {
+        "ID": 44609,
+        "Name": null
+    },
+    {
+        "ID": 44610,
+        "Name": null
+    },
+    {
+        "ID": 44611,
+        "Name": null
+    },
+    {
+        "ID": 44612,
+        "Name": null
+    },
+    {
+        "ID": 44613,
+        "Name": null
+    },
+    {
+        "ID": 44614,
+        "Name": null
+    },
+    {
+        "ID": 44615,
+        "Name": null
+    },
+    {
+        "ID": 44616,
+        "Name": null
+    },
+    {
+        "ID": 44617,
+        "Name": null
+    },
+    {
+        "ID": 44618,
+        "Name": null
+    },
+    {
+        "ID": 44619,
+        "Name": null
+    },
+    {
+        "ID": 44620,
+        "Name": null
+    },
+    {
+        "ID": 44621,
+        "Name": null
+    },
+    {
+        "ID": 44622,
+        "Name": null
+    },
+    {
+        "ID": 44623,
+        "Name": null
+    },
+    {
+        "ID": 44624,
+        "Name": null
+    },
+    {
+        "ID": 44625,
+        "Name": null
+    },
+    {
+        "ID": 44626,
+        "Name": null
+    },
+    {
+        "ID": 44627,
+        "Name": null
+    },
+    {
+        "ID": 44628,
+        "Name": null
+    },
+    {
+        "ID": 44629,
+        "Name": null
+    },
+    {
+        "ID": 44630,
+        "Name": null
+    },
+    {
+        "ID": 44631,
+        "Name": null
+    },
+    {
+        "ID": 44632,
+        "Name": null
+    },
+    {
+        "ID": 44633,
+        "Name": null
+    },
+    {
+        "ID": 44634,
+        "Name": null
+    },
+    {
+        "ID": 44635,
+        "Name": null
+    },
+    {
+        "ID": 44636,
+        "Name": null
+    },
+    {
+        "ID": 44637,
+        "Name": null
+    },
+    {
+        "ID": 44638,
+        "Name": null
+    },
+    {
+        "ID": 44639,
+        "Name": null
+    },
+    {
+        "ID": 44640,
+        "Name": "loose fit cap"
+    },
+    {
+        "ID": 44641,
+        "Name": "loose fit overshirt"
+    },
+    {
+        "ID": 44642,
+        "Name": "pair of loose fit wristguards"
+    },
+    {
+        "ID": 44643,
+        "Name": "pair of loose fit cargo trousers"
+    },
+    {
+        "ID": 44644,
+        "Name": "pair of loose fit shoes"
+    },
+    {
+        "ID": 44645,
+        "Name": "\u30bb\u30cd\u30b7\u30e3\u30eb\u30d7\u30ea\u30f3\u30b9\u30fb\u30d8\u30c3\u30c9\u30bb\u30c3\u30c8"
+    },
+    {
+        "ID": 44646,
+        "Name": "\u30bb\u30cd\u30b7\u30e3\u30eb\u30d7\u30ea\u30f3\u30b9\u30fb\u30b8\u30e3\u30b1\u30c3\u30c8"
+    },
+    {
+        "ID": 44647,
+        "Name": "\u30bb\u30cd\u30b7\u30e3\u30eb\u30d7\u30ea\u30f3\u30b9\u30fb\u30b0\u30ed\u30fc\u30d6"
+    },
+    {
+        "ID": 44648,
+        "Name": "\u30bb\u30cd\u30b7\u30e3\u30eb\u30d7\u30ea\u30f3\u30b9\u30fb\u30c8\u30e9\u30a6\u30b6\u30fc"
+    },
+    {
+        "ID": 44649,
+        "Name": "\u30bb\u30cd\u30b7\u30e3\u30eb\u30d7\u30ea\u30f3\u30b9\u30fb\u30ed\u30f3\u30b0\u30d6\u30fc\u30c4"
+    },
+    {
+        "ID": 44650,
+        "Name": "wintertide trapper's hat"
+    },
+    {
+        "ID": 44651,
+        "Name": "wintertide blouson"
+    },
+    {
+        "ID": 44652,
+        "Name": "pair of wintertide culottes"
+    },
+    {
+        "ID": 44653,
+        "Name": "pair of wintertide shoes"
+    },
+    {
+        "ID": 44654,
+        "Name": "wintertide sheath skirt"
+    },
+    {
+        "ID": 44655,
+        "Name": null
+    },
+    {
+        "ID": 44656,
+        "Name": null
+    },
+    {
+        "ID": 44657,
+        "Name": null
+    },
+    {
+        "ID": 44658,
+        "Name": null
+    },
+    {
+        "ID": 44659,
+        "Name": null
+    },
+    {
+        "ID": 44660,
+        "Name": null
+    },
+    {
+        "ID": 44661,
+        "Name": "leisurewear knit cap"
+    },
+    {
+        "ID": 44662,
+        "Name": "leisurewear high-cut shirt"
+    },
+    {
+        "ID": 44663,
+        "Name": null
+    },
+    {
+        "ID": 44664,
+        "Name": "pair of leisurewear sweatpants"
+    },
+    {
+        "ID": 44665,
+        "Name": "pair of leisurewear shoes"
+    },
+    {
+        "ID": 44666,
+        "Name": "leisurewear high-cut knit top"
+    },
+    {
+        "ID": 44667,
+        "Name": null
+    },
+    {
+        "ID": 44668,
+        "Name": null
+    },
+    {
+        "ID": 44669,
+        "Name": null
+    },
+    {
+        "ID": 44670,
+        "Name": null
+    },
+    {
+        "ID": 44671,
+        "Name": null
+    },
+    {
+        "ID": 44672,
+        "Name": null
+    },
+    {
+        "ID": 44673,
+        "Name": null
+    },
+    {
+        "ID": 44674,
+        "Name": null
+    },
+    {
+        "ID": 44675,
+        "Name": null
+    },
+    {
+        "ID": 44676,
+        "Name": "ex-arch's jacket"
+    },
+    {
+        "ID": 44677,
+        "Name": "pair of ex-arch's bracers"
+    },
+    {
+        "ID": 44678,
+        "Name": "pair of ex-arch's halfslops"
+    },
+    {
+        "ID": 44679,
+        "Name": "pair of ex-arch's boots"
+    },
+    {
+        "ID": 44680,
+        "Name": "Zero's order chapeau"
+    },
+    {
+        "ID": 44681,
+        "Name": "Zero's order cuirass"
+    },
+    {
+        "ID": 44682,
+        "Name": "Zero's order flanchard"
+    },
+    {
+        "ID": 44683,
+        "Name": "Zero's order earring"
+    },
+    {
+        "ID": 44684,
+        "Name": "suit of King of Leonis mail"
+    },
+    {
+        "ID": 44685,
+        "Name": "pair of King of Leonis armguards"
+    },
+    {
+        "ID": 44686,
+        "Name": "pair of King of Leonis brais"
+    },
+    {
+        "ID": 44687,
+        "Name": "pair of King of Leonis boots"
+    },
+    {
+        "ID": 44688,
+        "Name": "Queen of Hourne bliaud"
+    },
+    {
+        "ID": 44689,
+        "Name": null
+    },
+    {
+        "ID": 44690,
+        "Name": "pair of Queen of Hourne tights"
+    },
+    {
+        "ID": 44691,
+        "Name": "pair of Queen of Hourne boots"
+    },
+    {
+        "ID": 44692,
+        "Name": null
+    },
+    {
+        "ID": 44693,
+        "Name": null
+    },
+    {
+        "ID": 44694,
+        "Name": "alpaca earring"
+    },
+    {
+        "ID": 44695,
+        "Name": "alpaca neck warmer"
+    },
+    {
+        "ID": 44696,
+        "Name": "sword eternal"
+    },
+    {
+        "ID": 44697,
+        "Name": "pair of knuckles eternal"
+    },
+    {
+        "ID": 44698,
+        "Name": "war axe eternal"
+    },
+    {
+        "ID": 44699,
+        "Name": "spear eternal"
+    },
+    {
+        "ID": 44700,
+        "Name": "bow eternal"
+    },
+    {
+        "ID": 44701,
+        "Name": "staff eternal"
+    },
+    {
+        "ID": 44702,
+        "Name": "rod eternal"
+    },
+    {
+        "ID": 44703,
+        "Name": "index eternal"
+    },
+    {
+        "ID": 44704,
+        "Name": "codex eternal"
+    },
+    {
+        "ID": 44705,
+        "Name": "pair of knives eternal"
+    },
+    {
+        "ID": 44706,
+        "Name": "greatsword eternal"
+    },
+    {
+        "ID": 44707,
+        "Name": "pistol eternal"
+    },
+    {
+        "ID": 44708,
+        "Name": "torquetum eternal"
+    },
+    {
+        "ID": 44709,
+        "Name": "samurai blade eternal"
+    },
+    {
+        "ID": 44710,
+        "Name": "rapier eternal"
+    },
+    {
+        "ID": 44711,
+        "Name": "bayonet eternal"
+    },
+    {
+        "ID": 44712,
+        "Name": "pair of war quoits eternal"
+    },
+    {
+        "ID": 44713,
+        "Name": "war scythe eternal"
+    },
+    {
+        "ID": 44714,
+        "Name": "array of wings eternal"
+    },
+    {
+        "ID": 44715,
+        "Name": "pair of twinfangs eternal"
+    },
+    {
+        "ID": 44716,
+        "Name": "paintbrush eternal"
+    },
+    {
+        "ID": 44717,
+        "Name": "shield eternal"
+    },
+    {
+        "ID": 44718,
+        "Name": "totem eternal"
+    },
+    {
+        "ID": 44719,
+        "Name": "Queen Eternal weapon coffer (IL 725)"
+    },
+    {
+        "ID": 44720,
+        "Name": "set of paladin's arms eternal (IL 725)"
+    },
+    {
+        "ID": 44721,
+        "Name": null
+    },
+    {
+        "ID": 44722,
+        "Name": null
+    },
+    {
+        "ID": 44723,
+        "Name": null
+    },
+    {
+        "ID": 44724,
+        "Name": null
+    },
+    {
+        "ID": 44725,
+        "Name": null
+    },
+    {
+        "ID": 44726,
+        "Name": null
+    },
+    {
+        "ID": 44727,
+        "Name": null
+    },
+    {
+        "ID": 44728,
+        "Name": null
+    },
+    {
+        "ID": 44729,
+        "Name": null
+    },
+    {
+        "ID": 44730,
+        "Name": null
+    },
+    {
+        "ID": 44731,
+        "Name": null
+    },
+    {
+        "ID": 44732,
+        "Name": null
+    },
+    {
+        "ID": 44733,
+        "Name": null
+    },
+    {
+        "ID": 44734,
+        "Name": null
+    },
+    {
+        "ID": 44735,
+        "Name": null
+    },
+    {
+        "ID": 44736,
+        "Name": null
+    },
+    {
+        "ID": 44737,
+        "Name": null
+    },
+    {
+        "ID": 44738,
+        "Name": null
+    },
+    {
+        "ID": 44739,
+        "Name": null
+    },
+    {
+        "ID": 44740,
+        "Name": null
+    },
+    {
+        "ID": 44741,
+        "Name": null
+    },
+    {
+        "ID": 44742,
+        "Name": null
+    },
+    {
+        "ID": 44743,
+        "Name": null
+    },
+    {
+        "ID": 44744,
+        "Name": "augmented archeo kingdom broadsword"
+    },
+    {
+        "ID": 44745,
+        "Name": "pair of augmented archeo kingdom patas"
+    },
+    {
+        "ID": 44746,
+        "Name": "augmented archeo kingdom labrys"
+    },
+    {
+        "ID": 44747,
+        "Name": "augmented archeo kingdom partisan"
+    },
+    {
+        "ID": 44748,
+        "Name": "augmented archeo kingdom bow"
+    },
+    {
+        "ID": 44749,
+        "Name": "augmented archeo kingdom candelarod"
+    },
+    {
+        "ID": 44750,
+        "Name": "augmented archeo kingdom scepter"
+    },
+    {
+        "ID": 44751,
+        "Name": "augmented archeo kingdom index"
+    },
+    {
+        "ID": 44752,
+        "Name": "augmented archeo kingdom codex"
+    },
+    {
+        "ID": 44753,
+        "Name": "pair of augmented archeo kingdom daggers"
+    },
+    {
+        "ID": 44754,
+        "Name": "augmented archeo kingdom claymore"
+    },
+    {
+        "ID": 44755,
+        "Name": "augmented archeo kingdom culverin"
+    },
+    {
+        "ID": 44756,
+        "Name": "augmented archeo kingdom planisphere"
+    },
+    {
+        "ID": 44757,
+        "Name": "augmented archeo kingdom samurai blade"
+    },
+    {
+        "ID": 44758,
+        "Name": "augmented archeo kingdom tuck"
+    },
+    {
+        "ID": 44759,
+        "Name": "augmented archeo kingdom gunblade"
+    },
+    {
+        "ID": 44760,
+        "Name": "pair of augmented archeo kingdom chakrams"
+    },
+    {
+        "ID": 44761,
+        "Name": "augmented archeo kingdom sickle"
+    },
+    {
+        "ID": 44762,
+        "Name": "array of augmented archeo kingdom milpreves"
+    },
+    {
+        "ID": 44763,
+        "Name": "pair of augmented archeo kingdom twinfangs"
+    },
+    {
+        "ID": 44764,
+        "Name": "augmented archeo kingdom round brush"
+    },
+    {
+        "ID": 44765,
+        "Name": "augmented archeo kingdom scutum"
+    },
+    {
+        "ID": 44766,
+        "Name": "augmented archeo kingdom helm of fending"
+    },
+    {
+        "ID": 44767,
+        "Name": "augmented archeo kingdom cuirass of fending"
+    },
+    {
+        "ID": 44768,
+        "Name": "pair of augmented archeo kingdom vambraces of fending"
+    },
+    {
+        "ID": 44769,
+        "Name": "pair of augmented archeo kingdom poleyns of fending"
+    },
+    {
+        "ID": 44770,
+        "Name": "pair of augmented archeo kingdom sabatons of fending"
+    },
+    {
+        "ID": 44771,
+        "Name": "augmented archeo kingdom helm of maiming"
+    },
+    {
+        "ID": 44772,
+        "Name": "augmented archeo kingdom cuirass of maiming"
+    },
+    {
+        "ID": 44773,
+        "Name": "pair of augmented archeo kingdom vambraces of maiming"
+    },
+    {
+        "ID": 44774,
+        "Name": "pair of augmented archeo kingdom poleyns of maiming"
+    },
+    {
+        "ID": 44775,
+        "Name": "pair of augmented archeo kingdom sabatons of maiming"
+    },
+    {
+        "ID": 44776,
+        "Name": "augmented archeo kingdom hood of striking"
+    },
+    {
+        "ID": 44777,
+        "Name": "augmented archeo kingdom jacket of striking"
+    },
+    {
+        "ID": 44778,
+        "Name": "pair of augmented archeo kingdom armguards of striking"
+    },
+    {
+        "ID": 44779,
+        "Name": "pair of augmented archeo kingdom poleyns of striking"
+    },
+    {
+        "ID": 44780,
+        "Name": "pair of augmented archeo kingdom shoes of striking"
+    },
+    {
+        "ID": 44781,
+        "Name": "augmented archeo kingdom beret of aiming"
+    },
+    {
+        "ID": 44782,
+        "Name": "augmented archeo kingdom jacket of aiming"
+    },
+    {
+        "ID": 44783,
+        "Name": "pair of augmented archeo kingdom gloves of aiming"
+    },
+    {
+        "ID": 44784,
+        "Name": "pair of augmented archeo kingdom poleyns of aiming"
+    },
+    {
+        "ID": 44785,
+        "Name": "pair of augmented archeo kingdom sabatons of aiming"
+    },
+    {
+        "ID": 44786,
+        "Name": "augmented archeo kingdom hood of scouting"
+    },
+    {
+        "ID": 44787,
+        "Name": "augmented archeo kingdom jacket of scouting"
+    },
+    {
+        "ID": 44788,
+        "Name": "pair of augmented archeo kingdom armguards of scouting"
+    },
+    {
+        "ID": 44789,
+        "Name": "pair of augmented archeo kingdom poleyns of scouting"
+    },
+    {
+        "ID": 44790,
+        "Name": "pair of augmented archeo kingdom sabatons of scouting"
+    },
+    {
+        "ID": 44791,
+        "Name": "augmented archeo kingdom beret of healing"
+    },
+    {
+        "ID": 44792,
+        "Name": "augmented archeo kingdom coat of healing"
+    },
+    {
+        "ID": 44793,
+        "Name": "pair of augmented archeo kingdom gloves of healing"
+    },
+    {
+        "ID": 44794,
+        "Name": "pair of augmented archeo kingdom poleyns of healing"
+    },
+    {
+        "ID": 44795,
+        "Name": "pair of augmented archeo kingdom shoes of healing"
+    },
+    {
+        "ID": 44796,
+        "Name": "augmented archeo kingdom hood of casting"
+    },
+    {
+        "ID": 44797,
+        "Name": "augmented archeo kingdom coat of casting"
+    },
+    {
+        "ID": 44798,
+        "Name": "pair of augmented archeo kingdom armguards of casting"
+    },
+    {
+        "ID": 44799,
+        "Name": "pair of augmented archeo kingdom poleyns of casting"
+    },
+    {
+        "ID": 44800,
+        "Name": "pair of augmented archeo kingdom shoes of casting"
+    },
+    {
+        "ID": 44801,
+        "Name": "pair of augmented archeo kingdom earrings of fending"
+    },
+    {
+        "ID": 44802,
+        "Name": "pair of augmented archeo kingdom earrings of slaying"
+    },
+    {
+        "ID": 44803,
+        "Name": "pair of augmented archeo kingdom earrings of aiming"
+    },
+    {
+        "ID": 44804,
+        "Name": "pair of augmented archeo kingdom earrings of healing"
+    },
+    {
+        "ID": 44805,
+        "Name": "pair of augmented archeo kingdom earrings of casting"
+    },
+    {
+        "ID": 44806,
+        "Name": "augmented archeo kingdom choker of fending"
+    },
+    {
+        "ID": 44807,
+        "Name": "augmented archeo kingdom choker of slaying"
+    },
+    {
+        "ID": 44808,
+        "Name": "augmented archeo kingdom choker of aiming"
+    },
+    {
+        "ID": 44809,
+        "Name": "augmented archeo kingdom choker of healing"
+    },
+    {
+        "ID": 44810,
+        "Name": "augmented archeo kingdom choker of casting"
+    },
+    {
+        "ID": 44811,
+        "Name": "augmented archeo kingdom wristband of fending"
+    },
+    {
+        "ID": 44812,
+        "Name": "augmented archeo kingdom wristband of slaying"
+    },
+    {
+        "ID": 44813,
+        "Name": "augmented archeo kingdom wristband of aiming"
+    },
+    {
+        "ID": 44814,
+        "Name": "augmented archeo kingdom wristband of healing"
+    },
+    {
+        "ID": 44815,
+        "Name": "augmented archeo kingdom wristband of casting"
+    },
+    {
+        "ID": 44816,
+        "Name": "augmented archeo kingdom ring of fending"
+    },
+    {
+        "ID": 44817,
+        "Name": "augmented archeo kingdom ring of slaying"
+    },
+    {
+        "ID": 44818,
+        "Name": "augmented archeo kingdom ring of aiming"
+    },
+    {
+        "ID": 44819,
+        "Name": "augmented archeo kingdom ring of healing"
+    },
+    {
+        "ID": 44820,
+        "Name": "augmented archeo kingdom ring of casting"
+    },
+    {
+        "ID": 44821,
+        "Name": "bottle of Everkeep rain"
+    },
+    {
+        "ID": 44822,
+        "Name": "Everkeep certificate of grade 1 import"
+    },
+    {
+        "ID": 44823,
+        "Name": "red cattleya corsage"
+    },
+    {
+        "ID": 44824,
+        "Name": "blue cattleya corsage"
+    },
+    {
+        "ID": 44825,
+        "Name": "yellow cattleya corsage"
+    },
+    {
+        "ID": 44826,
+        "Name": "green cattleya corsage"
+    },
+    {
+        "ID": 44827,
+        "Name": "orange cattleya corsage"
+    },
+    {
+        "ID": 44828,
+        "Name": "purple cattleya corsage"
+    },
+    {
+        "ID": 44829,
+        "Name": "white cattleya corsage"
+    },
+    {
+        "ID": 44830,
+        "Name": "black cattleya corsage"
+    },
+    {
+        "ID": 44831,
+        "Name": "rainbow cattleya corsage"
+    },
+    {
+        "ID": 44832,
+        "Name": "bag of cattleya seeds"
+    },
+    {
+        "ID": 44833,
+        "Name": "bouquet of red cattleyas"
+    },
+    {
+        "ID": 44834,
+        "Name": "bouquet of blue cattleyas"
+    },
+    {
+        "ID": 44835,
+        "Name": "bouquet of yellow cattleyas"
+    },
+    {
+        "ID": 44836,
+        "Name": "bouquet of green cattleyas"
+    },
+    {
+        "ID": 44837,
+        "Name": "bouquet of orange cattleyas"
+    },
+    {
+        "ID": 44838,
+        "Name": "bouquet of purple cattleyas"
+    },
+    {
+        "ID": 44839,
+        "Name": "bouquet of white cattleyas"
+    },
+    {
+        "ID": 44840,
+        "Name": "bouquet of black cattleyas"
+    },
+    {
+        "ID": 44841,
+        "Name": "bouquet of rainbow cattleyas"
+    },
+    {
+        "ID": 44842,
+        "Name": "serving of ceviche"
+    },
+    {
+        "ID": 44843,
+        "Name": "serving of cloudsail meuniere"
+    },
+    {
+        "ID": 44844,
+        "Name": "clump of optical fibergrass"
+    },
+    {
+        "ID": 44845,
+        "Name": "chunk of Alexandrian ore"
+    },
+    {
+        "ID": 44846,
+        "Name": "loop of optical nanofiber"
+    },
+    {
+        "ID": 44847,
+        "Name": "sheet of Alexandrian plate"
+    },
+    {
+        "ID": 44848,
+        "Name": "phial of condensed solution"
+    },
+    {
+        "ID": 44849,
+        "Name": "eternal queensguard"
+    },
+    {
+        "ID": 44850,
+        "Name": null
+    },
+    {
+        "ID": 44851,
+        "Name": null
+    },
+    {
+        "ID": 44852,
+        "Name": null
+    },
+    {
+        "ID": 44853,
+        "Name": null
+    },
+    {
+        "ID": 44854,
+        "Name": null
+    },
+    {
+        "ID": 44855,
+        "Name": null
+    },
+    {
+        "ID": 44856,
+        "Name": null
+    },
+    {
+        "ID": 44857,
+        "Name": null
+    },
+    {
+        "ID": 44858,
+        "Name": null
+    },
+    {
+        "ID": 44859,
+        "Name": null
+    },
+    {
+        "ID": 44860,
+        "Name": null
+    },
+    {
+        "ID": 44861,
+        "Name": null
+    },
+    {
+        "ID": 44862,
+        "Name": null
+    },
+    {
+        "ID": 44863,
+        "Name": null
+    },
+    {
+        "ID": 44864,
+        "Name": null
+    },
+    {
+        "ID": 44865,
+        "Name": "copy of <Emphasis>Modern Aesthetics - Head Hound</Emphasis>"
+    },
+    {
+        "ID": 44866,
+        "Name": "copy of <Emphasis>Modern Aesthetics - Scion Special Issue IV</Emphasis>"
+    },
+    {
+        "ID": 44867,
+        "Name": "copy of <Emphasis>Modern Aesthetics - Voidswept Strands</Emphasis>"
+    },
+    {
+        "ID": 44868,
+        "Name": null
+    },
+    {
+        "ID": 44869,
+        "Name": null
+    },
+    {
+        "ID": 44870,
+        "Name": "pure white interior wall"
+    },
+    {
+        "ID": 44871,
+        "Name": "unit of light wood flooring"
+    },
+    {
+        "ID": 44872,
+        "Name": "flat ceiling lamp"
+    },
+    {
+        "ID": 44873,
+        "Name": "wood-fired range"
+    },
+    {
+        "ID": 44874,
+        "Name": "holodisplay"
+    },
+    {
+        "ID": 44875,
+        "Name": "storybook bench"
+    },
+    {
+        "ID": 44876,
+        "Name": "sweet Dreamer's stall"
+    },
+    {
+        "ID": 44877,
+        "Name": "set of frilly curtains"
+    },
+    {
+        "ID": 44878,
+        "Name": "set of botanist's wall frames"
+    },
+    {
+        "ID": 44879,
+        "Name": "botanical loft"
+    },
+    {
+        "ID": 44880,
+        "Name": "patchwork sofa"
+    },
+    {
+        "ID": 44881,
+        "Name": "gleaner's knapsack"
+    },
+    {
+        "ID": 44882,
+        "Name": "bowl of popoto chips"
+    },
+    {
+        "ID": 44883,
+        "Name": "investigation map"
+    },
+    {
+        "ID": 44884,
+        "Name": "apothecary mortar"
+    },
+    {
+        "ID": 44885,
+        "Name": "grassy rug"
+    },
+    {
+        "ID": 44886,
+        "Name": "royal bed"
+    },
+    {
+        "ID": 44887,
+        "Name": "eternal cenotaph"
+    },
+    {
+        "ID": 44888,
+        "Name": null
+    },
+    {
+        "ID": 44889,
+        "Name": null
+    },
+    {
+        "ID": 44890,
+        "Name": null
+    },
+    {
+        "ID": 44891,
+        "Name": null
+    },
+    {
+        "ID": 44892,
+        "Name": null
+    },
+    {
+        "ID": 44893,
+        "Name": null
+    },
+    {
+        "ID": 44894,
+        "Name": null
+    },
+    {
+        "ID": 44895,
+        "Name": "climbing wall partition"
+    },
+    {
+        "ID": 44896,
+        "Name": "billiard table"
+    },
+    {
+        "ID": 44897,
+        "Name": "imitation closet"
+    },
+    {
+        "ID": 44898,
+        "Name": "fighting ring"
+    },
+    {
+        "ID": 44899,
+        "Name": "dartboard cabinet"
+    },
+    {
+        "ID": 44900,
+        "Name": "laboratory counter"
+    },
+    {
+        "ID": 44901,
+        "Name": "serving of Kugane-yaki"
+    },
+    {
+        "ID": 44902,
+        "Name": "classroom desk"
+    },
+    {
+        "ID": 44903,
+        "Name": "classroom chair"
+    },
+    {
+        "ID": 44904,
+        "Name": "classroom blackboard"
+    },
+    {
+        "ID": 44905,
+        "Name": "contemporary iron shelf"
+    },
+    {
+        "ID": 44906,
+        "Name": "festive Starlight Celebration advertisement"
+    },
+    {
+        "ID": 44907,
+        "Name": "heartfelt Valentione's Day advertisement"
+    },
+    {
+        "ID": 44908,
+        "Name": "authentic copy of <Emphasis>Crossroads</Emphasis>"
+    },
+    {
+        "ID": 44909,
+        "Name": "mug of Starlight kinderpunsch"
+    },
+    {
+        "ID": 44910,
+        "Name": "Starlight mug tower"
+    },
+    {
+        "ID": 44911,
+        "Name": "weathered porthole"
+    },
+    {
+        "ID": 44912,
+        "Name": "rail-and-stile partition"
+    },
+    {
+        "ID": 44913,
+        "Name": "tea caddy cabinet"
+    },
+    {
+        "ID": 44914,
+        "Name": "indoor awning"
+    },
+    {
+        "ID": 44915,
+        "Name": null
+    },
+    {
+        "ID": 44916,
+        "Name": null
+    },
+    {
+        "ID": 44917,
+        "Name": null
+    },
+    {
+        "ID": 44918,
+        "Name": null
+    },
+    {
+        "ID": 44919,
+        "Name": null
+    },
+    {
+        "ID": 44920,
+        "Name": null
+    },
+    {
+        "ID": 44921,
+        "Name": null
+    },
+    {
+        "ID": 44922,
+        "Name": null
+    },
+    {
+        "ID": 44923,
+        "Name": null
+    },
+    {
+        "ID": 44924,
+        "Name": null
+    },
+    {
+        "ID": 44925,
+        "Name": "authentic Valentione's heart chair"
+    },
+    {
+        "ID": 44926,
+        "Name": "cactus patch"
+    },
+    {
+        "ID": 44927,
+        "Name": "garden palm tree"
+    },
+    {
+        "ID": 44928,
+        "Name": "Far Eastern gazebo"
+    },
+    {
+        "ID": 44929,
+        "Name": "set of square stepping stones"
+    },
+    {
+        "ID": 44930,
+        "Name": null
+    },
+    {
+        "ID": 44931,
+        "Name": null
+    },
+    {
+        "ID": 44932,
+        "Name": null
+    },
+    {
+        "ID": 44933,
+        "Name": null
+    },
+    {
+        "ID": 44934,
+        "Name": "Ja Ja Gural tree"
+    },
+    {
+        "ID": 44935,
+        "Name": "authentic illuminated topiary chocobo"
+    },
+    {
+        "ID": 44936,
+        "Name": "copy of <Emphasis>Maxims of Mahjong - Alphinaud</Emphasis>"
+    },
+    {
+        "ID": 44937,
+        "Name": "copy of <Emphasis>Maxims of Mahjong - Alisaie</Emphasis>"
+    },
+    {
+        "ID": 44938,
+        "Name": "copy of <Emphasis>Maxims of Mahjong - Thancred</Emphasis>"
+    },
+    {
+        "ID": 44939,
+        "Name": "copy of <Emphasis>Maxims of Mahjong - Urianger</Emphasis>"
+    },
+    {
+        "ID": 44940,
+        "Name": "copy of <Emphasis>Maxims of Mahjong - Y'shtola</Emphasis>"
+    },
+    {
+        "ID": 44941,
+        "Name": "copy of <Emphasis>Maxims of Mahjong - Estinien</Emphasis>"
+    },
+    {
+        "ID": 44942,
+        "Name": "copy of <Emphasis>Maxims of Mahjong - G'raha Tia</Emphasis>"
+    },
+    {
+        "ID": 44943,
+        "Name": "copy of <Emphasis>Maxims of Mahjong - Krile</Emphasis>"
+    },
+    {
+        "ID": 44944,
+        "Name": "Pelupelu framer's kit"
+    },
+    {
+        "ID": 44945,
+        "Name": "Sharlayan stoa framer's kit"
+    },
+    {
+        "ID": 44946,
+        "Name": "Sharlayan agora framer's kit"
+    },
+    {
+        "ID": 44947,
+        "Name": "Hannish radiance framer's kit"
+    },
+    {
+        "ID": 44948,
+        "Name": "Hannish wonders framer's kit"
+    },
+    {
+        "ID": 44949,
+        "Name": null
+    },
+    {
+        "ID": 44950,
+        "Name": null
+    },
+    {
+        "ID": 44951,
+        "Name": null
+    },
+    {
+        "ID": 44952,
+        "Name": null
+    },
+    {
+        "ID": 44953,
+        "Name": null
+    },
+    {
+        "ID": 44954,
+        "Name": null
+    },
+    {
+        "ID": 44955,
+        "Name": null
+    },
+    {
+        "ID": 44956,
+        "Name": null
+    },
+    {
+        "ID": 44957,
+        "Name": "pelubill calot"
+    },
+    {
+        "ID": 44958,
+        "Name": "venturous kamuy flute"
+    },
+    {
+        "ID": 44959,
+        "Name": "magicked prism (barreltender)"
+    },
+    {
+        "ID": 44960,
+        "Name": null
+    },
+    {
+        "ID": 44961,
+        "Name": null
+    },
+    {
+        "ID": 44962,
+        "Name": null
+    },
+    {
+        "ID": 44963,
+        "Name": null
+    },
+    {
+        "ID": 44964,
+        "Name": null
+    },
+    {
+        "ID": 44965,
+        "Name": null
+    },
+    {
+        "ID": 44966,
+        "Name": null
+    },
+    {
+        "ID": 44967,
+        "Name": null
+    },
+    {
+        "ID": 44968,
+        "Name": null
+    },
+    {
+        "ID": 44969,
+        "Name": null
+    },
+    {
+        "ID": 44970,
+        "Name": "cushioned bench"
+    },
+    {
+        "ID": 44971,
+        "Name": "tropical canopy bed"
+    },
+    {
+        "ID": 44972,
+        "Name": "Wachumeqimeqi balloon"
+    },
+    {
+        "ID": 44973,
+        "Name": "ex-arch's cane"
+    },
+    {
+        "ID": 44974,
+        "Name": "ex-arch's rod"
+    },
+    {
+        "ID": 44975,
+        "Name": "Zero's order death scythe"
+    },
+    {
+        "ID": 44976,
+        "Name": "adamant bastard sword"
+    },
+    {
+        "ID": 44977,
+        "Name": "pair of adamant knuckles"
+    },
+    {
+        "ID": 44978,
+        "Name": "adamant battleaxe"
+    },
+    {
+        "ID": 44979,
+        "Name": "adamant partisan"
+    },
+    {
+        "ID": 44980,
+        "Name": "adamant longbow"
+    },
+    {
+        "ID": 44981,
+        "Name": "pair of adamant cleavers"
+    },
+    {
+        "ID": 44982,
+        "Name": "adamant guillotine"
+    },
+    {
+        "ID": 44983,
+        "Name": "adamant pistol"
+    },
+    {
+        "ID": 44984,
+        "Name": "adamant cane"
+    },
+    {
+        "ID": 44985,
+        "Name": "adamant rod"
+    },
+    {
+        "ID": 44986,
+        "Name": "adamant index"
+    },
+    {
+        "ID": 44987,
+        "Name": "adamant codex"
+    },
+    {
+        "ID": 44988,
+        "Name": "adamant planisphere"
+    },
+    {
+        "ID": 44989,
+        "Name": "adamant blade"
+    },
+    {
+        "ID": 44990,
+        "Name": "adamant hanger"
+    },
+    {
+        "ID": 44991,
+        "Name": "adamant gunblade"
+    },
+    {
+        "ID": 44992,
+        "Name": "pair of adamant chakrams"
+    },
+    {
+        "ID": 44993,
+        "Name": "adamant scutum"
+    },
+    {
+        "ID": 44994,
+        "Name": "set of paladin's adamant arms"
+    },
+    {
+        "ID": 44995,
+        "Name": null
+    },
+    {
+        "ID": 44996,
+        "Name": "mandragora parasol"
+    },
+    {
+        "ID": 44997,
+        "Name": "Archon egg parasol"
+    },
+    {
+        "ID": 44998,
+        "Name": "Pelupack"
+    },
+    {
+        "ID": 44999,
+        "Name": "copy of <Emphasis>The Faces We Wear - Pince-nez</Emphasis>"
+    },
+    {
+        "ID": 45000,
+        "Name": "copy of <Emphasis>The Faces We Wear - Magnifiers</Emphasis>"
+    },
+    {
+        "ID": 45001,
+        "Name": "copy of <Emphasis>The Faces We Wear - Brass Goggles</Emphasis>"
+    },
+    {
+        "ID": 45002,
+        "Name": "copy of <Emphasis>The Faces We Wear - Under-rim Glasses</Emphasis>"
+    },
+    {
+        "ID": 45003,
+        "Name": "copy of <Emphasis>The Faces We Wear - Oval Reading Glasses</Emphasis>"
+    },
+    {
+        "ID": 45004,
+        "Name": "copy of <Emphasis>The Faces We Wear - Elegant Rimless Glasses</Emphasis>"
+    },
+    {
+        "ID": 45005,
+        "Name": "copy of <Emphasis>The Faces We Wear - Cat Eye Glasses</Emphasis>"
+    },
+    {
+        "ID": 45006,
+        "Name": "copy of <Emphasis>The Faces We Wear - Slim Frame Glasses</Emphasis>"
+    },
+    {
+        "ID": 45007,
+        "Name": "<Emphasis>Unbroken Vessels</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45008,
+        "Name": "<Emphasis>Morrow's Magic</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45009,
+        "Name": "<Emphasis>Windswept Whispers</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45010,
+        "Name": "<Emphasis>Of Glittering Baubles</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45011,
+        "Name": "<Emphasis>Skybound Emerald</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45012,
+        "Name": "<Emphasis>Ceruleum Embers by Dusk</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45013,
+        "Name": "<Emphasis>Crash in the Dark</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45014,
+        "Name": "<Emphasis>Echoes of Memory</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45015,
+        "Name": "<Emphasis>Faerie Battle</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45016,
+        "Name": "<Emphasis>Paved in Solitude</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45017,
+        "Name": "<Emphasis>Paved with Resolve</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45018,
+        "Name": null
+    },
+    {
+        "ID": 45019,
+        "Name": null
+    },
+    {
+        "ID": 45020,
+        "Name": null
+    },
+    {
+        "ID": 45021,
+        "Name": "<Emphasis>Where D\u00e6mons Abide</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45022,
+        "Name": "<Emphasis>The Travel Agency (Dawntrail)</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45023,
+        "Name": "<Emphasis>The Grand Duchy of Jeuno</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45024,
+        "Name": "<Emphasis>The Forgotten City - Tavnazian Safehold</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45025,
+        "Name": "<Emphasis>Shadow Lord</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45026,
+        "Name": "<Emphasis>Depths of the Soul</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45027,
+        "Name": "<Emphasis>Battle in the Dungeon</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45028,
+        "Name": "<Emphasis>Battle in the Dungeon #3</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45029,
+        "Name": "<Emphasis>Tu'Lia</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45030,
+        "Name": "<Emphasis>Battle Theme from FINAL FANTASY XI</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45031,
+        "Name": "<Emphasis>Fighters of the Crystal</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45032,
+        "Name": "<Emphasis>Castle Zvahl</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45033,
+        "Name": "<Emphasis>Awakening</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45034,
+        "Name": "<Emphasis>Vana'diel March</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45035,
+        "Name": null
+    },
+    {
+        "ID": 45036,
+        "Name": "<Emphasis>Winter's Warm Boughs</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45037,
+        "Name": "<Emphasis>Nature's Bounty</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45038,
+        "Name": "<Emphasis>Cast Stones in Shadow</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45039,
+        "Name": "faded copy of <Emphasis>Paved in Solitude</Emphasis>"
+    },
+    {
+        "ID": 45040,
+        "Name": "page of tattered sheet music"
+    },
+    {
+        "ID": 45041,
+        "Name": null
+    },
+    {
+        "ID": 45042,
+        "Name": null
+    },
+    {
+        "ID": 45043,
+        "Name": null
+    },
+    {
+        "ID": 45044,
+        "Name": null
+    },
+    {
+        "ID": 45045,
+        "Name": null
+    },
+    {
+        "ID": 45046,
+        "Name": null
+    },
+    {
+        "ID": 45047,
+        "Name": "Figmental Ladle"
+    },
+    {
+        "ID": 45048,
+        "Name": "Figments of the Shallows"
+    },
+    {
+        "ID": 45049,
+        "Name": "Figmental Fish Stick"
+    },
+    {
+        "ID": 45050,
+        "Name": "Figment of Kittens' Joy"
+    },
+    {
+        "ID": 45051,
+        "Name": "Figment of the Forest"
+    },
+    {
+        "ID": 45052,
+        "Name": "Figment of Sweetness"
+    },
+    {
+        "ID": 45053,
+        "Name": "Figment of Teatimes Past"
+    },
+    {
+        "ID": 45054,
+        "Name": "Figment of the Journey"
+    },
+    {
+        "ID": 45055,
+        "Name": "Figment of Faerie Lore"
+    },
+    {
+        "ID": 45056,
+        "Name": "Figments of Family Dinner"
+    },
+    {
+        "ID": 45057,
+        "Name": "Figment of Spring"
+    },
+    {
+        "ID": 45058,
+        "Name": "Figment of Love and War"
+    },
+    {
+        "ID": 45059,
+        "Name": "Figment of Winter"
+    },
+    {
+        "ID": 45060,
+        "Name": "Figment of Summer"
+    },
+    {
+        "ID": 45061,
+        "Name": "Figmental Rainpier"
+    },
+    {
+        "ID": 45062,
+        "Name": "Figment of the Deep"
+    },
+    {
+        "ID": 45063,
+        "Name": "Figments of Fire's Work"
+    },
+    {
+        "ID": 45064,
+        "Name": "Figment of Autumn"
+    },
+    {
+        "ID": 45065,
+        "Name": "Figments of the Feast"
+    },
+    {
+        "ID": 45066,
+        "Name": "Figments of Silver 'Wared"
+    },
+    {
+        "ID": 45067,
+        "Name": "Figment of Artistry"
+    },
+    {
+        "ID": 45068,
+        "Name": "Figmental Lid"
+    },
+    {
+        "ID": 45069,
+        "Name": "Figment of Showtime"
+    },
+    {
+        "ID": 45070,
+        "Name": "figmental weapon coffer"
+    },
+    {
+        "ID": 45071,
+        "Name": "brachiosaur horn"
+    },
+    {
+        "ID": 45072,
+        "Name": "bolt of corduroy felt"
+    },
+    {
+        "ID": 45073,
+        "Name": "pot of aromatic wood strips"
+    },
+    {
+        "ID": 45074,
+        "Name": null
+    },
+    {
+        "ID": 45075,
+        "Name": null
+    },
+    {
+        "ID": 45076,
+        "Name": null
+    },
+    {
+        "ID": 45077,
+        "Name": null
+    },
+    {
+        "ID": 45078,
+        "Name": null
+    },
+    {
+        "ID": 45079,
+        "Name": "exarchic dome framer's kit"
+    },
+    {
+        "ID": 45080,
+        "Name": "exarchic tower framer's kit"
+    },
+    {
+        "ID": 45081,
+        "Name": "Eulmoran comfort framer's kit"
+    },
+    {
+        "ID": 45082,
+        "Name": "Eulmoran glory framer's kit"
+    },
+    {
+        "ID": 45083,
+        "Name": "Kugane commerce framer's kit"
+    },
+    {
+        "ID": 45084,
+        "Name": "Kugane leisure framer's kit"
+    },
+    {
+        "ID": 45085,
+        "Name": "western Reach framer's kit"
+    },
+    {
+        "ID": 45086,
+        "Name": "eastern Reach framer's kit"
+    },
+    {
+        "ID": 45087,
+        "Name": "heavens' orthodoxy framer's kit"
+    },
+    {
+        "ID": 45088,
+        "Name": "heavens' heresy framer's kit"
+    },
+    {
+        "ID": 45089,
+        "Name": "idyll wisdom framer's kit"
+    },
+    {
+        "ID": 45090,
+        "Name": "idyll industry framer's kit"
+    },
+    {
+        "ID": 45091,
+        "Name": "<Emphasis>Bee My Honey (Darkest Before Dawn)</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45092,
+        "Name": "<Emphasis>Give It All (Darkest Before Dawn)</Emphasis> orchestrion roll"
+    },
+    {
+        "ID": 45093,
+        "Name": null
+    },
+    {
+        "ID": 45094,
+        "Name": "dream attire"
+    },
+    {
+        "ID": 45095,
+        "Name": "reindeer attire"
+    },
+    {
+        "ID": 45096,
+        "Name": null
+    },
+    {
+        "ID": 45097,
+        "Name": null
+    },
+    {
+        "ID": 45098,
+        "Name": null
+    },
+    {
+        "ID": 45099,
+        "Name": null
+    },
+    {
+        "ID": 45100,
+        "Name": null
+    },
+    {
+        "ID": 45101,
+        "Name": null
+    },
+    {
+        "ID": 45102,
+        "Name": "red summer top & trunks"
+    },
+    {
+        "ID": 45103,
+        "Name": "green summer top & trunks"
+    },
+    {
+        "ID": 45104,
+        "Name": "blue summer top & trunks"
+    },
+    {
+        "ID": 45105,
+        "Name": "solar summer top & trunks"
+    },
+    {
+        "ID": 45106,
+        "Name": "lunar summer top & trunks"
+    },
+    {
+        "ID": 45107,
+        "Name": "red summer halter & tanga"
+    },
+    {
+        "ID": 45108,
+        "Name": "green summer halter & tanga"
+    },
+    {
+        "ID": 45109,
+        "Name": "blue summer halter & tanga"
+    },
+    {
+        "ID": 45110,
+        "Name": "solar summer halter & tanga"
+    },
+    {
+        "ID": 45111,
+        "Name": "lunar summer halter & tanga"
+    },
+    {
+        "ID": 45112,
+        "Name": "company attire"
+    },
+    {
+        "ID": 45113,
+        "Name": "summer evening top & trunks"
+    },
+    {
+        "ID": 45114,
+        "Name": "striped summer top & trunks"
+    },
+    {
+        "ID": 45115,
+        "Name": "summer morning halter & tanga"
+    },
+    {
+        "ID": 45116,
+        "Name": "striped summer halter & tanga"
+    },
+    {
+        "ID": 45117,
+        "Name": "black summer top & trunks"
+    },
+    {
+        "ID": 45118,
+        "Name": "black summer halter & tanga"
+    },
+    {
+        "ID": 45119,
+        "Name": "mended imperial attire"
+    },
+    {
+        "ID": 45120,
+        "Name": "snowman attire"
+    },
+    {
+        "ID": 45121,
+        "Name": "Valentione attire (apron)"
+    },
+    {
+        "ID": 45122,
+        "Name": "Valentione attire (apron dress)"
+    },
+    {
+        "ID": 45123,
+        "Name": "highland attire"
+    },
+    {
+        "ID": 45124,
+        "Name": "glacial attire"
+    },
+    {
+        "ID": 45125,
+        "Name": "sailor attire"
+    },
+    {
+        "ID": 45126,
+        "Name": "spring attire (dress)"
+    },
+    {
+        "ID": 45127,
+        "Name": "light steel attire"
+    },
+    {
+        "ID": 45128,
+        "Name": "taffeta attire"
+    },
+    {
+        "ID": 45129,
+        "Name": "sweet dream attire"
+    },
+    {
+        "ID": 45130,
+        "Name": "ti leaf lei & red summer maro"
+    },
+    {
+        "ID": 45131,
+        "Name": "south seas talisman & blue summer maro"
+    },
+    {
+        "ID": 45132,
+        "Name": "coeurl talisman & beach maro"
+    },
+    {
+        "ID": 45133,
+        "Name": "coronal summer halter & pareo"
+    },
+    {
+        "ID": 45134,
+        "Name": "sea breeze summer halter & pareo"
+    },
+    {
+        "ID": 45135,
+        "Name": "coeurl beach halter & pareo"
+    },
+    {
+        "ID": 45136,
+        "Name": "coeurl beach halter & tanga"
+    },
+    {
+        "ID": 45137,
+        "Name": "crescent moon nightgown & cone"
+    },
+    {
+        "ID": 45138,
+        "Name": "crescent moon nightgown & nightcap"
+    },
+    {
+        "ID": 45139,
+        "Name": "eternal innocence attire (tailcoat)"
+    },
+    {
+        "ID": 45140,
+        "Name": "eternal passion attire (tailcoat)"
+    },
+    {
+        "ID": 45141,
+        "Name": "eternal devotion attire (tailcoat)"
+    },
+    {
+        "ID": 45142,
+        "Name": "eternal innocence attire (gown)"
+    },
+    {
+        "ID": 45143,
+        "Name": "eternal passion attire (gown)"
+    },
+    {
+        "ID": 45144,
+        "Name": "eternal devotion attire (gown)"
+    },
+    {
+        "ID": 45145,
+        "Name": "moogle attire"
+    },
+    {
+        "ID": 45146,
+        "Name": "eerie garments"
+    },
+    {
+        "ID": 45147,
+        "Name": "Starlight attire"
+    },
+    {
+        "ID": 45148,
+        "Name": "best man's attire"
+    },
+    {
+        "ID": 45149,
+        "Name": "bridesmaid's attire"
+    },
+    {
+        "ID": 45150,
+        "Name": "gambler's attire"
+    },
+    {
+        "ID": 45151,
+        "Name": "bunny attire"
+    },
+    {
+        "ID": 45152,
+        "Name": "riviera attire"
+    },
+    {
+        "ID": 45153,
+        "Name": "oasis attire (doublet)"
+    },
+    {
+        "ID": 45154,
+        "Name": "oasis attire (tunic)"
+    },
+    {
+        "ID": 45155,
+        "Name": "glade attire"
+    },
+    {
+        "ID": 45156,
+        "Name": "the emperor's new attire"
+    },
+    {
+        "ID": 45157,
+        "Name": "advent attire"
+    },
+    {
+        "ID": 45158,
+        "Name": "Manderville attire"
+    },
+    {
+        "ID": 45159,
+        "Name": "southern seas vest"
+    },
+    {
+        "ID": 45160,
+        "Name": "southern seas swimsuit"
+    },
+    {
+        "ID": 45161,
+        "Name": "striped southern seas vest"
+    },
+    {
+        "ID": 45162,
+        "Name": "striped southern seas swimsuit"
+    },
+    {
+        "ID": 45163,
+        "Name": "Thavnairian attire (bolero)"
+    },
+    {
+        "ID": 45164,
+        "Name": "Thavnairian attire (bustier)"
+    },
+    {
+        "ID": 45165,
+        "Name": "spotted attire"
+    },
+    {
+        "ID": 45166,
+        "Name": "wild rose attire"
+    },
+    {
+        "ID": 45167,
+        "Name": "witch's attire"
+    },
+    {
+        "ID": 45168,
+        "Name": null
+    },
+    {
+        "ID": 45169,
+        "Name": null
+    },
+    {
+        "ID": 45170,
+        "Name": "bunny chief attire"
+    },
+    {
+        "ID": 45171,
+        "Name": "high house attire (justaucorps)"
+    },
+    {
+        "ID": 45172,
+        "Name": "high house attire (bustle)"
+    },
+    {
+        "ID": 45173,
+        "Name": "falconer attire"
+    },
+    {
+        "ID": 45174,
+        "Name": "lord's suikan set"
+    },
+    {
+        "ID": 45175,
+        "Name": "Scion conjurer's attire"
+    },
+    {
+        "ID": 45176,
+        "Name": "Scion thief's attire"
+    },
+    {
+        "ID": 45177,
+        "Name": "Scion striker's attire"
+    },
+    {
+        "ID": 45178,
+        "Name": "Scion thaumaturge's attire"
+    },
+    {
+        "ID": 45179,
+        "Name": "Scion chronocler's attire"
+    },
+    {
+        "ID": 45180,
+        "Name": "Amatsu attire"
+    },
+    {
+        "ID": 45181,
+        "Name": "lady's suikan set"
+    },
+    {
+        "ID": 45182,
+        "Name": "rainbow set (justaucorps)"
+    },
+    {
+        "ID": 45183,
+        "Name": "rainbow set (bustle)"
+    },
+    {
+        "ID": 45184,
+        "Name": "ramie (shirt) & dragonskin set"
+    },
+    {
+        "ID": 45185,
+        "Name": "Tantalus attire"
+    },
+    {
+        "ID": 45186,
+        "Name": "expeditioner's attire (coat)"
+    },
+    {
+        "ID": 45187,
+        "Name": null
+    },
+    {
+        "ID": 45188,
+        "Name": "expeditioner's attire (tabard)"
+    },
+    {
+        "ID": 45189,
+        "Name": null
+    },
+    {
+        "ID": 45190,
+        "Name": "Uraeus body armor & breeches"
+    },
+    {
+        "ID": 45191,
+        "Name": "gryphonskin breastguard & pantalettes"
+    },
+    {
+        "ID": 45192,
+        "Name": "head engineer's attire"
+    },
+    {
+        "ID": 45193,
+        "Name": "Ironworks engineer's attire"
+    },
+    {
+        "ID": 45194,
+        "Name": "Uraeus attire (coat)"
+    },
+    {
+        "ID": 45195,
+        "Name": "dhalmelskin attire (coat)"
+    },
+    {
+        "ID": 45196,
+        "Name": "ramie (tabard) & dhalmelskin set"
+    },
+    {
+        "ID": 45197,
+        "Name": "wind silk attire"
+    },
+    {
+        "ID": 45198,
+        "Name": "housemaid's attire"
+    },
+    {
+        "ID": 45199,
+        "Name": "butler's attire"
+    },
+    {
+        "ID": 45200,
+        "Name": null
+    },
+    {
+        "ID": 45201,
+        "Name": null
+    },
+    {
+        "ID": 45202,
+        "Name": null
+    },
+    {
+        "ID": 45203,
+        "Name": null
+    },
+    {
+        "ID": 45204,
+        "Name": null
+    },
+    {
+        "ID": 45205,
+        "Name": null
+    },
+    {
+        "ID": 45206,
+        "Name": null
+    },
+    {
+        "ID": 45207,
+        "Name": null
+    },
+    {
+        "ID": 45208,
+        "Name": null
+    },
+    {
+        "ID": 45209,
+        "Name": null
+    },
+    {
+        "ID": 45210,
+        "Name": null
+    },
+    {
+        "ID": 45211,
+        "Name": null
+    },
+    {
+        "ID": 45212,
+        "Name": null
+    },
+    {
+        "ID": 45213,
+        "Name": null
+    },
+    {
+        "ID": 45214,
+        "Name": null
+    },
+    {
+        "ID": 45215,
+        "Name": null
+    },
+    {
+        "ID": 45216,
+        "Name": null
+    },
+    {
+        "ID": 45217,
+        "Name": null
+    },
+    {
+        "ID": 45218,
+        "Name": null
+    },
+    {
+        "ID": 45219,
+        "Name": null
+    },
+    {
+        "ID": 45220,
+        "Name": null
+    },
+    {
+        "ID": 45221,
+        "Name": null
+    },
+    {
+        "ID": 45222,
+        "Name": "lone wolf attire"
+    },
+    {
+        "ID": 45223,
+        "Name": "pack wolf attire"
+    },
+    {
+        "ID": 45224,
+        "Name": "Vanu Vanu attire"
+    },
+    {
+        "ID": 45225,
+        "Name": "Vath attire"
+    },
+    {
+        "ID": 45226,
+        "Name": "New World attire"
+    },
+    {
+        "ID": 45227,
+        "Name": "legacy warrior attire"
+    },
+    {
+        "ID": 45228,
+        "Name": "survival attire"
+    },
+    {
+        "ID": 45229,
+        "Name": "extreme survival attire"
+    },
+    {
+        "ID": 45230,
+        "Name": "swine attire"
+    },
+    {
+        "ID": 45231,
+        "Name": "fuga attire"
+    },
+    {
+        "ID": 45232,
+        "Name": "Far Eastern noble's attire"
+    },
+    {
+        "ID": 45233,
+        "Name": "Eastern journey attire"
+    },
+    {
+        "ID": 45234,
+        "Name": "moonfire attire (vest)"
+    },
+    {
+        "ID": 45235,
+        "Name": "moonfire attire (halter)"
+    },
+    {
+        "ID": 45236,
+        "Name": "linen survival attire"
+    },
+    {
+        "ID": 45237,
+        "Name": "Scion rogue's attire"
+    },
+    {
+        "ID": 45238,
+        "Name": "Scion healer's attire"
+    },
+    {
+        "ID": 45239,
+        "Name": "Abes attire"
+    },
+    {
+        "ID": 45240,
+        "Name": "high summoner's attire"
+    },
+    {
+        "ID": 45241,
+        "Name": "angelic attire"
+    },
+    {
+        "ID": 45242,
+        "Name": "demonic attire"
+    },
+    {
+        "ID": 45243,
+        "Name": "Far Eastern gentleman's attire"
+    },
+    {
+        "ID": 45244,
+        "Name": "Far Eastern beauty's attire"
+    },
+    {
+        "ID": 45245,
+        "Name": "ramie (poncho) & dhalmelskin set"
+    },
+    {
+        "ID": 45246,
+        "Name": "cashmere attire"
+    },
+    {
+        "ID": 45247,
+        "Name": "eaglewing attire"
+    },
+    {
+        "ID": 45248,
+        "Name": "eaglebeak attire"
+    },
+    {
+        "ID": 45249,
+        "Name": "Golden Wolf attire"
+    },
+    {
+        "ID": 45250,
+        "Name": "Undying Twilight attire"
+    },
+    {
+        "ID": 45251,
+        "Name": "Pressing Darkness attire"
+    },
+    {
+        "ID": 45252,
+        "Name": "White Night attire"
+    },
+    {
+        "ID": 45253,
+        "Name": "Silver Wolf attire"
+    },
+    {
+        "ID": 45254,
+        "Name": "Makai Mauler's attire"
+    },
+    {
+        "ID": 45255,
+        "Name": "Makai Manhandler's attire"
+    },
+    {
+        "ID": 45256,
+        "Name": "Makai Marksman's attire"
+    },
+    {
+        "ID": 45257,
+        "Name": "Makai Markswoman's attire"
+    },
+    {
+        "ID": 45258,
+        "Name": "Makai Sun Guide's attire"
+    },
+    {
+        "ID": 45259,
+        "Name": "Makai Moon Guide's attire"
+    },
+    {
+        "ID": 45260,
+        "Name": "Makai Priest's attire"
+    },
+    {
+        "ID": 45261,
+        "Name": "Makai Priestess's attire"
+    },
+    {
+        "ID": 45262,
+        "Name": "wool attire (suspenders)"
+    },
+    {
+        "ID": 45263,
+        "Name": "flannel attire"
+    },
+    {
+        "ID": 45264,
+        "Name": "lord commander's attire"
+    },
+    {
+        "ID": 45265,
+        "Name": "Songbird attire"
+    },
+    {
+        "ID": 45266,
+        "Name": "royal seneschal's attire"
+    },
+    {
+        "ID": 45267,
+        "Name": "Zundu attire"
+    },
+    {
+        "ID": 45268,
+        "Name": "Gnath attire"
+    },
+    {
+        "ID": 45269,
+        "Name": "Scion adventurer's attire"
+    },
+    {
+        "ID": 45270,
+        "Name": "Leonhart attire"
+    },
+    {
+        "ID": 45271,
+        "Name": "Ward knight's attire"
+    },
+    {
+        "ID": 45272,
+        "Name": "Ward mage's attire"
+    },
+    {
+        "ID": 45273,
+        "Name": "exclusive Eastern journey attire"
+    },
+    {
+        "ID": 45274,
+        "Name": "Aka Oni attire"
+    },
+    {
+        "ID": 45275,
+        "Name": "Ao Oni attire"
+    },
+    {
+        "ID": 45276,
+        "Name": "tengu attire"
+    },
+    {
+        "ID": 45277,
+        "Name": "Nue attire"
+    },
+    {
+        "ID": 45278,
+        "Name": "Karasu attire"
+    },
+    {
+        "ID": 45279,
+        "Name": "Hakuko attire"
+    },
+    {
+        "ID": 45280,
+        "Name": "Kokuko attire"
+    },
+    {
+        "ID": 45281,
+        "Name": "Taoist's attire"
+    },
+    {
+        "ID": 45282,
+        "Name": "ao dai attire"
+    },
+    {
+        "ID": 45283,
+        "Name": "Nezha lord's attire"
+    },
+    {
+        "ID": 45284,
+        "Name": "Nezha lady's attire"
+    },
+    {
+        "ID": 45285,
+        "Name": "loyal housemaid's attire"
+    },
+    {
+        "ID": 45286,
+        "Name": "loyal butler's attire"
+    },
+    {
+        "ID": 45287,
+        "Name": "Faire attire"
+    },
+    {
+        "ID": 45288,
+        "Name": "Blackbosom attire"
+    },
+    {
+        "ID": 45289,
+        "Name": "hellhound attire"
+    },
+    {
+        "ID": 45290,
+        "Name": "attire of the Blue"
+    },
+    {
+        "ID": 45291,
+        "Name": "befooted werewolf attire"
+    },
+    {
+        "ID": 45292,
+        "Name": "belegged werewolf attire"
+    },
+    {
+        "ID": 45293,
+        "Name": "Emerald Carbuncle attire"
+    },
+    {
+        "ID": 45294,
+        "Name": "Topaz Carbuncle attire"
+    },
+    {
+        "ID": 45295,
+        "Name": null
+    },
+    {
+        "ID": 45296,
+        "Name": null
+    },
+    {
+        "ID": 45297,
+        "Name": "Scion liberator's attire"
+    },
+    {
+        "ID": 45298,
+        "Name": "spring attire (shirt)"
+    },
+    {
+        "ID": 45299,
+        "Name": "republican hoplomachus's attire"
+    },
+    {
+        "ID": 45300,
+        "Name": "republican eques's attire"
+    },
+    {
+        "ID": 45301,
+        "Name": "republican secutor's attire"
+    },
+    {
+        "ID": 45302,
+        "Name": "republican sagittarius's attire"
+    },
+    {
+        "ID": 45303,
+        "Name": "republican dimachaerius's\u00a0attire"
+    },
+    {
+        "ID": 45304,
+        "Name": "republican medicus's\u00a0attire"
+    },
+    {
+        "ID": 45305,
+        "Name": "republican signifer's\u00a0attire"
+    },
+    {
+        "ID": 45306,
+        "Name": "grey hound attire"
+    },
+    {
+        "ID": 45307,
+        "Name": "faerie tale prince's attire"
+    },
+    {
+        "ID": 45308,
+        "Name": "faerie tale princess's attire"
+    },
+    {
+        "ID": 45309,
+        "Name": "torn Manderville attire"
+    },
+    {
+        "ID": 45310,
+        "Name": "Anemos attire (jacket)"
+    },
+    {
+        "ID": 45311,
+        "Name": "Anemos attire (gambison)"
+    },
+    {
+        "ID": 45312,
+        "Name": "augmented Rathalos attire [M]"
+    },
+    {
+        "ID": 45313,
+        "Name": "augmented Rathalos attire [F]"
+    },
+    {
+        "ID": 45314,
+        "Name": "boulevardier's attire"
+    },
+    {
+        "ID": 45315,
+        "Name": "quaintrelle's attire"
+    },
+    {
+        "ID": 45316,
+        "Name": "mun'gaek attire"
+    },
+    {
+        "ID": 45317,
+        "Name": "Eastern socialite's attire"
+    },
+    {
+        "ID": 45318,
+        "Name": "Doman liege's attire"
+    },
+    {
+        "ID": 45319,
+        "Name": "endless summer attire"
+    },
+    {
+        "ID": 45320,
+        "Name": "barghest attire"
+    },
+    {
+        "ID": 45321,
+        "Name": "Pagos attire (shirt)"
+    },
+    {
+        "ID": 45322,
+        "Name": "Pagos attire (bolero)"
+    },
+    {
+        "ID": 45323,
+        "Name": "Rathalos attire [M]"
+    },
+    {
+        "ID": 45324,
+        "Name": "Rathalos attire [F]"
+    },
+    {
+        "ID": 45325,
+        "Name": "whisperfine wool attire"
+    },
+    {
+        "ID": 45326,
+        "Name": "choir attire"
+    },
+    {
+        "ID": 45327,
+        "Name": "Far Eastern officer's attire"
+    },
+    {
+        "ID": 45328,
+        "Name": "Far Eastern maiden's attire"
+    },
+    {
+        "ID": 45329,
+        "Name": "leal samurai's attire"
+    },
+    {
+        "ID": 45330,
+        "Name": "moddey dhoo attire"
+    },
+    {
+        "ID": 45331,
+        "Name": "rain attire"
+    },
+    {
+        "ID": 45332,
+        "Name": "Scion traveler's attire"
+    },
+    {
+        "ID": 45333,
+        "Name": "Far Eastern schoolboy's\u00a0attire"
+    },
+    {
+        "ID": 45334,
+        "Name": "Far Eastern schoolgirl's\u00a0attire"
+    },
+    {
+        "ID": 45335,
+        "Name": "spriggan attire"
+    },
+    {
+        "ID": 45336,
+        "Name": "Lucian prince's attire"
+    },
+    {
+        "ID": 45337,
+        "Name": "Minfilia's modish attire"
+    },
+    {
+        "ID": 45338,
+        "Name": "Crystarium attire"
+    },
+    {
+        "ID": 45339,
+        "Name": "koro attire"
+    },
+    {
+        "ID": 45340,
+        "Name": "gunro attire"
+    },
+    {
+        "ID": 45341,
+        "Name": "Scion hearer's attire"
+    },
+    {
+        "ID": 45342,
+        "Name": "toad attire"
+    },
+    {
+        "ID": 45343,
+        "Name": "fireglass leather set"
+    },
+    {
+        "ID": 45344,
+        "Name": "summer indigo set"
+    },
+    {
+        "ID": 45345,
+        "Name": "adventurer's hooded attire"
+    },
+    {
+        "ID": 45346,
+        "Name": null
+    },
+    {
+        "ID": 45347,
+        "Name": null
+    },
+    {
+        "ID": 45348,
+        "Name": null
+    },
+    {
+        "ID": 45349,
+        "Name": null
+    },
+    {
+        "ID": 45350,
+        "Name": null
+    },
+    {
+        "ID": 45351,
+        "Name": null
+    },
+    {
+        "ID": 45352,
+        "Name": null
+    },
+    {
+        "ID": 45353,
+        "Name": null
+    },
+    {
+        "ID": 45354,
+        "Name": null
+    },
+    {
+        "ID": 45355,
+        "Name": null
+    },
+    {
+        "ID": 45356,
+        "Name": null
+    },
+    {
+        "ID": 45357,
+        "Name": "late Allagan attire of fending"
+    },
+    {
+        "ID": 45358,
+        "Name": "late Allagan attire of maiming"
+    },
+    {
+        "ID": 45359,
+        "Name": "late Allagan attire of striking"
+    },
+    {
+        "ID": 45360,
+        "Name": "late Allagan attire of aiming"
+    },
+    {
+        "ID": 45361,
+        "Name": "late Allagan attire of scouting"
+    },
+    {
+        "ID": 45362,
+        "Name": "late Allagan attire of healing"
+    },
+    {
+        "ID": 45363,
+        "Name": "late Allagan attire of casting"
+    },
+    {
+        "ID": 45364,
+        "Name": "Majestic attire"
+    },
+    {
+        "ID": 45365,
+        "Name": "Valentione rose attire (waistcoat)"
+    },
+    {
+        "ID": 45366,
+        "Name": "Valentione forget-me-not attire (waistcoat)"
+    },
+    {
+        "ID": 45367,
+        "Name": "Valentione acacia attire (waistcoat)"
+    },
+    {
+        "ID": 45368,
+        "Name": "Valentione rose attire (dress)"
+    },
+    {
+        "ID": 45369,
+        "Name": "Valentione forget-me-not attire (dress)"
+    },
+    {
+        "ID": 45370,
+        "Name": "Valentione acacia attire (dress)"
+    },
+    {
+        "ID": 45371,
+        "Name": "urban set"
+    },
+    {
+        "ID": 45372,
+        "Name": "rebel set"
+    },
+    {
+        "ID": 45373,
+        "Name": "craftsman's set (coverall)"
+    },
+    {
+        "ID": 45374,
+        "Name": "craftsman's set (singlet)"
+    },
+    {
+        "ID": 45375,
+        "Name": "peacock attire"
+    },
+    {
+        "ID": 45376,
+        "Name": "Eastern lord errant's attire"
+    },
+    {
+        "ID": 45377,
+        "Name": "Eastern lady errant's attire"
+    },
+    {
+        "ID": 45378,
+        "Name": "No.2 Type B attire"
+    },
+    {
+        "ID": 45379,
+        "Name": "replica sky pirate's attire of fending"
+    },
+    {
+        "ID": 45380,
+        "Name": "replica sky pirate's attire of maiming"
+    },
+    {
+        "ID": 45381,
+        "Name": "replica sky pirate's attire of striking"
+    },
+    {
+        "ID": 45382,
+        "Name": "replica sky pirate's attire of aiming"
+    },
+    {
+        "ID": 45383,
+        "Name": "replica sky pirate's attire of scouting"
+    },
+    {
+        "ID": 45384,
+        "Name": "replica sky pirate's attire of healing"
+    },
+    {
+        "ID": 45385,
+        "Name": "replica sky pirate's attire of casting"
+    },
+    {
+        "ID": 45386,
+        "Name": "replica sky rat's attire of fending"
+    },
+    {
+        "ID": 45387,
+        "Name": "replica sky rat's attire of maiming"
+    },
+    {
+        "ID": 45388,
+        "Name": "replica sky rat's attire of striking"
+    },
+    {
+        "ID": 45389,
+        "Name": "replica sky rat's attire of aiming"
+    },
+    {
+        "ID": 45390,
+        "Name": "replica sky rat's attire of scouting"
+    },
+    {
+        "ID": 45391,
+        "Name": "replica sky rat's attire of healing"
+    },
+    {
+        "ID": 45392,
+        "Name": "replica sky rat's attire of casting"
+    },
+    {
+        "ID": 45393,
+        "Name": "rabbit attire"
+    },
+    {
+        "ID": 45394,
+        "Name": "dapper rabbit attire"
+    },
+    {
+        "ID": 45395,
+        "Name": "kupo attire"
+    },
+    {
+        "ID": 45396,
+        "Name": "craftsman's attire"
+    },
+    {
+        "ID": 45397,
+        "Name": "Dalmascan attire"
+    },
+    {
+        "ID": 45398,
+        "Name": "Mheg Deaca attire"
+    },
+    {
+        "ID": 45399,
+        "Name": "Scion sorceress's attire"
+    },
+    {
+        "ID": 45400,
+        "Name": "Ruby Carbuncle attire"
+    },
+    {
+        "ID": 45401,
+        "Name": "summer's flame attire"
+    },
+    {
+        "ID": 45402,
+        "Name": "southern seas shirt & trousers"
+    },
+    {
+        "ID": 45403,
+        "Name": "southern seas shirt & skirt"
+    },
+    {
+        "ID": 45404,
+        "Name": "casual attire"
+    },
+    {
+        "ID": 45405,
+        "Name": "Hraesvelgr attire"
+    },
+    {
+        "ID": 45406,
+        "Name": "bergsteiger's attire"
+    },
+    {
+        "ID": 45407,
+        "Name": "dirndl's attire"
+    },
+    {
+        "ID": 45408,
+        "Name": "skyworker's attire"
+    },
+    {
+        "ID": 45409,
+        "Name": "calfskin rider's attire"
+    },
+    {
+        "ID": 45410,
+        "Name": "collegiate attire (slacks)"
+    },
+    {
+        "ID": 45411,
+        "Name": "collegiate attire (skirt)"
+    },
+    {
+        "ID": 45412,
+        "Name": "millfiend's costume attire"
+    },
+    {
+        "ID": 45413,
+        "Name": "forgefiend's costume attire"
+    },
+    {
+        "ID": 45414,
+        "Name": "hammerfiend's costume attire"
+    },
+    {
+        "ID": 45415,
+        "Name": "gemfiend's costume attire"
+    },
+    {
+        "ID": 45416,
+        "Name": "hidefiend's costume attire"
+    },
+    {
+        "ID": 45417,
+        "Name": "boltfiend's costume attire"
+    },
+    {
+        "ID": 45418,
+        "Name": "cauldronfiend's costume attire"
+    },
+    {
+        "ID": 45419,
+        "Name": "galleyfiend's costume attire"
+    },
+    {
+        "ID": 45420,
+        "Name": "minefiend's costume attire"
+    },
+    {
+        "ID": 45421,
+        "Name": "fieldfiend's costume attire"
+    },
+    {
+        "ID": 45422,
+        "Name": "tacklefiend's costume attire"
+    },
+    {
+        "ID": 45423,
+        "Name": "shadowstalker's\u00a0attire"
+    },
+    {
+        "ID": 45424,
+        "Name": "shadowcleaver's attire"
+    },
+    {
+        "ID": 45425,
+        "Name": "chicken attire"
+    },
+    {
+        "ID": 45426,
+        "Name": "frontier attire (jacket)"
+    },
+    {
+        "ID": 45427,
+        "Name": "frontier attire (dress)"
+    },
+    {
+        "ID": 45428,
+        "Name": "resshi attire"
+    },
+    {
+        "ID": 45429,
+        "Name": "peacelover's attire"
+    },
+    {
+        "ID": 45430,
+        "Name": "Oracle attire"
+    },
+    {
+        "ID": 45431,
+        "Name": "Heavensturn attire"
+    },
+    {
+        "ID": 45432,
+        "Name": "clown's attire"
+    },
+    {
+        "ID": 45433,
+        "Name": "happiness attire"
+    },
+    {
+        "ID": 45434,
+        "Name": "Omega-M attire"
+    },
+    {
+        "ID": 45435,
+        "Name": "Omega-F attire"
+    },
+    {
+        "ID": 45436,
+        "Name": "gaja attire"
+    },
+    {
+        "ID": 45437,
+        "Name": "archfiend attire"
+    },
+    {
+        "ID": 45438,
+        "Name": "street attire (top)"
+    },
+    {
+        "ID": 45439,
+        "Name": "street attire (jacket)"
+    },
+    {
+        "ID": 45440,
+        "Name": "summer sunset attire"
+    },
+    {
+        "ID": 45441,
+        "Name": "varsity attire (jacket)"
+    },
+    {
+        "ID": 45442,
+        "Name": "varsity attire (buttoned jacket)"
+    },
+    {
+        "ID": 45443,
+        "Name": "appointed attire"
+    },
+    {
+        "ID": 45444,
+        "Name": "virtu creed attire"
+    },
+    {
+        "ID": 45445,
+        "Name": "virtu tantra attire"
+    },
+    {
+        "ID": 45446,
+        "Name": "virtu ravager's attire"
+    },
+    {
+        "ID": 45447,
+        "Name": "virtu dragonlancer's attire"
+    },
+    {
+        "ID": 45448,
+        "Name": "virtu aoidos' attire"
+    },
+    {
+        "ID": 45449,
+        "Name": "virtu orison attire"
+    },
+    {
+        "ID": 45450,
+        "Name": "virtu goetia attire"
+    },
+    {
+        "ID": 45451,
+        "Name": "virtu caller's attire"
+    },
+    {
+        "ID": 45452,
+        "Name": "virtu savant's attire"
+    },
+    {
+        "ID": 45453,
+        "Name": "virtu iga attire"
+    },
+    {
+        "ID": 45454,
+        "Name": "virtu chaos attire"
+    },
+    {
+        "ID": 45455,
+        "Name": "virtu machinist's attire"
+    },
+    {
+        "ID": 45456,
+        "Name": "virtu welkin attire"
+    },
+    {
+        "ID": 45457,
+        "Name": "virtu myochin attire"
+    },
+    {
+        "ID": 45458,
+        "Name": "virtu duelist's attire"
+    },
+    {
+        "ID": 45459,
+        "Name": "virtu bodyguard's attire"
+    },
+    {
+        "ID": 45460,
+        "Name": "virtu dancer's attire"
+    },
+    {
+        "ID": 45461,
+        "Name": "virtu didact's attire"
+    },
+    {
+        "ID": 45462,
+        "Name": "virtu reaper's attire"
+    },
+    {
+        "ID": 45463,
+        "Name": "wayfarer's attire"
+    },
+    {
+        "ID": 45464,
+        "Name": "Makai Vanguard's attire"
+    },
+    {
+        "ID": 45465,
+        "Name": "Makai Vanbreaker's attire"
+    },
+    {
+        "ID": 45466,
+        "Name": "Makai Harbinger's attire"
+    },
+    {
+        "ID": 45467,
+        "Name": "Makai Harrower's attire"
+    },
+    {
+        "ID": 45468,
+        "Name": null
+    },
+    {
+        "ID": 45469,
+        "Name": null
+    },
+    {
+        "ID": 45470,
+        "Name": null
+    },
+    {
+        "ID": 45471,
+        "Name": null
+    },
+    {
+        "ID": 45472,
+        "Name": null
+    },
+    {
+        "ID": 45473,
+        "Name": null
+    },
+    {
+        "ID": 45474,
+        "Name": null
+    },
+    {
+        "ID": 45475,
+        "Name": null
+    },
+    {
+        "ID": 45476,
+        "Name": null
+    },
+    {
+        "ID": 45477,
+        "Name": null
+    },
+    {
+        "ID": 45478,
+        "Name": null
+    },
+    {
+        "ID": 45479,
+        "Name": "isle farmhand's attire (widebottoms)"
+    },
+    {
+        "ID": 45480,
+        "Name": "isle farmhand's attire (cutoffs)"
+    },
+    {
+        "ID": 45481,
+        "Name": "isle explorer's attire (trousers)"
+    },
+    {
+        "ID": 45482,
+        "Name": "isle explorer's attire (culottes)"
+    },
+    {
+        "ID": 45483,
+        "Name": "noir attire"
+    },
+    {
+        "ID": 45484,
+        "Name": "Wake doctor's attire"
+    },
+    {
+        "ID": 45485,
+        "Name": "tonberry attire"
+    },
+    {
+        "ID": 45486,
+        "Name": "fat cat loungewear (halfslops)"
+    },
+    {
+        "ID": 45487,
+        "Name": "fat cat loungewear (shorts)"
+    },
+    {
+        "ID": 45488,
+        "Name": "lawless enforcer's attire"
+    },
+    {
+        "ID": 45489,
+        "Name": "far northern attire"
+    },
+    {
+        "ID": 45490,
+        "Name": "Valentione emissary's attire (jacket)"
+    },
+    {
+        "ID": 45491,
+        "Name": "Valentione emissary's attire (ruffled dress)"
+    },
+    {
+        "ID": 45492,
+        "Name": "Phoenix Riser attire"
+    },
+    {
+        "ID": 45493,
+        "Name": "isle shepherd's attire"
+    },
+    {
+        "ID": 45494,
+        "Name": "isle vacationer's attire (shirt)"
+    },
+    {
+        "ID": 45495,
+        "Name": "isle vacationer's attire (tie-front shirt)"
+    },
+    {
+        "ID": 45496,
+        "Name": "prestige attire of light"
+    },
+    {
+        "ID": 45497,
+        "Name": "prestige onion attire"
+    },
+    {
+        "ID": 45498,
+        "Name": "prestige fuma attire"
+    },
+    {
+        "ID": 45499,
+        "Name": "prestige ballad attire"
+    },
+    {
+        "ID": 45500,
+        "Name": "prestige shadow fuma attire"
+    },
+    {
+        "ID": 45501,
+        "Name": "prestige royal attire"
+    },
+    {
+        "ID": 45502,
+        "Name": "prestige crimson attire"
+    },
+    {
+        "ID": 45503,
+        "Name": "educand's attire (slacks)"
+    },
+    {
+        "ID": 45504,
+        "Name": "educand's attire (skirt)"
+    },
+    {
+        "ID": 45505,
+        "Name": "magitek attire"
+    },
+    {
+        "ID": 45506,
+        "Name": "salon server's attire (vest)"
+    },
+    {
+        "ID": 45507,
+        "Name": "salon server's attire (dress vest)"
+    },
+    {
+        "ID": 45508,
+        "Name": "false monarchy attire"
+    },
+    {
+        "ID": 45509,
+        "Name": "yakaku attire (koshita)"
+    },
+    {
+        "ID": 45510,
+        "Name": "yakaku attire (fundoshi)"
+    },
+    {
+        "ID": 45511,
+        "Name": "prestige high Allagan attire of fending"
+    },
+    {
+        "ID": 45512,
+        "Name": "prestige high Allagan attire of maiming"
+    },
+    {
+        "ID": 45513,
+        "Name": "prestige high Allagan attire of striking"
+    },
+    {
+        "ID": 45514,
+        "Name": "prestige high Allagan attire of aiming"
+    },
+    {
+        "ID": 45515,
+        "Name": "prestige high Allagan attire of scouting"
+    },
+    {
+        "ID": 45516,
+        "Name": "prestige high Allagan attire of healing"
+    },
+    {
+        "ID": 45517,
+        "Name": "prestige high Allagan attire of casting"
+    },
+    {
+        "ID": 45518,
+        "Name": "plain pajamas"
+    },
+    {
+        "ID": 45519,
+        "Name": "cactuar pajamas"
+    },
+    {
+        "ID": 45520,
+        "Name": "chocobo pajamas"
+    },
+    {
+        "ID": 45521,
+        "Name": "unorthodox saint's attire"
+    },
+    {
+        "ID": 45522,
+        "Name": "seigneur's attire"
+    },
+    {
+        "ID": 45523,
+        "Name": "baronial attire"
+    },
+    {
+        "ID": 45524,
+        "Name": "island resort attire"
+    },
+    {
+        "ID": 45525,
+        "Name": "Shishu bujin attire"
+    },
+    {
+        "ID": 45526,
+        "Name": "Shishu gozen attire"
+    },
+    {
+        "ID": 45527,
+        "Name": "Iceheart attire"
+    },
+    {
+        "ID": 45528,
+        "Name": "Far Eastern performer's attire"
+    },
+    {
+        "ID": 45529,
+        "Name": "fierce tyrant's attire"
+    },
+    {
+        "ID": 45530,
+        "Name": "model A-1 tactical attire"
+    },
+    {
+        "ID": 45531,
+        "Name": "model A-2 tactical attire"
+    },
+    {
+        "ID": 45532,
+        "Name": "model B-1 tactical attire"
+    },
+    {
+        "ID": 45533,
+        "Name": "model B-2 tactical attire"
+    },
+    {
+        "ID": 45534,
+        "Name": "model C-1 tactical attire"
+    },
+    {
+        "ID": 45535,
+        "Name": "model C-2 tactical attire"
+    },
+    {
+        "ID": 45536,
+        "Name": "Metian attire"
+    },
+    {
+        "ID": 45537,
+        "Name": "gentlebean attire"
+    },
+    {
+        "ID": 45538,
+        "Name": "imp attire"
+    },
+    {
+        "ID": 45539,
+        "Name": "woodland warden's attire (breeches)"
+    },
+    {
+        "ID": 45540,
+        "Name": "woodland warden's attire (skirt)"
+    },
+    {
+        "ID": 45541,
+        "Name": "Crystarium prodigy's attire"
+    },
+    {
+        "ID": 45542,
+        "Name": "felicitous attire"
+    },
+    {
+        "ID": 45543,
+        "Name": "recreationisle attire"
+    },
+    {
+        "ID": 45544,
+        "Name": "free spirit's attire"
+    },
+    {
+        "ID": 45545,
+        "Name": "martial artist's attire (vest)"
+    },
+    {
+        "ID": 45546,
+        "Name": "martial artist's attire (sleeveless vest)"
+    },
+    {
+        "ID": 45547,
+        "Name": "gleaner's attire"
+    },
+    {
+        "ID": 45548,
+        "Name": null
+    },
+    {
+        "ID": 45549,
+        "Name": null
+    },
+    {
+        "ID": 45550,
+        "Name": null
+    },
+    {
+        "ID": 45551,
+        "Name": null
+    },
+    {
+        "ID": 45552,
+        "Name": null
+    },
+    {
+        "ID": 45553,
+        "Name": null
+    },
+    {
+        "ID": 45554,
+        "Name": null
+    },
+    {
+        "ID": 45555,
+        "Name": null
+    },
+    {
+        "ID": 45556,
+        "Name": null
+    },
+    {
+        "ID": 45557,
+        "Name": null
+    },
+    {
+        "ID": 45558,
+        "Name": null
+    },
+    {
+        "ID": 45559,
+        "Name": "Mica the Magical Mu attire"
+    },
+    {
+        "ID": 45560,
+        "Name": "Night of Devilry attire"
+    },
+    {
+        "ID": 45561,
+        "Name": "Turali trader's attire"
+    },
+    {
+        "ID": 45562,
+        "Name": "Turali traveler's attire"
+    },
+    {
+        "ID": 45563,
+        "Name": "scientist's attire"
+    },
+    {
+        "ID": 45564,
+        "Name": "loose fit attire"
+    },
+    {
+        "ID": 45565,
+        "Name": "seneschal prince attire"
+    },
+    {
+        "ID": 45566,
+        "Name": "wintertide attire (culottes)"
+    },
+    {
+        "ID": 45567,
+        "Name": "wintertide attire (sheath skirt)"
+    },
+    {
+        "ID": 45568,
+        "Name": "Dawnblazer attire"
+    },
+    {
+        "ID": 45569,
+        "Name": "leisurewear (high-cut shirt)"
+    },
+    {
+        "ID": 45570,
+        "Name": "leisurewear (high-cut knit top)"
+    },
+    {
+        "ID": 45571,
+        "Name": null
+    },
+    {
+        "ID": 45572,
+        "Name": null
+    },
+    {
+        "ID": 45573,
+        "Name": "ex-arch attire"
+    },
+    {
+        "ID": 45574,
+        "Name": "Zero's order attire"
+    },
+    {
+        "ID": 45575,
+        "Name": "King of Leonis attire"
+    },
+    {
+        "ID": 45576,
+        "Name": "Queen of Hourne attire"
+    },
+    {
+        "ID": 45577,
+        "Name": null
+    },
+    {
+        "ID": 45578,
+        "Name": null
+    },
+    {
+        "ID": 45579,
+        "Name": "bolt of royal damask"
+    },
+    {
+        "ID": 45580,
+        "Name": null
+    },
+    {
+        "ID": 45581,
+        "Name": null
+    },
+    {
+        "ID": 45582,
+        "Name": null
+    },
+    {
+        "ID": 45583,
+        "Name": null
+    },
+    {
+        "ID": 45584,
+        "Name": null
+    },
+    {
+        "ID": 45585,
+        "Name": null
+    },
+    {
+        "ID": 45586,
+        "Name": null
+    },
+    {
+        "ID": 45587,
+        "Name": null
+    },
+    {
+        "ID": 45588,
+        "Name": null
+    },
+    {
+        "ID": 45589,
+        "Name": null
+    },
+    {
+        "ID": 45590,
+        "Name": "coeurl talisman & beach briefs"
+    },
+    {
+        "ID": 45591,
+        "Name": null
+    },
+    {
+        "ID": 45592,
+        "Name": null
+    },
+    {
+        "ID": 45593,
+        "Name": null
+    },
+    {
+        "ID": 45594,
+        "Name": null
+    },
+    {
+        "ID": 45595,
+        "Name": null
+    },
+    {
+        "ID": 45596,
+        "Name": null
+    },
+    {
+        "ID": 45597,
+        "Name": null
+    },
+    {
+        "ID": 45598,
+        "Name": null
+    },
+    {
+        "ID": 45599,
+        "Name": null
+    },
+    {
+        "ID": 45600,
+        "Name": null
+    },
+    {
+        "ID": 45601,
+        "Name": null
+    },
+    {
+        "ID": 45602,
+        "Name": null
+    },
+    {
+        "ID": 45603,
+        "Name": null
+    },
+    {
+        "ID": 45604,
+        "Name": null
+    },
+    {
+        "ID": 45605,
+        "Name": null
+    },
+    {
+        "ID": 45606,
+        "Name": null
+    },
+    {
+        "ID": 45607,
+        "Name": null
+    },
+    {
+        "ID": 45608,
+        "Name": null
+    },
+    {
+        "ID": 45609,
+        "Name": null
+    },
+    {
+        "ID": 45610,
+        "Name": null
+    },
+    {
+        "ID": 45611,
+        "Name": null
+    },
+    {
+        "ID": 45612,
+        "Name": null
+    },
+    {
+        "ID": 45613,
+        "Name": null
+    },
+    {
+        "ID": 45614,
+        "Name": null
+    },
+    {
+        "ID": 45615,
+        "Name": null
+    },
+    {
+        "ID": 45616,
+        "Name": null
+    },
+    {
+        "ID": 45617,
+        "Name": null
+    },
+    {
+        "ID": 45618,
+        "Name": null
+    },
+    {
+        "ID": 45619,
+        "Name": null
+    },
+    {
+        "ID": 45620,
+        "Name": null
+    },
+    {
+        "ID": 45621,
+        "Name": null
+    },
+    {
+        "ID": 45622,
+        "Name": null
+    },
+    {
+        "ID": 45623,
+        "Name": null
+    },
+    {
+        "ID": 45624,
+        "Name": null
+    },
+    {
+        "ID": 45625,
+        "Name": null
+    },
+    {
+        "ID": 45626,
+        "Name": null
+    },
+    {
+        "ID": 45627,
+        "Name": null
+    },
+    {
+        "ID": 45628,
+        "Name": null
+    },
+    {
+        "ID": 45629,
+        "Name": null
+    },
+    {
+        "ID": 45630,
+        "Name": null
+    },
+    {
+        "ID": 45631,
+        "Name": null
+    },
+    {
+        "ID": 45632,
+        "Name": null
+    },
+    {
+        "ID": 45633,
+        "Name": null
+    },
+    {
+        "ID": 45634,
+        "Name": null
+    },
+    {
+        "ID": 45635,
+        "Name": null
+    },
+    {
+        "ID": 45636,
+        "Name": null
+    },
+    {
+        "ID": 45637,
+        "Name": null
+    },
+    {
+        "ID": 45638,
+        "Name": null
+    },
+    {
+        "ID": 45639,
+        "Name": null
+    },
+    {
+        "ID": 45640,
+        "Name": null
+    },
+    {
+        "ID": 45641,
+        "Name": null
+    },
+    {
+        "ID": 45642,
+        "Name": null
+    },
+    {
+        "ID": 45643,
+        "Name": null
+    },
+    {
+        "ID": 45644,
+        "Name": null
+    },
+    {
+        "ID": 45645,
+        "Name": null
+    },
+    {
+        "ID": 45646,
+        "Name": null
+    },
+    {
+        "ID": 45647,
+        "Name": null
+    },
+    {
+        "ID": 45648,
+        "Name": null
+    },
+    {
+        "ID": 45649,
+        "Name": null
+    },
+    {
+        "ID": 45650,
+        "Name": null
+    },
+    {
+        "ID": 45651,
+        "Name": null
+    },
+    {
+        "ID": 45652,
+        "Name": null
+    },
+    {
+        "ID": 45653,
+        "Name": null
+    },
+    {
+        "ID": 45654,
+        "Name": null
+    },
+    {
+        "ID": 45655,
+        "Name": null
+    },
+    {
+        "ID": 45656,
+        "Name": null
+    },
+    {
+        "ID": 45657,
+        "Name": null
+    },
+    {
+        "ID": 45658,
+        "Name": null
+    },
+    {
+        "ID": 45659,
+        "Name": null
+    },
+    {
+        "ID": 45660,
+        "Name": null
+    },
+    {
+        "ID": 45661,
+        "Name": null
+    },
+    {
+        "ID": 45662,
+        "Name": null
+    },
+    {
+        "ID": 45663,
+        "Name": null
+    },
+    {
+        "ID": 45664,
+        "Name": null
+    },
+    {
+        "ID": 45665,
+        "Name": null
+    },
+    {
+        "ID": 45666,
+        "Name": null
+    },
+    {
+        "ID": 45667,
+        "Name": null
+    },
+    {
+        "ID": 45668,
+        "Name": null
+    },
+    {
+        "ID": 45669,
+        "Name": null
+    },
+    {
+        "ID": 45670,
+        "Name": null
+    },
+    {
+        "ID": 45671,
+        "Name": null
+    },
+    {
+        "ID": 45672,
+        "Name": null
+    },
+    {
+        "ID": 45673,
+        "Name": null
+    },
+    {
+        "ID": 45674,
+        "Name": null
+    },
+    {
+        "ID": 45675,
+        "Name": null
+    },
+    {
+        "ID": 45676,
+        "Name": null
+    },
+    {
+        "ID": 45677,
+        "Name": null
+    },
+    {
+        "ID": 45678,
+        "Name": null
+    },
+    {
+        "ID": 45679,
+        "Name": null
+    },
+    {
+        "ID": 45680,
+        "Name": null
+    },
+    {
+        "ID": 45681,
+        "Name": null
+    },
+    {
+        "ID": 45682,
+        "Name": null
+    },
+    {
+        "ID": 45683,
+        "Name": null
+    },
+    {
+        "ID": 45684,
+        "Name": null
+    },
+    {
+        "ID": 45685,
+        "Name": null
+    },
+    {
+        "ID": 45686,
+        "Name": null
+    },
+    {
+        "ID": 45687,
+        "Name": null
+    },
+    {
+        "ID": 45688,
+        "Name": null
+    },
+    {
+        "ID": 45689,
+        "Name": null
+    },
+    {
+        "ID": 45690,
+        "Name": null
+    },
+    {
+        "ID": 45691,
+        "Name": null
+    },
+    {
+        "ID": 45692,
+        "Name": null
+    },
+    {
+        "ID": 45693,
+        "Name": null
+    },
+    {
+        "ID": 45694,
+        "Name": null
+    },
+    {
+        "ID": 45695,
+        "Name": null
+    },
+    {
+        "ID": 45696,
+        "Name": null
+    },
+    {
+        "ID": 45697,
+        "Name": null
+    },
+    {
+        "ID": 45698,
+        "Name": null
+    },
+    {
+        "ID": 45699,
+        "Name": null
+    },
+    {
+        "ID": 45700,
         "Name": null
     }
 ]
