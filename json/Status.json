@@ -13049,11 +13049,11 @@
     },
     {
         "ID": "3263",
-        "Name": null
+        "Name": "Wyrmclaw"
     },
     {
         "ID": "3264",
-        "Name": null
+        "Name": "Wyrmfang"
     },
     {
         "ID": "3265",
@@ -16625,43 +16625,43 @@
     },
     {
         "ID": "4157",
-        "Name": null
+        "Name": "_rsv_4157_-1_1_0_0_S74CFC3B0_E74CFC3B0"
     },
     {
         "ID": "4158",
-        "Name": null
+        "Name": "_rsv_4158_-1_1_0_0_S74CFC3B0_E74CFC3B0"
     },
     {
         "ID": "4159",
-        "Name": null
+        "Name": "_rsv_4159_-1_1_0_0_S74CFC3B0_E74CFC3B0"
     },
     {
         "ID": "4160",
-        "Name": null
+        "Name": "_rsv_4160_-1_1_0_0_S74CFC3B0_E74CFC3B0"
     },
     {
         "ID": "4161",
-        "Name": null
+        "Name": "_rsv_4161_-1_1_0_0_S74CFC3B0_E74CFC3B0"
     },
     {
         "ID": "4162",
-        "Name": null
+        "Name": "Physical Vulnerability Up"
     },
     {
         "ID": "4163",
-        "Name": null
+        "Name": "Stun"
     },
     {
         "ID": "4164",
-        "Name": null
+        "Name": "Light Resistance Down II"
     },
     {
         "ID": "4165",
-        "Name": null
+        "Name": "_rsv_4165_-1_1_0_0_S74CFC3B0_E74CFC3B0"
     },
     {
         "ID": "4166",
-        "Name": null
+        "Name": "_rsv_4166_-1_1_0_0_S74CFC3B0_E74CFC3B0"
     },
     {
         "ID": "4167",
@@ -16681,11 +16681,11 @@
     },
     {
         "ID": "4171",
-        "Name": null
+        "Name": "_rsv_4171_-1_1_0_0_S74CFC3B0_E74CFC3B0"
     },
     {
         "ID": "4172",
-        "Name": null
+        "Name": "_rsv_4172_-1_1_0_0_S74CFC3B0_E74CFC3B0"
     },
     {
         "ID": "4173",
@@ -16693,7 +16693,7 @@
     },
     {
         "ID": "4174",
-        "Name": null
+        "Name": "Spell-in-Waiting: Quietus"
     },
     {
         "ID": "4175",
@@ -16829,7 +16829,7 @@
     },
     {
         "ID": "4208",
-        "Name": null
+        "Name": "Spell-in-Waiting: Return"
     },
     {
         "ID": "4209",
@@ -17485,11 +17485,11 @@
     },
     {
         "ID": "4372",
-        "Name": null
+        "Name": "Mark of Mortality"
     },
     {
         "ID": "4373",
-        "Name": null
+        "Name": "Spell-in-Waiting Refrain"
     },
     {
         "ID": "4374",
@@ -17529,7 +17529,7 @@
     },
     {
         "ID": "4383",
-        "Name": null
+        "Name": "Fire Resistance Down II"
     },
     {
         "ID": "4384",
@@ -17741,7 +17741,7 @@
     },
     {
         "ID": "4436",
-        "Name": null
+        "Name": "Vulnerability Down"
     },
     {
         "ID": "4437",
