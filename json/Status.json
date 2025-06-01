@@ -6121,7 +6121,7 @@
     },
     {
         "ID": "1531",
-        "Name": "Down the Rabbit Hole"
+        "Name": "Cache Me if You Can"
     },
     {
         "ID": "1532",
@@ -13909,7 +13909,7 @@
     },
     {
         "ID": "3478",
-        "Name": null
+        "Name": "Thrice-come Ruin"
     },
     {
         "ID": "3479",
@@ -13925,7 +13925,7 @@
     },
     {
         "ID": "3482",
-        "Name": null
+        "Name": "Doom"
     },
     {
         "ID": "3483",
@@ -13969,7 +13969,7 @@
     },
     {
         "ID": "3493",
-        "Name": "Lethargy"
+        "Name": "Slow"
     },
     {
         "ID": "3494",
@@ -15765,11 +15765,11 @@
     },
     {
         "ID": "3942",
-        "Name": null
+        "Name": "Terror"
     },
     {
         "ID": "3943",
-        "Name": null
+        "Name": "Disease"
     },
     {
         "ID": "3944",
@@ -16665,7 +16665,7 @@
     },
     {
         "ID": "4167",
-        "Name": null
+        "Name": "Hysteria"
     },
     {
         "ID": "4168",
@@ -16841,19 +16841,19 @@
     },
     {
         "ID": "4211",
-        "Name": null
+        "Name": "Playing with Fire"
     },
     {
         "ID": "4212",
-        "Name": null
+        "Name": "Playing with Ice"
     },
     {
         "ID": "4213",
-        "Name": null
+        "Name": "Pyromania"
     },
     {
         "ID": "4214",
-        "Name": null
+        "Name": "Cryomania"
     },
     {
         "ID": "4215",
@@ -16901,19 +16901,19 @@
     },
     {
         "ID": "4226",
-        "Name": null
+        "Name": "Phantom Mastery"
     },
     {
         "ID": "4227",
-        "Name": null
+        "Name": "Balanced Party"
     },
     {
         "ID": "4228",
-        "Name": null
+        "Name": "Duties as Assigned"
     },
     {
         "ID": "4229",
-        "Name": null
+        "Name": "Battle High"
     },
     {
         "ID": "4230",
@@ -16921,203 +16921,203 @@
     },
     {
         "ID": "4231",
-        "Name": null
+        "Name": "Phantom Guard"
     },
     {
         "ID": "4232",
-        "Name": null
+        "Name": "Pray"
     },
     {
         "ID": "4233",
-        "Name": null
+        "Name": "Enduring Fortitude"
     },
     {
         "ID": "4234",
-        "Name": null
+        "Name": "Pledge"
     },
     {
         "ID": "4235",
-        "Name": null
+        "Name": "Rage"
     },
     {
         "ID": "4236",
-        "Name": null
+        "Name": "Pent-up Rage"
     },
     {
         "ID": "4237",
-        "Name": null
+        "Name": "Phantom Kick"
     },
     {
         "ID": "4238",
-        "Name": null
+        "Name": "Counterstance"
     },
     {
         "ID": "4239",
-        "Name": null
+        "Name": "Fleetfooted"
     },
     {
         "ID": "4240",
-        "Name": null
+        "Name": "Phantom Aim"
     },
     {
         "ID": "4241",
-        "Name": null
+        "Name": "Deadly Phantom Aim"
     },
     {
         "ID": "4242",
-        "Name": null
+        "Name": "Phantom Freelancer"
     },
     {
         "ID": "4243",
-        "Name": null
+        "Name": "Occult Unicorn"
     },
     {
         "ID": "4244",
-        "Name": null
+        "Name": "Romeo's Ballad"
     },
     {
         "ID": "4245",
-        "Name": null
+        "Name": "Shirahadori"
     },
     {
         "ID": "4246",
-        "Name": null
+        "Name": "Mighty March"
     },
     {
         "ID": "4247",
-        "Name": null
+        "Name": "Offensive Aria"
     },
     {
         "ID": "4248",
-        "Name": null
+        "Name": "Arcane Stop"
     },
     {
         "ID": "4249",
-        "Name": null
+        "Name": "Hero's Rime"
     },
     {
         "ID": "4250",
-        "Name": null
+        "Name": "Hero's Lament"
     },
     {
         "ID": "4251",
-        "Name": null
+        "Name": "Battle Bell"
     },
     {
         "ID": "4252",
-        "Name": null
+        "Name": "Battle's Clangor"
     },
     {
         "ID": "4253",
-        "Name": null
+        "Name": "Blessed Rain"
     },
     {
         "ID": "4254",
-        "Name": null
+        "Name": "Misty Mirage"
     },
     {
         "ID": "4255",
-        "Name": null
+        "Name": "Hasty Mirage"
     },
     {
         "ID": "4256",
-        "Name": null
+        "Name": "Aetherial Gain"
     },
     {
         "ID": "4257",
-        "Name": null
+        "Name": "Ringing Respite"
     },
     {
         "ID": "4258",
-        "Name": null
+        "Name": "Suspend"
     },
     {
         "ID": "4259",
-        "Name": null
+        "Name": "Occult Mage Masher"
     },
     {
         "ID": "4260",
-        "Name": null
+        "Name": "Occult Quick"
     },
     {
         "ID": "4261",
-        "Name": null
+        "Name": "Occult Swift"
     },
     {
         "ID": "4262",
-        "Name": null
+        "Name": "Resurrection Restricted"
     },
     {
         "ID": "4263",
-        "Name": null
+        "Name": "Resurrection Denied"
     },
     {
         "ID": "4264",
-        "Name": null
+        "Name": "Silver Sickness"
     },
     {
         "ID": "4265",
-        "Name": null
+        "Name": "Prediction of Judgment"
     },
     {
         "ID": "4266",
-        "Name": null
+        "Name": "Prediction of Cleansing"
     },
     {
         "ID": "4267",
-        "Name": null
+        "Name": "Prediction of Blessing"
     },
     {
         "ID": "4268",
-        "Name": null
+        "Name": "Prediction of Starfall"
     },
     {
         "ID": "4269",
-        "Name": null
+        "Name": "False Prediction"
     },
     {
         "ID": "4270",
-        "Name": null
+        "Name": "Blessing"
     },
     {
         "ID": "4271",
-        "Name": null
+        "Name": "Recuperation"
     },
     {
         "ID": "4272",
-        "Name": null
+        "Name": "Fortified Recuperation"
     },
     {
         "ID": "4273",
-        "Name": null
+        "Name": "Phantom Doom"
     },
     {
         "ID": "4274",
-        "Name": null
+        "Name": "Phantom Rejuvenation"
     },
     {
         "ID": "4275",
-        "Name": null
+        "Name": "Invulnerability"
     },
     {
         "ID": "4276",
-        "Name": null
+        "Name": "Occult Sprint"
     },
     {
         "ID": "4277",
-        "Name": null
+        "Name": "Vigilance"
     },
     {
         "ID": "4278",
-        "Name": null
+        "Name": "Foreseen Offense"
     },
     {
         "ID": "4279",
-        "Name": null
+        "Name": "Weapon Pilfered"
     },
     {
         "ID": "4280",
-        "Name": null
+        "Name": "Cloudy Caress"
     },
     {
         "ID": "4281",
@@ -17333,27 +17333,27 @@
     },
     {
         "ID": "4334",
-        "Name": null
+        "Name": "Wicked Water"
     },
     {
         "ID": "4335",
-        "Name": null
+        "Name": "Gelid Gaol"
     },
     {
         "ID": "4336",
-        "Name": null
+        "Name": "Prey: Lesser Axebit"
     },
     {
         "ID": "4337",
-        "Name": null
+        "Name": "Prey: Greater Axebit"
     },
     {
         "ID": "4338",
-        "Name": null
+        "Name": "Prey: Lancepoint"
     },
     {
         "ID": "4339",
-        "Name": null
+        "Name": "Unsealed"
     },
     {
         "ID": "4340",
@@ -17365,35 +17365,35 @@
     },
     {
         "ID": "4342",
-        "Name": null
+        "Name": "Buyer's Remorse"
     },
     {
         "ID": "4343",
-        "Name": null
+        "Name": "Buyer's Remorse"
     },
     {
         "ID": "4344",
-        "Name": null
+        "Name": "Buyer's Remorse"
     },
     {
         "ID": "4345",
-        "Name": null
+        "Name": "Cursed Change"
     },
     {
         "ID": "4346",
-        "Name": null
+        "Name": "Buy! Buy! Buy!"
     },
     {
         "ID": "4347",
-        "Name": null
+        "Name": "Buy! Buy! Buy!"
     },
     {
         "ID": "4348",
-        "Name": null
+        "Name": "Buy! Buy! Buy!"
     },
     {
         "ID": "4349",
-        "Name": null
+        "Name": "Fury"
     },
     {
         "ID": "4350",
@@ -17409,19 +17409,19 @@
     },
     {
         "ID": "4353",
-        "Name": null
+        "Name": "Defying Gravity"
     },
     {
         "ID": "4354",
-        "Name": null
+        "Name": "Crater Later"
     },
     {
         "ID": "4355",
-        "Name": null
+        "Name": "Dark Defenses"
     },
     {
         "ID": "4356",
-        "Name": null
+        "Name": "\u95c7\u306e\u653b\u52e2"
     },
     {
         "ID": "4357",
@@ -17429,51 +17429,51 @@
     },
     {
         "ID": "4358",
-        "Name": null
+        "Name": "Phantom Knight"
     },
     {
         "ID": "4359",
-        "Name": null
+        "Name": "Phantom Berserker"
     },
     {
         "ID": "4360",
-        "Name": null
+        "Name": "Phantom Monk"
     },
     {
         "ID": "4361",
-        "Name": null
+        "Name": "Phantom Ranger"
     },
     {
         "ID": "4362",
-        "Name": null
+        "Name": "Phantom Samurai"
     },
     {
         "ID": "4363",
-        "Name": null
+        "Name": "Phantom Bard"
     },
     {
         "ID": "4364",
-        "Name": null
+        "Name": "Phantom Geomancer"
     },
     {
         "ID": "4365",
-        "Name": null
+        "Name": "Phantom Time Mage"
     },
     {
         "ID": "4366",
-        "Name": null
+        "Name": "Phantom Cannoneer"
     },
     {
         "ID": "4367",
-        "Name": null
+        "Name": "Phantom Chemist"
     },
     {
         "ID": "4368",
-        "Name": null
+        "Name": "Phantom Oracle"
     },
     {
         "ID": "4369",
-        "Name": null
+        "Name": "Phantom Thief"
     },
     {
         "ID": "4370",
@@ -17501,7 +17501,7 @@
     },
     {
         "ID": "4376",
-        "Name": null
+        "Name": "Transporting"
     },
     {
         "ID": "4377",
@@ -17525,7 +17525,7 @@
     },
     {
         "ID": "4382",
-        "Name": null
+        "Name": "Thunderous Memory"
     },
     {
         "ID": "4383",
@@ -17533,7 +17533,7 @@
     },
     {
         "ID": "4384",
-        "Name": null
+        "Name": "Valued Customer"
     },
     {
         "ID": "4385",
@@ -17749,43 +17749,43 @@
     },
     {
         "ID": "4438",
-        "Name": null
+        "Name": "Tritonic Gravity"
     },
     {
         "ID": "4439",
-        "Name": null
+        "Name": "Nereidic Gravity"
     },
     {
         "ID": "4440",
-        "Name": null
+        "Name": "Phobosic Gravity"
     },
     {
         "ID": "4441",
-        "Name": null
+        "Name": "Nova Ooze"
     },
     {
         "ID": "4442",
-        "Name": null
+        "Name": "Ice Ooze"
     },
     {
         "ID": "4443",
-        "Name": null
+        "Name": "Icebound Buffoonery"
     },
     {
         "ID": "4444",
-        "Name": null
+        "Name": "Toxic Minerals"
     },
     {
         "ID": "4445",
-        "Name": null
+        "Name": "Petrification"
     },
     {
         "ID": "4446",
-        "Name": null
+        "Name": "Short Fuse"
     },
     {
         "ID": "4447",
-        "Name": null
+        "Name": "Long Fuse"
     },
     {
         "ID": "4448",
@@ -17829,7 +17829,7 @@
     },
     {
         "ID": "4458",
-        "Name": null
+        "Name": "Armed to the Teeth"
     },
     {
         "ID": "4459",
@@ -17877,7 +17877,7 @@
     },
     {
         "ID": "4470",
-        "Name": null
+        "Name": "Silence"
     },
     {
         "ID": "4471",
@@ -17889,11 +17889,11 @@
     },
     {
         "ID": "4473",
-        "Name": null
+        "Name": "Prey"
     },
     {
         "ID": "4474",
-        "Name": null
+        "Name": "Right of Entry: The Forked Tower"
     },
     {
         "ID": "4475",
@@ -18009,11 +18009,11 @@
     },
     {
         "ID": "4503",
-        "Name": null
+        "Name": "Burns"
     },
     {
         "ID": "4504",
-        "Name": null
+        "Name": "Electrocution"
     },
     {
         "ID": "4505",
@@ -18053,7 +18053,7 @@
     },
     {
         "ID": "4514",
-        "Name": null
+        "Name": "Damage Down"
     },
     {
         "ID": "4515",
@@ -18077,7 +18077,7 @@
     },
     {
         "ID": "4520",
-        "Name": null
+        "Name": "Sprint"
     },
     {
         "ID": "4521",
@@ -18149,15 +18149,15 @@
     },
     {
         "ID": "4538",
-        "Name": null
+        "Name": "Damage Up"
     },
     {
         "ID": "4539",
-        "Name": null
+        "Name": "Invincibility"
     },
     {
         "ID": "4540",
-        "Name": null
+        "Name": "Piercing Resistance Down"
     },
     {
         "ID": "4541",
@@ -18229,7 +18229,7 @@
     },
     {
         "ID": "4558",
-        "Name": null
+        "Name": "Doom"
     },
     {
         "ID": "4559",
