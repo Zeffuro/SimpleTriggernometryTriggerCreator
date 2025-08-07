@@ -17657,7 +17657,7 @@
     },
     {
         "ID": "4415",
-        "Name": null
+        "Name": "Star Contributor"
     },
     {
         "ID": "4416",
@@ -18033,7 +18033,7 @@
     },
     {
         "ID": "4509",
-        "Name": null
+        "Name": "Floating Fetters"
     },
     {
         "ID": "4510",
@@ -18165,51 +18165,51 @@
     },
     {
         "ID": "4542",
-        "Name": null
+        "Name": "Cell Block \u03b1"
     },
     {
         "ID": "4543",
-        "Name": null
+        "Name": "Cell Block \u03b2"
     },
     {
         "ID": "4544",
-        "Name": null
+        "Name": "Cell Block \u03b3"
     },
     {
         "ID": "4545",
-        "Name": null
+        "Name": "Cell Block \u03b4"
     },
     {
         "ID": "4546",
-        "Name": null
+        "Name": "Guard on Duty \u03b1"
     },
     {
         "ID": "4547",
-        "Name": null
+        "Name": "Guard on Duty \u03b2"
     },
     {
         "ID": "4548",
-        "Name": null
+        "Name": "Guard on Duty \u03b3"
     },
     {
         "ID": "4549",
-        "Name": null
+        "Name": "Guard on Duty \u03b4"
     },
     {
         "ID": "4550",
-        "Name": null
+        "Name": "Fugitive from Justice"
     },
     {
         "ID": "4551",
-        "Name": null
+        "Name": "Positive Charge"
     },
     {
         "ID": "4552",
-        "Name": null
+        "Name": "Negative Charge"
     },
     {
         "ID": "4553",
-        "Name": null
+        "Name": "Insensible"
     },
     {
         "ID": "4554",
@@ -18309,7 +18309,7 @@
     },
     {
         "ID": "4578",
-        "Name": null
+        "Name": "Fetters"
     },
     {
         "ID": "4579",
@@ -18317,11 +18317,11 @@
     },
     {
         "ID": "4580",
-        "Name": null
+        "Name": "Projection Locus"
     },
     {
         "ID": "4581",
-        "Name": null
+        "Name": "Paradise Found"
     },
     {
         "ID": "4582",
@@ -18373,7 +18373,7 @@
     },
     {
         "ID": "4594",
-        "Name": null
+        "Name": "Doom"
     },
     {
         "ID": "4595",
@@ -18397,6 +18397,606 @@
     },
     {
         "ID": "4600",
+        "Name": null
+    },
+    {
+        "ID": "4601",
+        "Name": null
+    },
+    {
+        "ID": "4602",
+        "Name": null
+    },
+    {
+        "ID": "4603",
+        "Name": null
+    },
+    {
+        "ID": "4604",
+        "Name": null
+    },
+    {
+        "ID": "4605",
+        "Name": null
+    },
+    {
+        "ID": "4606",
+        "Name": null
+    },
+    {
+        "ID": "4607",
+        "Name": null
+    },
+    {
+        "ID": "4608",
+        "Name": null
+    },
+    {
+        "ID": "4609",
+        "Name": null
+    },
+    {
+        "ID": "4610",
+        "Name": "Mighty Strikes"
+    },
+    {
+        "ID": "4611",
+        "Name": null
+    },
+    {
+        "ID": "4612",
+        "Name": null
+    },
+    {
+        "ID": "4613",
+        "Name": null
+    },
+    {
+        "ID": "4614",
+        "Name": null
+    },
+    {
+        "ID": "4615",
+        "Name": null
+    },
+    {
+        "ID": "4616",
+        "Name": null
+    },
+    {
+        "ID": "4617",
+        "Name": null
+    },
+    {
+        "ID": "4618",
+        "Name": "Standing Firm"
+    },
+    {
+        "ID": "4619",
+        "Name": null
+    },
+    {
+        "ID": "4620",
+        "Name": null
+    },
+    {
+        "ID": "4621",
+        "Name": null
+    },
+    {
+        "ID": "4622",
+        "Name": null
+    },
+    {
+        "ID": "4623",
+        "Name": null
+    },
+    {
+        "ID": "4624",
+        "Name": null
+    },
+    {
+        "ID": "4625",
+        "Name": null
+    },
+    {
+        "ID": "4626",
+        "Name": null
+    },
+    {
+        "ID": "4627",
+        "Name": null
+    },
+    {
+        "ID": "4628",
+        "Name": null
+    },
+    {
+        "ID": "4629",
+        "Name": null
+    },
+    {
+        "ID": "4630",
+        "Name": null
+    },
+    {
+        "ID": "4631",
+        "Name": null
+    },
+    {
+        "ID": "4632",
+        "Name": null
+    },
+    {
+        "ID": "4633",
+        "Name": null
+    },
+    {
+        "ID": "4634",
+        "Name": null
+    },
+    {
+        "ID": "4635",
+        "Name": null
+    },
+    {
+        "ID": "4636",
+        "Name": null
+    },
+    {
+        "ID": "4637",
+        "Name": null
+    },
+    {
+        "ID": "4638",
+        "Name": null
+    },
+    {
+        "ID": "4639",
+        "Name": null
+    },
+    {
+        "ID": "4640",
+        "Name": null
+    },
+    {
+        "ID": "4641",
+        "Name": null
+    },
+    {
+        "ID": "4642",
+        "Name": null
+    },
+    {
+        "ID": "4643",
+        "Name": null
+    },
+    {
+        "ID": "4644",
+        "Name": null
+    },
+    {
+        "ID": "4645",
+        "Name": null
+    },
+    {
+        "ID": "4646",
+        "Name": null
+    },
+    {
+        "ID": "4647",
+        "Name": null
+    },
+    {
+        "ID": "4648",
+        "Name": null
+    },
+    {
+        "ID": "4649",
+        "Name": null
+    },
+    {
+        "ID": "4650",
+        "Name": null
+    },
+    {
+        "ID": "4651",
+        "Name": null
+    },
+    {
+        "ID": "4652",
+        "Name": null
+    },
+    {
+        "ID": "4653",
+        "Name": null
+    },
+    {
+        "ID": "4654",
+        "Name": null
+    },
+    {
+        "ID": "4655",
+        "Name": null
+    },
+    {
+        "ID": "4656",
+        "Name": null
+    },
+    {
+        "ID": "4657",
+        "Name": null
+    },
+    {
+        "ID": "4658",
+        "Name": null
+    },
+    {
+        "ID": "4659",
+        "Name": null
+    },
+    {
+        "ID": "4660",
+        "Name": null
+    },
+    {
+        "ID": "4661",
+        "Name": null
+    },
+    {
+        "ID": "4662",
+        "Name": null
+    },
+    {
+        "ID": "4663",
+        "Name": null
+    },
+    {
+        "ID": "4664",
+        "Name": null
+    },
+    {
+        "ID": "4665",
+        "Name": null
+    },
+    {
+        "ID": "4666",
+        "Name": null
+    },
+    {
+        "ID": "4667",
+        "Name": null
+    },
+    {
+        "ID": "4668",
+        "Name": null
+    },
+    {
+        "ID": "4669",
+        "Name": null
+    },
+    {
+        "ID": "4670",
+        "Name": null
+    },
+    {
+        "ID": "4671",
+        "Name": null
+    },
+    {
+        "ID": "4672",
+        "Name": null
+    },
+    {
+        "ID": "4673",
+        "Name": null
+    },
+    {
+        "ID": "4674",
+        "Name": null
+    },
+    {
+        "ID": "4675",
+        "Name": null
+    },
+    {
+        "ID": "4676",
+        "Name": null
+    },
+    {
+        "ID": "4677",
+        "Name": null
+    },
+    {
+        "ID": "4678",
+        "Name": null
+    },
+    {
+        "ID": "4679",
+        "Name": null
+    },
+    {
+        "ID": "4680",
+        "Name": null
+    },
+    {
+        "ID": "4681",
+        "Name": null
+    },
+    {
+        "ID": "4682",
+        "Name": null
+    },
+    {
+        "ID": "4683",
+        "Name": "Doom"
+    },
+    {
+        "ID": "4684",
+        "Name": null
+    },
+    {
+        "ID": "4685",
+        "Name": null
+    },
+    {
+        "ID": "4686",
+        "Name": null
+    },
+    {
+        "ID": "4687",
+        "Name": null
+    },
+    {
+        "ID": "4688",
+        "Name": null
+    },
+    {
+        "ID": "4689",
+        "Name": null
+    },
+    {
+        "ID": "4690",
+        "Name": null
+    },
+    {
+        "ID": "4691",
+        "Name": null
+    },
+    {
+        "ID": "4692",
+        "Name": null
+    },
+    {
+        "ID": "4693",
+        "Name": null
+    },
+    {
+        "ID": "4694",
+        "Name": null
+    },
+    {
+        "ID": "4695",
+        "Name": null
+    },
+    {
+        "ID": "4696",
+        "Name": null
+    },
+    {
+        "ID": "4697",
+        "Name": null
+    },
+    {
+        "ID": "4698",
+        "Name": null
+    },
+    {
+        "ID": "4699",
+        "Name": null
+    },
+    {
+        "ID": "4700",
+        "Name": null
+    },
+    {
+        "ID": "4701",
+        "Name": null
+    },
+    {
+        "ID": "4702",
+        "Name": null
+    },
+    {
+        "ID": "4703",
+        "Name": null
+    },
+    {
+        "ID": "4704",
+        "Name": null
+    },
+    {
+        "ID": "4705",
+        "Name": null
+    },
+    {
+        "ID": "4706",
+        "Name": null
+    },
+    {
+        "ID": "4707",
+        "Name": null
+    },
+    {
+        "ID": "4708",
+        "Name": null
+    },
+    {
+        "ID": "4709",
+        "Name": null
+    },
+    {
+        "ID": "4710",
+        "Name": null
+    },
+    {
+        "ID": "4711",
+        "Name": null
+    },
+    {
+        "ID": "4712",
+        "Name": null
+    },
+    {
+        "ID": "4713",
+        "Name": null
+    },
+    {
+        "ID": "4714",
+        "Name": null
+    },
+    {
+        "ID": "4715",
+        "Name": null
+    },
+    {
+        "ID": "4716",
+        "Name": null
+    },
+    {
+        "ID": "4717",
+        "Name": null
+    },
+    {
+        "ID": "4718",
+        "Name": null
+    },
+    {
+        "ID": "4719",
+        "Name": null
+    },
+    {
+        "ID": "4720",
+        "Name": null
+    },
+    {
+        "ID": "4721",
+        "Name": null
+    },
+    {
+        "ID": "4722",
+        "Name": null
+    },
+    {
+        "ID": "4723",
+        "Name": null
+    },
+    {
+        "ID": "4724",
+        "Name": null
+    },
+    {
+        "ID": "4725",
+        "Name": null
+    },
+    {
+        "ID": "4726",
+        "Name": null
+    },
+    {
+        "ID": "4727",
+        "Name": null
+    },
+    {
+        "ID": "4728",
+        "Name": null
+    },
+    {
+        "ID": "4729",
+        "Name": null
+    },
+    {
+        "ID": "4730",
+        "Name": null
+    },
+    {
+        "ID": "4731",
+        "Name": null
+    },
+    {
+        "ID": "4732",
+        "Name": null
+    },
+    {
+        "ID": "4733",
+        "Name": null
+    },
+    {
+        "ID": "4734",
+        "Name": null
+    },
+    {
+        "ID": "4735",
+        "Name": null
+    },
+    {
+        "ID": "4736",
+        "Name": null
+    },
+    {
+        "ID": "4737",
+        "Name": null
+    },
+    {
+        "ID": "4738",
+        "Name": null
+    },
+    {
+        "ID": "4739",
+        "Name": null
+    },
+    {
+        "ID": "4740",
+        "Name": null
+    },
+    {
+        "ID": "4741",
+        "Name": null
+    },
+    {
+        "ID": "4742",
+        "Name": null
+    },
+    {
+        "ID": "4743",
+        "Name": null
+    },
+    {
+        "ID": "4744",
+        "Name": null
+    },
+    {
+        "ID": "4745",
+        "Name": null
+    },
+    {
+        "ID": "4746",
+        "Name": null
+    },
+    {
+        "ID": "4747",
+        "Name": null
+    },
+    {
+        "ID": "4748",
+        "Name": null
+    },
+    {
+        "ID": "4749",
+        "Name": null
+    },
+    {
+        "ID": "4750",
         "Name": null
     }
 ]
