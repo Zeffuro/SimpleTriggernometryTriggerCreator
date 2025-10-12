@@ -18037,15 +18037,15 @@
     },
     {
         "ID": "4510",
-        "Name": null
+        "Name": "Bind"
     },
     {
         "ID": "4511",
-        "Name": null
+        "Name": "Burns"
     },
     {
         "ID": "4512",
-        "Name": null
+        "Name": "Suppuration"
     },
     {
         "ID": "4513",
@@ -18069,11 +18069,11 @@
     },
     {
         "ID": "4518",
-        "Name": null
+        "Name": "Shadow of Death"
     },
     {
         "ID": "4519",
-        "Name": null
+        "Name": "Nowhere to Run"
     },
     {
         "ID": "4520",
@@ -18233,67 +18233,67 @@
     },
     {
         "ID": "4559",
-        "Name": null
+        "Name": "Dark Vengeance"
     },
     {
         "ID": "4560",
-        "Name": null
+        "Name": "Light Vengeance"
     },
     {
         "ID": "4561",
-        "Name": null
+        "Name": "Borrowed Time"
     },
     {
         "ID": "4562",
-        "Name": null
+        "Name": "Chains of Condemnation"
     },
     {
         "ID": "4563",
-        "Name": null
+        "Name": "Searing Chains"
     },
     {
         "ID": "4564",
-        "Name": null
+        "Name": "Shackled Healing"
     },
     {
         "ID": "4565",
-        "Name": null
+        "Name": "Shackled Abilities"
     },
     {
         "ID": "4566",
-        "Name": null
+        "Name": "Hellish Earth"
     },
     {
         "ID": "4567",
-        "Name": null
+        "Name": "Sin Bearer"
     },
     {
         "ID": "4568",
-        "Name": null
+        "Name": "Sum of All Sins"
     },
     {
         "ID": "4569",
-        "Name": null
+        "Name": "Without Sin"
     },
     {
         "ID": "4570",
-        "Name": null
+        "Name": "Fire Damage Up"
     },
     {
         "ID": "4571",
-        "Name": null
+        "Name": "Dark Damage Up"
     },
     {
         "ID": "4572",
-        "Name": null
+        "Name": "Light Damage Up"
     },
     {
         "ID": "4573",
-        "Name": null
+        "Name": "Well-done, Steak"
     },
     {
         "ID": "4574",
-        "Name": null
+        "Name": "Guardian Will"
     },
     {
         "ID": "4575",
@@ -18313,7 +18313,7 @@
     },
     {
         "ID": "4579",
-        "Name": null
+        "Name": "Blaze Spikes"
     },
     {
         "ID": "4580",
@@ -18329,39 +18329,39 @@
     },
     {
         "ID": "4583",
-        "Name": null
+        "Name": "Beyond Beleafed"
     },
     {
         "ID": "4584",
-        "Name": null
+        "Name": "Midsummer Night's Balm"
     },
     {
         "ID": "4585",
-        "Name": null
+        "Name": "Electrocution"
     },
     {
         "ID": "4586",
-        "Name": null
+        "Name": "Away with the Fae"
     },
     {
         "ID": "4587",
-        "Name": null
+        "Name": "Anointed"
     },
     {
         "ID": "4588",
-        "Name": null
+        "Name": "Mortific"
     },
     {
         "ID": "4589",
-        "Name": null
+        "Name": "Pure"
     },
     {
         "ID": "4590",
-        "Name": null
+        "Name": "Rapid Recitation"
     },
     {
         "ID": "4591",
-        "Name": null
+        "Name": "Incense Penalty"
     },
     {
         "ID": "4592",
@@ -18497,7 +18497,7 @@
     },
     {
         "ID": "4625",
-        "Name": null
+        "Name": "Breaker of Wind"
     },
     {
         "ID": "4626",
@@ -18605,7 +18605,7 @@
     },
     {
         "ID": "4652",
-        "Name": null
+        "Name": "Toxicosis"
     },
     {
         "ID": "4653",
@@ -18829,15 +18829,15 @@
     },
     {
         "ID": "4708",
-        "Name": null
+        "Name": "Transfiguration"
     },
     {
         "ID": "4709",
-        "Name": null
+        "Name": "Swift Sprint"
     },
     {
         "ID": "4710",
-        "Name": null
+        "Name": "HP Boost"
     },
     {
         "ID": "4711",
@@ -18869,7 +18869,7 @@
     },
     {
         "ID": "4718",
-        "Name": null
+        "Name": "Haste"
     },
     {
         "ID": "4719",
@@ -18889,7 +18889,7 @@
     },
     {
         "ID": "4723",
-        "Name": null
+        "Name": "Sapling's Crown"
     },
     {
         "ID": "4724",

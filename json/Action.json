@@ -101785,11 +101785,11 @@
     },
     {
         "ID": 25447,
-        "Name": "Cthonic Flood"
+        "Name": "Chthonic Flood"
     },
     {
         "ID": 25448,
-        "Name": "Cthonic Edge"
+        "Name": "Chthonic Edge"
     },
     {
         "ID": 25449,
@@ -119125,7 +119125,7 @@
     },
     {
         "ID": 29782,
-        "Name": null
+        "Name": "Rightward Right"
     },
     {
         "ID": 29783,
@@ -123837,7 +123837,7 @@
     },
     {
         "ID": 30960,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 30961,
@@ -123849,19 +123849,19 @@
     },
     {
         "ID": 30963,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 30964,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 30965,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 30966,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 30967,
@@ -124041,19 +124041,19 @@
     },
     {
         "ID": 31011,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 31012,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 31013,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 31014,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 31015,
@@ -124209,11 +124209,11 @@
     },
     {
         "ID": 31053,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 31054,
-        "Name": "Cthonic Vent"
+        "Name": "Chthonic Vent"
     },
     {
         "ID": 31055,
@@ -157945,7 +157945,7 @@
     },
     {
         "ID": 39487,
-        "Name": null
+        "Name": "Liturgy of Light"
     },
     {
         "ID": 39488,
@@ -158565,11 +158565,11 @@
     },
     {
         "ID": 39642,
-        "Name": null
+        "Name": "Brutal Halo"
     },
     {
         "ID": 39643,
-        "Name": null
+        "Name": "Brutal Halo"
     },
     {
         "ID": 39644,
@@ -158693,7 +158693,7 @@
     },
     {
         "ID": 39674,
-        "Name": null
+        "Name": "Brutal Halo"
     },
     {
         "ID": 39675,
@@ -158969,7 +158969,7 @@
     },
     {
         "ID": 39743,
-        "Name": null
+        "Name": "Brutal Halo"
     },
     {
         "ID": 39744,
@@ -159501,7 +159501,7 @@
     },
     {
         "ID": 39876,
-        "Name": null
+        "Name": "Bounds of Indulgence"
     },
     {
         "ID": 39877,
@@ -161601,7 +161601,7 @@
     },
     {
         "ID": 40401,
-        "Name": null
+        "Name": "Grip of Salvation"
     },
     {
         "ID": 40402,
@@ -161641,7 +161641,7 @@
     },
     {
         "ID": 40411,
-        "Name": null
+        "Name": "Salvation's Reach"
     },
     {
         "ID": 40412,
@@ -162193,31 +162193,31 @@
     },
     {
         "ID": 40549,
-        "Name": null
+        "Name": "Grip of Salvation"
     },
     {
         "ID": 40550,
-        "Name": null
+        "Name": "Salvation's Reach"
     },
     {
         "ID": 40551,
-        "Name": null
+        "Name": "Grip of Salvation"
     },
     {
         "ID": 40552,
-        "Name": null
+        "Name": "Salvation's Reach"
     },
     {
         "ID": 40553,
-        "Name": null
+        "Name": "Salvation's Reach"
     },
     {
         "ID": 40554,
-        "Name": null
+        "Name": "Triple Skull Dasher"
     },
     {
         "ID": 40555,
-        "Name": null
+        "Name": "Quadruple Skull Dasher"
     },
     {
         "ID": 40556,
@@ -162225,15 +162225,15 @@
     },
     {
         "ID": 40557,
-        "Name": null
+        "Name": "Hand of Judgment"
     },
     {
         "ID": 40558,
-        "Name": null
+        "Name": "Moatmaker"
     },
     {
         "ID": 40559,
-        "Name": null
+        "Name": "Buster Knuckles"
     },
     {
         "ID": 40560,
@@ -163109,11 +163109,11 @@
     },
     {
         "ID": 40778,
-        "Name": "Cthonic Fury"
+        "Name": "Chthonic Fury"
     },
     {
         "ID": 40779,
-        "Name": "Cthonic Fury"
+        "Name": "Chthonic Fury"
     },
     {
         "ID": 40780,
@@ -163561,7 +163561,7 @@
     },
     {
         "ID": 40891,
-        "Name": null
+        "Name": "Line of Fire"
     },
     {
         "ID": 40892,
@@ -163585,7 +163585,7 @@
     },
     {
         "ID": 40897,
-        "Name": null
+        "Name": "Rake"
     },
     {
         "ID": 40898,
@@ -165373,7 +165373,7 @@
     },
     {
         "ID": 41344,
-        "Name": null
+        "Name": "Poison Pollen Pair"
     },
     {
         "ID": 41345,
@@ -165701,11 +165701,11 @@
     },
     {
         "ID": 41426,
-        "Name": null
+        "Name": "Poison Pollen Pair"
     },
     {
         "ID": 41427,
-        "Name": null
+        "Name": "Magnetic Shock"
     },
     {
         "ID": 41428,
@@ -166045,7 +166045,7 @@
     },
     {
         "ID": 41512,
-        "Name": null
+        "Name": "Plaincracker"
     },
     {
         "ID": 41513,
@@ -166181,7 +166181,7 @@
     },
     {
         "ID": 41546,
-        "Name": null
+        "Name": "Stone Skull"
     },
     {
         "ID": 41547,
@@ -166893,7 +166893,7 @@
     },
     {
         "ID": 41724,
-        "Name": null
+        "Name": "Tortoise Stomp"
     },
     {
         "ID": 41725,
@@ -167389,15 +167389,15 @@
     },
     {
         "ID": 41848,
-        "Name": null
+        "Name": "Heirloom Scream"
     },
     {
         "ID": 41849,
-        "Name": null
+        "Name": "Regorge"
     },
     {
         "ID": 41850,
-        "Name": null
+        "Name": "Dripping Fang"
     },
     {
         "ID": 41851,
@@ -167413,7 +167413,7 @@
     },
     {
         "ID": 41854,
-        "Name": null
+        "Name": "Creeping Combination"
     },
     {
         "ID": 41855,
@@ -167425,7 +167425,7 @@
     },
     {
         "ID": 41857,
-        "Name": null
+        "Name": "Creeping Combination"
     },
     {
         "ID": 41858,
@@ -167509,11 +167509,11 @@
     },
     {
         "ID": 41878,
-        "Name": null
+        "Name": "Impale"
     },
     {
         "ID": 41879,
-        "Name": null
+        "Name": "Tail Screw"
     },
     {
         "ID": 41880,
@@ -167717,7 +167717,7 @@
     },
     {
         "ID": 41930,
-        "Name": null
+        "Name": "Leftward Left"
     },
     {
         "ID": 41931,
@@ -167733,7 +167733,7 @@
     },
     {
         "ID": 41934,
-        "Name": null
+        "Name": "Rightward Heat"
     },
     {
         "ID": 41935,
@@ -167817,7 +167817,7 @@
     },
     {
         "ID": 41955,
-        "Name": null
+        "Name": "Leftward Heat"
     },
     {
         "ID": 41956,
@@ -168357,11 +168357,11 @@
     },
     {
         "ID": 42090,
-        "Name": null
+        "Name": "Stonefist"
     },
     {
         "ID": 42091,
-        "Name": null
+        "Name": "Earthen Auger"
     },
     {
         "ID": 42092,
@@ -168489,19 +168489,19 @@
     },
     {
         "ID": 42123,
-        "Name": null
+        "Name": "Blown Blessing"
     },
     {
         "ID": 42124,
-        "Name": null
+        "Name": "Blown Blessing"
     },
     {
         "ID": 42125,
-        "Name": null
+        "Name": "Blown Blessing"
     },
     {
         "ID": 42126,
-        "Name": null
+        "Name": "Blown Blessing"
     },
     {
         "ID": 42127,
@@ -168509,19 +168509,19 @@
     },
     {
         "ID": 42128,
-        "Name": null
+        "Name": "Saltwater Shot"
     },
     {
         "ID": 42129,
-        "Name": null
+        "Name": "Shining Shot"
     },
     {
         "ID": 42130,
-        "Name": null
+        "Name": "Chaser"
     },
     {
         "ID": 42131,
-        "Name": null
+        "Name": "Chaser"
     },
     {
         "ID": 42132,
@@ -168573,7 +168573,7 @@
     },
     {
         "ID": 42144,
-        "Name": null
+        "Name": "Bafflement Bulb"
     },
     {
         "ID": 42145,
@@ -168585,11 +168585,11 @@
     },
     {
         "ID": 42147,
-        "Name": null
+        "Name": "Trounce"
     },
     {
         "ID": 42148,
-        "Name": null
+        "Name": "Mighty Spin"
     },
     {
         "ID": 42149,
@@ -168845,39 +168845,39 @@
     },
     {
         "ID": 42212,
-        "Name": null
+        "Name": "Smoldering Scales"
     },
     {
         "ID": 42213,
-        "Name": null
+        "Name": "Burning Cyclone"
     },
     {
         "ID": 42214,
-        "Name": null
+        "Name": "Right-sided Shockwave"
     },
     {
         "ID": 42215,
-        "Name": null
+        "Name": "Right-sided Shockwave"
     },
     {
         "ID": 42216,
-        "Name": null
+        "Name": "Left-sided Shockwave"
     },
     {
         "ID": 42217,
-        "Name": null
+        "Name": "Left-sided Shockwave"
     },
     {
         "ID": 42218,
-        "Name": null
+        "Name": "Ripper Claw"
     },
     {
         "ID": 42219,
-        "Name": null
+        "Name": "Haste"
     },
     {
         "ID": 42220,
-        "Name": null
+        "Name": "Several Thousand Needles"
     },
     {
         "ID": 42221,
@@ -170037,15 +170037,15 @@
     },
     {
         "ID": 42510,
-        "Name": null
+        "Name": "Unfinal Sting"
     },
     {
         "ID": 42511,
-        "Name": null
+        "Name": "Final Sting"
     },
     {
         "ID": 42512,
-        "Name": null
+        "Name": "Crystalline Stingers"
     },
     {
         "ID": 42513,
@@ -170057,19 +170057,19 @@
     },
     {
         "ID": 42515,
-        "Name": null
+        "Name": "Hailfire"
     },
     {
         "ID": 42516,
-        "Name": null
+        "Name": "Accelerate"
     },
     {
         "ID": 42517,
-        "Name": null
+        "Name": "Subduction"
     },
     {
         "ID": 42518,
-        "Name": null
+        "Name": "Settling Stone"
     },
     {
         "ID": 42519,
@@ -170077,7 +170077,7 @@
     },
     {
         "ID": 42520,
-        "Name": null
+        "Name": "Mighty Spin"
     },
     {
         "ID": 42521,
@@ -170085,11 +170085,11 @@
     },
     {
         "ID": 42522,
-        "Name": null
+        "Name": "Trounce"
     },
     {
         "ID": 42523,
-        "Name": null
+        "Name": "Rolling Barrage"
     },
     {
         "ID": 42524,
@@ -170281,7 +170281,7 @@
     },
     {
         "ID": 42571,
-        "Name": null
+        "Name": "Breakbeak"
     },
     {
         "ID": 42572,
@@ -170305,11 +170305,11 @@
     },
     {
         "ID": 42577,
-        "Name": null
+        "Name": "Forward Barrage"
     },
     {
         "ID": 42578,
-        "Name": null
+        "Name": "Growing Circles of Ablution"
     },
     {
         "ID": 42579,
@@ -170981,7 +170981,7 @@
     },
     {
         "ID": 42746,
-        "Name": null
+        "Name": "Shrinking Circles of Ablution"
     },
     {
         "ID": 42747,
@@ -170989,11 +170989,11 @@
     },
     {
         "ID": 42748,
-        "Name": null
+        "Name": "Shrinking Circles of Ablution"
     },
     {
         "ID": 42749,
-        "Name": null
+        "Name": "Growing Circles of Ablution"
     },
     {
         "ID": 42750,
@@ -171041,7 +171041,7 @@
     },
     {
         "ID": 42761,
-        "Name": null
+        "Name": "Flinging Charge"
     },
     {
         "ID": 42762,
@@ -171077,11 +171077,11 @@
     },
     {
         "ID": 42770,
-        "Name": null
+        "Name": "Fracture"
     },
     {
         "ID": 42771,
-        "Name": null
+        "Name": "Self-destruct"
     },
     {
         "ID": 42772,
@@ -172521,19 +172521,19 @@
     },
     {
         "ID": 43131,
-        "Name": null
+        "Name": "Claw and Tail"
     },
     {
         "ID": 43132,
-        "Name": null
+        "Name": "Claw and Tail"
     },
     {
         "ID": 43133,
-        "Name": null
+        "Name": "Incinerating Lahar"
     },
     {
         "ID": 43134,
-        "Name": null
+        "Name": "Abyssal Ray"
     },
     {
         "ID": 43135,
@@ -173153,11 +173153,11 @@
     },
     {
         "ID": 43289,
-        "Name": null
+        "Name": "Self-destruct"
     },
     {
         "ID": 43290,
-        "Name": null
+        "Name": "Self-destruct"
     },
     {
         "ID": 43291,
@@ -173269,39 +173269,39 @@
     },
     {
         "ID": 43318,
-        "Name": null
+        "Name": "Pounce"
     },
     {
         "ID": 43319,
-        "Name": null
+        "Name": "Valfodr"
     },
     {
         "ID": 43320,
-        "Name": null
+        "Name": "Valfodr"
     },
     {
         "ID": 43321,
-        "Name": null
+        "Name": "Storm Slash"
     },
     {
         "ID": 43322,
-        "Name": null
+        "Name": "Passions' Heat"
     },
     {
         "ID": 43323,
-        "Name": null
+        "Name": "Triple Blow"
     },
     {
         "ID": 43324,
-        "Name": null
+        "Name": "Quadruple Blow"
     },
     {
         "ID": 43325,
-        "Name": null
+        "Name": "Triple Blow"
     },
     {
         "ID": 43326,
-        "Name": null
+        "Name": "Quadruple Blow"
     },
     {
         "ID": 43327,
@@ -173621,131 +173621,131 @@
     },
     {
         "ID": 43406,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43407,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43408,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43409,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43410,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43411,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43412,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43413,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43414,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43415,
-        "Name": null
+        "Name": "Zealous Glower"
     },
     {
         "ID": 43416,
-        "Name": null
+        "Name": "\u5ea7\u6a19\u79fb\u52d5"
     },
     {
         "ID": 43417,
-        "Name": null
+        "Name": "Brutal Halo"
     },
     {
         "ID": 43418,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43419,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43420,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43421,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43422,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43423,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43424,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43425,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43426,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43427,
-        "Name": null
+        "Name": "Ardorous Eye"
     },
     {
         "ID": 43428,
-        "Name": null
+        "Name": "2000-mina Swing"
     },
     {
         "ID": 43429,
-        "Name": null
+        "Name": "2000-mina Swing"
     },
     {
         "ID": 43430,
-        "Name": null
+        "Name": "Disorienting Groan"
     },
     {
         "ID": 43431,
-        "Name": null
+        "Name": "Disorienting Groan"
     },
     {
         "ID": 43432,
-        "Name": null
+        "Name": "Octuple Swipe"
     },
     {
         "ID": 43433,
-        "Name": null
+        "Name": "Octuple Swipe"
     },
     {
         "ID": 43434,
-        "Name": null
+        "Name": "Octuple Swipe"
     },
     {
         "ID": 43435,
-        "Name": null
+        "Name": "Octuple Swipe"
     },
     {
         "ID": 43436,
-        "Name": null
+        "Name": "Octuple Swipe"
     },
     {
         "ID": 43437,
-        "Name": null
+        "Name": "Octuple Swipe"
     },
     {
         "ID": 43438,
@@ -173813,51 +173813,51 @@
     },
     {
         "ID": 43454,
-        "Name": null
+        "Name": "Touchdown"
     },
     {
         "ID": 43455,
-        "Name": null
+        "Name": "Touchdown"
     },
     {
         "ID": 43456,
-        "Name": null
+        "Name": "Burst"
     },
     {
         "ID": 43457,
-        "Name": null
+        "Name": "Burst"
     },
     {
         "ID": 43458,
-        "Name": null
+        "Name": "Burst"
     },
     {
         "ID": 43459,
-        "Name": null
+        "Name": "Burst"
     },
     {
         "ID": 43460,
-        "Name": null
+        "Name": "Bare Root Planting"
     },
     {
         "ID": 43461,
-        "Name": null
+        "Name": "Bare Root Planting"
     },
     {
         "ID": 43462,
-        "Name": null
+        "Name": "Wood's Embrace"
     },
     {
         "ID": 43463,
-        "Name": null
+        "Name": "Dense Planting"
     },
     {
         "ID": 43464,
-        "Name": null
+        "Name": "Dense Planting"
     },
     {
         "ID": 43465,
-        "Name": null
+        "Name": "Roaring Ring"
     },
     {
         "ID": 43466,
@@ -173865,15 +173865,15 @@
     },
     {
         "ID": 43467,
-        "Name": null
+        "Name": "Roaring Ring"
     },
     {
         "ID": 43468,
-        "Name": null
+        "Name": "Roaring Ring"
     },
     {
         "ID": 43469,
-        "Name": null
+        "Name": "Perilous Lair"
     },
     {
         "ID": 43470,
@@ -173881,15 +173881,15 @@
     },
     {
         "ID": 43471,
-        "Name": null
+        "Name": "Perilous Lair"
     },
     {
         "ID": 43472,
-        "Name": null
+        "Name": "Perilous Lair"
     },
     {
         "ID": 43473,
-        "Name": null
+        "Name": "Profane Waul"
     },
     {
         "ID": 43474,
@@ -173897,19 +173897,19 @@
     },
     {
         "ID": 43475,
-        "Name": null
+        "Name": "Prowling Death"
     },
     {
         "ID": 43476,
-        "Name": null
+        "Name": "Stalking Static"
     },
     {
         "ID": 43477,
-        "Name": null
+        "Name": "Stalking Static"
     },
     {
         "ID": 43478,
-        "Name": null
+        "Name": "Static Shock"
     },
     {
         "ID": 43479,
@@ -174121,35 +174121,35 @@
     },
     {
         "ID": 43531,
-        "Name": null
+        "Name": "Liquefaction"
     },
     {
         "ID": 43532,
-        "Name": null
+        "Name": "Falling Rock"
     },
     {
         "ID": 43533,
-        "Name": null
+        "Name": "Sandpit"
     },
     {
         "ID": 43534,
-        "Name": null
+        "Name": "Pit Ambush"
     },
     {
         "ID": 43535,
-        "Name": null
+        "Name": "Pit Ambush"
     },
     {
         "ID": 43536,
-        "Name": null
+        "Name": "Pit Ambush"
     },
     {
         "ID": 43537,
-        "Name": null
+        "Name": "Windraiser"
     },
     {
         "ID": 43538,
-        "Name": null
+        "Name": "Biting Wind"
     },
     {
         "ID": 43539,
@@ -175177,11 +175177,11 @@
     },
     {
         "ID": 43795,
-        "Name": null
+        "Name": "Stalking Static"
     },
     {
         "ID": 43796,
-        "Name": null
+        "Name": "Arcane Beacon"
     },
     {
         "ID": 43797,
@@ -175309,55 +175309,55 @@
     },
     {
         "ID": 43828,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43829,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43830,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43831,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43832,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43833,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43834,
-        "Name": null
+        "Name": "Guardian Siegeflight"
     },
     {
         "ID": 43835,
-        "Name": null
+        "Name": "Guardian Siegeflight"
     },
     {
         "ID": 43836,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 43837,
-        "Name": null
+        "Name": "Wyvern's Siegeflight"
     },
     {
         "ID": 43838,
-        "Name": null
+        "Name": "Wyvern's Siegeflight"
     },
     {
         "ID": 43839,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43840,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43841,
@@ -175365,71 +175365,71 @@
     },
     {
         "ID": 43842,
-        "Name": null
+        "Name": "Rush"
     },
     {
         "ID": 43843,
-        "Name": null
+        "Name": "Rush"
     },
     {
         "ID": 43844,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43845,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43846,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43847,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43848,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 43849,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 43850,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 43851,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 43852,
-        "Name": null
+        "Name": "Aetheric Resonance"
     },
     {
         "ID": 43853,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 43854,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 43855,
-        "Name": null
+        "Name": "Greater Resonance"
     },
     {
         "ID": 43856,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 43857,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43858,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43859,
@@ -175437,11 +175437,11 @@
     },
     {
         "ID": 43860,
-        "Name": null
+        "Name": "Wyvern's Vengeance"
     },
     {
         "ID": 43861,
-        "Name": null
+        "Name": "Wyvern's Vengeance"
     },
     {
         "ID": 43862,
@@ -175461,7 +175461,7 @@
     },
     {
         "ID": 43866,
-        "Name": null
+        "Name": "Wild Energy"
     },
     {
         "ID": 43867,
@@ -175473,19 +175473,19 @@
     },
     {
         "ID": 43869,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 43870,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 43871,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 43872,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 43873,
@@ -175497,135 +175497,135 @@
     },
     {
         "ID": 43875,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 43876,
-        "Name": null
+        "Name": "Wyvern's Rattle"
     },
     {
         "ID": 43877,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43878,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43879,
-        "Name": null
+        "Name": "Wrathful Rattle"
     },
     {
         "ID": 43880,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43881,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43882,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43883,
-        "Name": null
+        "Name": "Chainblade Charge"
     },
     {
         "ID": 43884,
-        "Name": null
+        "Name": "Chainblade Charge"
     },
     {
         "ID": 43885,
-        "Name": null
+        "Name": "Steeltail Thrust"
     },
     {
         "ID": 43886,
-        "Name": null
+        "Name": "Roar"
     },
     {
         "ID": 43887,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43888,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43889,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43890,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43891,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43892,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43893,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43894,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43895,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43896,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 43897,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43898,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43899,
-        "Name": null
+        "Name": "Guardian Siegeflight"
     },
     {
         "ID": 43900,
-        "Name": null
+        "Name": "Guardian Siegeflight"
     },
     {
         "ID": 43901,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 43902,
-        "Name": null
+        "Name": "Wyvern's Siegeflight"
     },
     {
         "ID": 43903,
-        "Name": null
+        "Name": "Wyvern's Siegeflight"
     },
     {
         "ID": 43904,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43905,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43906,
-        "Name": null
+        "Name": "White Flash"
     },
     {
         "ID": 43907,
-        "Name": null
+        "Name": "Dragonspark"
     },
     {
         "ID": 43908,
@@ -175633,79 +175633,79 @@
     },
     {
         "ID": 43909,
-        "Name": null
+        "Name": "Rush"
     },
     {
         "ID": 43910,
-        "Name": null
+        "Name": "Rush"
     },
     {
         "ID": 43911,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43912,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43913,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43914,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43915,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 43916,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 43917,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 43918,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 43919,
-        "Name": null
+        "Name": "Aetheric Resonance"
     },
     {
         "ID": 43920,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 43921,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 43922,
-        "Name": null
+        "Name": "Greater Resonance"
     },
     {
         "ID": 43923,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 43924,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43925,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43926,
-        "Name": null
+        "Name": "Wyvern's Vengeance"
     },
     {
         "ID": 43927,
-        "Name": null
+        "Name": "Wyvern's Vengeance"
     },
     {
         "ID": 43928,
@@ -175725,119 +175725,119 @@
     },
     {
         "ID": 43932,
-        "Name": null
+        "Name": "Wild Energy"
     },
     {
         "ID": 43933,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43934,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 43935,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 43936,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 43937,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 43938,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 43939,
-        "Name": null
+        "Name": "Wyvern's Rattle"
     },
     {
         "ID": 43940,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43941,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43942,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43943,
-        "Name": null
+        "Name": "Wrathful Rattle"
     },
     {
         "ID": 43944,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43945,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43946,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 43947,
-        "Name": null
+        "Name": "Chainblade Charge"
     },
     {
         "ID": 43948,
-        "Name": null
+        "Name": "Chainblade Charge"
     },
     {
         "ID": 43949,
-        "Name": null
+        "Name": "Steeltail Thrust"
     },
     {
         "ID": 43950,
-        "Name": null
+        "Name": "Roar"
     },
     {
         "ID": 43951,
-        "Name": null
+        "Name": "Roar"
     },
     {
         "ID": 43952,
-        "Name": null
+        "Name": "Wyvern's Vengeance"
     },
     {
         "ID": 43953,
-        "Name": null
+        "Name": "Wyvern's Vengeance"
     },
     {
         "ID": 43954,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 43955,
-        "Name": null
+        "Name": "Clamorous Chase"
     },
     {
         "ID": 43956,
-        "Name": null
+        "Name": "Clamorous Chase"
     },
     {
         "ID": 43957,
-        "Name": null
+        "Name": "Clamorous Chase"
     },
     {
         "ID": 43958,
-        "Name": null
+        "Name": "Clamorous Chase"
     },
     {
         "ID": 43959,
-        "Name": null
+        "Name": "Clamorous Chase"
     },
     {
         "ID": 43960,
-        "Name": null
+        "Name": "Clamorous Chase"
     },
     {
         "ID": 43961,
@@ -176149,7 +176149,7 @@
     },
     {
         "ID": 44038,
-        "Name": null
+        "Name": "Fae Trap"
     },
     {
         "ID": 44039,
@@ -176185,7 +176185,7 @@
     },
     {
         "ID": 44047,
-        "Name": null
+        "Name": "Chaser"
     },
     {
         "ID": 44048,
@@ -176201,7 +176201,7 @@
     },
     {
         "ID": 44051,
-        "Name": null
+        "Name": "Branch Out"
     },
     {
         "ID": 44052,
@@ -176209,103 +176209,103 @@
     },
     {
         "ID": 44053,
-        "Name": null
+        "Name": "Hedge Mazing"
     },
     {
         "ID": 44054,
-        "Name": null
+        "Name": "Hedge Mazing"
     },
     {
         "ID": 44055,
-        "Name": null
+        "Name": "Leafmash"
     },
     {
         "ID": 44056,
-        "Name": null
+        "Name": "Leafmash"
     },
     {
         "ID": 44057,
-        "Name": null
+        "Name": "Leafmash"
     },
     {
         "ID": 44058,
-        "Name": null
+        "Name": "Leafmash"
     },
     {
         "ID": 44059,
-        "Name": null
+        "Name": "Little Leafmash"
     },
     {
         "ID": 44060,
-        "Name": null
+        "Name": "Static Shock"
     },
     {
         "ID": 44061,
-        "Name": null
+        "Name": "Ball of Fire"
     },
     {
         "ID": 44062,
-        "Name": null
+        "Name": "Ball of Fire"
     },
     {
         "ID": 44063,
-        "Name": null
+        "Name": "Chains of Condemnation"
     },
     {
         "ID": 44064,
-        "Name": null
+        "Name": "Chains of Condemnation"
     },
     {
         "ID": 44065,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44066,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44067,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44068,
-        "Name": null
+        "Name": "Ball of Fire"
     },
     {
         "ID": 44069,
-        "Name": null
+        "Name": "Chains of Condemnation"
     },
     {
         "ID": 44070,
-        "Name": null
+        "Name": "Chains of Condemnation"
     },
     {
         "ID": 44071,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44072,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44073,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44074,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44075,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44076,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44077,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44078,
@@ -176313,35 +176313,35 @@
     },
     {
         "ID": 44079,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44080,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44081,
-        "Name": null
+        "Name": "Bounds of Sin"
     },
     {
         "ID": 44082,
-        "Name": null
+        "Name": "Bounds of Sin"
     },
     {
         "ID": 44083,
-        "Name": null
+        "Name": "Bounds of Sin"
     },
     {
         "ID": 44084,
-        "Name": null
+        "Name": "Bounds of Sin"
     },
     {
         "ID": 44085,
-        "Name": null
+        "Name": "Spinelash"
     },
     {
         "ID": 44086,
-        "Name": null
+        "Name": "Spinelash"
     },
     {
         "ID": 44087,
@@ -176349,55 +176349,55 @@
     },
     {
         "ID": 44088,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44089,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44090,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44091,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44092,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44093,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44094,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 44095,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 44096,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 44097,
-        "Name": null
+        "Name": "Ball of Fire"
     },
     {
         "ID": 44098,
-        "Name": null
+        "Name": "Ball of Fire"
     },
     {
         "ID": 44099,
-        "Name": null
+        "Name": "Chains of Condemnation"
     },
     {
         "ID": 44100,
-        "Name": null
+        "Name": "Chains of Condemnation"
     },
     {
         "ID": 44101,
@@ -176405,55 +176405,55 @@
     },
     {
         "ID": 44102,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44103,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44104,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44105,
-        "Name": null
+        "Name": "Ball of Fire"
     },
     {
         "ID": 44106,
-        "Name": null
+        "Name": "Chains of Condemnation"
     },
     {
         "ID": 44107,
-        "Name": null
+        "Name": "Chains of Condemnation"
     },
     {
         "ID": 44108,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44109,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44110,
-        "Name": null
+        "Name": "Blade of First Light"
     },
     {
         "ID": 44111,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44112,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44113,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44114,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44115,
@@ -176461,47 +176461,47 @@
     },
     {
         "ID": 44116,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44117,
-        "Name": null
+        "Name": "Abyssal Blaze"
     },
     {
         "ID": 44118,
-        "Name": null
+        "Name": "Scourging Blaze"
     },
     {
         "ID": 44119,
-        "Name": null
+        "Name": "Scourging Blaze"
     },
     {
         "ID": 44120,
-        "Name": null
+        "Name": "Bounds of Sin"
     },
     {
         "ID": 44121,
-        "Name": null
+        "Name": "Bounds of Sin"
     },
     {
         "ID": 44122,
-        "Name": null
+        "Name": "Bounds of Sin"
     },
     {
         "ID": 44123,
-        "Name": null
+        "Name": "Bounds of Sin"
     },
     {
         "ID": 44124,
-        "Name": null
+        "Name": "Bounds of Sin"
     },
     {
         "ID": 44125,
-        "Name": null
+        "Name": "Spinelash"
     },
     {
         "ID": 44126,
-        "Name": null
+        "Name": "Spinelash"
     },
     {
         "ID": 44127,
@@ -176509,183 +176509,183 @@
     },
     {
         "ID": 44128,
-        "Name": null
+        "Name": "Aetherial Offering"
     },
     {
         "ID": 44129,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44130,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44131,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44132,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44133,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44134,
-        "Name": null
+        "Name": "Drain Aether"
     },
     {
         "ID": 44135,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 44136,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 44137,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 44138,
-        "Name": null
+        "Name": "Abyssal Dawn"
     },
     {
         "ID": 44139,
-        "Name": null
+        "Name": "Abyssal Sun"
     },
     {
         "ID": 44140,
-        "Name": null
+        "Name": "Explosion"
     },
     {
         "ID": 44141,
-        "Name": null
+        "Name": "Big Burst"
     },
     {
         "ID": 44142,
-        "Name": null
+        "Name": "Explosion"
     },
     {
         "ID": 44143,
-        "Name": null
+        "Name": "Big Burst"
     },
     {
         "ID": 44144,
-        "Name": null
+        "Name": "Searing Chains"
     },
     {
         "ID": 44145,
-        "Name": null
+        "Name": "Burning Chains"
     },
     {
         "ID": 44146,
-        "Name": null
+        "Name": "Shackles of Sanctity"
     },
     {
         "ID": 44147,
-        "Name": null
+        "Name": "Shackles of Sanctity"
     },
     {
         "ID": 44148,
-        "Name": null
+        "Name": "Shackles of Sanctity"
     },
     {
         "ID": 44149,
-        "Name": null
+        "Name": "Shackles of Penitence"
     },
     {
         "ID": 44150,
-        "Name": null
+        "Name": "Shackles of Penitence"
     },
     {
         "ID": 44151,
-        "Name": null
+        "Name": "Hellish Earth"
     },
     {
         "ID": 44152,
-        "Name": null
+        "Name": "Hellish Earth"
     },
     {
         "ID": 44153,
-        "Name": null
+        "Name": "Hellish Earth"
     },
     {
         "ID": 44154,
-        "Name": null
+        "Name": "Hellish Torment"
     },
     {
         "ID": 44155,
-        "Name": null
+        "Name": "Hellish Torment"
     },
     {
         "ID": 44156,
-        "Name": null
+        "Name": "Eruption"
     },
     {
         "ID": 44157,
-        "Name": null
+        "Name": "Manifold Lashings"
     },
     {
         "ID": 44158,
-        "Name": null
+        "Name": "Manifold Lashings"
     },
     {
         "ID": 44159,
-        "Name": null
+        "Name": "Manifold Lashings"
     },
     {
         "ID": 44160,
-        "Name": null
+        "Name": "Manifold Lashings"
     },
     {
         "ID": 44161,
-        "Name": null
+        "Name": "Manifold Lashings"
     },
     {
         "ID": 44162,
-        "Name": null
+        "Name": "Big Burst"
     },
     {
         "ID": 44163,
-        "Name": null
+        "Name": "Unholy Darkness"
     },
     {
         "ID": 44164,
-        "Name": null
+        "Name": "Unholy Darkness"
     },
     {
         "ID": 44165,
-        "Name": null
+        "Name": "Crime and Punishment"
     },
     {
         "ID": 44166,
-        "Name": null
+        "Name": "Crime and Punishment"
     },
     {
         "ID": 44167,
-        "Name": null
+        "Name": "Explosion"
     },
     {
         "ID": 44168,
-        "Name": null
+        "Name": "Big Burst"
     },
     {
         "ID": 44169,
-        "Name": null
+        "Name": "Visceral Flame"
     },
     {
         "ID": 44170,
-        "Name": null
+        "Name": "Fevered Flame"
     },
     {
         "ID": 44171,
-        "Name": null
+        "Name": "Self-destruct"
     },
     {
         "ID": 44172,
-        "Name": null
+        "Name": "Fuse"
     },
     {
         "ID": 44173,
@@ -176693,15 +176693,15 @@
     },
     {
         "ID": 44174,
-        "Name": null
+        "Name": "Hellish Earth"
     },
     {
         "ID": 44175,
-        "Name": null
+        "Name": "Unholy Darkness"
     },
     {
         "ID": 44176,
-        "Name": null
+        "Name": "Unholy Darkness"
     },
     {
         "ID": 44177,
@@ -176985,7 +176985,7 @@
     },
     {
         "ID": 44247,
-        "Name": null
+        "Name": "Mega Potion"
     },
     {
         "ID": 44248,
@@ -176997,11 +176997,11 @@
     },
     {
         "ID": 44250,
-        "Name": null
+        "Name": "Backhand"
     },
     {
         "ID": 44251,
-        "Name": null
+        "Name": "Backhand"
     },
     {
         "ID": 44252,
@@ -177025,15 +177025,15 @@
     },
     {
         "ID": 44257,
-        "Name": null
+        "Name": "Arcane Beacon"
     },
     {
         "ID": 44258,
-        "Name": null
+        "Name": "Fore-hind Folly"
     },
     {
         "ID": 44259,
-        "Name": null
+        "Name": "Twin-winged Treachery"
     },
     {
         "ID": 44260,
@@ -177045,15 +177045,15 @@
     },
     {
         "ID": 44262,
-        "Name": null
+        "Name": "Devil's Quarter"
     },
     {
         "ID": 44263,
-        "Name": null
+        "Name": "Devil's Quarter"
     },
     {
         "ID": 44264,
-        "Name": null
+        "Name": "Bonecrusher"
     },
     {
         "ID": 44265,
@@ -177061,15 +177061,15 @@
     },
     {
         "ID": 44266,
-        "Name": null
+        "Name": "Skinflayer"
     },
     {
         "ID": 44267,
-        "Name": null
+        "Name": "Hot Iron"
     },
     {
         "ID": 44268,
-        "Name": null
+        "Name": "Hot Iron"
     },
     {
         "ID": 44269,
@@ -177169,7 +177169,7 @@
     },
     {
         "ID": 44293,
-        "Name": null
+        "Name": "Bellows"
     },
     {
         "ID": 44294,
@@ -177353,11 +177353,11 @@
     },
     {
         "ID": 44339,
-        "Name": null
+        "Name": "Triple Skull Dasher"
     },
     {
         "ID": 44340,
-        "Name": null
+        "Name": "Quadruple Skull Dasher"
     },
     {
         "ID": 44341,
@@ -177365,11 +177365,11 @@
     },
     {
         "ID": 44342,
-        "Name": null
+        "Name": "Heavy Smash"
     },
     {
         "ID": 44343,
-        "Name": null
+        "Name": "Gusion's Embrace"
     },
     {
         "ID": 44344,
@@ -177377,59 +177377,59 @@
     },
     {
         "ID": 44345,
-        "Name": null
+        "Name": "Right Smite"
     },
     {
         "ID": 44346,
-        "Name": null
+        "Name": "Right Smite"
     },
     {
         "ID": 44347,
-        "Name": null
+        "Name": "Left Smite"
     },
     {
         "ID": 44348,
-        "Name": null
+        "Name": "Left Smite"
     },
     {
         "ID": 44349,
-        "Name": null
+        "Name": "Dark Vision"
     },
     {
         "ID": 44350,
-        "Name": null
+        "Name": "Endless Nightmare"
     },
     {
         "ID": 44351,
-        "Name": null
+        "Name": "Dark Spike"
     },
     {
         "ID": 44352,
-        "Name": null
+        "Name": "Shadow Burst"
     },
     {
         "ID": 44353,
-        "Name": null
+        "Name": "Arachne Web"
     },
     {
         "ID": 44354,
-        "Name": null
+        "Name": "Stare"
     },
     {
         "ID": 44355,
-        "Name": null
+        "Name": "Mortal Gaze"
     },
     {
         "ID": 44356,
-        "Name": null
+        "Name": "Honeyed Front"
     },
     {
         "ID": 44357,
-        "Name": null
+        "Name": "Honeyed Left"
     },
     {
         "ID": 44358,
-        "Name": null
+        "Name": "Honeyed Right"
     },
     {
         "ID": 44359,
@@ -177641,11 +177641,11 @@
     },
     {
         "ID": 44411,
-        "Name": null
+        "Name": "Mana Boost"
     },
     {
         "ID": 44412,
-        "Name": null
+        "Name": "Unto Dust"
     },
     {
         "ID": 44413,
@@ -177965,7 +177965,7 @@
     },
     {
         "ID": 44492,
-        "Name": null
+        "Name": "Unveil"
     },
     {
         "ID": 44493,
@@ -177989,15 +177989,15 @@
     },
     {
         "ID": 44498,
-        "Name": null
+        "Name": "Entangle"
     },
     {
         "ID": 44499,
-        "Name": null
+        "Name": "Creeping Ivy"
     },
     {
         "ID": 44500,
-        "Name": null
+        "Name": "Rotten Stench"
     },
     {
         "ID": 44501,
@@ -178021,63 +178021,63 @@
     },
     {
         "ID": 44506,
-        "Name": null
+        "Name": "Gold Dust"
     },
     {
         "ID": 44507,
-        "Name": null
+        "Name": "Tail Drive"
     },
     {
         "ID": 44508,
-        "Name": null
+        "Name": "Lithic Breath"
     },
     {
         "ID": 44509,
-        "Name": null
+        "Name": "Authority's Edge"
     },
     {
         "ID": 44510,
-        "Name": null
+        "Name": "Authority's Edge"
     },
     {
         "ID": 44511,
-        "Name": null
+        "Name": "Big Hug"
     },
     {
         "ID": 44512,
-        "Name": null
+        "Name": "Whinge"
     },
     {
         "ID": 44513,
-        "Name": null
+        "Name": "Smashing Blow"
     },
     {
         "ID": 44514,
-        "Name": null
+        "Name": "Unholy Darkness"
     },
     {
         "ID": 44515,
-        "Name": null
+        "Name": "Karma"
     },
     {
         "ID": 44516,
-        "Name": null
+        "Name": "Frostbloom"
     },
     {
         "ID": 44517,
-        "Name": "\u30c8\u30ea\u30c3\u30af\u30fb\u30c8\u30ea\u30fc\u30c8"
+        "Name": "Trickster's Treat"
     },
     {
         "ID": 44518,
-        "Name": "\u30c8\u30ea\u30c3\u30af\u30fb\u30c8\u30ea\u30c3\u30af"
+        "Name": "Treater's Trick"
     },
     {
         "ID": 44519,
-        "Name": "\u30c8\u30ea\u30c3\u30af\u30fb\u30c8\u30ea\u30fc\u30c8"
+        "Name": "Trickster's Treat"
     },
     {
         "ID": 44520,
-        "Name": "\u30c8\u30ea\u30c3\u30af\u30fb\u30c8\u30ea\u30c3\u30af"
+        "Name": "Treater's Trick"
     },
     {
         "ID": 44521,
@@ -178461,191 +178461,191 @@
     },
     {
         "ID": 44616,
-        "Name": null
+        "Name": "Pomander of Haste"
     },
     {
         "ID": 44617,
-        "Name": null
+        "Name": "Pomander of Purification"
     },
     {
         "ID": 44618,
-        "Name": null
+        "Name": "Pomander of Devotion"
     },
     {
         "ID": 44619,
-        "Name": null
+        "Name": "Juniper Incense"
     },
     {
         "ID": 44620,
-        "Name": null
+        "Name": "Being Mortal"
     },
     {
         "ID": 44621,
-        "Name": null
+        "Name": "Being Mortal"
     },
     {
         "ID": 44622,
-        "Name": null
+        "Name": "Threads of Moonlight"
     },
     {
         "ID": 44623,
-        "Name": null
+        "Name": "Midsummer Night's Balm"
     },
     {
         "ID": 44624,
-        "Name": null
+        "Name": "Capricious Breeze"
     },
     {
         "ID": 44625,
-        "Name": null
+        "Name": "Dreamlight"
     },
     {
         "ID": 44626,
-        "Name": null
+        "Name": "Change"
     },
     {
         "ID": 44627,
-        "Name": null
+        "Name": "Tempestuous Temper"
     },
     {
         "ID": 44628,
-        "Name": null
+        "Name": "Rocky Roll"
     },
     {
         "ID": 44629,
-        "Name": null
+        "Name": "Big Burst"
     },
     {
         "ID": 44630,
-        "Name": null
+        "Name": "Incubus"
     },
     {
         "ID": 44631,
-        "Name": null
+        "Name": "Leafcutter"
     },
     {
         "ID": 44632,
-        "Name": null
+        "Name": "Tornado"
     },
     {
         "ID": 44633,
-        "Name": null
+        "Name": "Venom"
     },
     {
         "ID": 44634,
-        "Name": null
+        "Name": "Frog Kick"
     },
     {
         "ID": 44635,
-        "Name": null
+        "Name": "Canopy"
     },
     {
         "ID": 44636,
-        "Name": null
+        "Name": "Backhand Blow"
     },
     {
         "ID": 44637,
-        "Name": null
+        "Name": "Unfinal Sting"
     },
     {
         "ID": 44638,
-        "Name": null
+        "Name": "Spinning Attack"
     },
     {
         "ID": 44639,
-        "Name": null
+        "Name": "Pollen Corona"
     },
     {
         "ID": 44640,
-        "Name": null
+        "Name": "Hypno Squama"
     },
     {
         "ID": 44641,
-        "Name": null
+        "Name": "Rustling Wind"
     },
     {
         "ID": 44642,
-        "Name": null
+        "Name": "Slowcall"
     },
     {
         "ID": 44643,
-        "Name": null
+        "Name": "Mind of Its Own"
     },
     {
         "ID": 44644,
-        "Name": null
+        "Name": "Champ"
     },
     {
         "ID": 44645,
-        "Name": null
+        "Name": "Foul Bite"
     },
     {
         "ID": 44646,
-        "Name": null
+        "Name": "Silkscreen"
     },
     {
         "ID": 44647,
-        "Name": null
+        "Name": "Realm Shaker"
     },
     {
         "ID": 44648,
-        "Name": null
+        "Name": "Savage Swipe"
     },
     {
         "ID": 44649,
-        "Name": null
+        "Name": "Browbeat"
     },
     {
         "ID": 44650,
-        "Name": null
+        "Name": "Stool Pelt"
     },
     {
         "ID": 44651,
-        "Name": null
+        "Name": "Head Butt"
     },
     {
         "ID": 44652,
-        "Name": null
+        "Name": "Flamespitter"
     },
     {
         "ID": 44653,
-        "Name": null
+        "Name": "Fire Breath"
     },
     {
         "ID": 44654,
-        "Name": null
+        "Name": "Tail Whip"
     },
     {
         "ID": 44655,
-        "Name": null
+        "Name": "Deracinator"
     },
     {
         "ID": 44656,
-        "Name": null
+        "Name": "Shadow Burst"
     },
     {
         "ID": 44657,
-        "Name": null
+        "Name": "Ovation"
     },
     {
         "ID": 44658,
-        "Name": null
+        "Name": "Rake"
     },
     {
         "ID": 44659,
-        "Name": null
+        "Name": "Verdant Tornado"
     },
     {
         "ID": 44660,
-        "Name": null
+        "Name": "Transonic Blast"
     },
     {
         "ID": 44661,
-        "Name": null
+        "Name": "Bloody Claw"
     },
     {
         "ID": 44662,
-        "Name": null
+        "Name": "Terror Eye"
     },
     {
         "ID": 44663,
@@ -178653,431 +178653,431 @@
     },
     {
         "ID": 44664,
-        "Name": null
+        "Name": "Sanctified Fire II"
     },
     {
         "ID": 44665,
-        "Name": null
+        "Name": "Sanctified Flare"
     },
     {
         "ID": 44666,
-        "Name": null
+        "Name": "Slash"
     },
     {
         "ID": 44667,
-        "Name": null
+        "Name": "Rake"
     },
     {
         "ID": 44668,
-        "Name": null
+        "Name": "Lumen Infinitum"
     },
     {
         "ID": 44669,
-        "Name": null
+        "Name": "Ripper Claw"
     },
     {
         "ID": 44670,
-        "Name": null
+        "Name": "Tail Smash"
     },
     {
         "ID": 44671,
-        "Name": null
+        "Name": "Insulting Assault"
     },
     {
         "ID": 44672,
-        "Name": null
+        "Name": "Sanctified Holy"
     },
     {
         "ID": 44673,
-        "Name": null
+        "Name": "Beatdown"
     },
     {
         "ID": 44674,
-        "Name": null
+        "Name": "Buffet"
     },
     {
         "ID": 44675,
-        "Name": null
+        "Name": "Stonelight"
     },
     {
         "ID": 44676,
-        "Name": null
+        "Name": "Fists of Rage"
     },
     {
         "ID": 44677,
-        "Name": null
+        "Name": "Flood"
     },
     {
         "ID": 44678,
-        "Name": null
+        "Name": "Water III"
     },
     {
         "ID": 44679,
-        "Name": null
+        "Name": "Wing Cutter"
     },
     {
         "ID": 44680,
-        "Name": null
+        "Name": "Aetherial Spark"
     },
     {
         "ID": 44681,
-        "Name": null
+        "Name": "Parasitism"
     },
     {
         "ID": 44682,
-        "Name": null
+        "Name": "Acrid Stream"
     },
     {
         "ID": 44683,
-        "Name": null
+        "Name": "Words of Woe"
     },
     {
         "ID": 44684,
-        "Name": null
+        "Name": "Swinge"
     },
     {
         "ID": 44685,
-        "Name": null
+        "Name": "Ravenous Bite"
     },
     {
         "ID": 44686,
-        "Name": null
+        "Name": "Sanctification"
     },
     {
         "ID": 44687,
-        "Name": null
+        "Name": "Petrifying Light"
     },
     {
         "ID": 44688,
-        "Name": null
+        "Name": "Gibbet Cage"
     },
     {
         "ID": 44689,
-        "Name": null
+        "Name": "Wooden Horse"
     },
     {
         "ID": 44690,
-        "Name": null
+        "Name": "Left Tentacle"
     },
     {
         "ID": 44691,
-        "Name": null
+        "Name": "Right Tentacle"
     },
     {
         "ID": 44692,
-        "Name": null
+        "Name": "Sanctified Blizzard II"
     },
     {
         "ID": 44693,
-        "Name": null
+        "Name": "Sanctified Blizzard II"
     },
     {
         "ID": 44694,
-        "Name": null
+        "Name": "Death's Door"
     },
     {
         "ID": 44695,
-        "Name": null
+        "Name": "Spellsword"
     },
     {
         "ID": 44696,
-        "Name": null
+        "Name": "Wingbeat"
     },
     {
         "ID": 44697,
-        "Name": null
+        "Name": "Sideslip"
     },
     {
         "ID": 44698,
-        "Name": null
+        "Name": "Catching Claws"
     },
     {
         "ID": 44699,
-        "Name": null
+        "Name": "Lionsblaze"
     },
     {
         "ID": 44700,
-        "Name": null
+        "Name": "Alpine Draft"
     },
     {
         "ID": 44701,
-        "Name": null
+        "Name": "Golden Talons"
     },
     {
         "ID": 44702,
-        "Name": null
+        "Name": "Gallop"
     },
     {
         "ID": 44703,
-        "Name": null
+        "Name": "Nicker"
     },
     {
         "ID": 44704,
-        "Name": null
+        "Name": "Fireball"
     },
     {
         "ID": 44705,
-        "Name": null
+        "Name": "Acid Spray"
     },
     {
         "ID": 44706,
-        "Name": null
+        "Name": "Haste"
     },
     {
         "ID": 44707,
-        "Name": null
+        "Name": "Mandibular Bite"
     },
     {
         "ID": 44708,
-        "Name": null
+        "Name": "One-two March"
     },
     {
         "ID": 44709,
-        "Name": null
+        "Name": "One-two March"
     },
     {
         "ID": 44710,
-        "Name": null
+        "Name": "Fireball"
     },
     {
         "ID": 44711,
-        "Name": null
+        "Name": "Tail Smash"
     },
     {
         "ID": 44712,
-        "Name": null
+        "Name": "Whipcrack"
     },
     {
         "ID": 44713,
-        "Name": null
+        "Name": "Aetherial Blast"
     },
     {
         "ID": 44714,
-        "Name": null
+        "Name": "Smite of Rage"
     },
     {
         "ID": 44715,
-        "Name": null
+        "Name": "Whirl of Rage"
     },
     {
         "ID": 44716,
-        "Name": null
+        "Name": "Tornado"
     },
     {
         "ID": 44717,
-        "Name": null
+        "Name": "Serrated Spin"
     },
     {
         "ID": 44718,
-        "Name": null
+        "Name": "Odious Air"
     },
     {
         "ID": 44719,
-        "Name": null
+        "Name": "Vine Whip"
     },
     {
         "ID": 44720,
-        "Name": null
+        "Name": "Standing Chine"
     },
     {
         "ID": 44721,
-        "Name": null
+        "Name": "Eerie Soundwave"
     },
     {
         "ID": 44722,
-        "Name": null
+        "Name": "Blazing Trail"
     },
     {
         "ID": 44723,
-        "Name": null
+        "Name": "Fireball"
     },
     {
         "ID": 44724,
-        "Name": null
+        "Name": "Batterhorn"
     },
     {
         "ID": 44725,
-        "Name": null
+        "Name": "Horrid Horn"
     },
     {
         "ID": 44726,
-        "Name": null
+        "Name": "Poison Mist"
     },
     {
         "ID": 44727,
-        "Name": null
+        "Name": "Painful Gust"
     },
     {
         "ID": 44728,
-        "Name": null
+        "Name": "Pain Storm"
     },
     {
         "ID": 44729,
-        "Name": null
+        "Name": "Whorl of Hurt"
     },
     {
         "ID": 44730,
-        "Name": null
+        "Name": "Barreling Smash"
     },
     {
         "ID": 44731,
-        "Name": null
+        "Name": "Scythe Tail"
     },
     {
         "ID": 44732,
-        "Name": null
+        "Name": "Master of Levin"
     },
     {
         "ID": 44733,
-        "Name": null
+        "Name": "Charged Whisker"
     },
     {
         "ID": 44734,
-        "Name": null
+        "Name": "Spike Flail"
     },
     {
         "ID": 44735,
-        "Name": null
+        "Name": "Inhale"
     },
     {
         "ID": 44736,
-        "Name": null
+        "Name": "Heavy Toss"
     },
     {
         "ID": 44737,
-        "Name": null
+        "Name": "Heavy Scrapline"
     },
     {
         "ID": 44738,
-        "Name": null
+        "Name": "Rhino Attack"
     },
     {
         "ID": 44739,
-        "Name": null
+        "Name": "Rhino Guard"
     },
     {
         "ID": 44740,
-        "Name": null
+        "Name": "Head Butt"
     },
     {
         "ID": 44741,
-        "Name": null
+        "Name": "Soil Coat"
     },
     {
         "ID": 44742,
-        "Name": null
+        "Name": "Isle Drop"
     },
     {
         "ID": 44743,
-        "Name": null
+        "Name": "Rockslide"
     },
     {
         "ID": 44744,
-        "Name": null
+        "Name": "Hammer Throw"
     },
     {
         "ID": 44745,
-        "Name": null
+        "Name": "Schiltron"
     },
     {
         "ID": 44746,
-        "Name": null
+        "Name": "Stone Gaze"
     },
     {
         "ID": 44747,
-        "Name": null
+        "Name": "Body Slam"
     },
     {
         "ID": 44748,
-        "Name": null
+        "Name": "Body Press"
     },
     {
         "ID": 44749,
-        "Name": null
+        "Name": "Slip of the Tongue"
     },
     {
         "ID": 44750,
-        "Name": null
+        "Name": "Sewer Water"
     },
     {
         "ID": 44751,
-        "Name": null
+        "Name": "Sewer Water"
     },
     {
         "ID": 44752,
-        "Name": null
+        "Name": "Straight Punch"
     },
     {
         "ID": 44753,
-        "Name": null
+        "Name": "Plain Pound"
     },
     {
         "ID": 44754,
-        "Name": null
+        "Name": "Boulder Toss"
     },
     {
         "ID": 44755,
-        "Name": null
+        "Name": "Landslip"
     },
     {
         "ID": 44756,
-        "Name": null
+        "Name": "Fire II"
     },
     {
         "ID": 44757,
-        "Name": null
+        "Name": "Cross Lasers"
     },
     {
         "ID": 44758,
-        "Name": null
+        "Name": "Peripheral Lasers"
     },
     {
         "ID": 44759,
-        "Name": null
+        "Name": "Hail of Heels"
     },
     {
         "ID": 44760,
-        "Name": null
+        "Name": "Hail of Heels"
     },
     {
         "ID": 44761,
-        "Name": null
+        "Name": "Metamorphic Blast"
     },
     {
         "ID": 44762,
-        "Name": null
+        "Name": "Orogenic Storm"
     },
     {
         "ID": 44763,
-        "Name": null
+        "Name": "Gravel Shower"
     },
     {
         "ID": 44764,
-        "Name": null
+        "Name": "Crushing Fangs"
     },
     {
         "ID": 44765,
-        "Name": null
+        "Name": "Topple"
     },
     {
         "ID": 44766,
-        "Name": null
+        "Name": "Overbite"
     },
     {
         "ID": 44767,
-        "Name": null
+        "Name": "Earthquake"
     },
     {
         "ID": 44768,
-        "Name": null
+        "Name": "Mandibular Bite"
     },
     {
         "ID": 44769,
-        "Name": null
+        "Name": "Sandblast"
     },
     {
         "ID": 44770,
-        "Name": null
+        "Name": "Claw"
     },
     {
         "ID": 44771,
@@ -179085,91 +179085,91 @@
     },
     {
         "ID": 44772,
-        "Name": null
+        "Name": "Bad-mouth"
     },
     {
         "ID": 44773,
-        "Name": null
+        "Name": "Maul"
     },
     {
         "ID": 44774,
-        "Name": null
+        "Name": "Nox Blast"
     },
     {
         "ID": 44775,
-        "Name": null
+        "Name": "Dark II"
     },
     {
         "ID": 44776,
-        "Name": null
+        "Name": "Dark"
     },
     {
         "ID": 44777,
-        "Name": null
+        "Name": "Void Blizzard II"
     },
     {
         "ID": 44778,
-        "Name": null
+        "Name": "Surprise Attack"
     },
     {
         "ID": 44779,
-        "Name": null
+        "Name": "Blizzard Trap"
     },
     {
         "ID": 44780,
-        "Name": null
+        "Name": "Abyssal Swing"
     },
     {
         "ID": 44781,
-        "Name": null
+        "Name": "Abyssal Transfixion"
     },
     {
         "ID": 44782,
-        "Name": null
+        "Name": "Double Hex Eye"
     },
     {
         "ID": 44783,
-        "Name": null
+        "Name": "Knowing Gleam"
     },
     {
         "ID": 44784,
-        "Name": null
+        "Name": "Lightning Bolt"
     },
     {
         "ID": 44785,
-        "Name": null
+        "Name": "Hellclaw"
     },
     {
         "ID": 44786,
-        "Name": null
+        "Name": "Tail Blow"
     },
     {
         "ID": 44787,
-        "Name": null
+        "Name": "Dark II"
     },
     {
         "ID": 44788,
-        "Name": null
+        "Name": "Inner Demons"
     },
     {
         "ID": 44789,
-        "Name": null
+        "Name": "Execution"
     },
     {
         "ID": 44790,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 44791,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 44792,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 44793,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 44794,
@@ -179185,23 +179185,23 @@
     },
     {
         "ID": 44797,
-        "Name": null
+        "Name": "Scourging Blaze"
     },
     {
         "ID": 44798,
-        "Name": null
+        "Name": "Scourging Blaze"
     },
     {
         "ID": 44799,
-        "Name": null
+        "Name": "Scourging Blaze"
     },
     {
         "ID": 44800,
-        "Name": null
+        "Name": "Scourging Blaze"
     },
     {
         "ID": 44801,
-        "Name": null
+        "Name": "Shackles of Greater Sanctity"
     },
     {
         "ID": 44802,
@@ -179209,59 +179209,59 @@
     },
     {
         "ID": 44803,
-        "Name": null
+        "Name": "Steeltail Thrust"
     },
     {
         "ID": 44804,
-        "Name": null
+        "Name": "Steeltail Thrust"
     },
     {
         "ID": 44805,
-        "Name": null
+        "Name": "Steeltail Thrust"
     },
     {
         "ID": 44806,
-        "Name": null
+        "Name": "Steeltail Thrust"
     },
     {
         "ID": 44807,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 44808,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 44809,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 44810,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 44811,
-        "Name": null
+        "Name": "Chainblade Charge"
     },
     {
         "ID": 44812,
-        "Name": null
+        "Name": "Chainblade Charge"
     },
     {
         "ID": 44813,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 44814,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 44815,
-        "Name": null
+        "Name": "Chainblade Charge"
     },
     {
         "ID": 44816,
-        "Name": null
+        "Name": "Chainblade Charge"
     },
     {
         "ID": 44817,
@@ -179285,7 +179285,7 @@
     },
     {
         "ID": 44822,
-        "Name": null
+        "Name": "Big Burst"
     },
     {
         "ID": 44823,
@@ -179401,23 +179401,23 @@
     },
     {
         "ID": 44851,
-        "Name": null
+        "Name": "Deathtrap"
     },
     {
         "ID": 44852,
-        "Name": null
+        "Name": "Malice"
     },
     {
         "ID": 44853,
-        "Name": "\u9752\u306e\u6ce2\u52d5"
+        "Name": "Aetherblight"
     },
     {
         "ID": 44854,
-        "Name": null
+        "Name": "Hedge Mazing"
     },
     {
         "ID": 44855,
-        "Name": null
+        "Name": "Hedge Mazing"
     },
     {
         "ID": 44856,
@@ -179425,67 +179425,67 @@
     },
     {
         "ID": 44857,
-        "Name": null
+        "Name": "Branch Out"
     },
     {
         "ID": 44858,
-        "Name": null
+        "Name": "Several Thousand Needles"
     },
     {
         "ID": 44859,
-        "Name": null
+        "Name": "Long-range Needles"
     },
     {
         "ID": 44860,
-        "Name": null
+        "Name": "Several Thousand Needles"
     },
     {
         "ID": 44861,
-        "Name": null
+        "Name": "Long-range Needles"
     },
     {
         "ID": 44862,
-        "Name": null
+        "Name": "One-stone March"
     },
     {
         "ID": 44863,
-        "Name": null
+        "Name": "Two-stone March"
     },
     {
         "ID": 44864,
-        "Name": null
+        "Name": "Several Thousand Needles"
     },
     {
         "ID": 44865,
-        "Name": null
+        "Name": "Long-range Needles"
     },
     {
         "ID": 44866,
-        "Name": null
+        "Name": "Spineshot"
     },
     {
         "ID": 44867,
-        "Name": null
+        "Name": "Spinning Needles"
     },
     {
         "ID": 44868,
-        "Name": null
+        "Name": "Spinning Needles"
     },
     {
         "ID": 44869,
-        "Name": null
+        "Name": "Spinning Needles"
     },
     {
         "ID": 44870,
-        "Name": null
+        "Name": "Spinning Needles"
     },
     {
         "ID": 44871,
-        "Name": null
+        "Name": "Spinning Needles"
     },
     {
         "ID": 44872,
-        "Name": null
+        "Name": "Spineshot"
     },
     {
         "ID": 44873,
@@ -179509,7 +179509,7 @@
     },
     {
         "ID": 44878,
-        "Name": null
+        "Name": "Forged Fury"
     },
     {
         "ID": 44879,
@@ -179633,7 +179633,7 @@
     },
     {
         "ID": 44909,
-        "Name": null
+        "Name": "Spinning Needles"
     },
     {
         "ID": 44910,
@@ -179665,15 +179665,15 @@
     },
     {
         "ID": 44917,
-        "Name": null
+        "Name": "Divine Favor"
     },
     {
         "ID": 44918,
-        "Name": null
+        "Name": "Divine Favor"
     },
     {
         "ID": 44919,
-        "Name": null
+        "Name": "Divine Favor"
     },
     {
         "ID": 44920,
@@ -179705,7 +179705,7 @@
     },
     {
         "ID": 44927,
-        "Name": null
+        "Name": "Grip of Salvation"
     },
     {
         "ID": 44928,
@@ -180181,79 +180181,79 @@
     },
     {
         "ID": 45046,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 45047,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 45048,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 45049,
-        "Name": null
+        "Name": "Wyvern's Weal"
     },
     {
         "ID": 45050,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45051,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45052,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45053,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45054,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45055,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45056,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45057,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45058,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45059,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45060,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 45061,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 45062,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 45063,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 45064,
-        "Name": null
+        "Name": "Steeltail Thrust"
     },
     {
         "ID": 45065,
@@ -180265,31 +180265,31 @@
     },
     {
         "ID": 45067,
-        "Name": null
+        "Name": "Guardian Siegeflight"
     },
     {
         "ID": 45068,
-        "Name": null
+        "Name": "Wyvern's Siegeflight"
     },
     {
         "ID": 45069,
-        "Name": null
+        "Name": "Guardian Siegeflight"
     },
     {
         "ID": 45070,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 45071,
-        "Name": null
+        "Name": "Wyvern's Siegeflight"
     },
     {
         "ID": 45072,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45073,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45074,
@@ -180305,111 +180305,111 @@
     },
     {
         "ID": 45077,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45078,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45079,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45080,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45081,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45082,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45083,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45084,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45085,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45086,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45087,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45088,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45089,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45090,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45091,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45092,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45093,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45094,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45095,
-        "Name": null
+        "Name": "Chainblade Blow"
     },
     {
         "ID": 45096,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45097,
-        "Name": null
+        "Name": "Guardian Siegeflight"
     },
     {
         "ID": 45098,
-        "Name": null
+        "Name": "Wyvern's Siegeflight"
     },
     {
         "ID": 45099,
-        "Name": null
+        "Name": "Guardian Siegeflight"
     },
     {
         "ID": 45100,
-        "Name": null
+        "Name": "Guardian Resonance"
     },
     {
         "ID": 45101,
-        "Name": null
+        "Name": "Wyvern's Siegeflight"
     },
     {
         "ID": 45102,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45103,
-        "Name": null
+        "Name": "Wyvern's Radiance"
     },
     {
         "ID": 45104,
@@ -180417,23 +180417,23 @@
     },
     {
         "ID": 45105,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 45106,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 45107,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 45108,
-        "Name": null
+        "Name": "Wyvern's Ouroblade"
     },
     {
         "ID": 45109,
-        "Name": null
+        "Name": "Steeltail Thrust"
     },
     {
         "ID": 45110,
@@ -180449,31 +180449,31 @@
     },
     {
         "ID": 45113,
-        "Name": null
+        "Name": "Biting Wind"
     },
     {
         "ID": 45114,
-        "Name": null
+        "Name": "Bloody Claw"
     },
     {
         "ID": 45115,
-        "Name": null
+        "Name": "Terror Eye"
     },
     {
         "ID": 45116,
-        "Name": null
+        "Name": "Bloody Claw"
     },
     {
         "ID": 45117,
-        "Name": null
+        "Name": "Terror Eye"
     },
     {
         "ID": 45118,
-        "Name": null
+        "Name": "Spinelash"
     },
     {
         "ID": 45119,
-        "Name": null
+        "Name": "Spinelash"
     },
     {
         "ID": 45120,
@@ -180481,11 +180481,11 @@
     },
     {
         "ID": 45121,
-        "Name": null
+        "Name": "Near Tide"
     },
     {
         "ID": 45122,
-        "Name": null
+        "Name": "Far Tide"
     },
     {
         "ID": 45123,
@@ -180509,15 +180509,15 @@
     },
     {
         "ID": 45128,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 45129,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 45130,
-        "Name": null
+        "Name": "attack"
     },
     {
         "ID": 45131,
@@ -180673,11 +180673,11 @@
     },
     {
         "ID": 45169,
-        "Name": null
+        "Name": "Near Tide"
     },
     {
         "ID": 45170,
-        "Name": null
+        "Name": "Far Tide"
     },
     {
         "ID": 45171,
@@ -180797,15 +180797,15 @@
     },
     {
         "ID": 45200,
-        "Name": null
+        "Name": "Void Trap"
     },
     {
         "ID": 45201,
-        "Name": null
+        "Name": "Roar"
     },
     {
         "ID": 45202,
-        "Name": null
+        "Name": "Roar"
     },
     {
         "ID": 45203,

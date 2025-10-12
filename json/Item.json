@@ -148461,7 +148461,7 @@
     },
     {
         "ID": 37116,
-        "Name": "painting of the Cthonic Horns"
+        "Name": "painting of the Chthonic Horns"
     },
     {
         "ID": 37117,
@@ -184493,27 +184493,27 @@
     },
     {
         "ID": 46124,
-        "Name": null
+        "Name": "Guardian Arkveld's Windward Plains phasmascape"
     },
     {
         "ID": 46125,
-        "Name": null
+        "Name": "Rey Dau's Windward Plains phasmascape"
     },
     {
         "ID": 46126,
-        "Name": null
+        "Name": "Uth Duna's Scarlet Forest phasmascape"
     },
     {
         "ID": 46127,
-        "Name": null
+        "Name": "Omega's Iceshard Cliffs phasmascape"
     },
     {
         "ID": 46128,
-        "Name": null
+        "Name": "Jin Dahaad's Iceshard Cliffs phasmascape"
     },
     {
         "ID": 46129,
-        "Name": null
+        "Name": "Nu Udra's Oilwell Basin phasmascape"
     },
     {
         "ID": 46130,
@@ -184533,7 +184533,7 @@
     },
     {
         "ID": 46134,
-        "Name": null
+        "Name": "Yok Huy lantern"
     },
     {
         "ID": 46135,
@@ -184593,27 +184593,27 @@
     },
     {
         "ID": 46149,
-        "Name": null
+        "Name": "<Emphasis>Snowline Rollick</Emphasis> orchestrion roll"
     },
     {
         "ID": 46150,
-        "Name": null
+        "Name": "<Emphasis>Rays of Devotion</Emphasis> orchestrion roll"
     },
     {
         "ID": 46151,
-        "Name": null
+        "Name": "<Emphasis>Shadows Withal (Scions & Sinners: Piano)</Emphasis> orchestrion roll"
     },
     {
         "ID": 46152,
-        "Name": null
+        "Name": "<Emphasis>What Angel Wakes Me (Scions & Sinners: Instrumental)</Emphasis> orchestrion roll"
     },
     {
         "ID": 46153,
-        "Name": null
+        "Name": "<Emphasis>Civilizations (Pulse Vol. 2)</Emphasis> orchestrion roll"
     },
     {
         "ID": 46154,
-        "Name": null
+        "Name": "<Emphasis>Insatiable (Pulse Vol. 2)</Emphasis> orchestrion roll"
     },
     {
         "ID": 46155,
@@ -184625,59 +184625,59 @@
     },
     {
         "ID": 46157,
-        "Name": null
+        "Name": "<Emphasis>Radiant Cry of Life</Emphasis> orchestrion roll"
     },
     {
         "ID": 46158,
-        "Name": null
+        "Name": "<Emphasis>White Wraith</Emphasis> orchestrion roll"
     },
     {
         "ID": 46159,
-        "Name": null
+        "Name": "<Emphasis>Base Camp (Day)</Emphasis> orchestrion roll"
     },
     {
         "ID": 46160,
-        "Name": null
+        "Name": "<Emphasis>Kunafa, Windsong Village - Plenty (Day)</Emphasis> orchestrion roll"
     },
     {
         "ID": 46161,
-        "Name": null
+        "Name": "outdoor hunter's grill"
     },
     {
         "ID": 46162,
-        "Name": null
+        "Name": "wilds great sword stand"
     },
     {
         "ID": 46163,
-        "Name": null
+        "Name": "wilds banner"
     },
     {
         "ID": 46164,
-        "Name": null
+        "Name": "wilds pendant lamp"
     },
     {
         "ID": 46165,
-        "Name": null
+        "Name": "makeshift camp"
     },
     {
         "ID": 46166,
-        "Name": null
+        "Name": "pop-up camp"
     },
     {
         "ID": 46167,
-        "Name": null
+        "Name": "palanx striking dummy"
     },
     {
         "ID": 46168,
-        "Name": null
+        "Name": "Lyhe Ghiah stained crystal ornament"
     },
     {
         "ID": 46169,
-        "Name": null
+        "Name": "traverse clocktower"
     },
     {
         "ID": 46170,
-        "Name": null
+        "Name": "traverse tree"
     },
     {
         "ID": 46171,
@@ -184685,7 +184685,7 @@
     },
     {
         "ID": 46172,
-        "Name": null
+        "Name": "copy of <Emphasis>Legends of Ivalice</Emphasis>"
     },
     {
         "ID": 46173,
@@ -184709,7 +184709,7 @@
     },
     {
         "ID": 46178,
-        "Name": null
+        "Name": "Yok Huy ward"
     },
     {
         "ID": 46179,
@@ -184741,11 +184741,11 @@
     },
     {
         "ID": 46186,
-        "Name": null
+        "Name": "fragment of illumed aetherpool glass"
     },
     {
         "ID": 46187,
-        "Name": null
+        "Name": "copy of <Emphasis>Illumed Invocations</Emphasis>"
     },
     {
         "ID": 46188,
@@ -184785,187 +184785,187 @@
     },
     {
         "ID": 46197,
-        "Name": null
+        "Name": "sack of Warmth repair supply materials"
     },
     {
         "ID": 46198,
-        "Name": null
+        "Name": "set of Warmth repair supplies"
     },
     {
         "ID": 46199,
-        "Name": null
+        "Name": "sack of master mason's tool materials"
     },
     {
         "ID": 46200,
-        "Name": null
+        "Name": "set of master mason's tools"
     },
     {
         "ID": 46201,
-        "Name": null
+        "Name": "sack of ice removal tool materials"
     },
     {
         "ID": 46202,
-        "Name": null
+        "Name": "set of ice removal tools"
     },
     {
         "ID": 46203,
-        "Name": null
+        "Name": "sack of conductive golem component materials"
     },
     {
         "ID": 46204,
-        "Name": null
+        "Name": "set of conductive golem components"
     },
     {
         "ID": 46205,
-        "Name": null
+        "Name": "sack of living sepulchre supply materials"
     },
     {
         "ID": 46206,
-        "Name": null
+        "Name": "set of living sepulchre supplies"
     },
     {
         "ID": 46207,
-        "Name": null
+        "Name": "set of snow removal tool materials"
     },
     {
         "ID": 46208,
-        "Name": null
+        "Name": "snow removal tool"
     },
     {
         "ID": 46209,
-        "Name": null
+        "Name": "set of cart component materials"
     },
     {
         "ID": 46210,
-        "Name": null
+        "Name": "cart component"
     },
     {
         "ID": 46211,
-        "Name": null
+        "Name": "set of home exterior component materials"
     },
     {
         "ID": 46212,
-        "Name": null
+        "Name": "home exterior component"
     },
     {
         "ID": 46213,
-        "Name": null
+        "Name": "set of hand warmer component parts"
     },
     {
         "ID": 46214,
-        "Name": null
+        "Name": "set of hand warmer components"
     },
     {
         "ID": 46215,
-        "Name": null
+        "Name": "set of Warmth necessity components"
     },
     {
         "ID": 46216,
-        "Name": null
+        "Name": "set of Warmth necessities"
     },
     {
         "ID": 46217,
-        "Name": null
+        "Name": "set of visitor's winterwear components"
     },
     {
         "ID": 46218,
-        "Name": null
+        "Name": "set of visitor's winterwear"
     },
     {
         "ID": 46219,
-        "Name": null
+        "Name": "set of Yok Huy handicraft materials"
     },
     {
         "ID": 46220,
-        "Name": null
+        "Name": "bundle of Yok Huy handicrafts"
     },
     {
         "ID": 46221,
-        "Name": null
+        "Name": "set of stonemasonry tool materials"
     },
     {
         "ID": 46222,
-        "Name": null
+        "Name": "set of stonemasonry tools"
     },
     {
         "ID": 46223,
-        "Name": null
+        "Name": "set of salvaged stone supply materials"
     },
     {
         "ID": 46224,
-        "Name": null
+        "Name": "set of salvaged stone supplies"
     },
     {
         "ID": 46225,
-        "Name": null
+        "Name": "set of trail repair supply materials"
     },
     {
         "ID": 46226,
-        "Name": null
+        "Name": "set of trail repair supplies"
     },
     {
         "ID": 46227,
-        "Name": null
+        "Name": "set of Tonawawtan cookware materials"
     },
     {
         "ID": 46228,
-        "Name": null
+        "Name": "set of Tonawawtan cookware"
     },
     {
         "ID": 46229,
-        "Name": null
+        "Name": "set of storage supply materials"
     },
     {
         "ID": 46230,
-        "Name": null
+        "Name": "set of storage supplies"
     },
     {
         "ID": 46231,
-        "Name": null
+        "Name": "set of tableware supply materials"
     },
     {
         "ID": 46232,
-        "Name": null
+        "Name": "set of tableware supplies"
     },
     {
         "ID": 46233,
-        "Name": null
+        "Name": "set of shelving component materials"
     },
     {
         "ID": 46234,
-        "Name": null
+        "Name": "set of shelving components"
     },
     {
         "ID": 46235,
-        "Name": null
+        "Name": "set of cropland expansion supply materials"
     },
     {
         "ID": 46236,
-        "Name": null
+        "Name": "set of cropland expansion supplies"
     },
     {
         "ID": 46237,
-        "Name": null
+        "Name": "set of mountaineering paraphernalia materials"
     },
     {
         "ID": 46238,
-        "Name": null
+        "Name": "set of mountaineering paraphernalia"
     },
     {
         "ID": 46239,
-        "Name": null
+        "Name": "set of replacement golem component materials"
     },
     {
         "ID": 46240,
-        "Name": null
+        "Name": "replacement golem component"
     },
     {
         "ID": 46241,
-        "Name": null
+        "Name": "set of brewery maintenance supply materials"
     },
     {
         "ID": 46242,
-        "Name": null
+        "Name": "set of brewery maintenance supplies"
     },
     {
         "ID": 46243,
@@ -184977,7 +184977,7 @@
     },
     {
         "ID": 46245,
-        "Name": null
+        "Name": "sin beaver"
     },
     {
         "ID": 46246,
@@ -185017,23 +185017,23 @@
     },
     {
         "ID": 46255,
-        "Name": null
+        "Name": "bottle of sacramental spirits"
     },
     {
         "ID": 46256,
-        "Name": null
+        "Name": "pinch of sacramental spices"
     },
     {
         "ID": 46257,
-        "Name": null
+        "Name": "sack of sacramental grain"
     },
     {
         "ID": 46258,
-        "Name": null
+        "Name": "sacramental light"
     },
     {
         "ID": 46259,
-        "Name": null
+        "Name": "bouquet of sacramental lilies"
     },
     {
         "ID": 46260,
@@ -185049,7 +185049,7 @@
     },
     {
         "ID": 46263,
-        "Name": null
+        "Name": "First Light relic"
     },
     {
         "ID": 46264,
@@ -187065,7 +187065,7 @@
     },
     {
         "ID": 46767,
-        "Name": null
+        "Name": "Yok Huy framer's kit"
     },
     {
         "ID": 46768,
@@ -187073,19 +187073,19 @@
     },
     {
         "ID": 46769,
-        "Name": null
+        "Name": "Pilgrim's Traverse framer's kit"
     },
     {
         "ID": 46770,
-        "Name": null
+        "Name": "distant sanctums framer's kit"
     },
     {
         "ID": 46771,
-        "Name": null
+        "Name": "hunter's monstrous framer's kit"
     },
     {
         "ID": 46772,
-        "Name": null
+        "Name": "hunter's wild framer's kit"
     },
     {
         "ID": 46773,
@@ -187117,11 +187117,11 @@
     },
     {
         "ID": 46780,
-        "Name": null
+        "Name": "Seikret fledgling"
     },
     {
         "ID": 46781,
-        "Name": null
+        "Name": "Vigorwasp"
     },
     {
         "ID": 46782,
@@ -187129,7 +187129,7 @@
     },
     {
         "ID": 46783,
-        "Name": null
+        "Name": "wind-up Yok Huy"
     },
     {
         "ID": 46784,
@@ -187137,7 +187137,7 @@
     },
     {
         "ID": 46785,
-        "Name": null
+        "Name": "wind-up Feo Ul"
     },
     {
         "ID": 46786,
@@ -187145,11 +187145,11 @@
     },
     {
         "ID": 46787,
-        "Name": null
+        "Name": "pixie parasol"
     },
     {
         "ID": 46788,
-        "Name": null
+        "Name": "Mizutsune parasol"
     },
     {
         "ID": 46789,
@@ -187157,7 +187157,7 @@
     },
     {
         "ID": 46790,
-        "Name": null
+        "Name": "set of pilgrim's barding"
     },
     {
         "ID": 46791,
@@ -187169,7 +187169,7 @@
     },
     {
         "ID": 46793,
-        "Name": null
+        "Name": "copy of <Emphasis>Ballroom Etiquette - The Ceremony of Tea</Emphasis>"
     },
     {
         "ID": 46794,
@@ -187189,23 +187189,23 @@
     },
     {
         "ID": 46798,
-        "Name": null
+        "Name": "copy of <Emphasis>Modern Aesthetics - Simple and Clean</Emphasis>"
     },
     {
         "ID": 46799,
-        "Name": null
+        "Name": "Felyne material supplier permit"
     },
     {
         "ID": 46800,
-        "Name": null
+        "Name": "Felyne junkmonger permit"
     },
     {
         "ID": 46801,
-        "Name": null
+        "Name": "Felyne mender permit"
     },
     {
         "ID": 46802,
-        "Name": null
+        "Name": "Felyne servant permit"
     },
     {
         "ID": 46803,
@@ -187269,19 +187269,19 @@
     },
     {
         "ID": 46818,
-        "Name": null
+        "Name": "Rorrlo Teh card"
     },
     {
         "ID": 46819,
-        "Name": null
+        "Name": "Ornamental Leafman card"
     },
     {
         "ID": 46820,
-        "Name": null
+        "Name": "Fahrafahr card"
     },
     {
         "ID": 46821,
-        "Name": null
+        "Name": "Dawntrail Krile card"
     },
     {
         "ID": 46822,
@@ -187317,23 +187317,23 @@
     },
     {
         "ID": 46830,
-        "Name": null
+        "Name": "Vurgar the Loyal horn"
     },
     {
         "ID": 46831,
-        "Name": null
+        "Name": "forgiven mimicry resonator"
     },
     {
         "ID": 46832,
-        "Name": null
+        "Name": "chandelier of First Light"
     },
     {
         "ID": 46833,
-        "Name": null
+        "Name": "Seikret horn"
     },
     {
         "ID": 46834,
-        "Name": null
+        "Name": "Felyne support team cart horn"
     },
     {
         "ID": 46835,
@@ -187373,7 +187373,7 @@
     },
     {
         "ID": 46844,
-        "Name": null
+        "Name": "copy of <Emphasis>The Faces We Wear - Cat Eye Reading Glasses</Emphasis>"
     },
     {
         "ID": 46845,
@@ -187385,7 +187385,7 @@
     },
     {
         "ID": 46847,
-        "Name": null
+        "Name": "blue pixie parasol"
     },
     {
         "ID": 46848,
@@ -188109,271 +188109,271 @@
     },
     {
         "ID": 47028,
-        "Name": null
+        "Name": "sword of the First Light"
     },
     {
         "ID": 47029,
-        "Name": null
+        "Name": "pair of sainti of the First Light"
     },
     {
         "ID": 47030,
-        "Name": null
+        "Name": "battleaxe of the First Light"
     },
     {
         "ID": 47031,
-        "Name": null
+        "Name": "spear of the First Light"
     },
     {
         "ID": 47032,
-        "Name": null
+        "Name": "longbow of the First Light"
     },
     {
         "ID": 47033,
-        "Name": null
+        "Name": "wand of the First Light"
     },
     {
         "ID": 47034,
-        "Name": null
+        "Name": "rod of the First Light"
     },
     {
         "ID": 47035,
-        "Name": null
+        "Name": "copy of <Emphasis>The Book of First Light</Emphasis>"
     },
     {
         "ID": 47036,
-        "Name": null
+        "Name": "copy of <Emphasis>Word of the Radiant</Emphasis>"
     },
     {
         "ID": 47037,
-        "Name": null
+        "Name": "pair of daggers of the First Light"
     },
     {
         "ID": 47038,
-        "Name": null
+        "Name": "greatsword of the First Light"
     },
     {
         "ID": 47039,
-        "Name": null
+        "Name": "musketoon of the First Light"
     },
     {
         "ID": 47040,
-        "Name": null
+        "Name": "torquetum of the First Light"
     },
     {
         "ID": 47041,
-        "Name": null
+        "Name": "blade of the First Light"
     },
     {
         "ID": 47042,
-        "Name": null
+        "Name": "rapier of the First Light"
     },
     {
         "ID": 47043,
-        "Name": null
+        "Name": "manatrigger of the First Light"
     },
     {
         "ID": 47044,
-        "Name": null
+        "Name": "pair of tathlums of the First Light"
     },
     {
         "ID": 47045,
-        "Name": null
+        "Name": "war scythe of the First Light"
     },
     {
         "ID": 47046,
-        "Name": null
+        "Name": "array of pendulums of the First Light"
     },
     {
         "ID": 47047,
-        "Name": null
+        "Name": "pair of twinfangs of the First Light"
     },
     {
         "ID": 47048,
-        "Name": null
+        "Name": "paintbrush of the First Light"
     },
     {
         "ID": 47049,
-        "Name": null
+        "Name": "shield of the First Light"
     },
     {
         "ID": 47050,
-        "Name": null
+        "Name": "sacramental sword"
     },
     {
         "ID": 47051,
-        "Name": null
+        "Name": "pair of sacramental sainti"
     },
     {
         "ID": 47052,
-        "Name": null
+        "Name": "sacramental battleaxe"
     },
     {
         "ID": 47053,
-        "Name": null
+        "Name": "sacramental spear"
     },
     {
         "ID": 47054,
-        "Name": null
+        "Name": "sacramental longbow"
     },
     {
         "ID": 47055,
-        "Name": null
+        "Name": "sacramental wand"
     },
     {
         "ID": 47056,
-        "Name": null
+        "Name": "sacramental rod"
     },
     {
         "ID": 47057,
-        "Name": null
+        "Name": "copy of <Emphasis>The Book of Sacramental Light</Emphasis>"
     },
     {
         "ID": 47058,
-        "Name": null
+        "Name": "copy of <Emphasis>Word of the Blest</Emphasis>"
     },
     {
         "ID": 47059,
-        "Name": null
+        "Name": "pair of sacramental daggers"
     },
     {
         "ID": 47060,
-        "Name": null
+        "Name": "sacramental greatsword"
     },
     {
         "ID": 47061,
-        "Name": null
+        "Name": "sacramental musketoon"
     },
     {
         "ID": 47062,
-        "Name": null
+        "Name": "sacramental torquetum"
     },
     {
         "ID": 47063,
-        "Name": null
+        "Name": "sacramental blade"
     },
     {
         "ID": 47064,
-        "Name": null
+        "Name": "sacramental rapier"
     },
     {
         "ID": 47065,
-        "Name": null
+        "Name": "sacramental manatrigger"
     },
     {
         "ID": 47066,
-        "Name": null
+        "Name": "pair of sacramental tathlums"
     },
     {
         "ID": 47067,
-        "Name": null
+        "Name": "sacramental war scythe"
     },
     {
         "ID": 47068,
-        "Name": null
+        "Name": "array of sacramental pendulums"
     },
     {
         "ID": 47069,
-        "Name": null
+        "Name": "pair of sacramental twinfangs"
     },
     {
         "ID": 47070,
-        "Name": null
+        "Name": "sacramental paintbrush"
     },
     {
         "ID": 47071,
-        "Name": null
+        "Name": "sacramental shield"
     },
     {
         "ID": 47072,
-        "Name": null
+        "Name": "Veldian sword"
     },
     {
         "ID": 47073,
-        "Name": null
+        "Name": "pair of Veldian knuckles"
     },
     {
         "ID": 47074,
-        "Name": null
+        "Name": "Veldian axe"
     },
     {
         "ID": 47075,
-        "Name": null
+        "Name": "Veldian spear"
     },
     {
         "ID": 47076,
-        "Name": null
+        "Name": "Veldian bow"
     },
     {
         "ID": 47077,
-        "Name": null
+        "Name": "Veldian cane"
     },
     {
         "ID": 47078,
-        "Name": null
+        "Name": "Veldian rod"
     },
     {
         "ID": 47079,
-        "Name": null
+        "Name": "Veldian index"
     },
     {
         "ID": 47080,
-        "Name": null
+        "Name": "Veldian codex"
     },
     {
         "ID": 47081,
-        "Name": null
+        "Name": "pair of Veldian knives"
     },
     {
         "ID": 47082,
-        "Name": null
+        "Name": "Veldian guillotine"
     },
     {
         "ID": 47083,
-        "Name": null
+        "Name": "Veldian culverin"
     },
     {
         "ID": 47084,
-        "Name": null
+        "Name": "Veldian star globe"
     },
     {
         "ID": 47085,
-        "Name": null
+        "Name": "Veldian blade"
     },
     {
         "ID": 47086,
-        "Name": null
+        "Name": "Veldian rapier"
     },
     {
         "ID": 47087,
-        "Name": null
+        "Name": "Veldian bayonet"
     },
     {
         "ID": 47088,
-        "Name": null
+        "Name": "pair of Veldian tathlums"
     },
     {
         "ID": 47089,
-        "Name": null
+        "Name": "Veldian scythe"
     },
     {
         "ID": 47090,
-        "Name": null
+        "Name": "array of Veldian wings"
     },
     {
         "ID": 47091,
-        "Name": null
+        "Name": "pair of Veldian twinfangs"
     },
     {
         "ID": 47092,
-        "Name": null
+        "Name": "Veldian round brush"
     },
     {
         "ID": 47093,
-        "Name": null
+        "Name": "Veldian shield"
     },
     {
         "ID": 47094,
-        "Name": null
+        "Name": "Veldian weapon coffer (IL 745)"
     },
     {
         "ID": 47095,
@@ -188389,7 +188389,7 @@
     },
     {
         "ID": 47098,
-        "Name": null
+        "Name": "illumed aetherpool grip"
     },
     {
         "ID": 47099,
@@ -188397,15 +188397,15 @@
     },
     {
         "ID": 47100,
-        "Name": null
+        "Name": "Guardian scale"
     },
     {
         "ID": 47101,
-        "Name": null
+        "Name": "Guardian Arkveld certificate"
     },
     {
         "ID": 47102,
-        "Name": null
+        "Name": "pilgrim's potion"
     },
     {
         "ID": 47103,
@@ -188413,15 +188413,15 @@
     },
     {
         "ID": 47104,
-        "Name": null
+        "Name": "sack of silvered Light"
     },
     {
         "ID": 47105,
-        "Name": null
+        "Name": "sack of gilded Light"
     },
     {
         "ID": 47106,
-        "Name": null
+        "Name": "sack of platinum Light"
     },
     {
         "ID": 47107,
@@ -188825,23 +188825,23 @@
     },
     {
         "ID": 47207,
-        "Name": null
+        "Name": "Fuath plumed hat"
     },
     {
         "ID": 47208,
-        "Name": null
+        "Name": "Fuath swallowtail"
     },
     {
         "ID": 47209,
-        "Name": null
+        "Name": "pair of Fuath dress gloves"
     },
     {
         "ID": 47210,
-        "Name": null
+        "Name": "pair of Fuath pantaloons"
     },
     {
         "ID": 47211,
-        "Name": null
+        "Name": "pair of Fuath dress shoes"
     },
     {
         "ID": 47212,
@@ -189149,55 +189149,55 @@
     },
     {
         "ID": 47288,
-        "Name": null
+        "Name": "Hope mask [M]"
     },
     {
         "ID": 47289,
-        "Name": null
+        "Name": "suit of Hope mail [M]"
     },
     {
         "ID": 47290,
-        "Name": null
+        "Name": "pair of Hope vambraces [M]"
     },
     {
         "ID": 47291,
-        "Name": null
+        "Name": "Hope coil [M]"
     },
     {
         "ID": 47292,
-        "Name": null
+        "Name": "pair of Hope greaves [M]"
     },
     {
         "ID": 47293,
-        "Name": null
+        "Name": "suit of Hope mail [F]"
     },
     {
         "ID": 47294,
-        "Name": null
+        "Name": "pair of Hope vambraces [F]"
     },
     {
         "ID": 47295,
-        "Name": null
+        "Name": "Hope coil [F]"
     },
     {
         "ID": 47296,
-        "Name": null
+        "Name": "pair of Hope greaves [F]"
     },
     {
         "ID": 47297,
-        "Name": null
+        "Name": "pair of earrings of the First Light"
     },
     {
         "ID": 47298,
-        "Name": null
+        "Name": "necklace of the First Light"
     },
     {
         "ID": 47299,
-        "Name": null
+        "Name": "pair of bangles of the First Light"
     },
     {
         "ID": 47300,
-        "Name": null
+        "Name": "ring of the First Light"
     },
     {
         "ID": 47301,
@@ -189245,99 +189245,99 @@
     },
     {
         "ID": 47312,
-        "Name": null
+        "Name": "augmented Veldian sword"
     },
     {
         "ID": 47313,
-        "Name": null
+        "Name": "pair of augmented Veldian knuckles"
     },
     {
         "ID": 47314,
-        "Name": null
+        "Name": "augmented Veldian axe"
     },
     {
         "ID": 47315,
-        "Name": null
+        "Name": "augmented Veldian spear"
     },
     {
         "ID": 47316,
-        "Name": null
+        "Name": "augmented Veldian bow"
     },
     {
         "ID": 47317,
-        "Name": null
+        "Name": "augmented Veldian cane"
     },
     {
         "ID": 47318,
-        "Name": null
+        "Name": "augmented Veldian rod"
     },
     {
         "ID": 47319,
-        "Name": null
+        "Name": "augmented Veldian index"
     },
     {
         "ID": 47320,
-        "Name": null
+        "Name": "augmented Veldian codex"
     },
     {
         "ID": 47321,
-        "Name": null
+        "Name": "pair of augmented Veldian knives"
     },
     {
         "ID": 47322,
-        "Name": null
+        "Name": "augmented Veldian guillotine"
     },
     {
         "ID": 47323,
-        "Name": null
+        "Name": "augmented Veldian culverin"
     },
     {
         "ID": 47324,
-        "Name": null
+        "Name": "augmented Veldian star globe"
     },
     {
         "ID": 47325,
-        "Name": null
+        "Name": "augmented Veldian blade"
     },
     {
         "ID": 47326,
-        "Name": null
+        "Name": "augmented Veldian rapier"
     },
     {
         "ID": 47327,
-        "Name": null
+        "Name": "augmented Veldian bayonet"
     },
     {
         "ID": 47328,
-        "Name": null
+        "Name": "pair of augmented Veldian tathlums"
     },
     {
         "ID": 47329,
-        "Name": null
+        "Name": "augmented Veldian scythe"
     },
     {
         "ID": 47330,
-        "Name": null
+        "Name": "array of augmented Veldian wings"
     },
     {
         "ID": 47331,
-        "Name": null
+        "Name": "pair of augmented Veldian twinfangs"
     },
     {
         "ID": 47332,
-        "Name": null
+        "Name": "augmented Veldian round brush"
     },
     {
         "ID": 47333,
-        "Name": null
+        "Name": "augmented Veldian shield"
     },
     {
         "ID": 47334,
-        "Name": null
+        "Name": "pilgrim's protector horn"
     },
     {
         "ID": 47335,
-        "Name": null
+        "Name": "ornamental shrublet horn"
     },
     {
         "ID": 47336,
@@ -189345,7 +189345,7 @@
     },
     {
         "ID": 47337,
-        "Name": null
+        "Name": "<Emphasis>Moment of Peace</Emphasis> orchestrion roll"
     },
     {
         "ID": 47338,
@@ -189361,11 +189361,11 @@
     },
     {
         "ID": 47341,
-        "Name": null
+        "Name": "Hope visor [F]"
     },
     {
         "ID": 47342,
-        "Name": null
+        "Name": "phial of luminous oil"
     },
     {
         "ID": 47343,
@@ -189901,15 +189901,15 @@
     },
     {
         "ID": 47476,
-        "Name": null
+        "Name": "hunter's camp chair"
     },
     {
         "ID": 47477,
-        "Name": null
+        "Name": "indoor hunter's grill"
     },
     {
         "ID": 47478,
-        "Name": null
+        "Name": "hunter's lodge chair"
     },
     {
         "ID": 47479,
@@ -190517,7 +190517,7 @@
     },
     {
         "ID": 47630,
-        "Name": "cthonic tapestry"
+        "Name": "chthonic tapestry"
     },
     {
         "ID": 47631,
@@ -190613,7 +190613,7 @@
     },
     {
         "ID": 47654,
-        "Name": "specious shark"
+        "Name": "garnet seahorse"
     },
     {
         "ID": 47655,
@@ -190657,11 +190657,11 @@
     },
     {
         "ID": 47665,
-        "Name": "garnet seahorse"
+        "Name": "confusing catfusion"
     },
     {
         "ID": 47666,
-        "Name": "confusing catfusion"
+        "Name": "specious shark"
     },
     {
         "ID": 47667,
@@ -190817,7 +190817,7 @@
     },
     {
         "ID": 47705,
-        "Name": null
+        "Name": "Fuath attire"
     },
     {
         "ID": 47706,
@@ -190885,7 +190885,7 @@
     },
     {
         "ID": 47722,
-        "Name": null
+        "Name": "Hope attire [M]"
     },
     {
         "ID": 47723,
@@ -190893,7 +190893,7 @@
     },
     {
         "ID": 47724,
-        "Name": null
+        "Name": "Hope attire [F]"
     },
     {
         "ID": 47725,
@@ -190965,7 +190965,7 @@
     },
     {
         "ID": 47742,
-        "Name": null
+        "Name": "sack of First Light"
     },
     {
         "ID": 47743,
@@ -195385,7 +195385,7 @@
     },
     {
         "ID": 48847,
-        "Name": "length high-grade specialist lumber"
+        "Name": "length of high-grade specialist lumber"
     },
     {
         "ID": 48848,
