@@ -22,19 +22,19 @@ jobs:
     - name: Get latest commit hash for Global Action.csv
       id: get_global_action_commit
       run: |
-        COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/Action.csv | jq -r '.[0].sha')
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/en/Action.csv | jq -r '.[0].sha')
         echo "COMMIT_HASH_GLOBAL_ACTION=$COMMIT_HASH" >> $GITHUB_ENV
 
     - name: Get latest commit hash for Global Item.csv
       id: get_global_item_commit
       run: |
-        COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/Item.csv | jq -r '.[0].sha')
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/en/Item.csv | jq -r '.[0].sha')
         echo "COMMIT_HASH_GLOBAL_ITEM=$COMMIT_HASH" >> $GITHUB_ENV
 
     - name: Get latest commit hash for Global Status.csv
       id: get_kr_status_commit
       run: |
-        COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/Status.csv | jq -r '.[0].sha')
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/en/Status.csv | jq -r '.[0].sha')
         echo "COMMIT_HASH_GLOBAL_STATUS=$COMMIT_HASH" >> $GITHUB_ENV
 
     - name: Get local commit hashes
@@ -50,19 +50,19 @@ jobs:
     - name: Check if Global Action.csv has changed
       run: |
         if [ "${{ env.LOCAL_COMMIT_HASH_GLOBAL_ACTION }}" != "${{ env.COMMIT_HASH_GLOBAL_ACTION }}" ]; then
-          curl -o csv/Action.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Action.csv
+          curl -o csv/Action.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/en/Action.csv
         fi
 
     - name: Check if Global Item.csv has changed
       run: |
         if [ "${{ env.LOCAL_COMMIT_HASH_GLOBAL_ITEM }}" != "${{ env.COMMIT_HASH_GLOBAL_ITEM }}" ]; then
-          curl -o csv/Item.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Item.csv
+          curl -o csv/Item.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/en/Item.csv
         fi
 
     - name: Check if Global Status.csv has changed
       run: |
         if [ "${{ env.LOCAL_COMMIT_HASH_GLOBAL_STATUS }}" != "${{ env.COMMIT_HASH_GLOBAL_STATUS }}" ]; then
-          curl -o csv/Status.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Status.csv
+          curl -o csv/Status.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/en/Status.csv
         fi
 
     - name: Set up Python
