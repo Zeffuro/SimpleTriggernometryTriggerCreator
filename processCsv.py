@@ -1,32 +1,24 @@
 import pandas as pd
 import json
+import os
 
-# Load the CSV files
-action_df = pd.read_csv('csv/Action.csv')
-status_df = pd.read_csv('csv/Status.csv')
-item_df = pd.read_csv('csv/Item.csv')
+def process_folder(folder_name, prefix=""):
+    files = ['Action', 'Status', 'Item']
+    for f in files:
+        path = f"{folder_name}/{f}.csv"
+        if os.path.exists(path):
+            df = pd.read_csv(path)
+            data = df.iloc[3:, :2]
+            data.columns = ['ID', 'Name']
+            
+            # Save as Action.json (Global) or TC_Action.json
+            output_filename = f"json/{prefix}{f}.json"
+            data.to_json(output_filename, orient='records', indent=4, force_ascii=False)
+            print(f"Generated {output_filename}")
 
-# Extract the first two columns and remove the first three rows
-action_data = action_df.iloc[3:, :2]
-status_data = status_df.iloc[3:, :2]
-item_data = item_df.iloc[3:, :2]
+os.makedirs('json', exist_ok=True)
 
-# Rename columns for better JSON readability
-action_data.columns = ['ID', 'Name']
-status_data.columns = ['ID', 'Name']
-item_data.columns = ['ID', 'Name']
-
-# Convert to JSON format (array)
-action_json = action_data.to_json(orient='records')
-status_json = status_data.to_json(orient='records')
-item_json = item_data.to_json(orient='records')
-
-# Save JSON files
-with open('json/Action.json', 'w') as action_file:
-    json.dump(json.loads(action_json), action_file, indent=4)
-
-with open('json/Status.json', 'w') as status_file:
-    json.dump(json.loads(status_json), status_file, indent=4)
-
-with open('json/Item.json', 'w') as status_file:
-    json.dump(json.loads(item_json), status_file, indent=4)
+# Process Global (into standard names)
+process_folder('csv', prefix="")
+# Process TC (into TC_ prefixed names)
+process_folder('tc', prefix="TC_")
