@@ -184601,11 +184601,11 @@
     },
     {
         "ID":46153,
-        "Name":"*Civilizations (Pulse Vol. 2)* orchestrion roll"
+        "Name":"*Civilizations (Pulse 2)* orchestrion roll"
     },
     {
         "ID":46154,
-        "Name":"*Insatiable (Pulse Vol. 2)* orchestrion roll"
+        "Name":"*Insatiable (Pulse 2)* orchestrion roll"
     },
     {
         "ID":46155,
@@ -196489,7 +196489,7 @@
     },
     {
         "ID":49125,
-        "Name":null
+        "Name":"Corvosi manuscript"
     },
     {
         "ID":49126,
@@ -199141,27 +199141,27 @@
     },
     {
         "ID":49788,
-        "Name":null
+        "Name":"Rukhkh card"
     },
     {
         "ID":49789,
-        "Name":null
+        "Name":"Genie of the Lamp card"
     },
     {
         "ID":49790,
-        "Name":null
+        "Name":"Pari of Plenty card"
     },
     {
         "ID":49791,
-        "Name":null
+        "Name":"Darya the Sea-maid card"
     },
     {
         "ID":49792,
-        "Name":null
+        "Name":"Lone Swordmaster card"
     },
     {
         "ID":49793,
-        "Name":null
+        "Name":"Deadly Dandan card"
     },
     {
         "ID":49794,
@@ -200069,7 +200069,7 @@
     },
     {
         "ID":50020,
-        "Name":null
+        "Name":"*The Merchant's Tale* framer's kit"
     },
     {
         "ID":50021,
@@ -200345,7 +200345,7 @@
     },
     {
         "ID":50089,
-        "Name":"スペシャル・トリコエッグ"
+        "Name":"special brilliant egg"
     },
     {
         "ID":50090,
@@ -201129,67 +201129,67 @@
     },
     {
         "ID":50285,
-        "Name":"デコレート・エッググラス"
+        "Name":"pair of painted eggy eyeglasses"
     },
     {
         "ID":50286,
-        "Name":"クワトロ・エッググラス"
+        "Name":"pair of party eggy eyeglasses"
     },
     {
         "ID":50287,
-        "Name":"スリムフレーム・エッググラス"
+        "Name":"pair of slim frame eggy eyeglasses"
     },
     {
         "ID":50288,
-        "Name":"スプリガン・グラス"
+        "Name":"pair of spriggan eyeglasses"
     },
     {
         "ID":50289,
-        "Name":"エッグハントチキン・グラス"
+        "Name":"pair of chicken eyeglasses"
     },
     {
         "ID":50290,
-        "Name":"フラワーデコレート・グラス"
+        "Name":"pair of blooming eyeglasses"
     },
     {
         "ID":50291,
-        "Name":null
+        "Name":"story-lover's bandana"
     },
     {
         "ID":50292,
-        "Name":null
+        "Name":"story-lover's top"
     },
     {
         "ID":50293,
-        "Name":null
+        "Name":"pair of story-lover's armlets"
     },
     {
         "ID":50294,
-        "Name":null
+        "Name":"story-lover's sarouel"
     },
     {
         "ID":50295,
-        "Name":null
+        "Name":"pair of story-lover's sandals"
     },
     {
         "ID":50296,
-        "Name":null
+        "Name":"story-spinner's headdress"
     },
     {
         "ID":50297,
-        "Name":null
+        "Name":"story-spinner's chestwrap"
     },
     {
         "ID":50298,
-        "Name":null
+        "Name":"pair of story-spinner's chaplets"
     },
     {
         "ID":50299,
-        "Name":null
+        "Name":"story-spinner's sarouel"
     },
     {
         "ID":50300,
-        "Name":null
+        "Name":"pair of story-spinner's sandals"
     },
     {
         "ID":50301,
@@ -201221,27 +201221,27 @@
     },
     {
         "ID":50308,
-        "Name":"スタイルカタログ:デコレート・エッググラス"
+        "Name":"copy of *The Faces We Wear - Painted Eggy Eyeglasses*"
     },
     {
         "ID":50309,
-        "Name":"スタイルカタログ:クワトロ・エッググラス"
+        "Name":"copy of *The Faces We Wear - Party Eggy Eyeglasses*"
     },
     {
         "ID":50310,
-        "Name":"スタイルカタログ:スリムフレーム・エッググラス"
+        "Name":"copy of *The Faces We Wear - Slim Frame Eggy Eyeglasses*"
     },
     {
         "ID":50311,
-        "Name":"スタイルカタログ:スプリガン・グラス"
+        "Name":"copy of *The Faces We Wear - Spriggan Eyeglasses*"
     },
     {
         "ID":50312,
-        "Name":"スタイルカタログ:エッグハントチキン・グラス"
+        "Name":"copy of *The Faces We Wear - Chicken Eyeglasses*"
     },
     {
         "ID":50313,
-        "Name":"スタイルカタログ:フラワーデコレート・グラス"
+        "Name":"copy of *The Faces We Wear - Blooming Eyeglasses*"
     },
     {
         "ID":50314,
@@ -201261,7 +201261,7 @@
     },
     {
         "ID":50318,
-        "Name":null
+        "Name":"wind-up Red XIII"
     },
     {
         "ID":50319,
@@ -201273,11 +201273,11 @@
     },
     {
         "ID":50321,
-        "Name":null
+        "Name":"little mermaid"
     },
     {
         "ID":50322,
-        "Name":null
+        "Name":"magic lamp"
     },
     {
         "ID":50323,
@@ -201297,7 +201297,7 @@
     },
     {
         "ID":50327,
-        "Name":null
+        "Name":"copy of *Modern Aesthetics - Shadowhunter Chic*"
     },
     {
         "ID":50328,
@@ -201337,47 +201337,47 @@
     },
     {
         "ID":50337,
-        "Name":null
+        "Name":"copy of *Ballroom Etiquette - Saving Face*"
     },
     {
         "ID":50338,
-        "Name":null
+        "Name":"*Under the Weight (The Primals)* orchestrion roll"
     },
     {
         "ID":50339,
-        "Name":null
+        "Name":"*Through the Maelstrom (The Primals)* orchestrion roll"
     },
     {
         "ID":50340,
-        "Name":null
+        "Name":"*Fiend (The Primals)* orchestrion roll"
     },
     {
         "ID":50341,
-        "Name":null
+        "Name":"*Locus (The Primals)* orchestrion roll"
     },
     {
         "ID":50342,
-        "Name":null
+        "Name":"*Metal - Brute Justice Mode (The Primals)* orchestrion roll"
     },
     {
         "ID":50343,
-        "Name":null
+        "Name":"*Windswept Echoes (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50344,
-        "Name":null
+        "Name":"*Close in the Distance (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50345,
-        "Name":null
+        "Name":"*Dedicated to Moonlight (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50346,
-        "Name":null
+        "Name":"*Bee My Honey (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50347,
-        "Name":null
+        "Name":"*Good King Moggle Mog XII (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50348,
@@ -201653,31 +201653,31 @@
     },
     {
         "ID":50416,
-        "Name":null
+        "Name":"Corvosi sofa"
     },
     {
         "ID":50417,
-        "Name":null
+        "Name":"purple Corvosi carpet"
     },
     {
         "ID":50418,
-        "Name":null
+        "Name":"green Corvosi carpet"
     },
     {
         "ID":50419,
-        "Name":null
+        "Name":"Corvosi screen"
     },
     {
         "ID":50420,
-        "Name":null
+        "Name":"imitation Corvosi shisha"
     },
     {
         "ID":50421,
-        "Name":null
+        "Name":"Corvosi fan"
     },
     {
         "ID":50422,
-        "Name":null
+        "Name":"Corvosi crystal"
     },
     {
         "ID":50423,
@@ -201709,23 +201709,23 @@
     },
     {
         "ID":50430,
-        "Name":null
+        "Name":"pair of earrings of the sea-folk"
     },
     {
         "ID":50431,
-        "Name":null
+        "Name":"collar of the sea-folk"
     },
     {
         "ID":50432,
-        "Name":null
+        "Name":"pair of bracelets of the sea-folk"
     },
     {
         "ID":50433,
-        "Name":null
+        "Name":"ring of the sea-folk"
     },
     {
         "ID":50434,
-        "Name":null
+        "Name":"Corvosi potsherd"
     },
     {
         "ID":50435,
@@ -201741,7 +201741,7 @@
     },
     {
         "ID":50438,
-        "Name":null
+        "Name":"genie lamp"
     },
     {
         "ID":50439,
@@ -201761,7 +201761,7 @@
     },
     {
         "ID":50443,
-        "Name":null
+        "Name":"Hardy-Daytona key"
     },
     {
         "ID":50444,
@@ -201777,7 +201777,7 @@
     },
     {
         "ID":50447,
-        "Name":null
+        "Name":"royal magicked carpet"
     },
     {
         "ID":50448,
@@ -201793,19 +201793,19 @@
     },
     {
         "ID":50451,
-        "Name":null
+        "Name":"Aunt Tii's neotunic"
     },
     {
         "ID":50452,
-        "Name":null
+        "Name":"oversized Aunt Tii's neotunic"
     },
     {
         "ID":50453,
-        "Name":null
+        "Name":"form-fitting Aunt Tii's neotunic"
     },
     {
         "ID":50454,
-        "Name":null
+        "Name":"copy of *The Faces We Wear - Comfortable Eye Mask*"
     },
     {
         "ID":50455,
@@ -201825,7 +201825,7 @@
     },
     {
         "ID":50459,
-        "Name":null
+        "Name":"copy of *The Faces We Wear - Dark Glasses*"
     },
     {
         "ID":50460,
@@ -202881,11 +202881,11 @@
     },
     {
         "ID":50723,
-        "Name":null
+        "Name":"story-lover's attire"
     },
     {
         "ID":50724,
-        "Name":null
+        "Name":"story-spinner's attire"
     },
     {
         "ID":50725,
@@ -203205,11 +203205,11 @@
     },
     {
         "ID":50804,
-        "Name":null
+        "Name":"*Worthy Pursuits* orchestrion roll"
     },
     {
         "ID":50805,
-        "Name":null
+        "Name":"*What Moves the Heart* orchestrion roll"
     },
     {
         "ID":50806,
@@ -203285,7 +203285,7 @@
     },
     {
         "ID":50824,
-        "Name":null
+        "Name":"soothing sea-beast"
     },
     {
         "ID":50825,
@@ -203293,7 +203293,7 @@
     },
     {
         "ID":50826,
-        "Name":null
+        "Name":"Corvosi parasol"
     },
     {
         "ID":50827,
@@ -203365,19 +203365,19 @@
     },
     {
         "ID":50844,
-        "Name":"アルコンエッグ【金】"
+        "Name":"gold Archon egg"
     },
     {
         "ID":50845,
-        "Name":"アルコンエッグ【銀】"
+        "Name":"silver Archon egg"
     },
     {
         "ID":50846,
-        "Name":"アルコンエッグ【銅】"
+        "Name":"bronze Archon egg"
     },
     {
         "ID":50847,
-        "Name":null
+        "Name":"piece of Corvosi brass"
     },
     {
         "ID":50848,

@@ -18449,15 +18449,15 @@
     },
     {
         "ID":4615,
-        "Name":null
+        "Name":"Curse of Solitude"
     },
     {
         "ID":4616,
-        "Name":null
+        "Name":"Curse of Companionship"
     },
     {
         "ID":4617,
-        "Name":null
+        "Name":"Curse of Immolation"
     },
     {
         "ID":4618,
@@ -18497,11 +18497,11 @@
     },
     {
         "ID":4627,
-        "Name":null
+        "Name":"Fury"
     },
     {
         "ID":4628,
-        "Name":"草刈り参加"
+        "Name":"In the Weeds"
     },
     {
         "ID":4629,
@@ -18885,15 +18885,15 @@
     },
     {
         "ID":4724,
-        "Name":null
+        "Name":"Near Shore Shackles"
     },
     {
         "ID":4725,
-        "Name":null
+        "Name":"Far Shore Shackles"
     },
     {
         "ID":4726,
-        "Name":null
+        "Name":"Tidalspout Target"
     },
     {
         "ID":4727,
@@ -19081,63 +19081,63 @@
     },
     {
         "ID":4773,
-        "Name":null
+        "Name":"Malefic E"
     },
     {
         "ID":4774,
-        "Name":null
+        "Name":"Malefic W"
     },
     {
         "ID":4775,
-        "Name":null
+        "Name":"Malefic E-W"
     },
     {
         "ID":4776,
-        "Name":null
+        "Name":"Malefic S"
     },
     {
         "ID":4777,
-        "Name":null
+        "Name":"Malefic S-E"
     },
     {
         "ID":4778,
-        "Name":null
+        "Name":"Malefic S-W"
     },
     {
         "ID":4779,
-        "Name":null
+        "Name":"Malefic S-E-W"
     },
     {
         "ID":4780,
-        "Name":null
+        "Name":"Malefic N"
     },
     {
         "ID":4781,
-        "Name":null
+        "Name":"Malefic N-E"
     },
     {
         "ID":4782,
-        "Name":null
+        "Name":"Malefic N-W"
     },
     {
         "ID":4783,
-        "Name":null
+        "Name":"Malefic N-E-W"
     },
     {
         "ID":4784,
-        "Name":null
+        "Name":"Malefic N-S"
     },
     {
         "ID":4785,
-        "Name":null
+        "Name":"Malefic N-S-E"
     },
     {
         "ID":4786,
-        "Name":null
+        "Name":"Malefic N-S-W"
     },
     {
         "ID":4787,
-        "Name":null
+        "Name":"Malefic N-S-E-W"
     },
     {
         "ID":4788,
@@ -19273,19 +19273,19 @@
     },
     {
         "ID":4821,
-        "Name":null
+        "Name":"Positive Charge"
     },
     {
         "ID":4822,
-        "Name":null
+        "Name":"Negative Charge"
     },
     {
         "ID":4823,
-        "Name":null
+        "Name":"Positive Charge"
     },
     {
         "ID":4824,
-        "Name":null
+        "Name":"Negative Charge"
     },
     {
         "ID":4825,
@@ -19337,11 +19337,11 @@
     },
     {
         "ID":4837,
-        "Name":null
+        "Name":"Magnetic Levitation"
     },
     {
         "ID":4838,
-        "Name":null
+        "Name":"Magnetic Pull"
     },
     {
         "ID":4839,
@@ -19365,11 +19365,11 @@
     },
     {
         "ID":4844,
-        "Name":null
+        "Name":"Chains of Passion α"
     },
     {
         "ID":4845,
-        "Name":null
+        "Name":"Chains of Passion β"
     },
     {
         "ID":4846,
@@ -19853,15 +19853,15 @@
     },
     {
         "ID":4966,
-        "Name":null
+        "Name":"Malefic E"
     },
     {
         "ID":4967,
-        "Name":null
+        "Name":"Malefic W"
     },
     {
         "ID":4968,
-        "Name":null
+        "Name":"Hydrobullet Target"
     },
     {
         "ID":4969,
@@ -19881,7 +19881,7 @@
     },
     {
         "ID":4973,
-        "Name":null
+        "Name":"In Event"
     },
     {
         "ID":4974,
@@ -20177,7 +20177,7 @@
     },
     {
         "ID":5047,
-        "Name":null
+        "Name":"Bubble Gaol"
     },
     {
         "ID":5048,
@@ -20597,7 +20597,7 @@
     },
     {
         "ID":5152,
-        "Name":null
+        "Name":"Load-bearing"
     },
     {
         "ID":5153,
