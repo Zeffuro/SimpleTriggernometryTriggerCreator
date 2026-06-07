@@ -32125,7 +32125,7 @@
     },
     {
         "ID":8034,
-        "Name":"spool of reinforced darksteel wire"
+        "Name":"roll of reinforced darksteel wire"
     },
     {
         "ID":8035,
@@ -114365,7 +114365,7 @@
     },
     {
         "ID":28594,
-        "Name":"craftsman's singlet"
+        "Name":"craftsman's singlet"
     },
     {
         "ID":28595,
@@ -118577,7 +118577,7 @@
     },
     {
         "ID":29647,
-        "Name":"spool of oddly specific wire"
+        "Name":"roll of oddly specific wire"
     },
     {
         "ID":29648,
@@ -127073,7 +127073,7 @@
     },
     {
         "ID":31771,
-        "Name":"pickled pom"
+        "Name":"pickled pom"
     },
     {
         "ID":31772,
@@ -192369,7 +192369,7 @@
     },
     {
         "ID":48095,
-        "Name":null
+        "Name":"Big Bang ticket (Auxesia)"
     },
     {
         "ID":48096,
@@ -192581,7 +192581,7 @@
     },
     {
         "ID":48148,
-        "Name":null
+        "Name":"Auxesia credit"
     },
     {
         "ID":48149,
@@ -193445,7 +193445,7 @@
     },
     {
         "ID":48364,
-        "Name":"spool of drone wire"
+        "Name":"roll of drone wire"
     },
     {
         "ID":48365,
@@ -193461,7 +193461,7 @@
     },
     {
         "ID":48368,
-        "Name":"spool of drone wire"
+        "Name":"roll of drone wire"
     },
     {
         "ID":48369,
@@ -196673,7 +196673,7 @@
     },
     {
         "ID":49171,
-        "Name":null
+        "Name":"Auxesia dronebit"
     },
     {
         "ID":49172,
@@ -199513,7 +199513,7 @@
     },
     {
         "ID":49881,
-        "Name":"spool of standard wire"
+        "Name":"roll of standard wire"
     },
     {
         "ID":49882,
@@ -201253,7 +201253,7 @@
     },
     {
         "ID":50316,
-        "Name":null
+        "Name":"wind-up Yuffie"
     },
     {
         "ID":50317,
@@ -201381,23 +201381,23 @@
     },
     {
         "ID":50348,
-        "Name":null
+        "Name":"*Return to Oblivion (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50349,
-        "Name":null
+        "Name":"*To the Edge (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50350,
-        "Name":null
+        "Name":"*Fiend (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50351,
-        "Name":null
+        "Name":"*Athena, the Tireless One (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50352,
-        "Name":null
+        "Name":"*The Nautilus Knoweth (Pulse 2)* orchestrion roll"
     },
     {
         "ID":50353,
@@ -201649,7 +201649,7 @@
     },
     {
         "ID":50415,
-        "Name":null
+        "Name":"Auxesia drone module"
     },
     {
         "ID":50416,
@@ -205089,31 +205089,31 @@
     },
     {
         "ID":51275,
-        "Name":null
+        "Name":"*Galactic Way* miniature"
     },
     {
         "ID":51276,
-        "Name":null
+        "Name":"Auxesian tower replica"
     },
     {
         "ID":51277,
-        "Name":null
+        "Name":"cosmic metal shelf"
     },
     {
         "ID":51278,
-        "Name":null
+        "Name":"flight of cosmic steps"
     },
     {
         "ID":51279,
-        "Name":null
+        "Name":"cosmic partition"
     },
     {
         "ID":51280,
-        "Name":null
+        "Name":"Auxesian waygate"
     },
     {
         "ID":51281,
-        "Name":null
+        "Name":"Auxesian waylight"
     },
     {
         "ID":51282,
@@ -205145,15 +205145,15 @@
     },
     {
         "ID":51289,
-        "Name":null
+        "Name":"wibbly-wobbly Jibanyan"
     },
     {
         "ID":51290,
-        "Name":null
+        "Name":"wibbly-wobbly Komasan"
     },
     {
         "ID":51291,
-        "Name":null
+        "Name":"wibbly-wobbly USApyon"
     },
     {
         "ID":51292,
@@ -205249,47 +205249,47 @@
     },
     {
         "ID":51315,
-        "Name":null
+        "Name":"carpenter's tool mastery point"
     },
     {
         "ID":51316,
-        "Name":null
+        "Name":"blacksmith's tool mastery point"
     },
     {
         "ID":51317,
-        "Name":null
+        "Name":"armorer's tool mastery point"
     },
     {
         "ID":51318,
-        "Name":null
+        "Name":"goldsmith's tool mastery point"
     },
     {
         "ID":51319,
-        "Name":null
+        "Name":"leatherworker's tool mastery point"
     },
     {
         "ID":51320,
-        "Name":null
+        "Name":"weaver's tool mastery point"
     },
     {
         "ID":51321,
-        "Name":null
+        "Name":"alchemist's tool mastery point"
     },
     {
         "ID":51322,
-        "Name":null
+        "Name":"culinarian's tool mastery point"
     },
     {
         "ID":51323,
-        "Name":null
+        "Name":"miner's tool mastery point"
     },
     {
         "ID":51324,
-        "Name":null
+        "Name":"botanist's tool mastery point"
     },
     {
         "ID":51325,
-        "Name":null
+        "Name":"fisher's tool mastery point"
     },
     {
         "ID":51326,
@@ -207001,11 +207001,11 @@
     },
     {
         "ID":51753,
-        "Name":null
+        "Name":"shredded toxic bloomer"
     },
     {
         "ID":51754,
-        "Name":null
+        "Name":"pinch of toxic bloomer ash"
     },
     {
         "ID":51755,
@@ -207013,223 +207013,223 @@
     },
     {
         "ID":51756,
-        "Name":null
+        "Name":"hypersaw v1.1"
     },
     {
         "ID":51757,
-        "Name":null
+        "Name":"cross-pein hyperhammer v1.1"
     },
     {
         "ID":51758,
-        "Name":null
+        "Name":"raising hyperhammer v1.1"
     },
     {
         "ID":51759,
-        "Name":null
+        "Name":"hypermallet v1.1"
     },
     {
         "ID":51760,
-        "Name":null
+        "Name":"round hyperknife v1.1"
     },
     {
         "ID":51761,
-        "Name":null
+        "Name":"hyperneedle v1.1"
     },
     {
         "ID":51762,
-        "Name":null
+        "Name":"hyperalembic v1.1"
     },
     {
         "ID":51763,
-        "Name":null
+        "Name":"hyperfrypan v1.1"
     },
     {
         "ID":51764,
-        "Name":null
+        "Name":"hyperpickaxe v1.1"
     },
     {
         "ID":51765,
-        "Name":null
+        "Name":"hyperhatchet v1.1"
     },
     {
         "ID":51766,
-        "Name":null
+        "Name":"fishing hyperrod v1.1"
     },
     {
         "ID":51767,
-        "Name":null
+        "Name":"hypersaw v1.2"
     },
     {
         "ID":51768,
-        "Name":null
+        "Name":"cross-pein hyperhammer v1.2"
     },
     {
         "ID":51769,
-        "Name":null
+        "Name":"raising hyperhammer v1.2"
     },
     {
         "ID":51770,
-        "Name":null
+        "Name":"hypermallet v1.2"
     },
     {
         "ID":51771,
-        "Name":null
+        "Name":"round hyperknife v1.2"
     },
     {
         "ID":51772,
-        "Name":null
+        "Name":"hyperneedle v1.2"
     },
     {
         "ID":51773,
-        "Name":null
+        "Name":"hyperalembic v1.2"
     },
     {
         "ID":51774,
-        "Name":null
+        "Name":"hyperfrypan v1.2"
     },
     {
         "ID":51775,
-        "Name":null
+        "Name":"hyperpickaxe v1.2"
     },
     {
         "ID":51776,
-        "Name":null
+        "Name":"hyperhatchet v1.2"
     },
     {
         "ID":51777,
-        "Name":null
+        "Name":"fishing hyperrod v1.2"
     },
     {
         "ID":51778,
-        "Name":null
+        "Name":"saw of stars"
     },
     {
         "ID":51779,
-        "Name":null
+        "Name":"cross-pein hammer of stars"
     },
     {
         "ID":51780,
-        "Name":null
+        "Name":"raising hammer of stars"
     },
     {
         "ID":51781,
-        "Name":null
+        "Name":"mallet of stars"
     },
     {
         "ID":51782,
-        "Name":null
+        "Name":"round knife of stars"
     },
     {
         "ID":51783,
-        "Name":null
+        "Name":"needle of stars"
     },
     {
         "ID":51784,
-        "Name":null
+        "Name":"alembic of stars"
     },
     {
         "ID":51785,
-        "Name":null
+        "Name":"frypan of stars"
     },
     {
         "ID":51786,
-        "Name":null
+        "Name":"pickaxe of stars"
     },
     {
         "ID":51787,
-        "Name":null
+        "Name":"hatchet of stars"
     },
     {
         "ID":51788,
-        "Name":null
+        "Name":"fishing rod of stars"
     },
     {
         "ID":51789,
-        "Name":null
+        "Name":"hypersaw replica"
     },
     {
         "ID":51790,
-        "Name":null
+        "Name":"cross-pein hyperhammer replica"
     },
     {
         "ID":51791,
-        "Name":null
+        "Name":"raising hyperhammer replica"
     },
     {
         "ID":51792,
-        "Name":null
+        "Name":"hypermallet replica"
     },
     {
         "ID":51793,
-        "Name":null
+        "Name":"round hyperknife replica"
     },
     {
         "ID":51794,
-        "Name":null
+        "Name":"hyperneedle replica"
     },
     {
         "ID":51795,
-        "Name":null
+        "Name":"hyperalembic replica"
     },
     {
         "ID":51796,
-        "Name":null
+        "Name":"hyperfrypan replica"
     },
     {
         "ID":51797,
-        "Name":null
+        "Name":"hyperpickaxe replica"
     },
     {
         "ID":51798,
-        "Name":null
+        "Name":"hyperhatchet replica"
     },
     {
         "ID":51799,
-        "Name":null
+        "Name":"fishing hyperrod replica"
     },
     {
         "ID":51800,
-        "Name":null
+        "Name":"saw of stars replica"
     },
     {
         "ID":51801,
-        "Name":null
+        "Name":"cross-pein hammer of stars replica"
     },
     {
         "ID":51802,
-        "Name":null
+        "Name":"raising hammer of stars replica"
     },
     {
         "ID":51803,
-        "Name":null
+        "Name":"mallet of stars replica"
     },
     {
         "ID":51804,
-        "Name":null
+        "Name":"round knife of stars replica"
     },
     {
         "ID":51805,
-        "Name":null
+        "Name":"needle of stars replica"
     },
     {
         "ID":51806,
-        "Name":null
+        "Name":"alembic of stars replica"
     },
     {
         "ID":51807,
-        "Name":null
+        "Name":"frypan of stars replica"
     },
     {
         "ID":51808,
-        "Name":null
+        "Name":"pickaxe of stars replica"
     },
     {
         "ID":51809,
-        "Name":null
+        "Name":"hatchet of stars replica"
     },
     {
         "ID":51810,
-        "Name":null
+        "Name":"fishing rod of stars replica"
     },
     {
         "ID":51811,
@@ -207973,7 +207973,7 @@
     },
     {
         "ID":51996,
-        "Name":null
+        "Name":"cosmic growth framer's kit"
     },
     {
         "ID":51997,
@@ -208037,83 +208037,83 @@
     },
     {
         "ID":52012,
-        "Name":null
+        "Name":"pote'uka"
     },
     {
         "ID":52013,
-        "Name":null
+        "Name":"harbor cloud"
     },
     {
         "ID":52014,
-        "Name":null
+        "Name":"iq ebaji"
     },
     {
         "ID":52015,
-        "Name":null
+        "Name":"Yowekwa inkhead"
     },
     {
         "ID":52016,
-        "Name":null
+        "Name":"burst lungfish"
     },
     {
         "ID":52017,
-        "Name":null
+        "Name":"pinch of Turali chalk"
     },
     {
         "ID":52018,
-        "Name":null
+        "Name":"warming crystal"
     },
     {
         "ID":52019,
-        "Name":null
+        "Name":"jar of neotaco spice"
     },
     {
         "ID":52020,
-        "Name":null
+        "Name":"basket of tunic fiber"
     },
     {
         "ID":52021,
-        "Name":null
+        "Name":"sheaf of sizzlewheat"
     },
     {
         "ID":52022,
-        "Name":null
+        "Name":"Aunt Tii's billboard"
     },
     {
         "ID":52023,
-        "Name":null
+        "Name":"trusty taco tin"
     },
     {
         "ID":52024,
-        "Name":null
+        "Name":"neomasher"
     },
     {
         "ID":52025,
-        "Name":null
+        "Name":"set of Aunt Tii's tunic supplies"
     },
     {
         "ID":52026,
-        "Name":null
+        "Name":"shaco packaging"
     },
     {
         "ID":52027,
-        "Name":null
+        "Name":"crate of advertisement supplies"
     },
     {
         "ID":52028,
-        "Name":null
+        "Name":"box of taco tin supplies"
     },
     {
         "ID":52029,
-        "Name":null
+        "Name":"chest of neomasher supplies"
     },
     {
         "ID":52030,
-        "Name":null
+        "Name":"sack of assorted Turali pigments"
     },
     {
         "ID":52031,
-        "Name":null
+        "Name":"package of shocking supplies"
     },
     {
         "ID":52032,
@@ -208153,855 +208153,855 @@
     },
     {
         "ID":52041,
-        "Name":null
+        "Name":"Cosmic Armored Weapon Beta card"
     },
     {
         "ID":52042,
-        "Name":null
+        "Name":"Tiisol Ja card"
     },
     {
         "ID":52043,
-        "Name":null
+        "Name":"chunk of treestone"
     },
     {
         "ID":52044,
-        "Name":null
+        "Name":"slab of lightweight siltstone"
     },
     {
         "ID":52045,
-        "Name":null
+        "Name":"handful of New Growth quartz"
     },
     {
         "ID":52046,
-        "Name":null
+        "Name":"lump of stratoclay"
     },
     {
         "ID":52047,
-        "Name":null
+        "Name":"handful of stratoquartz"
     },
     {
         "ID":52048,
-        "Name":null
+        "Name":"chunk of amberstone"
     },
     {
         "ID":52049,
-        "Name":null
+        "Name":"pinch of Auxesian alumen"
     },
     {
         "ID":52050,
-        "Name":null
+        "Name":"chunk of pink onionroot ore"
     },
     {
         "ID":52051,
-        "Name":null
+        "Name":"chunk of blue onionroot ore"
     },
     {
         "ID":52052,
-        "Name":null
+        "Name":"chunk of yellow onionroot ore"
     },
     {
         "ID":52053,
-        "Name":null
+        "Name":"handful of granny nickel sand"
     },
     {
         "ID":52054,
-        "Name":null
+        "Name":"chunk of granny nickel"
     },
     {
         "ID":52055,
-        "Name":null
+        "Name":"chunk of pink granny nickel"
     },
     {
         "ID":52056,
-        "Name":null
+        "Name":"umbral indicolite"
     },
     {
         "ID":52057,
-        "Name":null
+        "Name":"tortoisepine amber"
     },
     {
         "ID":52058,
-        "Name":null
+        "Name":"chunk of tricolored onionroot ore"
     },
     {
         "ID":52059,
-        "Name":null
+        "Name":"pinch of tortoisepine aethersand"
     },
     {
         "ID":52060,
-        "Name":null
+        "Name":"chunk of rare gold artichoke ore"
     },
     {
         "ID":52061,
-        "Name":null
+        "Name":"antumbral indicolite"
     },
     {
         "ID":52062,
-        "Name":null
+        "Name":"pinch of gold artichoke mineral sand"
     },
     {
         "ID":52063,
-        "Name":null
+        "Name":"handful of emeraldstar aethersand"
     },
     {
         "ID":52064,
-        "Name":null
+        "Name":"sack of Auxesian regolith"
     },
     {
         "ID":52065,
-        "Name":null
+        "Name":"New Growth beech log"
     },
     {
         "ID":52066,
-        "Name":null
+        "Name":"blue arbor log"
     },
     {
         "ID":52067,
-        "Name":null
+        "Name":"blue arbor branch"
     },
     {
         "ID":52068,
-        "Name":null
+        "Name":"green spiral lupine leaf"
     },
     {
         "ID":52069,
-        "Name":null
+        "Name":"blue spiral lupine leaf"
     },
     {
         "ID":52070,
-        "Name":null
+        "Name":"spiral lupine bulb"
     },
     {
         "ID":52071,
-        "Name":null
+        "Name":"spiral lupine flower"
     },
     {
         "ID":52072,
-        "Name":null
+        "Name":"bunch of yellow copycube flowers"
     },
     {
         "ID":52073,
-        "Name":null
+        "Name":"copycube stalk"
     },
     {
         "ID":52074,
-        "Name":null
+        "Name":"bunch of red copycube flowers"
     },
     {
         "ID":52075,
-        "Name":null
+        "Name":"dayspring dew log"
     },
     {
         "ID":52076,
-        "Name":null
+        "Name":"sprig of dayspring dew leaves"
     },
     {
         "ID":52077,
-        "Name":null
+        "Name":"handful of dayspring dew bark"
     },
     {
         "ID":52078,
-        "Name":null
+        "Name":"indigo mahogany log"
     },
     {
         "ID":52079,
-        "Name":null
+        "Name":"cerulift log"
     },
     {
         "ID":52080,
-        "Name":null
+        "Name":"bunch of rainbow copycube flowers"
     },
     {
         "ID":52081,
-        "Name":null
+        "Name":"cerulift root"
     },
     {
         "ID":52082,
-        "Name":null
+        "Name":"hexapuff cotton boll"
     },
     {
         "ID":52083,
-        "Name":null
+        "Name":"indigo gardenia flower"
     },
     {
         "ID":52084,
-        "Name":null
+        "Name":"handful of hexapuff seeds"
     },
     {
         "ID":52085,
-        "Name":null
+        "Name":"phial of indigo gardenia glioaether"
     },
     {
         "ID":52086,
-        "Name":null
+        "Name":"sack of Nervure soil"
     },
     {
         "ID":52087,
-        "Name":null
+        "Name":"chunk of gold granny nickel"
     },
     {
         "ID":52088,
-        "Name":null
+        "Name":"pinch of unusual gold sand"
     },
     {
         "ID":52089,
-        "Name":null
+        "Name":"non-native spinopitcher"
     },
     {
         "ID":52090,
-        "Name":null
+        "Name":"stalk of plower's pileus"
     },
     {
         "ID":52091,
-        "Name":null
+        "Name":"Auxesia token booklet"
     },
     {
         "ID":52092,
-        "Name":null
+        "Name":"Auxesia exploration token"
     },
     {
         "ID":52093,
-        "Name":null
+        "Name":"botanic gold Voyagers' record"
     },
     {
         "ID":52094,
-        "Name":null
+        "Name":"civic silver Voyagers' record"
     },
     {
         "ID":52095,
-        "Name":null
+        "Name":"arboreal bronze Voyagers' record"
     },
     {
         "ID":52096,
-        "Name":null
+        "Name":"Timberpond skipper"
     },
     {
         "ID":52097,
-        "Name":null
+        "Name":"Highwood leaffish"
     },
     {
         "ID":52098,
-        "Name":null
+        "Name":"prochilodus cosmica"
     },
     {
         "ID":52099,
-        "Name":null
+        "Name":"Fishform: modulight"
     },
     {
         "ID":52100,
-        "Name":null
+        "Name":"New Growth leaffish"
     },
     {
         "ID":52101,
-        "Name":null
+        "Name":"Auxesian peacock bass"
     },
     {
         "ID":52102,
-        "Name":null
+        "Name":"Timberpond skipper"
     },
     {
         "ID":52103,
-        "Name":null
+        "Name":"Highwood leaffish"
     },
     {
         "ID":52104,
-        "Name":null
+        "Name":"pioneering pondfish"
     },
     {
         "ID":52105,
-        "Name":null
+        "Name":"Fishform: modulight"
     },
     {
         "ID":52106,
-        "Name":null
+        "Name":"New Growth leaffish"
     },
     {
         "ID":52107,
-        "Name":null
+        "Name":"timberlouse"
     },
     {
         "ID":52108,
-        "Name":null
+        "Name":"Timberpond skipper"
     },
     {
         "ID":52109,
-        "Name":null
+        "Name":"Highwood leaffish"
     },
     {
         "ID":52110,
-        "Name":null
+        "Name":"Fishform: aquaclear"
     },
     {
         "ID":52111,
-        "Name":null
+        "Name":"cosmic belonesox"
     },
     {
         "ID":52112,
-        "Name":null
+        "Name":"Fishform: modulight"
     },
     {
         "ID":52113,
-        "Name":null
+        "Name":"New Growth carp"
     },
     {
         "ID":52114,
-        "Name":null
+        "Name":"Fishform: alluviscoop"
     },
     {
         "ID":52115,
-        "Name":null
+        "Name":"verdant dancer"
     },
     {
         "ID":52116,
-        "Name":null
+        "Name":"Timberpond skipper"
     },
     {
         "ID":52117,
-        "Name":null
+        "Name":"Highwood leaffish"
     },
     {
         "ID":52118,
-        "Name":null
+        "Name":"stargazy perch"
     },
     {
         "ID":52119,
-        "Name":null
+        "Name":"Timberpond muskellunge"
     },
     {
         "ID":52120,
-        "Name":null
+        "Name":"Fishform: modulight"
     },
     {
         "ID":52121,
-        "Name":null
+        "Name":"New Growth leaffish"
     },
     {
         "ID":52122,
-        "Name":null
+        "Name":"gallivanting croppie"
     },
     {
         "ID":52123,
-        "Name":null
+        "Name":"Nervure stalk"
     },
     {
         "ID":52124,
-        "Name":null
+        "Name":"mossy globule"
     },
     {
         "ID":52125,
-        "Name":null
+        "Name":"greatfrond turtle"
     },
     {
         "ID":52126,
-        "Name":null
+        "Name":"towerling stemling"
     },
     {
         "ID":52127,
-        "Name":null
+        "Name":"crenicichla cosmica"
     },
     {
         "ID":52128,
-        "Name":null
+        "Name":"Timberland camofin"
     },
     {
         "ID":52129,
-        "Name":null
+        "Name":"cosmic hedgemole cricket"
     },
     {
         "ID":52130,
-        "Name":null
+        "Name":"Fishform: aquaflow"
     },
     {
         "ID":52131,
-        "Name":null
+        "Name":"fatleaf frog"
     },
     {
         "ID":52132,
-        "Name":null
+        "Name":"trailing tendril"
     },
     {
         "ID":52133,
-        "Name":null
+        "Name":"roaming pipira"
     },
     {
         "ID":52134,
-        "Name":null
+        "Name":"mossy globule"
     },
     {
         "ID":52135,
-        "Name":null
+        "Name":"sproutfin"
     },
     {
         "ID":52136,
-        "Name":null
+        "Name":"radial cichlid"
     },
     {
         "ID":52137,
-        "Name":null
+        "Name":"pseudohedron"
     },
     {
         "ID":52138,
-        "Name":null
+        "Name":"topiary gar"
     },
     {
         "ID":52139,
-        "Name":null
+        "Name":"cosmic hedgemole cricket"
     },
     {
         "ID":52140,
-        "Name":null
+        "Name":"flourishing guppy"
     },
     {
         "ID":52141,
-        "Name":null
+        "Name":"cosmic piraputanga"
     },
     {
         "ID":52142,
-        "Name":null
+        "Name":"green guppy"
     },
     {
         "ID":52143,
-        "Name":null
+        "Name":"Fishform: aquacleanse"
     },
     {
         "ID":52144,
-        "Name":null
+        "Name":"mossy globule"
     },
     {
         "ID":52145,
-        "Name":null
+        "Name":"greatfrond turtle"
     },
     {
         "ID":52146,
-        "Name":null
+        "Name":"soil stirrer"
     },
     {
         "ID":52147,
-        "Name":null
+        "Name":"glade platter"
     },
     {
         "ID":52148,
-        "Name":null
+        "Name":"mossy globule"
     },
     {
         "ID":52149,
-        "Name":null
+        "Name":"greatfrond turtle"
     },
     {
         "ID":52150,
-        "Name":null
+        "Name":"cosmocarp"
     },
     {
         "ID":52151,
-        "Name":null
+        "Name":"Netroot tortoise"
     },
     {
         "ID":52152,
-        "Name":null
+        "Name":"arowana analog"
     },
     {
         "ID":52153,
-        "Name":null
+        "Name":"topiary megagar"
     },
     {
         "ID":52154,
-        "Name":null
+        "Name":"cosmic hedgemole cricket"
     },
     {
         "ID":52155,
-        "Name":null
+        "Name":"Fishform: aquaflow"
     },
     {
         "ID":52156,
-        "Name":null
+        "Name":"eriocaulon auxesicum"
     },
     {
         "ID":52157,
-        "Name":null
+        "Name":"cluster of aquagrapes"
     },
     {
         "ID":52158,
-        "Name":null
+        "Name":"clump of cosmoss"
     },
     {
         "ID":52159,
-        "Name":null
+        "Name":"perchsplorer"
     },
     {
         "ID":52160,
-        "Name":null
+        "Name":"Nervure driftwood"
     },
     {
         "ID":52161,
-        "Name":null
+        "Name":"sprig of Auxesian marjoram"
     },
     {
         "ID":52162,
-        "Name":null
+        "Name":"Fishform: aquamotion"
     },
     {
         "ID":52163,
-        "Name":null
+        "Name":"Nervure corntail"
     },
     {
         "ID":52164,
-        "Name":null
+        "Name":"mossy globule"
     },
     {
         "ID":52165,
-        "Name":null
+        "Name":"mossy spongescale"
     },
     {
         "ID":52166,
-        "Name":null
+        "Name":"family netweaver"
     },
     {
         "ID":52167,
-        "Name":null
+        "Name":"autumn's garb"
     },
     {
         "ID":52168,
-        "Name":null
+        "Name":"eupseudohedron"
     },
     {
         "ID":52169,
-        "Name":null
+        "Name":"cosmic hedgemole cricket"
     },
     {
         "ID":52170,
-        "Name":null
+        "Name":"Fishform: aquaflow"
     },
     {
         "ID":52171,
-        "Name":null
+        "Name":"Stacks foliafin"
     },
     {
         "ID":52172,
-        "Name":null
+        "Name":"Sylvan strand"
     },
     {
         "ID":52173,
-        "Name":null
+        "Name":"Fishform: aquapure"
     },
     {
         "ID":52174,
-        "Name":null
+        "Name":"perchsplorer"
     },
     {
         "ID":52175,
-        "Name":null
+        "Name":"Nervure driftwood"
     },
     {
         "ID":52176,
-        "Name":null
+        "Name":"chlorotic smelt"
     },
     {
         "ID":52177,
-        "Name":null
+        "Name":"barkscale"
     },
     {
         "ID":52178,
-        "Name":null
+        "Name":"Nervure taproot"
     },
     {
         "ID":52179,
-        "Name":null
+        "Name":"Orchidelirium principal"
     },
     {
         "ID":52180,
-        "Name":null
+        "Name":"cosmic hedgemole cricket"
     },
     {
         "ID":52181,
-        "Name":null
+        "Name":"Fishform: aquaflow"
     },
     {
         "ID":52182,
-        "Name":null
+        "Name":"Sylvan swell"
     },
     {
         "ID":52183,
-        "Name":null
+        "Name":"resinwhisker"
     },
     {
         "ID":52184,
-        "Name":null
+        "Name":"grand green guppy"
     },
     {
         "ID":52185,
-        "Name":null
+        "Name":"perchsplorer"
     },
     {
         "ID":52186,
-        "Name":null
+        "Name":"Nervure driftwood"
     },
     {
         "ID":52187,
-        "Name":null
+        "Name":"Fishform: aquacycle"
     },
     {
         "ID":52188,
-        "Name":null
+        "Name":"ripe citrusfish"
     },
     {
         "ID":52189,
-        "Name":null
+        "Name":"Fishform: vegiclean"
     },
     {
         "ID":52190,
-        "Name":null
+        "Name":"topiary carp"
     },
     {
         "ID":52191,
-        "Name":null
+        "Name":"Fishform: alluvimix"
     },
     {
         "ID":52192,
-        "Name":null
+        "Name":"soaking betta"
     },
     {
         "ID":52193,
-        "Name":null
+        "Name":"Fishform: alluvimark"
     },
     {
         "ID":52194,
-        "Name":null
+        "Name":"indicoresin trahira"
     },
     {
         "ID":52195,
-        "Name":null
+        "Name":"turquoise vine"
     },
     {
         "ID":52196,
-        "Name":null
+        "Name":"cosmic hedgemole cricket"
     },
     {
         "ID":52197,
-        "Name":null
+        "Name":"Fishform: aquaflow"
     },
     {
         "ID":52198,
-        "Name":null
+        "Name":"Sylvan herald"
     },
     {
         "ID":52199,
-        "Name":null
+        "Name":"chlorotic pleco"
     },
     {
         "ID":52200,
-        "Name":null
+        "Name":"blooming characin"
     },
     {
         "ID":52201,
-        "Name":null
+        "Name":"topiary pirarucu"
     },
     {
         "ID":52202,
-        "Name":null
+        "Name":"perchsplorer"
     },
     {
         "ID":52203,
-        "Name":null
+        "Name":"Nervure driftwood"
     },
     {
         "ID":52204,
-        "Name":null
+        "Name":"autumn's wealth"
     },
     {
         "ID":52205,
-        "Name":null
+        "Name":"chlorotic butterfly"
     },
     {
         "ID":52206,
-        "Name":null
+        "Name":"Pileus corn dace"
     },
     {
         "ID":52207,
-        "Name":null
+        "Name":"verdant veil"
     },
     {
         "ID":52208,
-        "Name":null
+        "Name":"skylit petal"
     },
     {
         "ID":52209,
-        "Name":null
+        "Name":"indigo pulpscale"
     },
     {
         "ID":52210,
-        "Name":null
+        "Name":"Sylvan core"
     },
     {
         "ID":52211,
-        "Name":null
+        "Name":"Fishform: aquameter"
     },
     {
         "ID":52212,
-        "Name":null
+        "Name":"bluebloom"
     },
     {
         "ID":52213,
-        "Name":null
+        "Name":"crabby indicolite"
     },
     {
         "ID":52214,
-        "Name":null
+        "Name":"topiary gibal"
     },
     {
         "ID":52215,
-        "Name":null
+        "Name":"botanitrout"
     },
     {
         "ID":52216,
-        "Name":null
+        "Name":"peachpetal shell"
     },
     {
         "ID":52217,
-        "Name":null
+        "Name":"chlorotic pike"
     },
     {
         "ID":52218,
-        "Name":null
+        "Name":"riotous dianthus"
     },
     {
         "ID":52219,
-        "Name":null
+        "Name":"wisteria jellyfish"
     },
     {
         "ID":52220,
-        "Name":null
+        "Name":"topiary gibal"
     },
     {
         "ID":52221,
-        "Name":null
+        "Name":"botanitrout"
     },
     {
         "ID":52222,
-        "Name":null
+        "Name":"cotyledon grouper"
     },
     {
         "ID":52223,
-        "Name":null
+        "Name":"greater petalwing"
     },
     {
         "ID":52224,
-        "Name":null
+        "Name":"shroud in a bottle"
     },
     {
         "ID":52225,
-        "Name":null
+        "Name":"topiary cetacean"
     },
     {
         "ID":52226,
-        "Name":null
+        "Name":"topiary gibal"
     },
     {
         "ID":52227,
-        "Name":null
+        "Name":"Fishform: nutrigrowth"
     },
     {
         "ID":52228,
-        "Name":null
+        "Name":"drifting dragon"
     },
     {
         "ID":52229,
-        "Name":null
+        "Name":"auroral petalfish"
     },
     {
         "ID":52230,
-        "Name":null
+        "Name":"Fishform: aqualevel"
     },
     {
         "ID":52231,
-        "Name":null
+        "Name":"topiary serpent"
     },
     {
         "ID":52232,
-        "Name":null
+        "Name":"perchsplorer"
     },
     {
         "ID":52233,
-        "Name":null
+        "Name":"Auxesian core"
     },
     {
         "ID":52234,
-        "Name":null
+        "Name":"cosmic hedgemole cricket"
     },
     {
         "ID":52235,
-        "Name":null
+        "Name":"Auxesian cabomba"
     },
     {
         "ID":52236,
-        "Name":null
+        "Name":"cosmoth pupa"
     },
     {
         "ID":52237,
-        "Name":null
+        "Name":"cosmobait ball"
     },
     {
         "ID":52238,
-        "Name":null
+        "Name":"cosmic crane fly"
     },
     {
         "ID":52239,
-        "Name":null
+        "Name":"cosmoworm"
     },
     {
         "ID":52240,
-        "Name":null
+        "Name":"sticky larva"
     },
     {
         "ID":52241,
-        "Name":null
+        "Name":"cosmic tarantula"
     },
     {
         "ID":52242,
-        "Name":null
+        "Name":"gold starfly nymph"
     },
     {
         "ID":52243,
-        "Name":null
+        "Name":"basket of red cosmomaggots"
     },
     {
         "ID":52244,
-        "Name":null
+        "Name":"pot of stellar salmon roe"
     },
     {
         "ID":52245,
-        "Name":null
+        "Name":"cosmic honeybee"
     },
     {
         "ID":52246,
-        "Name":null
+        "Name":"freshwater arthrolure"
     },
     {
         "ID":52247,
-        "Name":null
+        "Name":"cosmic mayfly"
     },
     {
         "ID":52248,
-        "Name":null
+        "Name":"cosmoleech"
     },
     {
         "ID":52249,
-        "Name":null
+        "Name":"stellar midge larva"
     },
     {
         "ID":52250,
-        "Name":null
+        "Name":"refined cosmic mayfly"
     },
     {
         "ID":52251,
-        "Name":null
+        "Name":"refined cosmoleech"
     },
     {
         "ID":52252,
-        "Name":null
+        "Name":"refined stellar midge larva"
     },
     {
         "ID":52253,
-        "Name":null
+        "Name":"freshwater arthrolure"
     },
     {
         "ID":52254,
@@ -209017,7 +209017,7 @@
     },
     {
         "ID":52257,
-        "Name":null
+        "Name":"interstellar leafkin whistle"
     },
     {
         "ID":52258,
@@ -209057,11 +209057,11 @@
     },
     {
         "ID":52267,
-        "Name":null
+        "Name":"cosmic armored weapon beta identification key"
     },
     {
         "ID":52268,
-        "Name":null
+        "Name":"cosmic predator identification key"
     },
     {
         "ID":52269,
@@ -209073,11 +209073,11 @@
     },
     {
         "ID":52271,
-        "Name":null
+        "Name":"excavating vacuum suit identification key"
     },
     {
         "ID":52272,
-        "Name":null
+        "Name":"carbide grey warp loader identification key"
     },
     {
         "ID":52273,
@@ -209089,7 +209089,7 @@
     },
     {
         "ID":52275,
-        "Name":null
+        "Name":"lite-loader"
     },
     {
         "ID":52276,
@@ -209117,7 +209117,7 @@
     },
     {
         "ID":52282,
-        "Name":null
+        "Name":"budvi"
     },
     {
         "ID":52283,
@@ -209141,7 +209141,7 @@
     },
     {
         "ID":52288,
-        "Name":null
+        "Name":"shovel"
     },
     {
         "ID":52289,
@@ -209165,7 +209165,7 @@
     },
     {
         "ID":52294,
-        "Name":null
+        "Name":"copy of *Ballroom Etiquette - Trial by Taco*"
     },
     {
         "ID":52295,
@@ -209185,95 +209185,95 @@
     },
     {
         "ID":52299,
-        "Name":null
+        "Name":"Palazzo diamond sword"
     },
     {
         "ID":52300,
-        "Name":null
+        "Name":"pair of Palazzo diamond knuckles"
     },
     {
         "ID":52301,
-        "Name":null
+        "Name":"Palazzo diamond axe"
     },
     {
         "ID":52302,
-        "Name":null
+        "Name":"Palazzo diamond halberd"
     },
     {
         "ID":52303,
-        "Name":null
+        "Name":"Palazzo diamond bow"
     },
     {
         "ID":52304,
-        "Name":null
+        "Name":"Palazzo diamond cane"
     },
     {
         "ID":52305,
-        "Name":null
+        "Name":"Palazzo diamond rod"
     },
     {
         "ID":52306,
-        "Name":null
+        "Name":"Palazzo diamond grimoire"
     },
     {
         "ID":52307,
-        "Name":null
+        "Name":"Palazzo diamond codex"
     },
     {
         "ID":52308,
-        "Name":null
+        "Name":"pair of Palazzo diamond daggers"
     },
     {
         "ID":52309,
-        "Name":null
+        "Name":"Palazzo diamond greatsword"
     },
     {
         "ID":52310,
-        "Name":null
+        "Name":"Palazzo diamond musketoon"
     },
     {
         "ID":52311,
-        "Name":null
+        "Name":"Palazzo diamond sextant"
     },
     {
         "ID":52312,
-        "Name":null
+        "Name":"Palazzo diamond katana"
     },
     {
         "ID":52313,
-        "Name":null
+        "Name":"Palazzo diamond tuck"
     },
     {
         "ID":52314,
-        "Name":null
+        "Name":"Palazzo diamond bayonet"
     },
     {
         "ID":52315,
-        "Name":null
+        "Name":"pair of Palazzo diamond chakrams"
     },
     {
         "ID":52316,
-        "Name":null
+        "Name":"Palazzo diamond war scythe"
     },
     {
         "ID":52317,
-        "Name":null
+        "Name":"array of Palazzo diamond wings"
     },
     {
         "ID":52318,
-        "Name":null
+        "Name":"pair of Palazzo diamond saberfangs"
     },
     {
         "ID":52319,
-        "Name":null
+        "Name":"Palazzo diamond fan brush"
     },
     {
         "ID":52320,
-        "Name":null
+        "Name":"Palazzo diamond shield"
     },
     {
         "ID":52321,
-        "Name":null
+        "Name":"mad harlequin's totem"
     },
     {
         "ID":52322,
@@ -209425,11 +209425,11 @@
     },
     {
         "ID":52359,
-        "Name":null
+        "Name":"*Landscaping* orchestrion roll"
     },
     {
         "ID":52360,
-        "Name":null
+        "Name":"*Dancing Mad (Distant Worlds)* orchestrion roll"
     },
     {
         "ID":52361,
@@ -209477,23 +209477,23 @@
     },
     {
         "ID":52372,
-        "Name":null
+        "Name":"*Triumph (Orchestral Version)* orchestrion roll"
     },
     {
         "ID":52373,
-        "Name":null
+        "Name":"*Songs of Salt and Suffering (Orchestral Version)* orchestrion roll"
     },
     {
         "ID":52374,
-        "Name":null
+        "Name":"*Tomorrow and Tomorrow (Orchestral Version)* orchestrion roll"
     },
     {
         "ID":52375,
-        "Name":null
+        "Name":"*Windswept Echoes (Orchestral Version)* orchestrion roll"
     },
     {
         "ID":52376,
-        "Name":null
+        "Name":"*Give It All (Orchestral Version)* orchestrion roll"
     },
     {
         "ID":52377,
@@ -209661,43 +209661,43 @@
     },
     {
         "ID":52418,
-        "Name":null
+        "Name":"cosmic explorer's cap"
     },
     {
         "ID":52419,
-        "Name":null
+        "Name":"cosmic explorer's jacket"
     },
     {
         "ID":52420,
-        "Name":null
+        "Name":"pair of cosmic explorer's halfgloves"
     },
     {
         "ID":52421,
-        "Name":null
+        "Name":"pair of cosmic explorer's slops"
     },
     {
         "ID":52422,
-        "Name":null
+        "Name":"pair of cosmic explorer's boots"
     },
     {
         "ID":52423,
-        "Name":null
+        "Name":"pair of cosmic explorer's tights"
     },
     {
         "ID":52424,
-        "Name":null
+        "Name":"cosmic operator's cap"
     },
     {
         "ID":52425,
-        "Name":null
+        "Name":"cosmic operator's coverall top"
     },
     {
         "ID":52426,
-        "Name":null
+        "Name":"pair of cosmic operator's gloves"
     },
     {
         "ID":52427,
-        "Name":null
+        "Name":"pair of cosmic operator's boots"
     },
     {
         "ID":52428,
@@ -209721,15 +209721,15 @@
     },
     {
         "ID":52433,
-        "Name":null
+        "Name":"graffiti neotunic"
     },
     {
         "ID":52434,
-        "Name":null
+        "Name":"oversized graffiti neotunic"
     },
     {
         "ID":52435,
-        "Name":null
+        "Name":"form-fitting graffiti neotunic"
     },
     {
         "ID":52436,
@@ -209785,7 +209785,7 @@
     },
     {
         "ID":52449,
-        "Name":null
+        "Name":"copy of *The Faces We Wear - Wrap-around Sunglasses*"
     },
     {
         "ID":52450,
@@ -209793,523 +209793,523 @@
     },
     {
         "ID":52451,
-        "Name":null
+        "Name":"standard treated platinum ingot"
     },
     {
         "ID":52452,
-        "Name":null
+        "Name":"survey lens"
     },
     {
         "ID":52453,
-        "Name":null
+        "Name":"high-durability heavy machinery part"
     },
     {
         "ID":52454,
-        "Name":null
+        "Name":"survey chainsaw"
     },
     {
         "ID":52455,
-        "Name":null
+        "Name":"ruins barrow"
     },
     {
         "ID":52456,
-        "Name":null
+        "Name":"exploration scaffolding panel"
     },
     {
         "ID":52457,
-        "Name":null
+        "Name":"roll of high-durability wire"
     },
     {
         "ID":52458,
-        "Name":null
+        "Name":"exploration exhaust pipe"
     },
     {
         "ID":52459,
-        "Name":null
+        "Name":"box of Voyager relic restoration component"
     },
     {
         "ID":52460,
-        "Name":null
+        "Name":"survey aetheric magnifying glass"
     },
     {
         "ID":52461,
-        "Name":null
+        "Name":"ruins aetheric gauge"
     },
     {
         "ID":52462,
-        "Name":null
+        "Name":"sheet of standard high-durability plating"
     },
     {
         "ID":52463,
-        "Name":null
+        "Name":"survey precision lens"
     },
     {
         "ID":52464,
-        "Name":null
+        "Name":"standard Auxesian alloy ingot"
     },
     {
         "ID":52465,
-        "Name":null
+        "Name":"standard treated bronze ingot"
     },
     {
         "ID":52466,
-        "Name":null
+        "Name":"sheet of heavy machinery alloy plating"
     },
     {
         "ID":52467,
-        "Name":null
+        "Name":"ruins rivet"
     },
     {
         "ID":52468,
-        "Name":null
+        "Name":"standard treated silver ingot"
     },
     {
         "ID":52469,
-        "Name":null
+        "Name":"standard treated gold ingot"
     },
     {
         "ID":52470,
-        "Name":null
+        "Name":"exploration steel beam"
     },
     {
         "ID":52471,
-        "Name":null
+        "Name":"heavy machinery gear"
     },
     {
         "ID":52472,
-        "Name":null
+        "Name":"standard hand axe"
     },
     {
         "ID":52473,
-        "Name":null
+        "Name":"standard vehicle track material"
     },
     {
         "ID":52474,
-        "Name":null
+        "Name":"survey ruby scythe"
     },
     {
         "ID":52475,
-        "Name":null
+        "Name":"standard axe head"
     },
     {
         "ID":52476,
-        "Name":null
+        "Name":"standard treated ruby gold ingot"
     },
     {
         "ID":52477,
-        "Name":null
+        "Name":"set of survey formula compounds"
     },
     {
         "ID":52478,
-        "Name":null
+        "Name":"flareproof compact parasol"
     },
     {
         "ID":52479,
-        "Name":null
+        "Name":"botanic garden sheet"
     },
     {
         "ID":52480,
-        "Name":null
+        "Name":"roll of survey processed oilcloth"
     },
     {
         "ID":52481,
-        "Name":null
+        "Name":"loop of archaeological extraction fiber"
     },
     {
         "ID":52482,
-        "Name":null
+        "Name":"loop of standard reinforced rope"
     },
     {
         "ID":52483,
-        "Name":null
+        "Name":"lump of hyperconductive survey resin"
     },
     {
         "ID":52484,
-        "Name":null
+        "Name":"superior freight component"
     },
     {
         "ID":52485,
-        "Name":null
+        "Name":"flareproof parasol"
     },
     {
         "ID":52486,
-        "Name":null
+        "Name":"loop of standard reinforced fiber"
     },
     {
         "ID":52487,
-        "Name":null
+        "Name":"lump of hyperconductive survey resin"
     },
     {
         "ID":52488,
-        "Name":null
+        "Name":"superior freight component"
     },
     {
         "ID":52489,
-        "Name":null
+        "Name":"bundle of standard high-density bonded fabric"
     },
     {
         "ID":52490,
-        "Name":null
+        "Name":"bolt of standard flareproof cloth"
     },
     {
         "ID":52491,
-        "Name":null
+        "Name":"bottle of finest launch party liquor"
     },
     {
         "ID":52492,
-        "Name":null
+        "Name":"jar of all-purpose cosmic yeast"
     },
     {
         "ID":52493,
-        "Name":null
+        "Name":"loop of mineralized plant fiber"
     },
     {
         "ID":52494,
-        "Name":null
+        "Name":"bottle of potable survey water"
     },
     {
         "ID":52495,
-        "Name":null
+        "Name":"pouch of survey supply jelly"
     },
     {
         "ID":52496,
-        "Name":null
+        "Name":"pouch of survey supply jelly"
     },
     {
         "ID":52497,
-        "Name":null
+        "Name":"bottle of survey nutrient mixture"
     },
     {
         "ID":52498,
-        "Name":null
+        "Name":"habitat bunk bed"
     },
     {
         "ID":52499,
-        "Name":null
+        "Name":"set of botanic planks"
     },
     {
         "ID":52500,
-        "Name":null
+        "Name":"set of survey fishing equipment"
     },
     {
         "ID":52501,
-        "Name":null
+        "Name":"superior freight component"
     },
     {
         "ID":52502,
-        "Name":null
+        "Name":"handful of processed survey fuel"
     },
     {
         "ID":52503,
-        "Name":null
+        "Name":"canister of purified biofuel"
     },
     {
         "ID":52504,
-        "Name":null
+        "Name":"lump of archaeological extraction resin"
     },
     {
         "ID":52505,
-        "Name":null
+        "Name":"lump of purified jewel resin"
     },
     {
         "ID":52506,
-        "Name":null
+        "Name":"length of standard reinforced lumber"
     },
     {
         "ID":52507,
-        "Name":null
+        "Name":"length of standard high-density plywood"
     },
     {
         "ID":52508,
-        "Name":null
+        "Name":"standard resin pole"
     },
     {
         "ID":52509,
-        "Name":null
+        "Name":"habitat sofa"
     },
     {
         "ID":52510,
-        "Name":null
+        "Name":"pair of survey boots"
     },
     {
         "ID":52511,
-        "Name":null
+        "Name":"superior freight component"
     },
     {
         "ID":52512,
-        "Name":null
+        "Name":"survey operator suit"
     },
     {
         "ID":52513,
-        "Name":null
+        "Name":"square of thick standard cloth"
     },
     {
         "ID":52514,
-        "Name":null
+        "Name":"habitat cushion"
     },
     {
         "ID":52515,
-        "Name":null
+        "Name":"survey jacket"
     },
     {
         "ID":52516,
-        "Name":null
+        "Name":"superior freight component"
     },
     {
         "ID":52517,
-        "Name":null
+        "Name":"survey explorer suit"
     },
     {
         "ID":52518,
-        "Name":null
+        "Name":"bolt of standard lightweight cloth"
     },
     {
         "ID":52519,
-        "Name":null
+        "Name":"glass of Auxesian botanical juice"
     },
     {
         "ID":52520,
-        "Name":null
+        "Name":"survey inextinguishable candle"
     },
     {
         "ID":52521,
-        "Name":null
+        "Name":"handful of stripped survey wood"
     },
     {
         "ID":52522,
-        "Name":null
+        "Name":"crate of survey bricks"
     },
     {
         "ID":52523,
-        "Name":null
+        "Name":"bottle of simplified survey exothermic agent"
     },
     {
         "ID":52524,
-        "Name":null
+        "Name":"block of survey concrete"
     },
     {
         "ID":52525,
-        "Name":null
+        "Name":"pot of survey mortar"
     },
     {
         "ID":52526,
-        "Name":null
+        "Name":"glass of survey carrot tea"
     },
     {
         "ID":52527,
-        "Name":null
+        "Name":"phial of survey preservative"
     },
     {
         "ID":52528,
-        "Name":null
+        "Name":"glass of survey carrot tea"
     },
     {
         "ID":52529,
-        "Name":null
+        "Name":"bottle of survey growth formula"
     },
     {
         "ID":52530,
-        "Name":null
+        "Name":"bowl of Auxesian soup"
     },
     {
         "ID":52531,
-        "Name":null
+        "Name":"survey coffee service"
     },
     {
         "ID":52532,
-        "Name":null
+        "Name":"jar of survey spice"
     },
     {
         "ID":52533,
-        "Name":null
+        "Name":"bottle of superior survey lubricant"
     },
     {
         "ID":52534,
-        "Name":null
+        "Name":"survey self-heating box lunch"
     },
     {
         "ID":52535,
-        "Name":null
+        "Name":"pot of survey adhesive"
     },
     {
         "ID":52536,
-        "Name":null
+        "Name":"block of survey curing agent"
     },
     {
         "ID":52537,
-        "Name":null
+        "Name":"box of survey carrot pellets"
     },
     {
         "ID":52538,
-        "Name":null
+        "Name":"survey luncheon coffer"
     },
     {
         "ID":52539,
-        "Name":null
+        "Name":"box of survey carrot pellets"
     },
     {
         "ID":52540,
-        "Name":null
+        "Name":"survey sandwich"
     },
     {
         "ID":52541,
-        "Name":null
+        "Name":"canister of heavy machinery biofuel"
     },
     {
         "ID":52542,
-        "Name":null
+        "Name":"set of regrowth formula compounds"
     },
     {
         "ID":52543,
-        "Name":null
+        "Name":"chunk of Auxesian biocoke"
     },
     {
         "ID":52544,
-        "Name":null
+        "Name":"survey boring drill"
     },
     {
         "ID":52545,
-        "Name":null
+        "Name":"arched Voyager window"
     },
     {
         "ID":52546,
-        "Name":null
+        "Name":"reproduced Voyagers' ornament"
     },
     {
         "ID":52547,
-        "Name":null
+        "Name":"survey sublimator diffuser"
     },
     {
         "ID":52548,
-        "Name":null
+        "Name":"round Voyager window"
     },
     {
         "ID":52549,
-        "Name":null
+        "Name":"reproduced Voyagers' terminal"
     },
     {
         "ID":52550,
-        "Name":null
+        "Name":"survey welder"
     },
     {
         "ID":52551,
-        "Name":null
+        "Name":"rectangular Voyager window"
     },
     {
         "ID":52552,
-        "Name":null
+        "Name":"array of reproduced Voyagers' displays"
     },
     {
         "ID":52553,
-        "Name":null
+        "Name":"survey cosmic suit"
     },
     {
         "ID":52554,
-        "Name":null
+        "Name":"survey pilot suit"
     },
     {
         "ID":52555,
-        "Name":null
+        "Name":"initiative powersuit component"
     },
     {
         "ID":52556,
-        "Name":null
+        "Name":"survey crew suit"
     },
     {
         "ID":52557,
-        "Name":null
+        "Name":"captain's survey suit"
     },
     {
         "ID":52558,
-        "Name":null
+        "Name":"set of star admiral's coat fabric"
     },
     {
         "ID":52559,
-        "Name":null
+        "Name":"vial of master survey formula"
     },
     {
         "ID":52560,
-        "Name":null
+        "Name":"survey glass block"
     },
     {
         "ID":52561,
-        "Name":null
+        "Name":"chunk of cosmic tool-compatible aetheric resin"
     },
     {
         "ID":52562,
-        "Name":null
+        "Name":"cup of pananoodles"
     },
     {
         "ID":52563,
-        "Name":null
+        "Name":"allowance of cosmotized rations"
     },
     {
         "ID":52564,
-        "Name":null
+        "Name":"lump of pure cosmic tool-compatible gel"
     },
     {
         "ID":52565,
-        "Name":null
+        "Name":"handful of high burn combustibles"
     },
     {
         "ID":52566,
-        "Name":null
+        "Name":"pouch of wakening incense"
     },
     {
         "ID":52567,
-        "Name":null
+        "Name":"box of high-powered flamethrower parts"
     },
     {
         "ID":52568,
-        "Name":null
+        "Name":"box of boring drill replacement bits"
     },
     {
         "ID":52569,
-        "Name":null
+        "Name":"sheet of machina repair plating"
     },
     {
         "ID":52570,
-        "Name":null
+        "Name":"spore collection tank"
     },
     {
         "ID":52571,
-        "Name":null
+        "Name":"precision machina replacement part"
     },
     {
         "ID":52572,
-        "Name":null
+        "Name":"replacement drone circuit board"
     },
     {
         "ID":52573,
-        "Name":null
+        "Name":"pair of floraproof work gloves"
     },
     {
         "ID":52574,
-        "Name":null
+        "Name":"spore-filtering mask"
     },
     {
         "ID":52575,
-        "Name":null
+        "Name":"incineration mask"
     },
     {
         "ID":52576,
-        "Name":null
+        "Name":"precision tool pouch"
     },
     {
         "ID":52577,
-        "Name":null
+        "Name":"vial of controlled firelighter"
     },
     {
         "ID":52578,
-        "Name":null
+        "Name":"bottle of sobering tonic"
     },
     {
         "ID":52579,
-        "Name":null
+        "Name":"luminous pondwater sample"
     },
     {
         "ID":52580,
-        "Name":null
+        "Name":"bottle of drill lubricant"
     },
     {
         "ID":52581,
@@ -210321,7 +210321,7 @@
     },
     {
         "ID":52583,
-        "Name":null
+        "Name":"shredded toxic expulser"
     },
     {
         "ID":52584,
@@ -210385,11 +210385,11 @@
     },
     {
         "ID":52599,
-        "Name":null
+        "Name":"cosmic explorer's attire [M]"
     },
     {
         "ID":52600,
-        "Name":null
+        "Name":"cosmic operator's attire"
     },
     {
         "ID":52601,
@@ -210401,7 +210401,7 @@
     },
     {
         "ID":52603,
-        "Name":null
+        "Name":"cosmic explorer's attire [F]"
     },
     {
         "ID":52604,
@@ -210409,7 +210409,7 @@
     },
     {
         "ID":52605,
-        "Name":null
+        "Name":"cosmic operator's attire coffer"
     },
     {
         "ID":52606,
@@ -210581,7 +210581,7 @@
     },
     {
         "ID":52648,
-        "Name":null
+        "Name":"*Carrots of Brilliance* orchestrion roll"
     },
     {
         "ID":52649,
@@ -210837,7 +210837,7 @@
     },
     {
         "ID":52712,
-        "Name":null
+        "Name":"lump of all-purpose pigment"
     },
     {
         "ID":52713,

@@ -168261,7 +168261,7 @@
     },
     {
         "ID":42068,
-        "Name":null
+        "Name":"Stellar Hookset"
     },
     {
         "ID":42069,
@@ -168989,35 +168989,35 @@
     },
     {
         "ID":42250,
-        "Name":null
+        "Name":"Magitek Claw"
     },
     {
         "ID":42251,
-        "Name":null
+        "Name":"Predatory Dash"
     },
     {
         "ID":42252,
-        "Name":null
+        "Name":"Solar Flarethrower"
     },
     {
         "ID":42253,
-        "Name":null
+        "Name":"●攻撃性植物の花粉"
     },
     {
         "ID":42254,
-        "Name":null
+        "Name":"Sublimator Diffuser"
     },
     {
         "ID":42255,
-        "Name":null
+        "Name":"Nova Diffuser"
     },
     {
         "ID":42256,
-        "Name":null
+        "Name":"Sublime Sublimator"
     },
     {
         "ID":42257,
-        "Name":null
+        "Name":"Sublimator Spray"
     },
     {
         "ID":42258,
@@ -191045,11 +191045,11 @@
     },
     {
         "ID":47764,
-        "Name":null
+        "Name":"Mystery Magic"
     },
     {
         "ID":47765,
-        "Name":null
+        "Name":"Blizzard III Blowout"
     },
     {
         "ID":47766,
@@ -191061,7 +191061,7 @@
     },
     {
         "ID":47768,
-        "Name":null
+        "Name":"Blizzard III Blowout"
     },
     {
         "ID":47769,
@@ -191073,7 +191073,7 @@
     },
     {
         "ID":47771,
-        "Name":null
+        "Name":"Blizzard III Blowout"
     },
     {
         "ID":47772,
@@ -191085,103 +191085,103 @@
     },
     {
         "ID":47774,
-        "Name":null
+        "Name":"Blizzard III Blowout"
     },
     {
         "ID":47775,
-        "Name":null
+        "Name":"Thrumming Thunder III"
     },
     {
         "ID":47776,
-        "Name":null
+        "Name":"Thrumming Thunder III"
     },
     {
         "ID":47777,
-        "Name":null
+        "Name":"Thrumming Thunder III"
     },
     {
         "ID":47778,
-        "Name":null
+        "Name":"Flagrant Fire III"
     },
     {
         "ID":47779,
-        "Name":null
+        "Name":"Flagrant Fire III"
     },
     {
         "ID":47780,
-        "Name":null
+        "Name":"Mana Charge"
     },
     {
         "ID":47781,
-        "Name":null
+        "Name":"Mana Release"
     },
     {
         "ID":47782,
-        "Name":null
+        "Name":"Double-trouble Trap"
     },
     {
         "ID":47783,
-        "Name":null
+        "Name":"Double-trouble Trap"
     },
     {
         "ID":47784,
-        "Name":null
+        "Name":"Wave Cannon"
     },
     {
         "ID":47785,
-        "Name":null
+        "Name":"Pulse Wave"
     },
     {
         "ID":47786,
-        "Name":null
+        "Name":"Explosion"
     },
     {
         "ID":47787,
-        "Name":null
+        "Name":"Unmitigated Explosion"
     },
     {
         "ID":47788,
-        "Name":null
+        "Name":"Gravitas"
     },
     {
         "ID":47789,
-        "Name":null
+        "Name":"Gravitational Explosion"
     },
     {
         "ID":47790,
-        "Name":null
+        "Name":"Gravitational Explosion"
     },
     {
         "ID":47791,
-        "Name":null
+        "Name":"Gravity III"
     },
     {
         "ID":47792,
-        "Name":null
+        "Name":"Vitrophyre"
     },
     {
         "ID":47793,
-        "Name":null
+        "Name":"Gravitational Wave"
     },
     {
         "ID":47794,
-        "Name":null
+        "Name":"Intemperate Will"
     },
     {
         "ID":47795,
-        "Name":null
+        "Name":"Ave Maria"
     },
     {
         "ID":47796,
-        "Name":null
+        "Name":"Indolent Will"
     },
     {
         "ID":47797,
-        "Name":null
+        "Name":"Indulgent Will"
     },
     {
         "ID":47798,
-        "Name":null
+        "Name":"Idyllic Will"
     },
     {
         "ID":47799,
@@ -191193,47 +191193,47 @@
     },
     {
         "ID":47801,
-        "Name":null
+        "Name":"Tele-trouncing"
     },
     {
         "ID":47802,
-        "Name":null
+        "Name":"Tele-trouncing"
     },
     {
         "ID":47803,
-        "Name":null
+        "Name":"Light of Judgment"
     },
     {
         "ID":47804,
-        "Name":null
+        "Name":"Forsaken"
     },
     {
         "ID":47805,
-        "Name":null
+        "Name":"Light of Judgment"
     },
     {
         "ID":47806,
-        "Name":null
+        "Name":"the Path of Light"
     },
     {
         "ID":47807,
-        "Name":null
+        "Name":"the River of Light"
     },
     {
         "ID":47808,
-        "Name":null
+        "Name":"Spelldriver"
     },
     {
         "ID":47809,
-        "Name":null
+        "Name":"Spellscatter"
     },
     {
         "ID":47810,
-        "Name":null
+        "Name":"Spellwave"
     },
     {
         "ID":47811,
-        "Name":null
+        "Name":"Spells' Trouble"
     },
     {
         "ID":47812,
@@ -191273,15 +191273,15 @@
     },
     {
         "ID":47821,
-        "Name":null
+        "Name":"Wings of Destruction"
     },
     {
         "ID":47822,
-        "Name":null
+        "Name":"Wings of Destruction"
     },
     {
         "ID":47823,
-        "Name":null
+        "Name":"Wings of Destruction"
     },
     {
         "ID":47824,
@@ -191293,11 +191293,11 @@
     },
     {
         "ID":47826,
-        "Name":null
+        "Name":"Future's End"
     },
     {
         "ID":47827,
-        "Name":null
+        "Name":"Past's End"
     },
     {
         "ID":47828,
@@ -191309,19 +191309,19 @@
     },
     {
         "ID":47830,
-        "Name":null
+        "Name":"Future's End"
     },
     {
         "ID":47831,
-        "Name":null
+        "Name":"Past's End"
     },
     {
         "ID":47832,
-        "Name":null
+        "Name":"Future's End"
     },
     {
         "ID":47833,
-        "Name":null
+        "Name":"Past's End"
     },
     {
         "ID":47834,
@@ -191333,11 +191333,11 @@
     },
     {
         "ID":47836,
-        "Name":null
+        "Name":"All Things Ending"
     },
     {
         "ID":47837,
-        "Name":null
+        "Name":"All Things Ending"
     },
     {
         "ID":47838,
@@ -191345,151 +191345,151 @@
     },
     {
         "ID":47839,
-        "Name":null
+        "Name":"Trine"
     },
     {
         "ID":47840,
-        "Name":null
+        "Name":"Trine"
     },
     {
         "ID":47841,
-        "Name":null
+        "Name":"Light of Judgment"
     },
     {
         "ID":47842,
-        "Name":null
+        "Name":"_rsv_47842_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47843,
-        "Name":null
+        "Name":"_rsv_47843_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47844,
-        "Name":null
+        "Name":"_rsv_47844_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47845,
-        "Name":null
+        "Name":"_rsv_47845_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47846,
-        "Name":null
+        "Name":"_rsv_47846_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47847,
-        "Name":null
+        "Name":"_rsv_47847_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47848,
-        "Name":null
+        "Name":"_rsv_47848_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47849,
-        "Name":null
+        "Name":"_rsv_47849_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47850,
-        "Name":null
+        "Name":"_rsv_47850_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47851,
-        "Name":null
+        "Name":"_rsv_47851_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47852,
-        "Name":null
+        "Name":"_rsv_47852_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47853,
-        "Name":null
+        "Name":"_rsv_47853_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47854,
-        "Name":null
+        "Name":"_rsv_47854_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47855,
-        "Name":null
+        "Name":"_rsv_47855_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47856,
-        "Name":null
+        "Name":"_rsv_47856_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47857,
-        "Name":null
+        "Name":"_rsv_47857_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47858,
-        "Name":null
+        "Name":"_rsv_47858_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47859,
-        "Name":null
+        "Name":"_rsv_47859_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47860,
-        "Name":null
+        "Name":"_rsv_47860_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47861,
-        "Name":null
+        "Name":"_rsv_47861_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47862,
-        "Name":null
+        "Name":"_rsv_47862_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47863,
-        "Name":null
+        "Name":"_rsv_47863_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47864,
-        "Name":null
+        "Name":"_rsv_47864_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47865,
-        "Name":null
+        "Name":"_rsv_47865_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47866,
-        "Name":null
+        "Name":"_rsv_47866_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47867,
-        "Name":null
+        "Name":"_rsv_47867_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47868,
-        "Name":null
+        "Name":"_rsv_47868_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47869,
-        "Name":null
+        "Name":"_rsv_47869_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47870,
-        "Name":null
+        "Name":"_rsv_47870_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47871,
-        "Name":null
+        "Name":"_rsv_47871_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47872,
-        "Name":null
+        "Name":"_rsv_47872_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47873,
-        "Name":null
+        "Name":"_rsv_47873_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47874,
-        "Name":null
+        "Name":"_rsv_47874_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47875,
-        "Name":null
+        "Name":"_rsv_47875_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47876,
@@ -191497,11 +191497,11 @@
     },
     {
         "ID":47877,
-        "Name":null
+        "Name":"_rsv_47877_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47878,
-        "Name":null
+        "Name":"_rsv_47878_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47879,
@@ -191513,7 +191513,7 @@
     },
     {
         "ID":47881,
-        "Name":null
+        "Name":"_rsv_47881_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47882,
@@ -191521,111 +191521,111 @@
     },
     {
         "ID":47883,
-        "Name":null
+        "Name":"_rsv_47883_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47884,
-        "Name":null
+        "Name":"_rsv_47884_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47885,
-        "Name":null
+        "Name":"_rsv_47885_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47886,
-        "Name":null
+        "Name":"_rsv_47886_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47887,
-        "Name":null
+        "Name":"_rsv_47887_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47888,
-        "Name":null
+        "Name":"_rsv_47888_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47889,
-        "Name":null
+        "Name":"_rsv_47889_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47890,
-        "Name":null
+        "Name":"_rsv_47890_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47891,
-        "Name":null
+        "Name":"_rsv_47891_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47892,
-        "Name":null
+        "Name":"_rsv_47892_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47893,
-        "Name":null
+        "Name":"_rsv_47893_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47894,
-        "Name":null
+        "Name":"_rsv_47894_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47895,
-        "Name":null
+        "Name":"_rsv_47895_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47896,
-        "Name":null
+        "Name":"_rsv_47896_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47897,
-        "Name":null
+        "Name":"_rsv_47897_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47898,
-        "Name":null
+        "Name":"_rsv_47898_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47899,
-        "Name":null
+        "Name":"_rsv_47899_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47900,
-        "Name":null
+        "Name":"_rsv_47900_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47901,
-        "Name":null
+        "Name":"_rsv_47901_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47902,
-        "Name":null
+        "Name":"_rsv_47902_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47903,
-        "Name":null
+        "Name":"_rsv_47903_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47904,
-        "Name":null
+        "Name":"_rsv_47904_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47905,
-        "Name":null
+        "Name":"_rsv_47905_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47906,
-        "Name":null
+        "Name":"_rsv_47906_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47907,
-        "Name":null
+        "Name":"_rsv_47907_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47908,
-        "Name":null
+        "Name":"_rsv_47908_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47909,
-        "Name":null
+        "Name":"_rsv_47909_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47910,
@@ -191689,83 +191689,83 @@
     },
     {
         "ID":47925,
-        "Name":null
+        "Name":"_rsv_47925_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47926,
-        "Name":null
+        "Name":"_rsv_47926_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47927,
-        "Name":null
+        "Name":"_rsv_47927_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47928,
-        "Name":null
+        "Name":"_rsv_47928_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47929,
-        "Name":null
+        "Name":"_rsv_47929_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47930,
-        "Name":null
+        "Name":"_rsv_47930_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47931,
-        "Name":null
+        "Name":"_rsv_47931_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47932,
-        "Name":null
+        "Name":"_rsv_47932_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47933,
-        "Name":null
+        "Name":"_rsv_47933_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47934,
-        "Name":null
+        "Name":"_rsv_47934_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47935,
-        "Name":null
+        "Name":"_rsv_47935_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47936,
-        "Name":null
+        "Name":"_rsv_47936_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47937,
-        "Name":null
+        "Name":"_rsv_47937_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47938,
-        "Name":null
+        "Name":"_rsv_47938_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47939,
-        "Name":null
+        "Name":"_rsv_47939_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47940,
-        "Name":null
+        "Name":"_rsv_47940_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47941,
-        "Name":null
+        "Name":"_rsv_47941_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47942,
-        "Name":null
+        "Name":"_rsv_47942_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47943,
-        "Name":null
+        "Name":"_rsv_47943_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47944,
-        "Name":null
+        "Name":"_rsv_47944_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47945,
@@ -191773,11 +191773,11 @@
     },
     {
         "ID":47946,
-        "Name":null
+        "Name":"_rsv_47946_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47947,
-        "Name":null
+        "Name":"_rsv_47947_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47948,
@@ -191793,35 +191793,35 @@
     },
     {
         "ID":47951,
-        "Name":null
+        "Name":"_rsv_47951_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47952,
-        "Name":null
+        "Name":"_rsv_47952_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47953,
-        "Name":null
+        "Name":"_rsv_47953_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47954,
-        "Name":null
+        "Name":"_rsv_47954_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47955,
-        "Name":null
+        "Name":"_rsv_47955_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47956,
-        "Name":null
+        "Name":"_rsv_47956_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47957,
-        "Name":null
+        "Name":"_rsv_47957_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47958,
-        "Name":null
+        "Name":"_rsv_47958_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":47959,
@@ -193321,7 +193321,7 @@
     },
     {
         "ID":48333,
-        "Name":null
+        "Name":"_rsv_48333_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":48334,
@@ -193469,7 +193469,7 @@
     },
     {
         "ID":48370,
-        "Name":null
+        "Name":"Graven Image"
     },
     {
         "ID":48371,
@@ -193933,7 +193933,7 @@
     },
     {
         "ID":48486,
-        "Name":null
+        "Name":"_rsv_48486_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":48487,
@@ -197873,7 +197873,7 @@
     },
     {
         "ID":49471,
-        "Name":null
+        "Name":"Flood"
     },
     {
         "ID":49472,
@@ -198941,27 +198941,27 @@
     },
     {
         "ID":49738,
-        "Name":null
+        "Name":"Ultima Upsurge"
     },
     {
         "ID":49739,
-        "Name":null
+        "Name":"Hyperdrive"
     },
     {
         "ID":49740,
-        "Name":null
+        "Name":"Ultimate Embrace"
     },
     {
         "ID":49741,
-        "Name":null
+        "Name":"Ultima"
     },
     {
         "ID":49742,
-        "Name":null
+        "Name":"_rsv_49742_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49743,
-        "Name":null
+        "Name":"_rsv_49743_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49744,
@@ -198997,11 +198997,11 @@
     },
     {
         "ID":49752,
-        "Name":null
+        "Name":"_rsv_49752_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49753,
-        "Name":null
+        "Name":"_rsv_49753_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49754,
@@ -199065,7 +199065,7 @@
     },
     {
         "ID":49769,
-        "Name":null
+        "Name":"_rsv_49769_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49770,
@@ -199501,7 +199501,7 @@
     },
     {
         "ID":49878,
-        "Name":null
+        "Name":"_rsv_49878_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49879,
@@ -199513,11 +199513,11 @@
     },
     {
         "ID":49881,
-        "Name":null
+        "Name":"Ultima Upsurge"
     },
     {
         "ID":49882,
-        "Name":null
+        "Name":"Hyperdrive"
     },
     {
         "ID":49883,
@@ -199525,7 +199525,7 @@
     },
     {
         "ID":49884,
-        "Name":null
+        "Name":"_rsv_49884_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49885,
@@ -199549,19 +199549,19 @@
     },
     {
         "ID":49890,
-        "Name":null
+        "Name":"_rsv_49890_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49891,
-        "Name":null
+        "Name":"_rsv_49891_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49892,
-        "Name":null
+        "Name":"_rsv_49892_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49893,
-        "Name":null
+        "Name":"_rsv_49893_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":49894,
@@ -199605,7 +199605,7 @@
     },
     {
         "ID":49904,
-        "Name":null
+        "Name":"Formula Diffuser"
     },
     {
         "ID":49905,
@@ -200253,23 +200253,23 @@
     },
     {
         "ID":50066,
-        "Name":null
+        "Name":"_rsv_50066_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50067,
-        "Name":null
+        "Name":"_rsv_50067_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50068,
-        "Name":null
+        "Name":"_rsv_50068_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50069,
-        "Name":null
+        "Name":"_rsv_50069_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50070,
-        "Name":null
+        "Name":"_rsv_50070_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50071,
@@ -200313,11 +200313,11 @@
     },
     {
         "ID":50081,
-        "Name":null
+        "Name":"_rsv_50081_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50082,
-        "Name":null
+        "Name":"_rsv_50082_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50083,
@@ -200657,7 +200657,7 @@
     },
     {
         "ID":50167,
-        "Name":null
+        "Name":"Aero III Assault"
     },
     {
         "ID":50168,
@@ -200705,7 +200705,7 @@
     },
     {
         "ID":50179,
-        "Name":null
+        "Name":"Revolting Ruin III"
     },
     {
         "ID":50180,
@@ -201233,7 +201233,7 @@
     },
     {
         "ID":50311,
-        "Name":null
+        "Name":"Wings of Destruction"
     },
     {
         "ID":50312,
@@ -201593,7 +201593,7 @@
     },
     {
         "ID":50401,
-        "Name":null
+        "Name":"Revolting Ruin III"
     },
     {
         "ID":50402,
@@ -201769,7 +201769,7 @@
     },
     {
         "ID":50445,
-        "Name":null
+        "Name":"attack"
     },
     {
         "ID":50446,
@@ -202169,11 +202169,11 @@
     },
     {
         "ID":50545,
-        "Name":null
+        "Name":"_rsv_50545_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50546,
-        "Name":null
+        "Name":"_rsv_50546_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50547,
@@ -202605,7 +202605,7 @@
     },
     {
         "ID":50654,
-        "Name":null
+        "Name":"Thrumming Thunder III"
     },
     {
         "ID":50655,
@@ -202861,11 +202861,11 @@
     },
     {
         "ID":50718,
-        "Name":null
+        "Name":"_rsv_50718_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50719,
-        "Name":null
+        "Name":"_rsv_50719_-1_1_0_0_SE2DC5B04_EE2DC5B04"
     },
     {
         "ID":50720,
@@ -202877,7 +202877,7 @@
     },
     {
         "ID":50722,
-        "Name":null
+        "Name":"Light of Judgment"
     },
     {
         "ID":50723,
@@ -202917,7 +202917,7 @@
     },
     {
         "ID":50732,
-        "Name":null
+        "Name":"Dig"
     },
     {
         "ID":50733,
@@ -203073,15 +203073,15 @@
     },
     {
         "ID":50771,
-        "Name":null
+        "Name":"Fell Forces"
     },
     {
         "ID":50772,
-        "Name":null
+        "Name":"Fell Forces"
     },
     {
         "ID":50773,
-        "Name":null
+        "Name":"Fell Forces"
     },
     {
         "ID":50774,

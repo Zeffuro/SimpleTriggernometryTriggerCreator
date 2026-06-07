@@ -65977,7 +65977,7 @@
     },
     {
         "ID":16495,
-        "Name":"魔法爆裂"
+        "Name":"爆裂射擊"
     },
     {
         "ID":16496,
@@ -70977,7 +70977,7 @@
     },
     {
         "ID":17745,
-        "Name":"魔法爆裂"
+        "Name":"爆裂射擊"
     },
     {
         "ID":17746,
@@ -138057,7 +138057,7 @@
     },
     {
         "ID":34515,
-        "Name":"精準強擊"
+        "Name":"準確強擊"
     },
     {
         "ID":34516,
@@ -139157,7 +139157,7 @@
     },
     {
         "ID":34790,
-        "Name":"升騰火焰"
+        "Name":"竄升火舌"
     },
     {
         "ID":34791,
@@ -140197,11 +140197,11 @@
     },
     {
         "ID":35050,
-        "Name":"烈焰焚燒"
+        "Name":"焚燬"
     },
     {
         "ID":35051,
-        "Name":"烈焰焚燒"
+        "Name":"焚燬"
     },
     {
         "ID":35052,
@@ -140209,11 +140209,11 @@
     },
     {
         "ID":35053,
-        "Name":"急火突襲"
+        "Name":"急火突擊"
     },
     {
         "ID":35054,
-        "Name":"急火突襲"
+        "Name":"急火突擊"
     },
     {
         "ID":35055,
@@ -140221,23 +140221,23 @@
     },
     {
         "ID":35056,
-        "Name":"深紅疾襲"
+        "Name":"緋紅疾襲"
     },
     {
         "ID":35057,
-        "Name":"深紅疾襲"
+        "Name":"緋紅疾襲"
     },
     {
         "ID":35058,
-        "Name":"深紅疾襲"
+        "Name":"緋紅疾襲"
     },
     {
         "ID":35059,
-        "Name":"深紅疾襲"
+        "Name":"緋紅疾襲"
     },
     {
         "ID":35060,
-        "Name":"深紅疾襲"
+        "Name":"緋紅疾襲"
     },
     {
         "ID":35061,
@@ -140253,19 +140253,19 @@
     },
     {
         "ID":35064,
-        "Name":"燃火強襲"
+        "Name":"燃燒強擊"
     },
     {
         "ID":35065,
-        "Name":"燃火強襲"
+        "Name":"燃燒強擊"
     },
     {
         "ID":35066,
-        "Name":"燃火強襲"
+        "Name":"燃燒強擊"
     },
     {
         "ID":35067,
-        "Name":"燃火強襲"
+        "Name":"燃燒強擊"
     },
     {
         "ID":35068,
@@ -140317,23 +140317,23 @@
     },
     {
         "ID":35080,
-        "Name":"地獄之火炎"
+        "Name":"地獄火焰"
     },
     {
         "ID":35081,
-        "Name":"地獄之火炎"
+        "Name":"地獄火焰"
     },
     {
         "ID":35082,
-        "Name":"地獄之火炎"
+        "Name":"地獄火焰"
     },
     {
         "ID":35083,
-        "Name":"燃火狂怒"
+        "Name":"燃火暴亂"
     },
     {
         "ID":35084,
-        "Name":"燃火狂怒"
+        "Name":"燃火暴亂"
     },
     {
         "ID":35085,
@@ -140341,7 +140341,7 @@
     },
     {
         "ID":35086,
-        "Name":"燃火狂怒"
+        "Name":"燃火暴亂"
     },
     {
         "ID":35087,
@@ -140349,7 +140349,7 @@
     },
     {
         "ID":35088,
-        "Name":"燃火狂怒"
+        "Name":"燃火暴亂"
     },
     {
         "ID":35089,
@@ -140357,7 +140357,7 @@
     },
     {
         "ID":35090,
-        "Name":"燃火狂怒"
+        "Name":"燃火暴亂"
     },
     {
         "ID":35091,
@@ -140397,7 +140397,7 @@
     },
     {
         "ID":35100,
-        "Name":"精準強擊"
+        "Name":"準確強擊"
     },
     {
         "ID":35101,
@@ -140409,7 +140409,7 @@
     },
     {
         "ID":35103,
-        "Name":"升騰火焰"
+        "Name":"竄升火舌"
     },
     {
         "ID":35104,
@@ -143609,7 +143609,7 @@
     },
     {
         "ID":35903,
-        "Name":"深紅疾襲"
+        "Name":"緋紅疾襲"
     },
     {
         "ID":35904,
@@ -144201,7 +144201,7 @@
     },
     {
         "ID":36051,
-        "Name":"烈焰焚燒"
+        "Name":"焚燬"
     },
     {
         "ID":36052,
@@ -145017,7 +145017,7 @@
     },
     {
         "ID":36255,
-        "Name":"轉生之炎"
+        "Name":"轉生火焰"
     },
     {
         "ID":36256,
@@ -159513,11 +159513,11 @@
     },
     {
         "ID":39879,
-        "Name":null
+        "Name":"光與暗的孤翼"
     },
     {
         "ID":39880,
-        "Name":null
+        "Name":"光與暗的孤翼"
     },
     {
         "ID":39881,
@@ -160453,7 +160453,7 @@
     },
     {
         "ID":40114,
-        "Name":null
+        "Name":"攻擊"
     },
     {
         "ID":40115,
@@ -160469,219 +160469,219 @@
     },
     {
         "ID":40118,
-        "Name":null
+        "Name":"暗之波動"
     },
     {
         "ID":40119,
-        "Name":null
+        "Name":"光之重波動"
     },
     {
         "ID":40120,
-        "Name":null
+        "Name":"暗之重波動"
     },
     {
         "ID":40121,
-        "Name":null
+        "Name":"碎冰擊"
     },
     {
         "ID":40122,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40123,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40124,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40125,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40126,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40127,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40128,
-        "Name":null
+        "Name":"光焰圓光"
     },
     {
         "ID":40129,
-        "Name":null
+        "Name":"燃燒擊"
     },
     {
         "ID":40130,
-        "Name":null
+        "Name":"火燃爆"
     },
     {
         "ID":40131,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40132,
-        "Name":null
+        "Name":"大爆炸"
     },
     {
         "ID":40133,
-        "Name":null
+        "Name":"燃燒擊"
     },
     {
         "ID":40134,
-        "Name":null
+        "Name":"雷燃爆"
     },
     {
         "ID":40135,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40136,
-        "Name":null
+        "Name":"大爆炸"
     },
     {
         "ID":40137,
-        "Name":null
+        "Name":"罪壤斷"
     },
     {
         "ID":40138,
-        "Name":null
+        "Name":"急衝刺"
     },
     {
         "ID":40139,
-        "Name":null
+        "Name":"罪炎"
     },
     {
         "ID":40140,
-        "Name":null
+        "Name":"罪壤斷"
     },
     {
         "ID":40141,
-        "Name":null
+        "Name":"急衝刺"
     },
     {
         "ID":40142,
-        "Name":null
+        "Name":"罪雷"
     },
     {
         "ID":40143,
-        "Name":null
+        "Name":"弓形衝波"
     },
     {
         "ID":40144,
-        "Name":null
+        "Name":"暴風破"
     },
     {
         "ID":40145,
-        "Name":null
+        "Name":"暴風破"
     },
     {
         "ID":40146,
-        "Name":null
+        "Name":"暴風破"
     },
     {
         "ID":40147,
-        "Name":null
+        "Name":"罪炎"
     },
     {
         "ID":40148,
-        "Name":null
+        "Name":"暴風破"
     },
     {
         "ID":40149,
-        "Name":null
+        "Name":"罪雷"
     },
     {
         "ID":40150,
-        "Name":null
+        "Name":"光輪召喚"
     },
     {
         "ID":40151,
-        "Name":null
+        "Name":"光輪召喚"
     },
     {
         "ID":40152,
-        "Name":null
+        "Name":"光炎"
     },
     {
         "ID":40153,
-        "Name":null
+        "Name":"光炎"
     },
     {
         "ID":40154,
-        "Name":null
+        "Name":"樂園絕技"
     },
     {
         "ID":40155,
-        "Name":null
+        "Name":"樂園絕技"
     },
     {
         "ID":40156,
-        "Name":null
+        "Name":"罪冰焰"
     },
     {
         "ID":40157,
-        "Name":null
+        "Name":"爆破領域"
     },
     {
         "ID":40158,
-        "Name":null
+        "Name":"爆破領域"
     },
     {
         "ID":40159,
-        "Name":null
+        "Name":"罪大火焰"
     },
     {
         "ID":40160,
-        "Name":null
+        "Name":"罪大雷電"
     },
     {
         "ID":40161,
-        "Name":null
+        "Name":"燃燒擊"
     },
     {
         "ID":40162,
-        "Name":null
+        "Name":"火燃爆"
     },
     {
         "ID":40163,
-        "Name":null
+        "Name":"燃燒擊"
     },
     {
         "ID":40164,
-        "Name":null
+        "Name":"雷燃爆"
     },
     {
         "ID":40165,
-        "Name":null
+        "Name":"罪壤刺"
     },
     {
         "ID":40166,
-        "Name":null
+        "Name":"急衝刺"
     },
     {
         "ID":40167,
-        "Name":null
+        "Name":"罪炎"
     },
     {
         "ID":40168,
-        "Name":null
+        "Name":"連鎖爆印銘刻"
     },
     {
         "ID":40169,
-        "Name":null
+        "Name":"爆印"
     },
     {
         "ID":40170,
-        "Name":null
+        "Name":"光焰圓光"
     },
     {
         "ID":40171,
-        "Name":null
+        "Name":"浮遊拘束"
     },
     {
         "ID":40172,
@@ -160693,7 +160693,7 @@
     },
     {
         "ID":40174,
-        "Name":null
+        "Name":"忘卻的此岸"
     },
     {
         "ID":40175,
@@ -160701,223 +160701,223 @@
     },
     {
         "ID":40176,
-        "Name":null
+        "Name":"攻撃"
     },
     {
         "ID":40177,
-        "Name":null
+        "Name":"攻撃"
     },
     {
         "ID":40178,
-        "Name":null
+        "Name":"攻撃"
     },
     {
         "ID":40179,
-        "Name":null
+        "Name":"鏡中奇遇"
     },
     {
         "ID":40180,
-        "Name":null
+        "Name":"鏡中顯影"
     },
     {
         "ID":40181,
-        "Name":null
+        "Name":"暗夜舞蹈"
     },
     {
         "ID":40182,
-        "Name":null
+        "Name":"暗夜舞蹈"
     },
     {
         "ID":40183,
-        "Name":null
+        "Name":"暗夜舞蹈"
     },
     {
         "ID":40184,
-        "Name":null
+        "Name":"冰霜護甲"
     },
     {
         "ID":40185,
-        "Name":null
+        "Name":"閃光護甲"
     },
     {
         "ID":40186,
-        "Name":null
+        "Name":"聖龍護甲"
     },
     {
         "ID":40187,
-        "Name":null
+        "Name":"光之波動"
     },
     {
         "ID":40188,
-        "Name":null
+        "Name":"光之海嘯"
     },
     {
         "ID":40189,
-        "Name":null
+        "Name":"光之海嘯"
     },
     {
         "ID":40190,
-        "Name":null
+        "Name":"光之波動"
     },
     {
         "ID":40191,
-        "Name":null
+        "Name":"四劍斬"
     },
     {
         "ID":40192,
-        "Name":null
+        "Name":"四劍斬"
     },
     {
         "ID":40193,
-        "Name":null
+        "Name":"靜寂的雙劍技"
     },
     {
         "ID":40194,
-        "Name":null
+        "Name":"閒寂的雙劍技"
     },
     {
         "ID":40195,
-        "Name":null
+        "Name":"閒寂的雙劍技"
     },
     {
         "ID":40196,
-        "Name":null
+        "Name":"靜寂的雙劍技"
     },
     {
         "ID":40197,
-        "Name":null
+        "Name":"鑽石星塵"
     },
     {
         "ID":40198,
-        "Name":null
+        "Name":"冰柱衝擊"
     },
     {
         "ID":40199,
-        "Name":null
+        "Name":"冰石"
     },
     {
         "ID":40200,
-        "Name":null
+        "Name":"冰針"
     },
     {
         "ID":40201,
-        "Name":null
+        "Name":"冰針"
     },
     {
         "ID":40202,
-        "Name":null
+        "Name":"闊斧迴旋踢"
     },
     {
         "ID":40203,
-        "Name":null
+        "Name":"鐮形迴旋踢"
     },
     {
         "ID":40204,
-        "Name":null
+        "Name":"連鎖反射：鐮形迴旋踢"
     },
     {
         "ID":40205,
-        "Name":null
+        "Name":"連鎖反射：鐮形迴旋踢"
     },
     {
         "ID":40206,
-        "Name":null
+        "Name":"光之海嘯"
     },
     {
         "ID":40207,
-        "Name":null
+        "Name":"極樂冰柱"
     },
     {
         "ID":40208,
-        "Name":null
+        "Name":"罪神聖"
     },
     {
         "ID":40209,
-        "Name":null
+        "Name":"罪神聖"
     },
     {
         "ID":40210,
-        "Name":null
+        "Name":"神聖射線"
     },
     {
         "ID":40211,
-        "Name":null
+        "Name":"神聖射線"
     },
     {
         "ID":40212,
-        "Name":null
+        "Name":"光之失控"
     },
     {
         "ID":40213,
-        "Name":null
+        "Name":"侵蝕光"
     },
     {
         "ID":40214,
-        "Name":null
+        "Name":"曝露光"
     },
     {
         "ID":40215,
-        "Name":null
+        "Name":"光之束縛"
     },
     {
         "ID":40216,
-        "Name":null
+        "Name":"過量光"
     },
     {
         "ID":40217,
-        "Name":null
+        "Name":"光爆"
     },
     {
         "ID":40218,
-        "Name":null
+        "Name":"光流侵蝕"
     },
     {
         "ID":40219,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40220,
-        "Name":null
+        "Name":"強放逐"
     },
     {
         "ID":40221,
-        "Name":null
+        "Name":"強放逐"
     },
     {
         "ID":40222,
-        "Name":null
+        "Name":"強放逐"
     },
     {
         "ID":40223,
-        "Name":null
+        "Name":"分裂強放逐"
     },
     {
         "ID":40224,
-        "Name":null
+        "Name":"絕對零度"
     },
     {
         "ID":40225,
-        "Name":null
+        "Name":"寒波"
     },
     {
         "ID":40226,
-        "Name":null
+        "Name":"融合"
     },
     {
         "ID":40227,
-        "Name":null
+        "Name":"神聖之翼"
     },
     {
         "ID":40228,
-        "Name":null
+        "Name":"神聖之翼"
     },
     {
         "ID":40229,
-        "Name":null
+        "Name":"神聖之翼"
     },
     {
         "ID":40230,
-        "Name":null
+        "Name":"神聖之翼"
     },
     {
         "ID":40231,
@@ -160929,47 +160929,47 @@
     },
     {
         "ID":40233,
-        "Name":null
+        "Name":"光與暗的孤翼"
     },
     {
         "ID":40234,
-        "Name":null
+        "Name":"星靈之劍"
     },
     {
         "ID":40235,
-        "Name":null
+        "Name":"罪熔毀"
     },
     {
         "ID":40236,
-        "Name":null
+        "Name":"罪火焰"
     },
     {
         "ID":40237,
-        "Name":null
+        "Name":"天光輪迴"
     },
     {
         "ID":40238,
-        "Name":null
+        "Name":"天光輪迴"
     },
     {
         "ID":40239,
-        "Name":null
+        "Name":"光與暗的龍詩"
     },
     {
         "ID":40240,
-        "Name":null
+        "Name":"時間結晶"
     },
     {
         "ID":40241,
-        "Name":null
+        "Name":"聖龍氣息"
     },
     {
         "ID":40242,
-        "Name":null
+        "Name":"絕望龍詩"
     },
     {
         "ID":40243,
-        "Name":null
+        "Name":"絶望の竜詩"
     },
     {
         "ID":40244,
@@ -160977,39 +160977,39 @@
     },
     {
         "ID":40245,
-        "Name":null
+        "Name":"絕對零度"
     },
     {
         "ID":40246,
-        "Name":null
+        "Name":"賦形"
     },
     {
         "ID":40247,
-        "Name":null
+        "Name":"死亡輪迴"
     },
     {
         "ID":40248,
-        "Name":null
+        "Name":"死亡輪迴"
     },
     {
         "ID":40249,
-        "Name":null
+        "Name":"無盡頓悟"
     },
     {
         "ID":40250,
-        "Name":null
+        "Name":"無盡頓悟"
     },
     {
         "ID":40251,
-        "Name":null
+        "Name":"光之巨浪"
     },
     {
         "ID":40252,
-        "Name":null
+        "Name":"光之巨浪"
     },
     {
         "ID":40253,
-        "Name":null
+        "Name":"光之巨浪"
     },
     {
         "ID":40254,
@@ -161017,39 +161017,39 @@
     },
     {
         "ID":40255,
-        "Name":null
+        "Name":"嚴冬風暴"
     },
     {
         "ID":40256,
-        "Name":null
+        "Name":"嚴冬風暴"
     },
     {
         "ID":40257,
-        "Name":null
+        "Name":"嚴冬射線"
     },
     {
         "ID":40258,
-        "Name":null
+        "Name":"罪大暴雪"
     },
     {
         "ID":40259,
-        "Name":null
+        "Name":"光之氾濫"
     },
     {
         "ID":40260,
-        "Name":null
+        "Name":"忘卻的彼岸"
     },
     {
         "ID":40261,
-        "Name":null
+        "Name":"記憶悖論"
     },
     {
         "ID":40262,
-        "Name":null
+        "Name":"罪大暴雪"
     },
     {
         "ID":40263,
-        "Name":null
+        "Name":"失樂園"
     },
     {
         "ID":40264,
@@ -161057,291 +161057,291 @@
     },
     {
         "ID":40265,
-        "Name":null
+        "Name":"地獄審判"
     },
     {
         "ID":40266,
-        "Name":null
+        "Name":"時間壓縮·絕"
     },
     {
         "ID":40267,
-        "Name":null
+        "Name":"回返"
     },
     {
         "ID":40268,
-        "Name":null
+        "Name":"強回返"
     },
     {
         "ID":40269,
-        "Name":null
+        "Name":"延遲詠唱·遞進"
     },
     {
         "ID":40270,
-        "Name":null
+        "Name":"黑暗大水花"
     },
     {
         "ID":40271,
-        "Name":null
+        "Name":"黑暗大水花"
     },
     {
         "ID":40272,
-        "Name":null
+        "Name":"黑暗大水花"
     },
     {
         "ID":40273,
-        "Name":null
+        "Name":"暗炎噴發"
     },
     {
         "ID":40274,
-        "Name":null
+        "Name":"暗炎噴發"
     },
     {
         "ID":40275,
-        "Name":null
+        "Name":"暗炎噴發"
     },
     {
         "ID":40276,
-        "Name":null
+        "Name":"黑暗大火焰"
     },
     {
         "ID":40277,
-        "Name":null
+        "Name":"黑暗神聖"
     },
     {
         "ID":40278,
-        "Name":null
+        "Name":"暗影之眼"
     },
     {
         "ID":40279,
-        "Name":null
+        "Name":"黑暗大暴雪"
     },
     {
         "ID":40280,
-        "Name":null
+        "Name":"黑暗大勁風"
     },
     {
         "ID":40281,
-        "Name":null
+        "Name":"寂滅"
     },
     {
         "ID":40282,
-        "Name":null
+        "Name":"脈衝星震波"
     },
     {
         "ID":40283,
-        "Name":null
+        "Name":"真夜舞蹈"
     },
     {
         "ID":40284,
-        "Name":null
+        "Name":"真夜舞蹈"
     },
     {
         "ID":40285,
-        "Name":null
+        "Name":"真夜舞蹈"
     },
     {
         "ID":40286,
-        "Name":null
+        "Name":"破盾一擊"
     },
     {
         "ID":40287,
-        "Name":null
+        "Name":"破盾一擊"
     },
     {
         "ID":40288,
-        "Name":null
+        "Name":"碎靈一擊"
     },
     {
         "ID":40289,
-        "Name":null
+        "Name":"碎靈一擊"
     },
     {
         "ID":40290,
-        "Name":null
+        "Name":"黑色光環"
     },
     {
         "ID":40291,
-        "Name":null
+        "Name":"罪熔毀"
     },
     {
         "ID":40292,
-        "Name":null
+        "Name":"罪熔毀"
     },
     {
         "ID":40293,
-        "Name":null
+        "Name":"限速"
     },
     {
         "ID":40294,
-        "Name":null
+        "Name":"神速"
     },
     {
         "ID":40295,
-        "Name":null
+        "Name":"減速"
     },
     {
         "ID":40296,
-        "Name":null
+        "Name":"啟示"
     },
     {
         "ID":40297,
-        "Name":null
+        "Name":"啟示"
     },
     {
         "ID":40298,
-        "Name":null
+        "Name":"時間結晶"
     },
     {
         "ID":40299,
-        "Name":null
+        "Name":"巨漩渦"
     },
     {
         "ID":40300,
-        "Name":null
+        "Name":"記憶終結"
     },
     {
         "ID":40301,
-        "Name":null
+        "Name":"光與暗的龍詩"
     },
     {
         "ID":40302,
-        "Name":null
+        "Name":"死亡輪迴"
     },
     {
         "ID":40303,
-        "Name":null
+        "Name":"死亡輪迴"
     },
     {
         "ID":40304,
-        "Name":null
+        "Name":"無盡頓悟"
     },
     {
         "ID":40305,
-        "Name":null
+        "Name":"記憶終結"
     },
     {
         "ID":40306,
-        "Name":null
+        "Name":"光塵之劍"
     },
     {
         "ID":40307,
-        "Name":null
+        "Name":"光之波動"
     },
     {
         "ID":40308,
-        "Name":null
+        "Name":"光之波動"
     },
     {
         "ID":40309,
-        "Name":null
+        "Name":"暗之波動"
     },
     {
         "ID":40310,
-        "Name":null
+        "Name":"死亡輪迴"
     },
     {
         "ID":40311,
-        "Name":null
+        "Name":"死亡輪迴"
     },
     {
         "ID":40312,
-        "Name":null
+        "Name":"死亡輪迴"
     },
     {
         "ID":40313,
-        "Name":null
+        "Name":"光與暗的孤翼"
     },
     {
         "ID":40314,
-        "Name":null
+        "Name":"光與暗的孤翼"
     },
     {
         "ID":40315,
-        "Name":null
+        "Name":"光與暗的孤翼"
     },
     {
         "ID":40316,
-        "Name":null
+        "Name":"星靈之劍"
     },
     {
         "ID":40317,
-        "Name":null
+        "Name":"光之重波動"
     },
     {
         "ID":40318,
-        "Name":null
+        "Name":"暗之重波動"
     },
     {
         "ID":40319,
-        "Name":null
+        "Name":"覆樂園"
     },
     {
         "ID":40320,
-        "Name":null
+        "Name":"爆炸"
     },
     {
         "ID":40321,
-        "Name":null
+        "Name":"大爆炸"
     },
     {
         "ID":40322,
-        "Name":null
+        "Name":"光與暗的雙劍技"
     },
     {
         "ID":40323,
-        "Name":null
+        "Name":"光與暗的雙劍技"
     },
     {
         "ID":40324,
-        "Name":null
+        "Name":"光與暗的雙劍技"
     },
     {
         "ID":40325,
-        "Name":null
+        "Name":"光與暗的雙劍技"
     },
     {
         "ID":40326,
-        "Name":null
+        "Name":"潘朵拉魔盒"
     },
     {
         "ID":40327,
-        "Name":null
+        "Name":"失樂園"
     },
     {
         "ID":40328,
-        "Name":null
+        "Name":"失樂園"
     },
     {
         "ID":40329,
-        "Name":null
+        "Name":"暴風破"
     },
     {
         "ID":40330,
-        "Name":null
+        "Name":"暴風破"
     },
     {
         "ID":40331,
-        "Name":null
+        "Name":"死爆印"
     },
     {
         "ID":40332,
-        "Name":null
+        "Name":"神聖之翼"
     },
     {
         "ID":40333,
-        "Name":null
+        "Name":"絕對零度"
     },
     {
         "ID":40334,
-        "Name":null
+        "Name":"絕對零度"
     },
     {
         "ID":40335,
-        "Name":null
+        "Name":"記憶終結"
     },
     {
         "ID":40336,
-        "Name":null
+        "Name":"記憶終結"
     },
     {
         "ID":40337,
@@ -166037,7 +166037,7 @@
     },
     {
         "ID":41510,
-        "Name":"昏沈"
+        "Name":"昏沉"
     },
     {
         "ID":41511,
