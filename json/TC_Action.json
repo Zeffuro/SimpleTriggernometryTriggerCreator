@@ -19349,7 +19349,7 @@
     },
     {
         "ID":"4838",
-        "Name":"震驚"
+        "Name":"顫震"
     },
     {
         "ID":"4839",
@@ -58377,7 +58377,7 @@
     },
     {
         "ID":14595,
-        "Name":"位移破擊"
+        "Name":"變移破解"
     },
     {
         "ID":14596,
@@ -58385,7 +58385,7 @@
     },
     {
         "ID":14597,
-        "Name":"位移破擊"
+        "Name":"變移破解"
     },
     {
         "ID":14598,
@@ -58425,7 +58425,7 @@
     },
     {
         "ID":14607,
-        "Name":"掃尾"
+        "Name":"旋尾攻擊"
     },
     {
         "ID":14608,
@@ -58433,11 +58433,11 @@
     },
     {
         "ID":14609,
-        "Name":"感電"
+        "Name":"觸電"
     },
     {
         "ID":14610,
-        "Name":"大感電"
+        "Name":"大觸電"
     },
     {
         "ID":14611,
@@ -58497,7 +58497,7 @@
     },
     {
         "ID":14625,
-        "Name":"連鎖攻擊"
+        "Name":"連結攻擊"
     },
     {
         "ID":14626,
@@ -59921,7 +59921,7 @@
     },
     {
         "ID":14981,
-        "Name":"感電"
+        "Name":"觸電"
     },
     {
         "ID":14982,
@@ -71597,7 +71597,7 @@
     },
     {
         "ID":17900,
-        "Name":"聖化震驚"
+        "Name":"聖化顫震"
     },
     {
         "ID":17901,
@@ -161761,39 +161761,39 @@
     },
     {
         "ID":40441,
-        "Name":null
+        "Name":"攻擊"
     },
     {
         "ID":40442,
-        "Name":null
+        "Name":"攻擊"
     },
     {
         "ID":40443,
-        "Name":null
+        "Name":"暗之刃"
     },
     {
         "ID":40444,
-        "Name":null
+        "Name":"暗之刃"
     },
     {
         "ID":40445,
-        "Name":null
+        "Name":"暗之刃"
     },
     {
         "ID":40446,
-        "Name":null
+        "Name":"暗之刃"
     },
     {
         "ID":40447,
-        "Name":null
+        "Name":"暗之刃"
     },
     {
         "ID":40448,
-        "Name":null
+        "Name":"暗之刃"
     },
     {
         "ID":40449,
-        "Name":null
+        "Name":"暗之大氾濫"
     },
     {
         "ID":40450,
@@ -161801,175 +161801,175 @@
     },
     {
         "ID":40451,
-        "Name":null
+        "Name":"乙太分享"
     },
     {
         "ID":40452,
-        "Name":null
+        "Name":"乙太分享"
     },
     {
         "ID":40453,
-        "Name":null
+        "Name":"乙太分享"
     },
     {
         "ID":40454,
-        "Name":null
+        "Name":"雲散"
     },
     {
         "ID":40455,
-        "Name":null
+        "Name":"暗之氾濫"
     },
     {
         "ID":40456,
-        "Name":null
+        "Name":"深暗領域"
     },
     {
         "ID":40457,
-        "Name":null
+        "Name":"恐懼之雲"
     },
     {
         "ID":40458,
-        "Name":null
+        "Name":"恐懼之雲"
     },
     {
         "ID":40459,
-        "Name":null
+        "Name":"恐懼之雲"
     },
     {
         "ID":40460,
-        "Name":null
+        "Name":"恐懼之雲"
     },
     {
         "ID":40461,
-        "Name":null
+        "Name":"凝聚式波動砲"
     },
     {
         "ID":40462,
-        "Name":null
+        "Name":"凝聚式波動砲"
     },
     {
         "ID":40463,
-        "Name":null
+        "Name":"凝聚式波動砲"
     },
     {
         "ID":40464,
-        "Name":null
+        "Name":"分散式波動砲"
     },
     {
         "ID":40465,
-        "Name":null
+        "Name":"分散式波動砲"
     },
     {
         "ID":40466,
-        "Name":null
+        "Name":"分散式波動砲"
     },
     {
         "ID":40467,
-        "Name":null
+        "Name":"迴旋式波動砲"
     },
     {
         "ID":40468,
-        "Name":null
+        "Name":"迴旋式波動砲"
     },
     {
         "ID":40469,
-        "Name":null
+        "Name":"迴旋式波動砲"
     },
     {
         "ID":40470,
-        "Name":null
+        "Name":"迴旋式波動砲"
     },
     {
         "ID":40471,
-        "Name":null
+        "Name":"迴旋式波動砲"
     },
     {
         "ID":40472,
-        "Name":null
+        "Name":"波動球"
     },
     {
         "ID":40473,
-        "Name":null
+        "Name":"波動爆炸"
     },
     {
         "ID":40474,
-        "Name":null
+        "Name":"波動爆炸"
     },
     {
         "ID":40475,
-        "Name":null
+        "Name":"波動爆炸"
     },
     {
         "ID":40476,
-        "Name":null
+        "Name":"波動爆炸"
     },
     {
         "ID":40477,
-        "Name":null
+        "Name":"潛地式波動砲"
     },
     {
         "ID":40478,
-        "Name":null
+        "Name":"潛地式波動砲"
     },
     {
         "ID":40479,
-        "Name":null
+        "Name":"潛地式波動砲"
     },
     {
         "ID":40480,
-        "Name":null
+        "Name":"三重暗之戰技"
     },
     {
         "ID":40481,
-        "Name":null
+        "Name":"暗之戰技"
     },
     {
         "ID":40482,
-        "Name":null
+        "Name":"暗之戰技"
     },
     {
         "ID":40483,
-        "Name":null
+        "Name":"三重暗之戰技"
     },
     {
         "ID":40484,
-        "Name":null
+        "Name":"暗之戰技"
     },
     {
         "ID":40485,
-        "Name":null
+        "Name":"暗之戰技"
     },
     {
         "ID":40486,
-        "Name":null
+        "Name":"狙擊式波動砲"
     },
     {
         "ID":40487,
-        "Name":null
+        "Name":"狙擊式波動砲"
     },
     {
         "ID":40488,
-        "Name":null
+        "Name":"亂激式波動砲"
     },
     {
         "ID":40489,
-        "Name":null
+        "Name":"亂激式波動砲"
     },
     {
         "ID":40490,
-        "Name":null
+        "Name":"種子彈"
     },
     {
         "ID":40491,
-        "Name":null
+        "Name":"種子彈"
     },
     {
         "ID":40492,
-        "Name":null
+        "Name":"荊棘叢生"
     },
     {
         "ID":40493,
-        "Name":null
+        "Name":"荊棘叢生"
     },
     {
         "ID":40494,
@@ -161977,159 +161977,159 @@
     },
     {
         "ID":40495,
-        "Name":null
+        "Name":"正側跳躍波動砲"
     },
     {
         "ID":40496,
-        "Name":null
+        "Name":"側正跳躍波動砲"
     },
     {
         "ID":40497,
-        "Name":null
+        "Name":"跳躍波動砲"
     },
     {
         "ID":40498,
-        "Name":null
+        "Name":"波動的詛咒"
     },
     {
         "ID":40499,
-        "Name":null
+        "Name":"波動的詛咒"
     },
     {
         "ID":40500,
-        "Name":null
+        "Name":"詛咒式波動砲"
     },
     {
         "ID":40501,
-        "Name":null
+        "Name":"攻擊"
     },
     {
         "ID":40502,
-        "Name":null
+        "Name":"磔殺"
     },
     {
         "ID":40503,
-        "Name":null
+        "Name":"暗之氾濫"
     },
     {
         "ID":40504,
-        "Name":null
+        "Name":"暗之渦旋"
     },
     {
         "ID":40505,
-        "Name":null
+        "Name":"陰冷擁抱"
     },
     {
         "ID":40506,
-        "Name":null
+        "Name":"陰冷擁抱"
     },
     {
         "ID":40507,
-        "Name":null
+        "Name":"陰冷擁抱"
     },
     {
         "ID":40508,
-        "Name":null
+        "Name":"陰冷擁抱"
     },
     {
         "ID":40509,
-        "Name":null
+        "Name":"暗之大氾濫"
     },
     {
         "ID":40510,
-        "Name":null
+        "Name":"暗之氾濫"
     },
     {
         "ID":40511,
-        "Name":null
+        "Name":"齊射式波動砲"
     },
     {
         "ID":40512,
-        "Name":null
+        "Name":"連射式波動砲"
     },
     {
         "ID":40513,
-        "Name":null
+        "Name":"連射式波動砲"
     },
     {
         "ID":40514,
-        "Name":null
+        "Name":"連射式波動砲"
     },
     {
         "ID":40515,
-        "Name":null
+        "Name":"極死"
     },
     {
         "ID":40516,
-        "Name":null
+        "Name":"吸引"
     },
     {
         "ID":40517,
-        "Name":null
+        "Name":"極死"
     },
     {
         "ID":40518,
-        "Name":null
+        "Name":"極死"
     },
     {
         "ID":40519,
-        "Name":null
+        "Name":"吸引"
     },
     {
         "ID":40520,
-        "Name":null
+        "Name":"極死"
     },
     {
         "ID":40521,
-        "Name":null
+        "Name":"極死"
     },
     {
         "ID":40522,
-        "Name":null
+        "Name":"超勁風"
     },
     {
         "ID":40523,
-        "Name":null
+        "Name":"超勁風"
     },
     {
         "ID":40524,
-        "Name":null
+        "Name":"超勁風"
     },
     {
         "ID":40525,
-        "Name":null
+        "Name":"超勁風"
     },
     {
         "ID":40526,
-        "Name":null
+        "Name":"超勁風"
     },
     {
         "ID":40527,
-        "Name":null
+        "Name":"超石化"
     },
     {
         "ID":40528,
-        "Name":null
+        "Name":"超石化"
     },
     {
         "ID":40529,
-        "Name":null
+        "Name":"超石化"
     },
     {
         "ID":40530,
-        "Name":null
+        "Name":"超石化"
     },
     {
         "ID":40531,
-        "Name":null
+        "Name":"附魔極死"
     },
     {
         "ID":40532,
-        "Name":null
+        "Name":"附魔超勁風"
     },
     {
         "ID":40533,
-        "Name":null
+        "Name":"暗之大氾濫"
     },
     {
         "ID":40534,
@@ -162141,11 +162141,11 @@
     },
     {
         "ID":40536,
-        "Name":null
+        "Name":"火光"
     },
     {
         "ID":40537,
-        "Name":null
+        "Name":"火光"
     },
     {
         "ID":40538,
@@ -163441,123 +163441,123 @@
     },
     {
         "ID":40861,
-        "Name":null
+        "Name":"積冰斬"
     },
     {
         "ID":40862,
-        "Name":null
+        "Name":"凍土刺"
     },
     {
         "ID":40863,
-        "Name":null
+        "Name":"吹雪斬"
     },
     {
         "ID":40864,
-        "Name":null
+        "Name":"冰柱劈"
     },
     {
         "ID":40865,
-        "Name":null
+        "Name":"投盾"
     },
     {
         "ID":40866,
-        "Name":null
+        "Name":"守護冰陣"
     },
     {
         "ID":40867,
-        "Name":null
+        "Name":"全力刺"
     },
     {
         "ID":40868,
-        "Name":null
+        "Name":"二段突刺"
     },
     {
         "ID":40869,
-        "Name":null
+        "Name":"碎石"
     },
     {
         "ID":40870,
-        "Name":null
+        "Name":"破岩"
     },
     {
         "ID":40871,
-        "Name":null
+        "Name":"削岩槍"
     },
     {
         "ID":40872,
-        "Name":null
+        "Name":"穿山石槍"
     },
     {
         "ID":40873,
-        "Name":null
+        "Name":"迷亂狂風箭"
     },
     {
         "ID":40874,
-        "Name":null
+        "Name":"停雲沉霧箭"
     },
     {
         "ID":40875,
-        "Name":null
+        "Name":"爆裂野火箭"
     },
     {
         "ID":40876,
-        "Name":null
+        "Name":"迅流疾風箭"
     },
     {
         "ID":40877,
-        "Name":null
+        "Name":"無光日蝕箭"
     },
     {
         "ID":40878,
-        "Name":null
+        "Name":"圖拉爾秘藥"
     },
     {
         "ID":40879,
-        "Name":null
+        "Name":"圖拉爾藥水"
     },
     {
         "ID":40880,
-        "Name":null
+        "Name":"穿天烈陽箭"
     },
     {
         "ID":40881,
-        "Name":null
+        "Name":"挑釁"
     },
     {
         "ID":40882,
-        "Name":null
+        "Name":"圖拉爾藥水"
     },
     {
         "ID":40883,
-        "Name":null
+        "Name":"防壁架勢"
     },
     {
         "ID":40884,
-        "Name":null
+        "Name":"堅守架勢"
     },
     {
         "ID":40885,
-        "Name":null
+        "Name":"修枝"
     },
     {
         "ID":40886,
-        "Name":null
+        "Name":"鑿洞"
     },
     {
         "ID":40887,
-        "Name":null
+        "Name":"雕葉"
     },
     {
         "ID":40888,
-        "Name":null
+        "Name":"藤蔓亂舞"
     },
     {
         "ID":40889,
-        "Name":null
+        "Name":"割草"
     },
     {
         "ID":40890,
-        "Name":null
+        "Name":"投盾"
     },
     {
         "ID":40891,
@@ -163565,23 +163565,23 @@
     },
     {
         "ID":40892,
-        "Name":null
+        "Name":"西托加的特製傷藥"
     },
     {
         "ID":40893,
-        "Name":null
+        "Name":"西托加的傷藥"
     },
     {
         "ID":40894,
-        "Name":null
+        "Name":"聲援"
     },
     {
         "ID":40895,
-        "Name":null
+        "Name":"亂劈"
     },
     {
         "ID":40896,
-        "Name":null
+        "Name":"仙人扇"
     },
     {
         "ID":40897,
@@ -163589,103 +163589,103 @@
     },
     {
         "ID":40898,
-        "Name":null
+        "Name":"粉碎衝擊"
     },
     {
         "ID":40899,
-        "Name":null
+        "Name":"不定鞭打"
     },
     {
         "ID":40900,
-        "Name":null
+        "Name":"幾萬根針"
     },
     {
         "ID":40901,
-        "Name":null
+        "Name":"猛撞"
     },
     {
         "ID":40902,
-        "Name":null
+        "Name":"毒性唾液"
     },
     {
         "ID":40903,
-        "Name":null
+        "Name":"糾纏咬"
     },
     {
         "ID":40904,
-        "Name":null
+        "Name":"強擊"
     },
     {
         "ID":40905,
-        "Name":null
+        "Name":"百十一噸迴轉"
     },
     {
         "ID":40906,
-        "Name":null
+        "Name":"十一噸橫掃"
     },
     {
         "ID":40907,
-        "Name":null
+        "Name":"腐壞斬"
     },
     {
         "ID":40908,
-        "Name":null
+        "Name":"腐壞斬"
     },
     {
         "ID":40909,
-        "Name":null
+        "Name":"致病力"
     },
     {
         "ID":40910,
-        "Name":null
+        "Name":"致病力"
     },
     {
         "ID":40911,
-        "Name":null
+        "Name":"霉菌孢子"
     },
     {
         "ID":40912,
-        "Name":null
+        "Name":"孢子爆發"
     },
     {
         "ID":40913,
-        "Name":null
+        "Name":"熾烈光炎降臨於世"
     },
     {
         "ID":40914,
-        "Name":null
+        "Name":"熾烈光炎降臨於世"
     },
     {
         "ID":40915,
-        "Name":null
+        "Name":"霉菌流"
     },
     {
         "ID":40916,
-        "Name":null
+        "Name":"孢子旋風"
     },
     {
         "ID":40917,
-        "Name":null
+        "Name":"飛散"
     },
     {
         "ID":40918,
-        "Name":null
+        "Name":"飛散"
     },
     {
         "ID":40919,
-        "Name":null
+        "Name":"地獄赤炎洶湧迴轉"
     },
     {
         "ID":40920,
-        "Name":null
+        "Name":"地獄赤炎洶湧迴轉"
     },
     {
         "ID":40921,
-        "Name":null
+        "Name":"圖拉爾藥水"
     },
     {
         "ID":40922,
-        "Name":null
+        "Name":"霉菌咆哮"
     },
     {
         "ID":40923,
@@ -163693,19 +163693,19 @@
     },
     {
         "ID":40924,
-        "Name":null
+        "Name":"魔咒監牢囚禁一切"
     },
     {
         "ID":40925,
-        "Name":null
+        "Name":"吾之大敵速速來戰"
     },
     {
         "ID":40926,
-        "Name":null
+        "Name":"毀壞碎擊"
     },
     {
         "ID":40927,
-        "Name":null
+        "Name":"毀壞碎擊"
     },
     {
         "ID":40928,
@@ -163713,19 +163713,19 @@
     },
     {
         "ID":40929,
-        "Name":null
+        "Name":"毀壞碎擊"
     },
     {
         "ID":40930,
-        "Name":null
+        "Name":"霉菌踩踏"
     },
     {
         "ID":40931,
-        "Name":null
+        "Name":"散華之焰燦然盛放"
     },
     {
         "ID":40932,
-        "Name":null
+        "Name":"散華之焰燦然盛放"
     },
     {
         "ID":40933,
@@ -163853,7 +163853,7 @@
     },
     {
         "ID":40964,
-        "Name":null
+        "Name":"自由眷屬聽我號令"
     },
     {
         "ID":40965,
@@ -164497,7 +164497,7 @@
     },
     {
         "ID":41125,
-        "Name":null
+        "Name":"毒性唾液"
     },
     {
         "ID":41126,
@@ -165041,11 +165041,11 @@
     },
     {
         "ID":41261,
-        "Name":null
+        "Name":"黑暗神聖"
     },
     {
         "ID":41262,
-        "Name":null
+        "Name":"黑暗神聖"
     },
     {
         "ID":41263,
@@ -165221,7 +165221,7 @@
     },
     {
         "ID":41306,
-        "Name":null
+        "Name":"圖拉爾藥水"
     },
     {
         "ID":41307,
@@ -165381,23 +165381,23 @@
     },
     {
         "ID":41346,
-        "Name":null
+        "Name":"波動爆炸"
     },
     {
         "ID":41347,
-        "Name":null
+        "Name":"波動爆炸"
     },
     {
         "ID":41348,
-        "Name":null
+        "Name":"攻擊"
     },
     {
         "ID":41349,
-        "Name":null
+        "Name":"攻擊"
     },
     {
         "ID":41350,
-        "Name":null
+        "Name":"火焰"
     },
     {
         "ID":41351,
@@ -165529,7 +165529,7 @@
     },
     {
         "ID":41383,
-        "Name":null
+        "Name":"大爆炸"
     },
     {
         "ID":41384,
@@ -166337,7 +166337,7 @@
     },
     {
         "ID":41585,
-        "Name":null
+        "Name":"火龍捲"
     },
     {
         "ID":41586,
@@ -166689,15 +166689,15 @@
     },
     {
         "ID":41673,
-        "Name":null
+        "Name":"混沌迫近"
     },
     {
         "ID":41674,
-        "Name":null
+        "Name":"混沌迫近"
     },
     {
         "ID":41675,
-        "Name":null
+        "Name":"混沌迫近"
     },
     {
         "ID":41676,
@@ -166773,7 +166773,7 @@
     },
     {
         "ID":41694,
-        "Name":null
+        "Name":"連根拔起"
     },
     {
         "ID":41695,
@@ -167145,7 +167145,7 @@
     },
     {
         "ID":41787,
-        "Name":null
+        "Name":"急降"
     },
     {
         "ID":41788,
@@ -167829,7 +167829,7 @@
     },
     {
         "ID":41958,
-        "Name":null
+        "Name":"急降"
     },
     {
         "ID":41959,
@@ -167837,11 +167837,11 @@
     },
     {
         "ID":41960,
-        "Name":null
+        "Name":"狂亂指令"
     },
     {
         "ID":41961,
-        "Name":null
+        "Name":"木芯鋸切"
     },
     {
         "ID":41962,
@@ -167849,7 +167849,7 @@
     },
     {
         "ID":41963,
-        "Name":null
+        "Name":"閃掣逆雷箭"
     },
     {
         "ID":41964,
@@ -168073,7 +168073,7 @@
     },
     {
         "ID":42019,
-        "Name":null
+        "Name":"地板消失"
     },
     {
         "ID":42020,
@@ -168101,7 +168101,7 @@
     },
     {
         "ID":42026,
-        "Name":null
+        "Name":"急降"
     },
     {
         "ID":42027,
