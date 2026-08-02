@@ -9337,7 +9337,7 @@
     },
     {
         "ID":2337,
-        "Name":"Lost Reflect"
+        "Name":"Reflect"
     },
     {
         "ID":2338,
@@ -19321,15 +19321,15 @@
     },
     {
         "ID":4833,
-        "Name":null
+        "Name":"Fission Chamber"
     },
     {
         "ID":4834,
-        "Name":null
+        "Name":"Electrified Gentleman"
     },
     {
         "ID":4835,
-        "Name":null
+        "Name":"Hard-boiled"
     },
     {
         "ID":4836,
@@ -19481,7 +19481,7 @@
     },
     {
         "ID":4873,
-        "Name":null
+        "Name":"Image"
     },
     {
         "ID":4874,
@@ -19489,7 +19489,7 @@
     },
     {
         "ID":4875,
-        "Name":null
+        "Name":"Invincibility"
     },
     {
         "ID":4876,
@@ -20045,23 +20045,23 @@
     },
     {
         "ID":5014,
-        "Name":null
+        "Name":"+1 Correction"
     },
     {
         "ID":5015,
-        "Name":null
+        "Name":"+2 Correction"
     },
     {
         "ID":5016,
-        "Name":null
+        "Name":"+3 Correction"
     },
     {
         "ID":5017,
-        "Name":null
+        "Name":"+4 Correction"
     },
     {
         "ID":5018,
-        "Name":null
+        "Name":"+5 Correction"
     },
     {
         "ID":5019,
@@ -20181,7 +20181,7 @@
     },
     {
         "ID":5048,
-        "Name":null
+        "Name":"Guilty as Charged"
     },
     {
         "ID":5049,
@@ -20197,27 +20197,27 @@
     },
     {
         "ID":5052,
-        "Name":null
+        "Name":"Green Noise: Easterly"
     },
     {
         "ID":5053,
-        "Name":null
+        "Name":"Green Noise: Westerly"
     },
     {
         "ID":5054,
-        "Name":null
+        "Name":"Blue Noise: Easterly"
     },
     {
         "ID":5055,
-        "Name":null
+        "Name":"Blue Noise: Westerly"
     },
     {
         "ID":5056,
-        "Name":null
+        "Name":"時限呪詛・北風"
     },
     {
         "ID":5057,
-        "Name":null
+        "Name":"時限呪詛・南風"
     },
     {
         "ID":5058,
@@ -20225,7 +20225,7 @@
     },
     {
         "ID":5059,
-        "Name":null
+        "Name":"Gradual Zombification"
     },
     {
         "ID":5060,
@@ -20529,19 +20529,19 @@
     },
     {
         "ID":5135,
-        "Name":null
+        "Name":"Dig Three Graves"
     },
     {
         "ID":5136,
-        "Name":null
+        "Name":"Growing Dread"
     },
     {
         "ID":5137,
-        "Name":null
+        "Name":"Growing Panic"
     },
     {
         "ID":5138,
-        "Name":null
+        "Name":"Zombie-proof"
     },
     {
         "ID":5139,
@@ -20557,11 +20557,11 @@
     },
     {
         "ID":5142,
-        "Name":null
+        "Name":"Forward March"
     },
     {
         "ID":5143,
-        "Name":null
+        "Name":"About Face"
     },
     {
         "ID":5144,
@@ -20601,7 +20601,7 @@
     },
     {
         "ID":5153,
-        "Name":null
+        "Name":"Elementary Deficiency"
     },
     {
         "ID":5154,
@@ -20741,15 +20741,15 @@
     },
     {
         "ID":5188,
-        "Name":null
+        "Name":"Pacification"
     },
     {
         "ID":5189,
-        "Name":null
+        "Name":"Astral Realignment"
     },
     {
         "ID":5190,
-        "Name":null
+        "Name":"Astral Eye"
     },
     {
         "ID":5191,
@@ -21245,91 +21245,91 @@
     },
     {
         "ID":5314,
-        "Name":null
+        "Name":"Lighting Up"
     },
     {
         "ID":5315,
-        "Name":null
+        "Name":"First Strike"
     },
     {
         "ID":5316,
-        "Name":null
+        "Name":"Occult Blink"
     },
     {
         "ID":5317,
-        "Name":null
+        "Name":"Occult Toad"
     },
     {
         "ID":5318,
-        "Name":null
+        "Name":"Vulnerability Down"
     },
     {
         "ID":5319,
-        "Name":null
+        "Name":"Lance"
     },
     {
         "ID":5320,
-        "Name":null
+        "Name":"Earthen Wall"
     },
     {
         "ID":5321,
-        "Name":null
+        "Name":"Occult Mighty Guard"
     },
     {
         "ID":5322,
-        "Name":null
+        "Name":"Fire Weakness"
     },
     {
         "ID":5323,
-        "Name":null
+        "Name":"Ice Weakness"
     },
     {
         "ID":5324,
-        "Name":null
+        "Name":"Lightning Weakness"
     },
     {
         "ID":5325,
-        "Name":null
+        "Name":"Wind Weakness"
     },
     {
         "ID":5326,
-        "Name":null
+        "Name":"Drain Touch"
     },
     {
         "ID":5327,
-        "Name":null
+        "Name":"Smoke"
     },
     {
         "ID":5328,
-        "Name":null
+        "Name":"Phantom Ninja"
     },
     {
         "ID":5329,
-        "Name":null
+        "Name":"Phantom White Mage"
     },
     {
         "ID":5330,
-        "Name":null
+        "Name":"Phantom Black Mage"
     },
     {
         "ID":5331,
-        "Name":null
+        "Name":"Phantom Dragoon"
     },
     {
         "ID":5332,
-        "Name":null
+        "Name":"Phantom Summoner"
     },
     {
         "ID":5333,
-        "Name":null
+        "Name":"Phantom Blue Mage"
     },
     {
         "ID":5334,
-        "Name":null
+        "Name":"Phantom Red Mage"
     },
     {
         "ID":5335,
-        "Name":null
+        "Name":"Phantom Necromancer"
     },
     {
         "ID":5336,
@@ -21357,7 +21357,7 @@
     },
     {
         "ID":5342,
-        "Name":null
+        "Name":"Impassioned Inputs"
     },
     {
         "ID":5343,
@@ -21377,15 +21377,15 @@
     },
     {
         "ID":5347,
-        "Name":null
+        "Name":"Letterlocked"
     },
     {
         "ID":5348,
-        "Name":null
+        "Name":"Cryptic Communications"
     },
     {
         "ID":5349,
-        "Name":null
+        "Name":"Fetters"
     },
     {
         "ID":5350,
@@ -21485,11 +21485,11 @@
     },
     {
         "ID":5374,
-        "Name":null
+        "Name":"Ensorcelled: Aero III"
     },
     {
         "ID":5375,
-        "Name":null
+        "Name":"Ensorcelled: Stone III"
     },
     {
         "ID":5376,
@@ -21589,11 +21589,11 @@
     },
     {
         "ID":5400,
-        "Name":null
+        "Name":"Epic Villain"
     },
     {
         "ID":5401,
-        "Name":null
+        "Name":"Fated Villain"
     },
     {
         "ID":5402,
@@ -21601,11 +21601,11 @@
     },
     {
         "ID":5403,
-        "Name":null
+        "Name":"Easterly Reprise"
     },
     {
         "ID":5404,
-        "Name":null
+        "Name":"Westerly Reprise"
     },
     {
         "ID":5405,
@@ -21621,7 +21621,7 @@
     },
     {
         "ID":5408,
-        "Name":null
+        "Name":"Incapacitated"
     },
     {
         "ID":5409,
@@ -21633,7 +21633,7 @@
     },
     {
         "ID":5411,
-        "Name":null
+        "Name":"Stun"
     },
     {
         "ID":5412,
@@ -21689,7 +21689,7 @@
     },
     {
         "ID":5425,
-        "Name":null
+        "Name":"Poison"
     },
     {
         "ID":5426,
@@ -21741,7 +21741,7 @@
     },
     {
         "ID":5438,
-        "Name":null
+        "Name":"Dualcast"
     },
     {
         "ID":5439,
@@ -21861,11 +21861,11 @@
     },
     {
         "ID":5468,
-        "Name":null
+        "Name":"アクション実行不可"
     },
     {
         "ID":5469,
-        "Name":null
+        "Name":"Poison"
     },
     {
         "ID":5470,
@@ -21877,7 +21877,7 @@
     },
     {
         "ID":5472,
-        "Name":null
+        "Name":"Cryptic Communications"
     },
     {
         "ID":5473,
@@ -22117,19 +22117,19 @@
     },
     {
         "ID":5532,
-        "Name":null
+        "Name":"Seal of the Bell"
     },
     {
         "ID":5533,
-        "Name":null
+        "Name":"Seal of the Blade"
     },
     {
         "ID":5534,
-        "Name":null
+        "Name":"Seal of the Bow"
     },
     {
         "ID":5535,
-        "Name":null
+        "Name":"Seal of the Harp"
     },
     {
         "ID":5536,

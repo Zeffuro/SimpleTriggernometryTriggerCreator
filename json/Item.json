@@ -73513,7 +73513,7 @@
     },
     {
         "ID":18381,
-        "Name":"pair of tigerskin gloves of aiming"
+        "Name":"pair of tigerskin wristgloves of aiming"
     },
     {
         "ID":18382,
@@ -73537,7 +73537,7 @@
     },
     {
         "ID":18387,
-        "Name":"pair of tigerskin gloves of scouting"
+        "Name":"pair of tigerskin wristgloves of scouting"
     },
     {
         "ID":18388,
@@ -167645,7 +167645,7 @@
     },
     {
         "ID":41914,
-        "Name":"pair of riversbreath tonfas"
+        "Name":"pair of riversbreath tonfa"
     },
     {
         "ID":41915,
@@ -167953,7 +167953,7 @@
     },
     {
         "ID":41991,
-        "Name":"pair of ruthenium tonfas"
+        "Name":"pair of ruthenium tonfa"
     },
     {
         "ID":41992,
@@ -168261,7 +168261,7 @@
     },
     {
         "ID":42068,
-        "Name":"pair of Zormor tonfas"
+        "Name":"pair of Zormor tonfa"
     },
     {
         "ID":42069,
@@ -169801,7 +169801,7 @@
     },
     {
         "ID":42453,
-        "Name":"pair of Ra'Kaznar tonfas"
+        "Name":"pair of Ra'Kaznar tonfa"
     },
     {
         "ID":42454,
@@ -187125,7 +187125,7 @@
     },
     {
         "ID":46784,
-        "Name":null
+        "Name":"oglop"
     },
     {
         "ID":46785,
@@ -194021,7 +194021,7 @@
     },
     {
         "ID":48508,
-        "Name":"pair of habitat cushions"
+        "Name":"set of habitat cushions"
     },
     {
         "ID":48509,
@@ -201257,7 +201257,7 @@
     },
     {
         "ID":50317,
-        "Name":null
+        "Name":"wind-up Vincent"
     },
     {
         "ID":50318,
@@ -203869,563 +203869,563 @@
     },
     {
         "ID":50970,
-        "Name":null
+        "Name":"monarch whetstone"
     },
     {
         "ID":50971,
-        "Name":null
+        "Name":"spool of ascendant twine"
     },
     {
         "ID":50972,
-        "Name":null
+        "Name":"ancestral alloy ingot"
     },
     {
         "ID":50973,
-        "Name":null
+        "Name":"bottle of majestic polish"
     },
     {
         "ID":50974,
-        "Name":null
+        "Name":"phantom dispeller α"
     },
     {
         "ID":50975,
-        "Name":null
+        "Name":"phantom dispeller β"
     },
     {
         "ID":50976,
-        "Name":null
+        "Name":"phantom dispeller γ"
     },
     {
         "ID":50977,
-        "Name":null
+        "Name":"chunk of ecliptic arcanite"
     },
     {
         "ID":50978,
-        "Name":null
+        "Name":"phantom sword eclipticum"
     },
     {
         "ID":50979,
-        "Name":null
+        "Name":"pair of phantom tonfa eclipticum"
     },
     {
         "ID":50980,
-        "Name":null
+        "Name":"phantom war hammer eclipticum"
     },
     {
         "ID":50981,
-        "Name":null
+        "Name":"phantom spear eclipticum"
     },
     {
         "ID":50982,
-        "Name":null
+        "Name":"phantom harp bow eclipticum"
     },
     {
         "ID":50983,
-        "Name":null
+        "Name":"phantom cane eclipticum"
     },
     {
         "ID":50984,
-        "Name":null
+        "Name":"phantom staff eclipticum"
     },
     {
         "ID":50985,
-        "Name":null
+        "Name":"phantom index eclipticum"
     },
     {
         "ID":50986,
-        "Name":null
+        "Name":"phantom codex eclipticum"
     },
     {
         "ID":50987,
-        "Name":null
+        "Name":"pair of phantom knives eclipticum"
     },
     {
         "ID":50988,
-        "Name":null
+        "Name":"phantom guillotine eclipticum"
     },
     {
         "ID":50989,
-        "Name":null
+        "Name":"phantom revolver eclipticum"
     },
     {
         "ID":50990,
-        "Name":null
+        "Name":"phantom star globe eclipticum"
     },
     {
         "ID":50991,
-        "Name":null
+        "Name":"phantom blade eclipticum"
     },
     {
         "ID":50992,
-        "Name":null
+        "Name":"phantom degen eclipticum"
     },
     {
         "ID":50993,
-        "Name":null
+        "Name":"phantom gunblade eclipticum"
     },
     {
         "ID":50994,
-        "Name":null
+        "Name":"pair of phantom fans eclipticum"
     },
     {
         "ID":50995,
-        "Name":null
+        "Name":"phantom war scythe eclipticum"
     },
     {
         "ID":50996,
-        "Name":null
+        "Name":"array of phantom pendulums eclipticum"
     },
     {
         "ID":50997,
-        "Name":null
+        "Name":"pair of phantom twinfangs eclipticum"
     },
     {
         "ID":50998,
-        "Name":null
+        "Name":"phantom round brush eclipticum"
     },
     {
         "ID":50999,
-        "Name":null
+        "Name":"phantom shield eclipticum"
     },
     {
         "ID":51000,
-        "Name":null
+        "Name":"phantom sword occultum"
     },
     {
         "ID":51001,
-        "Name":null
+        "Name":"pair of phantom tonfa occultum"
     },
     {
         "ID":51002,
-        "Name":null
+        "Name":"phantom war hammer occultum"
     },
     {
         "ID":51003,
-        "Name":null
+        "Name":"phantom spear occultum"
     },
     {
         "ID":51004,
-        "Name":null
+        "Name":"phantom harp bow occultum"
     },
     {
         "ID":51005,
-        "Name":null
+        "Name":"phantom cane occultum"
     },
     {
         "ID":51006,
-        "Name":null
+        "Name":"phantom staff occultum"
     },
     {
         "ID":51007,
-        "Name":null
+        "Name":"phantom index occultum"
     },
     {
         "ID":51008,
-        "Name":null
+        "Name":"phantom codex occultum"
     },
     {
         "ID":51009,
-        "Name":null
+        "Name":"pair of phantom knives occultum"
     },
     {
         "ID":51010,
-        "Name":null
+        "Name":"phantom guillotine occultum"
     },
     {
         "ID":51011,
-        "Name":null
+        "Name":"phantom revolver occultum"
     },
     {
         "ID":51012,
-        "Name":null
+        "Name":"phantom star globe occultum"
     },
     {
         "ID":51013,
-        "Name":null
+        "Name":"phantom blade occultum"
     },
     {
         "ID":51014,
-        "Name":null
+        "Name":"phantom degen occultum"
     },
     {
         "ID":51015,
-        "Name":null
+        "Name":"phantom gunblade occultum"
     },
     {
         "ID":51016,
-        "Name":null
+        "Name":"pair of phantom fans occultum"
     },
     {
         "ID":51017,
-        "Name":null
+        "Name":"phantom war scythe occultum"
     },
     {
         "ID":51018,
-        "Name":null
+        "Name":"array of phantom pendulums occultum"
     },
     {
         "ID":51019,
-        "Name":null
+        "Name":"pair of phantom twinfangs occultum"
     },
     {
         "ID":51020,
-        "Name":null
+        "Name":"phantom round brush occultum"
     },
     {
         "ID":51021,
-        "Name":null
+        "Name":"phantom shield occultum"
     },
     {
         "ID":51022,
-        "Name":null
+        "Name":"phantom sword obscurum matte replica"
     },
     {
         "ID":51023,
-        "Name":null
+        "Name":"pair of matte replica phantom jamadhars obscurum"
     },
     {
         "ID":51024,
-        "Name":null
+        "Name":"phantom bardiche obscurum matte replica"
     },
     {
         "ID":51025,
-        "Name":null
+        "Name":"phantom fork obscurum matte replica"
     },
     {
         "ID":51026,
-        "Name":null
+        "Name":"phantom longbow obscurum matte replica"
     },
     {
         "ID":51027,
-        "Name":null
+        "Name":"phantom cane obscurum matte replica"
     },
     {
         "ID":51028,
-        "Name":null
+        "Name":"phantom longpole obscurum matte replica"
     },
     {
         "ID":51029,
-        "Name":null
+        "Name":"phantom index obscurum matte replica"
     },
     {
         "ID":51030,
-        "Name":null
+        "Name":"phantom codex obscurum matte replica"
     },
     {
         "ID":51031,
-        "Name":null
+        "Name":"pair of matte replica phantom khukuri obscurum"
     },
     {
         "ID":51032,
-        "Name":null
+        "Name":"phantom guillotine obscurum matte replica"
     },
     {
         "ID":51033,
-        "Name":null
+        "Name":"phantom musketoon obscurum matte replica"
     },
     {
         "ID":51034,
-        "Name":null
+        "Name":"phantom star pendant obscurum matte replica"
     },
     {
         "ID":51035,
-        "Name":null
+        "Name":"phantom blade obscurum matte replica"
     },
     {
         "ID":51036,
-        "Name":null
+        "Name":"phantom hanger obscurum matte replica"
     },
     {
         "ID":51037,
-        "Name":null
+        "Name":"phantom gunblade obscurum matte replica"
     },
     {
         "ID":51038,
-        "Name":null
+        "Name":"pair of matte replica phantom tathlums obscurum"
     },
     {
         "ID":51039,
-        "Name":null
+        "Name":"phantom war scythe obscurum matte replica"
     },
     {
         "ID":51040,
-        "Name":null
+        "Name":"array of matte replica phantom wings obscurum"
     },
     {
         "ID":51041,
-        "Name":null
+        "Name":"pair of matte replica phantom twinfangs obscurum"
     },
     {
         "ID":51042,
-        "Name":null
+        "Name":"phantom round brush obscurum matte replica"
     },
     {
         "ID":51043,
-        "Name":null
+        "Name":"phantom shield obscurum matte replica"
     },
     {
         "ID":51044,
-        "Name":null
+        "Name":"phantom sword obscurum replica"
     },
     {
         "ID":51045,
-        "Name":null
+        "Name":"pair of replica phantom jamadhars obscurum"
     },
     {
         "ID":51046,
-        "Name":null
+        "Name":"phantom bardiche obscurum replica"
     },
     {
         "ID":51047,
-        "Name":null
+        "Name":"phantom fork obscurum replica"
     },
     {
         "ID":51048,
-        "Name":null
+        "Name":"phantom longbow obscurum replica"
     },
     {
         "ID":51049,
-        "Name":null
+        "Name":"phantom cane obscurum replica"
     },
     {
         "ID":51050,
-        "Name":null
+        "Name":"phantom longpole obscurum replica"
     },
     {
         "ID":51051,
-        "Name":null
+        "Name":"phantom index obscurum replica"
     },
     {
         "ID":51052,
-        "Name":null
+        "Name":"phantom codex obscurum replica"
     },
     {
         "ID":51053,
-        "Name":null
+        "Name":"pair of replica phantom khukuri obscurum"
     },
     {
         "ID":51054,
-        "Name":null
+        "Name":"phantom guillotine obscurum replica"
     },
     {
         "ID":51055,
-        "Name":null
+        "Name":"phantom musketoon obscurum replica"
     },
     {
         "ID":51056,
-        "Name":null
+        "Name":"phantom star pendant obscurum replica"
     },
     {
         "ID":51057,
-        "Name":null
+        "Name":"phantom blade obscurum replica"
     },
     {
         "ID":51058,
-        "Name":null
+        "Name":"phantom hanger obscurum replica"
     },
     {
         "ID":51059,
-        "Name":null
+        "Name":"phantom gunblade obscurum replica"
     },
     {
         "ID":51060,
-        "Name":null
+        "Name":"pair of replica phantom tathlums obscurum"
     },
     {
         "ID":51061,
-        "Name":null
+        "Name":"phantom war scythe obscurum replica"
     },
     {
         "ID":51062,
-        "Name":null
+        "Name":"array of replica phantom wings obscurum"
     },
     {
         "ID":51063,
-        "Name":null
+        "Name":"pair of replica phantom twinfangs obscurum"
     },
     {
         "ID":51064,
-        "Name":null
+        "Name":"phantom round brush obscurum replica"
     },
     {
         "ID":51065,
-        "Name":null
+        "Name":"phantom shield obscurum replica"
     },
     {
         "ID":51066,
-        "Name":null
+        "Name":"phantom sword eclipticum replica"
     },
     {
         "ID":51067,
-        "Name":null
+        "Name":"pair of replica phantom tonfa eclipticum"
     },
     {
         "ID":51068,
-        "Name":null
+        "Name":"phantom war hammer eclipticum replica"
     },
     {
         "ID":51069,
-        "Name":null
+        "Name":"phantom spear eclipticum replica"
     },
     {
         "ID":51070,
-        "Name":null
+        "Name":"phantom harp bow eclipticum replica"
     },
     {
         "ID":51071,
-        "Name":null
+        "Name":"phantom cane eclipticum replica"
     },
     {
         "ID":51072,
-        "Name":null
+        "Name":"phantom staff eclipticum replica"
     },
     {
         "ID":51073,
-        "Name":null
+        "Name":"phantom index eclipticum replica"
     },
     {
         "ID":51074,
-        "Name":null
+        "Name":"phantom codex eclipticum replica"
     },
     {
         "ID":51075,
-        "Name":null
+        "Name":"pair of replica phantom knives eclipticum"
     },
     {
         "ID":51076,
-        "Name":null
+        "Name":"phantom guillotine eclipticum replica"
     },
     {
         "ID":51077,
-        "Name":null
+        "Name":"phantom revolver eclipticum replica"
     },
     {
         "ID":51078,
-        "Name":null
+        "Name":"phantom star globe eclipticum replica"
     },
     {
         "ID":51079,
-        "Name":null
+        "Name":"phantom blade eclipticum replica"
     },
     {
         "ID":51080,
-        "Name":null
+        "Name":"phantom degen eclipticum replica"
     },
     {
         "ID":51081,
-        "Name":null
+        "Name":"phantom gunblade eclipticum replica"
     },
     {
         "ID":51082,
-        "Name":null
+        "Name":"pair of replica phantom fans eclipticum"
     },
     {
         "ID":51083,
-        "Name":null
+        "Name":"phantom war scythe eclipticum replica"
     },
     {
         "ID":51084,
-        "Name":null
+        "Name":"array of replica phantom pendulums eclipticum"
     },
     {
         "ID":51085,
-        "Name":null
+        "Name":"pair of replica phantom twinfangs eclipticum"
     },
     {
         "ID":51086,
-        "Name":null
+        "Name":"phantom round brush eclipticum replica"
     },
     {
         "ID":51087,
-        "Name":null
+        "Name":"phantom shield eclipticum replica"
     },
     {
         "ID":51088,
-        "Name":null
+        "Name":"phantom sword occultum replica"
     },
     {
         "ID":51089,
-        "Name":null
+        "Name":"pair of replica phantom tonfa occultum"
     },
     {
         "ID":51090,
-        "Name":null
+        "Name":"phantom war hammer occultum replica"
     },
     {
         "ID":51091,
-        "Name":null
+        "Name":"phantom spear occultum replica"
     },
     {
         "ID":51092,
-        "Name":null
+        "Name":"phantom harp bow occultum replica"
     },
     {
         "ID":51093,
-        "Name":null
+        "Name":"phantom cane occultum replica"
     },
     {
         "ID":51094,
-        "Name":null
+        "Name":"phantom staff occultum replica"
     },
     {
         "ID":51095,
-        "Name":null
+        "Name":"phantom index occultum replica"
     },
     {
         "ID":51096,
-        "Name":null
+        "Name":"phantom codex occultum replica"
     },
     {
         "ID":51097,
-        "Name":null
+        "Name":"pair of replica phantom knives occultum"
     },
     {
         "ID":51098,
-        "Name":null
+        "Name":"phantom guillotine occultum replica"
     },
     {
         "ID":51099,
-        "Name":null
+        "Name":"phantom revolver occultum replica"
     },
     {
         "ID":51100,
-        "Name":null
+        "Name":"phantom star globe occultum replica"
     },
     {
         "ID":51101,
-        "Name":null
+        "Name":"phantom blade occultum replica"
     },
     {
         "ID":51102,
-        "Name":null
+        "Name":"phantom degen occultum replica"
     },
     {
         "ID":51103,
-        "Name":null
+        "Name":"phantom gunblade occultum replica"
     },
     {
         "ID":51104,
-        "Name":null
+        "Name":"pair of replica phantom fans occultum"
     },
     {
         "ID":51105,
-        "Name":null
+        "Name":"phantom war scythe occultum replica"
     },
     {
         "ID":51106,
-        "Name":null
+        "Name":"array of replica phantom pendulums occultum"
     },
     {
         "ID":51107,
-        "Name":null
+        "Name":"pair of replica phantom twinfangs occultum"
     },
     {
         "ID":51108,
-        "Name":null
+        "Name":"phantom round brush occultum replica"
     },
     {
         "ID":51109,
-        "Name":null
+        "Name":"phantom shield occultum replica"
     },
     {
         "ID":51110,
@@ -205069,7 +205069,7 @@
     },
     {
         "ID":51270,
-        "Name":null
+        "Name":"garden canal"
     },
     {
         "ID":51271,
@@ -205077,7 +205077,7 @@
     },
     {
         "ID":51272,
-        "Name":null
+        "Name":"crumbling aqueduct"
     },
     {
         "ID":51273,
@@ -205117,31 +205117,31 @@
     },
     {
         "ID":51282,
-        "Name":null
+        "Name":"winged scalekin fossil"
     },
     {
         "ID":51283,
-        "Name":null
+        "Name":"Crescent stone pillar"
     },
     {
         "ID":51284,
-        "Name":null
+        "Name":"Crescent wall rack"
     },
     {
         "ID":51285,
-        "Name":null
+        "Name":"Crescent display case"
     },
     {
         "ID":51286,
-        "Name":null
+        "Name":"blue Crescent moon"
     },
     {
         "ID":51287,
-        "Name":null
+        "Name":"yellow Crescent cube"
     },
     {
         "ID":51288,
-        "Name":null
+        "Name":"red Crescent crystal"
     },
     {
         "ID":51289,
@@ -205157,19 +205157,19 @@
     },
     {
         "ID":51292,
-        "Name":"スマイリング・ウェイクマッシュルーム"
+        "Name":"smiling Wakeshroom"
     },
     {
         "ID":51293,
-        "Name":"ステアリング・ウェイクマッシュルーム"
+        "Name":"staring Wakeshroom"
     },
     {
         "ID":51294,
-        "Name":"ウェイクゴースト・バギー"
+        "Name":"Wakesoul buggy"
     },
     {
         "ID":51295,
-        "Name":"スターライト・スレッド"
+        "Name":"Starlight sled"
     },
     {
         "ID":51296,
@@ -205185,39 +205185,39 @@
     },
     {
         "ID":51299,
-        "Name":null
+        "Name":"the Rising MMXXV advertisement"
     },
     {
         "ID":51300,
-        "Name":null
+        "Name":"tabletop Rising MMXXV advertisement"
     },
     {
         "ID":51301,
-        "Name":null
+        "Name":"the Rising MMXXIV advertisement"
     },
     {
         "ID":51302,
-        "Name":"守護天節のポスター2025"
+        "Name":"All Saints' Wake MMXXV advertisement"
     },
     {
         "ID":51303,
-        "Name":"守護天節の卓上絵画2025"
+        "Name":"tabletop All Saints' Wake MMXXV advertisement"
     },
     {
         "ID":51304,
-        "Name":"守護天節のポスター2016"
+        "Name":"All Saints' Wake MMXVI advertisement"
     },
     {
         "ID":51305,
-        "Name":"星芒祭のポスター2025"
+        "Name":"Starlight Celebration MMXXV advertisement"
     },
     {
         "ID":51306,
-        "Name":"星芒祭の卓上絵画2025"
+        "Name":"tabletop Starlight Celebration MMXXV advertisement"
     },
     {
         "ID":51307,
-        "Name":"星芒祭のポスター2022"
+        "Name":"Starlight Celebration MMXXII advertisement"
     },
     {
         "ID":51308,
@@ -205537,7 +205537,7 @@
     },
     {
         "ID":51387,
-        "Name":"Dravanian attire of slaying"
+        "Name":"Dravanian attire of maiming"
     },
     {
         "ID":51388,
@@ -206237,7 +206237,7 @@
     },
     {
         "ID":51562,
-        "Name":"Manusya attire of slaying"
+        "Name":"Manusya attire of maiming"
     },
     {
         "ID":51563,
@@ -207233,563 +207233,563 @@
     },
     {
         "ID":51811,
-        "Name":null
+        "Name":"phantom vision mask of fending"
     },
     {
         "ID":51812,
-        "Name":null
+        "Name":"phantom vision corselet of fending"
     },
     {
         "ID":51813,
-        "Name":null
+        "Name":"pair of phantom vision vambraces of fending"
     },
     {
         "ID":51814,
-        "Name":null
+        "Name":"pair of phantom vision bottoms of fending"
     },
     {
         "ID":51815,
-        "Name":null
+        "Name":"pair of phantom vision sollerets of fending"
     },
     {
         "ID":51816,
-        "Name":null
+        "Name":"phantom vision mask of fending +1"
     },
     {
         "ID":51817,
-        "Name":null
+        "Name":"phantom vision corselet of fending +1"
     },
     {
         "ID":51818,
-        "Name":null
+        "Name":"pair of phantom vision vambraces of fending +1"
     },
     {
         "ID":51819,
-        "Name":null
+        "Name":"pair of phantom vision bottoms of fending +1"
     },
     {
         "ID":51820,
-        "Name":null
+        "Name":"pair of phantom vision sollerets of fending +1"
     },
     {
         "ID":51821,
-        "Name":null
+        "Name":"phantom vision mask of fending +2"
     },
     {
         "ID":51822,
-        "Name":null
+        "Name":"phantom vision corselet of fending +2"
     },
     {
         "ID":51823,
-        "Name":null
+        "Name":"pair of phantom vision vambraces of fending +2"
     },
     {
         "ID":51824,
-        "Name":null
+        "Name":"pair of phantom vision bottoms of fending +2"
     },
     {
         "ID":51825,
-        "Name":null
+        "Name":"pair of phantom vision sollerets of fending +2"
     },
     {
         "ID":51826,
-        "Name":null
+        "Name":"phantom vision mask of fending +3"
     },
     {
         "ID":51827,
-        "Name":null
+        "Name":"phantom vision corselet of fending +3"
     },
     {
         "ID":51828,
-        "Name":null
+        "Name":"pair of phantom vision vambraces of fending +3"
     },
     {
         "ID":51829,
-        "Name":null
+        "Name":"pair of phantom vision bottoms of fending +3"
     },
     {
         "ID":51830,
-        "Name":null
+        "Name":"pair of phantom vision sollerets of fending +3"
     },
     {
         "ID":51831,
-        "Name":null
+        "Name":"phantom vision mask of maiming"
     },
     {
         "ID":51832,
-        "Name":null
+        "Name":"phantom vision corselet of maiming"
     },
     {
         "ID":51833,
-        "Name":null
+        "Name":"pair of phantom vision vambraces of maiming"
     },
     {
         "ID":51834,
-        "Name":null
+        "Name":"pair of phantom vision bottoms of maiming"
     },
     {
         "ID":51835,
-        "Name":null
+        "Name":"pair of phantom vision sollerets of maiming"
     },
     {
         "ID":51836,
-        "Name":null
+        "Name":"phantom vision mask of maiming +1"
     },
     {
         "ID":51837,
-        "Name":null
+        "Name":"phantom vision corselet of maiming +1"
     },
     {
         "ID":51838,
-        "Name":null
+        "Name":"pair of phantom vision vambraces of maiming +1"
     },
     {
         "ID":51839,
-        "Name":null
+        "Name":"pair of phantom vision bottoms of maiming +1"
     },
     {
         "ID":51840,
-        "Name":null
+        "Name":"pair of phantom vision sollerets of maiming +1"
     },
     {
         "ID":51841,
-        "Name":null
+        "Name":"phantom vision mask of maiming +2"
     },
     {
         "ID":51842,
-        "Name":null
+        "Name":"phantom vision corselet of maiming +2"
     },
     {
         "ID":51843,
-        "Name":null
+        "Name":"pair of phantom vision vambraces of maiming +2"
     },
     {
         "ID":51844,
-        "Name":null
+        "Name":"pair of phantom vision bottoms of maiming +2"
     },
     {
         "ID":51845,
-        "Name":null
+        "Name":"pair of phantom vision sollerets of maiming +2"
     },
     {
         "ID":51846,
-        "Name":null
+        "Name":"phantom vision mask of maiming +3"
     },
     {
         "ID":51847,
-        "Name":null
+        "Name":"phantom vision corselet of maiming +3"
     },
     {
         "ID":51848,
-        "Name":null
+        "Name":"pair of phantom vision vambraces of maiming +3"
     },
     {
         "ID":51849,
-        "Name":null
+        "Name":"pair of phantom vision bottoms of maiming +3"
     },
     {
         "ID":51850,
-        "Name":null
+        "Name":"pair of phantom vision sollerets of maiming +3"
     },
     {
         "ID":51851,
-        "Name":null
+        "Name":"phantom vision turban of striking"
     },
     {
         "ID":51852,
-        "Name":null
+        "Name":"phantom vision robe of striking"
     },
     {
         "ID":51853,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of striking"
     },
     {
         "ID":51854,
-        "Name":null
+        "Name":"phantom vision sarouel of striking"
     },
     {
         "ID":51855,
-        "Name":null
+        "Name":"pair of phantom vision boots of striking"
     },
     {
         "ID":51856,
-        "Name":null
+        "Name":"phantom vision turban of striking +1"
     },
     {
         "ID":51857,
-        "Name":null
+        "Name":"phantom vision robe of striking +1"
     },
     {
         "ID":51858,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of striking +1"
     },
     {
         "ID":51859,
-        "Name":null
+        "Name":"phantom vision sarouel of striking +1"
     },
     {
         "ID":51860,
-        "Name":null
+        "Name":"pair of phantom vision boots of striking +1"
     },
     {
         "ID":51861,
-        "Name":null
+        "Name":"phantom vision turban of striking +2"
     },
     {
         "ID":51862,
-        "Name":null
+        "Name":"phantom vision robe of striking +2"
     },
     {
         "ID":51863,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of striking +2"
     },
     {
         "ID":51864,
-        "Name":null
+        "Name":"phantom vision sarouel of striking +2"
     },
     {
         "ID":51865,
-        "Name":null
+        "Name":"pair of phantom vision boots of striking +2"
     },
     {
         "ID":51866,
-        "Name":null
+        "Name":"phantom vision turban of striking +3"
     },
     {
         "ID":51867,
-        "Name":null
+        "Name":"phantom vision robe of striking +3"
     },
     {
         "ID":51868,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of striking +3"
     },
     {
         "ID":51869,
-        "Name":null
+        "Name":"phantom vision sarouel of striking +3"
     },
     {
         "ID":51870,
-        "Name":null
+        "Name":"pair of phantom vision boots of striking +3"
     },
     {
         "ID":51871,
-        "Name":null
+        "Name":"phantom vision turban of aiming"
     },
     {
         "ID":51872,
-        "Name":null
+        "Name":"phantom vision robe of aiming"
     },
     {
         "ID":51873,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of aiming"
     },
     {
         "ID":51874,
-        "Name":null
+        "Name":"phantom vision sarouel of aiming"
     },
     {
         "ID":51875,
-        "Name":null
+        "Name":"pair of phantom vision boots of aiming"
     },
     {
         "ID":51876,
-        "Name":null
+        "Name":"phantom vision turban of aiming +1"
     },
     {
         "ID":51877,
-        "Name":null
+        "Name":"phantom vision robe of aiming +1"
     },
     {
         "ID":51878,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of aiming +1"
     },
     {
         "ID":51879,
-        "Name":null
+        "Name":"phantom vision sarouel of aiming +1"
     },
     {
         "ID":51880,
-        "Name":null
+        "Name":"pair of phantom vision boots of aiming +1"
     },
     {
         "ID":51881,
-        "Name":null
+        "Name":"phantom vision turban of aiming +2"
     },
     {
         "ID":51882,
-        "Name":null
+        "Name":"phantom vision robe of aiming +2"
     },
     {
         "ID":51883,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of aiming +2"
     },
     {
         "ID":51884,
-        "Name":null
+        "Name":"phantom vision sarouel of aiming +2"
     },
     {
         "ID":51885,
-        "Name":null
+        "Name":"pair of phantom vision boots of aiming +2"
     },
     {
         "ID":51886,
-        "Name":null
+        "Name":"phantom vision turban of aiming +3"
     },
     {
         "ID":51887,
-        "Name":null
+        "Name":"phantom vision robe of aiming +3"
     },
     {
         "ID":51888,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of aiming +3"
     },
     {
         "ID":51889,
-        "Name":null
+        "Name":"phantom vision sarouel of aiming +3"
     },
     {
         "ID":51890,
-        "Name":null
+        "Name":"pair of phantom vision boots of aiming +3"
     },
     {
         "ID":51891,
-        "Name":null
+        "Name":"phantom vision turban of scouting"
     },
     {
         "ID":51892,
-        "Name":null
+        "Name":"phantom vision robe of scouting"
     },
     {
         "ID":51893,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of scouting"
     },
     {
         "ID":51894,
-        "Name":null
+        "Name":"phantom vision sarouel of scouting"
     },
     {
         "ID":51895,
-        "Name":null
+        "Name":"pair of phantom vision boots of scouting"
     },
     {
         "ID":51896,
-        "Name":null
+        "Name":"phantom vision turban of scouting +1"
     },
     {
         "ID":51897,
-        "Name":null
+        "Name":"phantom vision robe of scouting +1"
     },
     {
         "ID":51898,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of scouting +1"
     },
     {
         "ID":51899,
-        "Name":null
+        "Name":"phantom vision sarouel of scouting +1"
     },
     {
         "ID":51900,
-        "Name":null
+        "Name":"pair of phantom vision boots of scouting +1"
     },
     {
         "ID":51901,
-        "Name":null
+        "Name":"phantom vision turban of scouting +2"
     },
     {
         "ID":51902,
-        "Name":null
+        "Name":"phantom vision robe of scouting +2"
     },
     {
         "ID":51903,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of scouting +2"
     },
     {
         "ID":51904,
-        "Name":null
+        "Name":"phantom vision sarouel of scouting +2"
     },
     {
         "ID":51905,
-        "Name":null
+        "Name":"pair of phantom vision boots of scouting +2"
     },
     {
         "ID":51906,
-        "Name":null
+        "Name":"phantom vision turban of scouting +3"
     },
     {
         "ID":51907,
-        "Name":null
+        "Name":"phantom vision robe of scouting +3"
     },
     {
         "ID":51908,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of scouting +3"
     },
     {
         "ID":51909,
-        "Name":null
+        "Name":"phantom vision sarouel of scouting +3"
     },
     {
         "ID":51910,
-        "Name":null
+        "Name":"pair of phantom vision boots of scouting +3"
     },
     {
         "ID":51911,
-        "Name":null
+        "Name":"phantom vision nightcap of healing"
     },
     {
         "ID":51912,
-        "Name":null
+        "Name":"phantom vision acton of healing"
     },
     {
         "ID":51913,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of healing"
     },
     {
         "ID":51914,
-        "Name":null
+        "Name":"phantom vision sarouel of healing"
     },
     {
         "ID":51915,
-        "Name":null
+        "Name":"pair of phantom vision crakows of healing"
     },
     {
         "ID":51916,
-        "Name":null
+        "Name":"phantom vision nightcap of healing +1"
     },
     {
         "ID":51917,
-        "Name":null
+        "Name":"phantom vision acton of healing +1"
     },
     {
         "ID":51918,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of healing +1"
     },
     {
         "ID":51919,
-        "Name":null
+        "Name":"phantom vision sarouel of healing +1"
     },
     {
         "ID":51920,
-        "Name":null
+        "Name":"pair of phantom vision crakows of healing +1"
     },
     {
         "ID":51921,
-        "Name":null
+        "Name":"phantom vision nightcap of healing +2"
     },
     {
         "ID":51922,
-        "Name":null
+        "Name":"phantom vision acton of healing +2"
     },
     {
         "ID":51923,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of healing +2"
     },
     {
         "ID":51924,
-        "Name":null
+        "Name":"phantom vision sarouel of healing +2"
     },
     {
         "ID":51925,
-        "Name":null
+        "Name":"pair of phantom vision crakows of healing +2"
     },
     {
         "ID":51926,
-        "Name":null
+        "Name":"phantom vision nightcap of healing +3"
     },
     {
         "ID":51927,
-        "Name":null
+        "Name":"phantom vision acton of healing +3"
     },
     {
         "ID":51928,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of healing +3"
     },
     {
         "ID":51929,
-        "Name":null
+        "Name":"phantom vision sarouel of healing +3"
     },
     {
         "ID":51930,
-        "Name":null
+        "Name":"pair of phantom vision crakows of healing +3"
     },
     {
         "ID":51931,
-        "Name":null
+        "Name":"phantom vision nightcap of casting"
     },
     {
         "ID":51932,
-        "Name":null
+        "Name":"phantom vision acton of casting"
     },
     {
         "ID":51933,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of casting"
     },
     {
         "ID":51934,
-        "Name":null
+        "Name":"phantom vision sarouel of casting"
     },
     {
         "ID":51935,
-        "Name":null
+        "Name":"pair of phantom vision crakows of casting"
     },
     {
         "ID":51936,
-        "Name":null
+        "Name":"phantom vision nightcap of casting +1"
     },
     {
         "ID":51937,
-        "Name":null
+        "Name":"phantom vision acton of casting +1"
     },
     {
         "ID":51938,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of casting +1"
     },
     {
         "ID":51939,
-        "Name":null
+        "Name":"phantom vision sarouel of casting +1"
     },
     {
         "ID":51940,
-        "Name":null
+        "Name":"pair of phantom vision crakows of casting +1"
     },
     {
         "ID":51941,
-        "Name":null
+        "Name":"phantom vision nightcap of casting +2"
     },
     {
         "ID":51942,
-        "Name":null
+        "Name":"phantom vision acton of casting +2"
     },
     {
         "ID":51943,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of casting +2"
     },
     {
         "ID":51944,
-        "Name":null
+        "Name":"phantom vision sarouel of casting +2"
     },
     {
         "ID":51945,
-        "Name":null
+        "Name":"pair of phantom vision crakows of casting +2"
     },
     {
         "ID":51946,
-        "Name":null
+        "Name":"phantom vision nightcap of casting +3"
     },
     {
         "ID":51947,
-        "Name":null
+        "Name":"phantom vision acton of casting +3"
     },
     {
         "ID":51948,
-        "Name":null
+        "Name":"pair of phantom vision wristwraps of casting +3"
     },
     {
         "ID":51949,
-        "Name":null
+        "Name":"phantom vision sarouel of casting +3"
     },
     {
         "ID":51950,
-        "Name":null
+        "Name":"pair of phantom vision crakows of casting +3"
     },
     {
         "ID":51951,
@@ -207797,19 +207797,19 @@
     },
     {
         "ID":51952,
-        "Name":null
+        "Name":"Tule tunic"
     },
     {
         "ID":51953,
-        "Name":null
+        "Name":"pair of Tule halfgloves"
     },
     {
         "ID":51954,
-        "Name":null
+        "Name":"pair of Tule trousers"
     },
     {
         "ID":51955,
-        "Name":null
+        "Name":"pair of Tule longboots"
     },
     {
         "ID":51956,
@@ -207817,11 +207817,11 @@
     },
     {
         "ID":51957,
-        "Name":null
+        "Name":"Torna tunic"
     },
     {
         "ID":51958,
-        "Name":null
+        "Name":"pair of Torna wristlets"
     },
     {
         "ID":51959,
@@ -207829,135 +207829,135 @@
     },
     {
         "ID":51960,
-        "Name":null
+        "Name":"pair of Torna boots"
     },
     {
         "ID":51961,
-        "Name":null
+        "Name":"Carwen bandana"
     },
     {
         "ID":51962,
-        "Name":null
+        "Name":"Carwen tunic"
     },
     {
         "ID":51963,
-        "Name":null
+        "Name":"pair of Carwen armlets"
     },
     {
         "ID":51964,
-        "Name":null
+        "Name":"pair of Carwen tights"
     },
     {
         "ID":51965,
-        "Name":null
+        "Name":"pair of Carwen boots"
     },
     {
         "ID":51966,
-        "Name":null
+        "Name":"North Horn riding map"
     },
     {
         "ID":51967,
-        "Name":null
+        "Name":"Ninja's soul shard"
     },
     {
         "ID":51968,
-        "Name":null
+        "Name":"Black Mage's soul shard"
     },
     {
         "ID":51969,
-        "Name":null
+        "Name":"White Mage's soul shard"
     },
     {
         "ID":51970,
-        "Name":null
+        "Name":"Dragoon's soul shard"
     },
     {
         "ID":51971,
-        "Name":null
+        "Name":"Summoner's soul shard"
     },
     {
         "ID":51972,
-        "Name":null
+        "Name":"Blue Mage's soul shard"
     },
     {
         "ID":51973,
-        "Name":null
+        "Name":"Red Mage's soul shard"
     },
     {
         "ID":51974,
-        "Name":null
+        "Name":"Necromancer's soul shard"
     },
     {
         "ID":51975,
-        "Name":null
+        "Name":"Enlightenment silver obol"
     },
     {
         "ID":51976,
-        "Name":null
+        "Name":"Enlightenment gold obol"
     },
     {
         "ID":51977,
-        "Name":null
+        "Name":"arcane amulet"
     },
     {
         "ID":51978,
-        "Name":null
+        "Name":"bottle of final final fixative"
     },
     {
         "ID":51979,
-        "Name":null
+        "Name":"sheaf of notes on Arbatel"
     },
     {
         "ID":51980,
-        "Name":null
+        "Name":"sheaf of notes on the tiny mage"
     },
     {
         "ID":51981,
-        "Name":null
+        "Name":"sheaf of notes on Algol"
     },
     {
         "ID":51982,
-        "Name":null
+        "Name":"sheaf of notes on the metamorph"
     },
     {
         "ID":51983,
-        "Name":null
+        "Name":"sheaf of notes on the Pallmagia"
     },
     {
         "ID":51984,
-        "Name":null
+        "Name":"sheaf of notes on the phantom necromancer"
     },
     {
         "ID":51985,
-        "Name":null
+        "Name":"sheaf of notes on the Abductor"
     },
     {
         "ID":51986,
-        "Name":null
+        "Name":"sheaf of notes on the claret dragon"
     },
     {
         "ID":51987,
-        "Name":null
+        "Name":"sheaf of notes on the Alabaster Blade"
     },
     {
         "ID":51988,
-        "Name":null
+        "Name":"sheaf of notes on conjured Calofisteri"
     },
     {
         "ID":51989,
-        "Name":null
+        "Name":"sheaf of notes on the two-headed aevis"
     },
     {
         "ID":51990,
-        "Name":null
+        "Name":"sheaf of notes on the sword dancer"
     },
     {
         "ID":51991,
-        "Name":null
+        "Name":"sheaf of notes on Necrophobia"
     },
     {
         "ID":51992,
-        "Name":null
+        "Name":"sheaf of notes on the Index"
     },
     {
         "ID":51993,
@@ -207969,7 +207969,7 @@
     },
     {
         "ID":51995,
-        "Name":null
+        "Name":"occult omniscience framer's kit"
     },
     {
         "ID":51996,
@@ -207977,7 +207977,7 @@
     },
     {
         "ID":51997,
-        "Name":null
+        "Name":"Keybound Brawler framer's kit"
     },
     {
         "ID":51998,
@@ -208017,23 +208017,23 @@
     },
     {
         "ID":52007,
-        "Name":null
+        "Name":"Ner Lar Dor"
     },
     {
         "ID":52008,
-        "Name":null
+        "Name":"xehabopo'u"
     },
     {
         "ID":52009,
-        "Name":null
+        "Name":"skyfrond"
     },
     {
         "ID":52010,
-        "Name":null
+        "Name":"rroneek bichir"
     },
     {
         "ID":52011,
-        "Name":null
+        "Name":"triple threat"
     },
     {
         "ID":52012,
@@ -208361,15 +208361,15 @@
     },
     {
         "ID":52093,
-        "Name":"botanic gold Voyagers' record"
+        "Name":"botanic gold ancient record"
     },
     {
         "ID":52094,
-        "Name":"civic silver Voyagers' record"
+        "Name":"civic silver ancient record"
     },
     {
         "ID":52095,
-        "Name":"arboreal bronze Voyagers' record"
+        "Name":"arboreal bronze ancient record"
     },
     {
         "ID":52096,
@@ -209029,11 +209029,11 @@
     },
     {
         "ID":52260,
-        "Name":null
+        "Name":"Night Stallion activation key"
     },
     {
         "ID":52261,
-        "Name":null
+        "Name":"magitek scorpion identification key"
     },
     {
         "ID":52262,
@@ -209045,7 +209045,7 @@
     },
     {
         "ID":52264,
-        "Name":null
+        "Name":"colibri callado whistle"
     },
     {
         "ID":52265,
@@ -209053,7 +209053,7 @@
     },
     {
         "ID":52266,
-        "Name":null
+        "Name":"duck-billed porter whistle"
     },
     {
         "ID":52267,
@@ -209097,15 +209097,15 @@
     },
     {
         "ID":52277,
-        "Name":null
+        "Name":"tiny omniscient"
     },
     {
         "ID":52278,
-        "Name":null
+        "Name":"puny mage"
     },
     {
         "ID":52279,
-        "Name":null
+        "Name":"wind-up Wuk Lamat"
     },
     {
         "ID":52280,
@@ -209113,7 +209113,7 @@
     },
     {
         "ID":52281,
-        "Name":null
+        "Name":"wind-up köttr"
     },
     {
         "ID":52282,
@@ -209121,11 +209121,11 @@
     },
     {
         "ID":52283,
-        "Name":null
+        "Name":"wind-up Barret"
     },
     {
         "ID":52284,
-        "Name":null
+        "Name":"Nymian uolosapa"
     },
     {
         "ID":52285,
@@ -209133,11 +209133,11 @@
     },
     {
         "ID":52286,
-        "Name":null
+        "Name":"set of picnicker's barding"
     },
     {
         "ID":52287,
-        "Name":null
+        "Name":"Avalanche Gatling gun"
     },
     {
         "ID":52288,
@@ -209145,15 +209145,15 @@
     },
     {
         "ID":52289,
-        "Name":null
+        "Name":"antique lantern"
     },
     {
         "ID":52290,
-        "Name":null
+        "Name":"copy of *Ballroom Etiquette - Geographic Guesswork*"
     },
     {
         "ID":52291,
-        "Name":null
+        "Name":"copy of *Ballroom Etiquette - Intrepid Inputs*"
     },
     {
         "ID":52292,
@@ -209169,7 +209169,7 @@
     },
     {
         "ID":52295,
-        "Name":null
+        "Name":"copy of *Ballroom Etiquette - Rearward Regards*"
     },
     {
         "ID":52296,
@@ -209177,11 +209177,11 @@
     },
     {
         "ID":52297,
-        "Name":null
+        "Name":"great ball of lightning"
     },
     {
         "ID":52298,
-        "Name":null
+        "Name":"occult apocrytaph"
     },
     {
         "ID":52299,
@@ -209277,47 +209277,47 @@
     },
     {
         "ID":52322,
-        "Name":null
+        "Name":"MGC"
     },
     {
         "ID":52323,
-        "Name":null
+        "Name":"Avalanche brawler's top"
     },
     {
         "ID":52324,
-        "Name":null
+        "Name":"pair of Avalanche brawler's halfgloves"
     },
     {
         "ID":52325,
-        "Name":null
+        "Name":"pair of Avalanche brawler's bottoms"
     },
     {
         "ID":52326,
-        "Name":null
+        "Name":"pair of Avalanche brawler's boots"
     },
     {
         "ID":52327,
-        "Name":null
+        "Name":"Avalanche brawler's earring"
     },
     {
         "ID":52328,
-        "Name":null
+        "Name":"pair of Avalanche leader's sunglasses"
     },
     {
         "ID":52329,
-        "Name":null
+        "Name":"Avalanche leader's vest"
     },
     {
         "ID":52330,
-        "Name":null
+        "Name":"pair of Avalanche leader's halfgloves"
     },
     {
         "ID":52331,
-        "Name":null
+        "Name":"pair of Avalanche leader's cargo trousers"
     },
     {
         "ID":52332,
-        "Name":null
+        "Name":"pair of Avalanche leader's boots"
     },
     {
         "ID":52333,
@@ -209405,15 +209405,15 @@
     },
     {
         "ID":52354,
-        "Name":null
+        "Name":"*Welcome to the Gold Saucer* orchestrion roll"
     },
     {
         "ID":52355,
-        "Name":null
+        "Name":"*Let the Battles Begin!* orchestrion roll"
     },
     {
         "ID":52356,
-        "Name":null
+        "Name":"*Fight On!* orchestrion roll"
     },
     {
         "ID":52357,
@@ -209433,35 +209433,35 @@
     },
     {
         "ID":52361,
-        "Name":null
+        "Name":"*Pulper of Inquiry* orchestrion roll"
     },
     {
         "ID":52362,
-        "Name":null
+        "Name":"*FINAL FANTASY IX: Battle 2* orchestrion roll"
     },
     {
         "ID":52363,
-        "Name":null
+        "Name":"*Matoya's Cave (Modulation)* orchestrion roll"
     },
     {
         "ID":52364,
-        "Name":null
+        "Name":"*Eternal Wind (Modulation)* orchestrion roll"
     },
     {
         "ID":52365,
-        "Name":null
+        "Name":"*Zanarkand (Modulation)* orchestrion roll"
     },
     {
         "ID":52366,
-        "Name":null
+        "Name":"*Dungeon (Dawntrail)* orchestrion roll"
     },
     {
         "ID":52367,
-        "Name":null
+        "Name":"*Sealed Away (Dawntrail)* orchestrion roll"
     },
     {
         "ID":52368,
-        "Name":null
+        "Name":"*To the North Mountain (Dawntrail)* orchestrion roll"
     },
     {
         "ID":52369,
@@ -209497,43 +209497,43 @@
     },
     {
         "ID":52377,
-        "Name":null
+        "Name":"*Smile (Till Dawn My Tears Flow)* orchestrion roll"
     },
     {
         "ID":52378,
-        "Name":null
+        "Name":"*Morrow's Might & Magic (Till Dawn My Tears Flow)* orchestrion roll"
     },
     {
         "ID":52379,
-        "Name":null
+        "Name":"*Bee My Honey (Till Dawn My Tears Flow)* orchestrion roll"
     },
     {
         "ID":52380,
-        "Name":null
+        "Name":"*Promises to Keep (Till Dawn My Tears Flow)* orchestrion roll"
     },
     {
         "ID":52381,
-        "Name":null
+        "Name":"*Roses of May (Till Dawn My Tears Flow)* orchestrion roll"
     },
     {
         "ID":52382,
-        "Name":null
+        "Name":"*Sinister (Back in the Ring)* orchestrion roll"
     },
     {
         "ID":52383,
-        "Name":null
+        "Name":"*The Mirror (Back in the Ring)* orchestrion roll"
     },
     {
         "ID":52384,
-        "Name":null
+        "Name":"*Absolute Tyranny (Back in the Ring)* orchestrion roll"
     },
     {
         "ID":52385,
-        "Name":null
+        "Name":"*Smile (Back in the Ring)* orchestrion roll"
     },
     {
         "ID":52386,
-        "Name":null
+        "Name":"*Primal Judgment - De Novo (Back in the Ring)* orchestrion roll"
     },
     {
         "ID":52387,
@@ -209689,7 +209689,7 @@
     },
     {
         "ID":52425,
-        "Name":"cosmic operator's coverall top"
+        "Name":"pair of cosmic operator's coveralls"
     },
     {
         "ID":52426,
@@ -209733,27 +209733,27 @@
     },
     {
         "ID":52436,
-        "Name":null
+        "Name":"festival neotunic"
     },
     {
         "ID":52437,
-        "Name":null
+        "Name":"oversized festival neotunic"
     },
     {
         "ID":52438,
-        "Name":null
+        "Name":"form-fitting festival neotunic"
     },
     {
         "ID":52439,
-        "Name":null
+        "Name":"Halone's earring"
     },
     {
         "ID":52440,
-        "Name":null
+        "Name":"copy of *Modern Aesthetics - Bun and the Beautiful*"
     },
     {
         "ID":52441,
-        "Name":null
+        "Name":"copy of *The Faces We Wear - Simple Oval Spectacles*"
     },
     {
         "ID":52442,
@@ -209777,7 +209777,7 @@
     },
     {
         "ID":52447,
-        "Name":null
+        "Name":"copy of *The Faces We Wear - Thick-rimmed Goggles*"
     },
     {
         "ID":52448,
@@ -209789,7 +209789,7 @@
     },
     {
         "ID":52450,
-        "Name":null
+        "Name":"Keybound coffer"
     },
     {
         "ID":52451,
@@ -210045,7 +210045,7 @@
     },
     {
         "ID":52514,
-        "Name":"habitat cushion"
+        "Name":"set of habitat cushions"
     },
     {
         "ID":52515,
@@ -210317,7 +210317,7 @@
     },
     {
         "ID":52582,
-        "Name":null
+        "Name":"Phantom Philleter"
     },
     {
         "ID":52583,
@@ -210333,23 +210333,23 @@
     },
     {
         "ID":52586,
-        "Name":null
+        "Name":"Tule attire"
     },
     {
         "ID":52587,
-        "Name":null
+        "Name":"Torna attire"
     },
     {
         "ID":52588,
-        "Name":null
+        "Name":"Carwen attire"
     },
     {
         "ID":52589,
-        "Name":null
+        "Name":"Avalanche brawler's attire"
     },
     {
         "ID":52590,
-        "Name":null
+        "Name":"Avalanche leader's attire"
     },
     {
         "ID":52591,
@@ -210525,23 +210525,23 @@
     },
     {
         "ID":52634,
-        "Name":null
+        "Name":"tradewinds tunic"
     },
     {
         "ID":52635,
-        "Name":null
+        "Name":"pair of tradewinds wristgloves"
     },
     {
         "ID":52636,
-        "Name":null
+        "Name":"pair of tradewinds gaskins"
     },
     {
         "ID":52637,
-        "Name":null
+        "Name":"pair of tradewinds shoes"
     },
     {
         "ID":52638,
-        "Name":"sweetkit"
+        "Name":"lolly cat"
     },
     {
         "ID":52639,
@@ -210553,15 +210553,15 @@
     },
     {
         "ID":52641,
-        "Name":null
+        "Name":"crumbling aqueduct fragment"
     },
     {
         "ID":52642,
-        "Name":null
+        "Name":"bundle of crumbling aqueduct metal"
     },
     {
         "ID":52643,
-        "Name":null
+        "Name":"pot of crumbling aqueduct resin"
     },
     {
         "ID":52644,
@@ -210577,7 +210577,7 @@
     },
     {
         "ID":52647,
-        "Name":null
+        "Name":"Avalanche leader's earring"
     },
     {
         "ID":52648,
@@ -210601,7 +210601,7 @@
     },
     {
         "ID":52653,
-        "Name":null
+        "Name":"tradewinds attire"
     },
     {
         "ID":52654,
