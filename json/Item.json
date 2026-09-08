@@ -70569,7 +70569,7 @@
     },
     {
         "ID":17645,
-        "Name":"*Aetherosphere* orchestrion roll"
+        "Name":"*Aetherpause* orchestrion roll"
     },
     {
         "ID":17646,
@@ -177385,7 +177385,7 @@
     },
     {
         "ID":44349,
-        "Name":null
+        "Name":"presumably special timeworn map"
     },
     {
         "ID":44350,
@@ -189869,7 +189869,7 @@
     },
     {
         "ID":47470,
-        "Name":null
+        "Name":"beast herder's hand axe"
     },
     {
         "ID":47471,
@@ -189877,7 +189877,7 @@
     },
     {
         "ID":47472,
-        "Name":null
+        "Name":"beast herder's hoplon"
     },
     {
         "ID":47473,
@@ -189885,7 +189885,7 @@
     },
     {
         "ID":47474,
-        "Name":null
+        "Name":"soul of the beastmaster"
     },
     {
         "ID":47475,
@@ -199209,67 +199209,67 @@
     },
     {
         "ID":49805,
-        "Name":null
+        "Name":"Cu Sith gourd"
     },
     {
         "ID":49806,
-        "Name":null
+        "Name":"crab gourd"
     },
     {
         "ID":49807,
-        "Name":null
+        "Name":"slime gourd"
     },
     {
         "ID":49808,
-        "Name":null
+        "Name":"dullahan gourd"
     },
     {
         "ID":49809,
-        "Name":null
+        "Name":"worm gourd"
     },
     {
         "ID":49810,
-        "Name":null
+        "Name":"drake gourd"
     },
     {
         "ID":49811,
-        "Name":null
+        "Name":"antling gourd"
     },
     {
         "ID":49812,
-        "Name":null
+        "Name":"chimera gourd"
     },
     {
         "ID":49813,
-        "Name":null
+        "Name":"hydra gourd"
     },
     {
         "ID":49814,
-        "Name":null
+        "Name":"damselfly gourd"
     },
     {
         "ID":49815,
-        "Name":null
+        "Name":"rotting goobbue gourd"
     },
     {
         "ID":49816,
-        "Name":null
+        "Name":"zu gourd"
     },
     {
         "ID":49817,
-        "Name":null
+        "Name":"ice golem gourd"
     },
     {
         "ID":49818,
-        "Name":null
+        "Name":"Karlabos gourd"
     },
     {
         "ID":49819,
-        "Name":null
+        "Name":"rafflesia gourd"
     },
     {
         "ID":49820,
-        "Name":null
+        "Name":"behemoth gourd"
     },
     {
         "ID":49821,
@@ -202897,211 +202897,211 @@
     },
     {
         "ID":50727,
-        "Name":null
+        "Name":"beast herder's circlet"
     },
     {
         "ID":50728,
-        "Name":null
+        "Name":"beast herder's coat"
     },
     {
         "ID":50729,
-        "Name":null
+        "Name":"pair of beast herder's gloves"
     },
     {
         "ID":50730,
-        "Name":null
+        "Name":"pair of beast herder's bottoms"
     },
     {
         "ID":50731,
-        "Name":null
+        "Name":"pair of beast herder's boots"
     },
     {
         "ID":50732,
-        "Name":null
+        "Name":"beast tender's hand axe"
     },
     {
         "ID":50733,
-        "Name":null
+        "Name":"beast tender's hoplon"
     },
     {
         "ID":50734,
-        "Name":null
+        "Name":"beast handler's tabar"
     },
     {
         "ID":50735,
-        "Name":null
+        "Name":"beast handler's pelta"
     },
     {
         "ID":50736,
-        "Name":null
+        "Name":"beast whisperer's hand axe"
     },
     {
         "ID":50737,
-        "Name":null
+        "Name":"beast whisperer's round shield"
     },
     {
         "ID":50738,
-        "Name":null
+        "Name":"beast tamer's tabar"
     },
     {
         "ID":50739,
-        "Name":null
+        "Name":"beast tamer's hoplon"
     },
     {
         "ID":50740,
-        "Name":null
+        "Name":"beastwarden's hand axe"
     },
     {
         "ID":50741,
-        "Name":null
+        "Name":"beastwarden's buckler"
     },
     {
         "ID":50742,
-        "Name":null
+        "Name":"beastmaster's hand axe"
     },
     {
         "ID":50743,
-        "Name":null
+        "Name":"beastmaster's hoplon"
     },
     {
         "ID":50744,
-        "Name":null
+        "Name":"pair of beastmaster's horns"
     },
     {
         "ID":50745,
-        "Name":null
+        "Name":"set of beastmaster's furs"
     },
     {
         "ID":50746,
-        "Name":null
+        "Name":"pair of beastmaster's armguards"
     },
     {
         "ID":50747,
-        "Name":null
+        "Name":"pair of beastmaster's slops"
     },
     {
         "ID":50748,
-        "Name":null
+        "Name":"pair of beastmaster's boots"
     },
     {
         "ID":50749,
-        "Name":null
+        "Name":"beastmaster's hand axe +1"
     },
     {
         "ID":50750,
-        "Name":null
+        "Name":"beastmaster's hoplon +1"
     },
     {
         "ID":50751,
-        "Name":null
+        "Name":"pair of beastmaster's horns +1"
     },
     {
         "ID":50752,
-        "Name":null
+        "Name":"set of beastmaster's furs +1"
     },
     {
         "ID":50753,
-        "Name":null
+        "Name":"pair of beastmaster's armguards +1"
     },
     {
         "ID":50754,
-        "Name":null
+        "Name":"pair of beastmaster's slops +1"
     },
     {
         "ID":50755,
-        "Name":null
+        "Name":"pair of beastmaster's boots +1"
     },
     {
         "ID":50756,
-        "Name":null
+        "Name":"beastmaster's hand axe +2"
     },
     {
         "ID":50757,
-        "Name":null
+        "Name":"beastmaster's hoplon +2"
     },
     {
         "ID":50758,
-        "Name":null
+        "Name":"pair of beastmaster's horns +2"
     },
     {
         "ID":50759,
-        "Name":null
+        "Name":"set of beastmaster's furs +2"
     },
     {
         "ID":50760,
-        "Name":null
+        "Name":"pair of beastmaster's armguards +2"
     },
     {
         "ID":50761,
-        "Name":null
+        "Name":"pair of beastmaster's slops +2"
     },
     {
         "ID":50762,
-        "Name":null
+        "Name":"pair of beastmaster's boots +2"
     },
     {
         "ID":50763,
-        "Name":null
+        "Name":"beastmaster's hand axe +3"
     },
     {
         "ID":50764,
-        "Name":null
+        "Name":"beastmaster's hoplon +3"
     },
     {
         "ID":50765,
-        "Name":null
+        "Name":"pair of beastmaster's horns +3"
     },
     {
         "ID":50766,
-        "Name":null
+        "Name":"set of beastmaster's furs +3"
     },
     {
         "ID":50767,
-        "Name":null
+        "Name":"pair of beastmaster's armguards +3"
     },
     {
         "ID":50768,
-        "Name":null
+        "Name":"pair of beastmaster's slops +3"
     },
     {
         "ID":50769,
-        "Name":null
+        "Name":"pair of beastmaster's boots +3"
     },
     {
         "ID":50770,
-        "Name":null
+        "Name":"beastmaster's hand axe +4"
     },
     {
         "ID":50771,
-        "Name":null
+        "Name":"beastmaster's hoplon +4"
     },
     {
         "ID":50772,
-        "Name":null
+        "Name":"pair of beastmaster's horns +4"
     },
     {
         "ID":50773,
-        "Name":null
+        "Name":"set of beastmaster's furs +4"
     },
     {
         "ID":50774,
-        "Name":null
+        "Name":"pair of beastmaster's armguards +4"
     },
     {
         "ID":50775,
-        "Name":null
+        "Name":"pair of beastmaster's slops +4"
     },
     {
         "ID":50776,
-        "Name":null
+        "Name":"pair of beastmaster's boots +4"
     },
     {
         "ID":50777,
-        "Name":null
+        "Name":"Guttler"
     },
     {
         "ID":50778,
-        "Name":null
+        "Name":"Kornago hoplon"
     },
     {
         "ID":50779,
@@ -205081,7 +205081,7 @@
     },
     {
         "ID":51273,
-        "Name":null
+        "Name":"beastmaster display crystal"
     },
     {
         "ID":51274,
@@ -206925,19 +206925,19 @@
     },
     {
         "ID":51734,
-        "Name":null
+        "Name":"faded remnant of resilience"
     },
     {
         "ID":51735,
-        "Name":null
+        "Name":"bright remnant of resilience"
     },
     {
         "ID":51736,
-        "Name":null
+        "Name":"beastliege's hand axe"
     },
     {
         "ID":51737,
-        "Name":null
+        "Name":"beastliege's hoplon"
     },
     {
         "ID":51738,
@@ -206945,11 +206945,11 @@
     },
     {
         "ID":51739,
-        "Name":null
+        "Name":"Guttler unleashed"
     },
     {
         "ID":51740,
-        "Name":null
+        "Name":"augmented Kornago hoplon"
     },
     {
         "ID":51741,
@@ -206965,11 +206965,11 @@
     },
     {
         "ID":51744,
-        "Name":null
+        "Name":"pitchfork"
     },
     {
         "ID":51745,
-        "Name":null
+        "Name":"pair of beastmaster's earrings"
     },
     {
         "ID":51746,
@@ -206977,15 +206977,15 @@
     },
     {
         "ID":51747,
-        "Name":null
+        "Name":"copy of *Modern Aesthetics - Loosened Locks*"
     },
     {
         "ID":51748,
-        "Name":null
+        "Name":"copy of *The Faces We Wear - Teardrop Glasses*"
     },
     {
         "ID":51749,
-        "Name":null
+        "Name":"Laudouble"
     },
     {
         "ID":51750,
@@ -207965,7 +207965,7 @@
     },
     {
         "ID":51994,
-        "Name":null
+        "Name":"beastmaster framer's kit"
     },
     {
         "ID":51995,
@@ -209041,7 +209041,7 @@
     },
     {
         "ID":52263,
-        "Name":null
+        "Name":"Cu Sith horn"
     },
     {
         "ID":52264,
@@ -209049,7 +209049,7 @@
     },
     {
         "ID":52265,
-        "Name":null
+        "Name":"hydra horn"
     },
     {
         "ID":52266,
@@ -209465,15 +209465,15 @@
     },
     {
         "ID":52369,
-        "Name":null
+        "Name":"*Starkest Scale* orchestrion roll"
     },
     {
         "ID":52370,
-        "Name":null
+        "Name":"*Fiercest Fang* orchestrion roll"
     },
     {
         "ID":52371,
-        "Name":null
+        "Name":"*Swiftest Wing* orchestrion roll"
     },
     {
         "ID":52372,
@@ -209701,23 +209701,23 @@
     },
     {
         "ID":52428,
-        "Name":null
+        "Name":"successor's hood"
     },
     {
         "ID":52429,
-        "Name":null
+        "Name":"successor's tunic"
     },
     {
         "ID":52430,
-        "Name":null
+        "Name":"pair of successor's fingerless gloves"
     },
     {
         "ID":52431,
-        "Name":null
+        "Name":"pair of successor's breeches"
     },
     {
         "ID":52432,
-        "Name":null
+        "Name":"pair of successor's highboots"
     },
     {
         "ID":52433,
@@ -209773,7 +209773,7 @@
     },
     {
         "ID":52446,
-        "Name":null
+        "Name":"copy of *The Faces We Wear - Antique Monocle*"
     },
     {
         "ID":52447,
@@ -210393,11 +210393,11 @@
     },
     {
         "ID":52601,
-        "Name":null
+        "Name":"successor's attire"
     },
     {
         "ID":52602,
-        "Name":null
+        "Name":"beastmaster's attire"
     },
     {
         "ID":52603,
@@ -210545,7 +210545,7 @@
     },
     {
         "ID":52639,
-        "Name":null
+        "Name":"tourmaline golem horn"
     },
     {
         "ID":52640,
@@ -210565,15 +210565,15 @@
     },
     {
         "ID":52644,
-        "Name":null
+        "Name":"Crucible Champion certification"
     },
     {
         "ID":52645,
-        "Name":null
+        "Name":"Crucible Finalist certification"
     },
     {
         "ID":52646,
-        "Name":null
+        "Name":"Crucible Ranker certification"
     },
     {
         "ID":52647,
@@ -210585,19 +210585,19 @@
     },
     {
         "ID":52649,
-        "Name":null
+        "Name":"beast herder's coffer (IL 1)"
     },
     {
         "ID":52650,
-        "Name":null
+        "Name":"beast tamer's coffer (IL 30)"
     },
     {
         "ID":52651,
-        "Name":null
+        "Name":"beastwarden's coffer (IL 40)"
     },
     {
         "ID":52652,
-        "Name":null
+        "Name":"beastmaster's coffer (IL 90)"
     },
     {
         "ID":52653,
@@ -210609,7 +210609,7 @@
     },
     {
         "ID":52655,
-        "Name":null
+        "Name":"Crucible framer's kit"
     },
     {
         "ID":52656,
