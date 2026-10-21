@@ -1,11 +1,29 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    const baseURL = 'https://beta.xivapi.com/api/1';
+    const baseURL = 'https://v2.xivapi.com/api';
 
     // Function to fetch and load JSON data
     async function fetchJsonData(filePath) {
-        let response = await fetch(filePath);
-        let data = await response.json();
+        const response = await fetch(filePath, { signal: AbortSignal.timeout(15000) });
+        if (!response.ok) throw new Error(`Request failed (${response.status}). Please try again.`);
+        const data = await response.json();
+        if (!data || typeof data !== 'object' || data.Error || data.error) {
+            throw new Error('The data service returned an invalid response. Please try again.');
+        }
         return data;
+    }
+
+    function assetUrl(path) {
+        return `${baseURL}/asset?path=${encodeURIComponent(path)}&format=png`;
+    }
+
+    function escapeXml(value) {
+        return String(value).replace(/[&<>"']/g, character => ({
+            '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&apos;'
+        })[character]);
+    }
+
+    function showError(error) {
+        $('.info-anchor').empty().removeClass('d-none').text(error.message || 'Unable to load data. Please try again.');
     }
 
     // Function to search for a name in the JSON data and return an array of IDs
@@ -27,31 +45,36 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
     // Function to fetch detailed data from the API
     async function fetchDetails(sheet, ids, fields = 'Icon,Name') {
-        if (ids.length === 0) return { rows: [] }; // Return empty result if no IDs
-        let url = `${baseURL}/sheet/${sheet}?rows=${ids.join(',')}&fields=${fields}`;
-        let response = await fetch(url);
-        let data = await response.json();
-        return data;
+        const rows = [];
+        for (let offset = 0; offset < ids.length; offset += 100) {
+            const params = new URLSearchParams({ rows: ids.slice(offset, offset + 100).join(','), fields, limit: '100' });
+            const data = await fetchJsonData(`${baseURL}/sheet/${sheet}?${params}`);
+            if (!Array.isArray(data.rows) || data.rows.some(row => !Number.isInteger(row.row_id) || !row.fields || typeof row.fields.Name !== 'string' || !row.fields.Icon)) {
+                throw new Error('The data service returned invalid rows. Please try again.');
+            }
+            rows.push(...data.rows);
+        }
+        return { rows };
     }
 
-    // Function to fetch details for a specific ID and Type
     async function fetchDetailsByIdAndType(id, type) {
-        let details = {};
-        if (type === 'Action') {
-            let actionDetails = await fetch(`${baseURL}/sheet/Action/${id}`);
-            let actionTransientDetails = await fetch(`${baseURL}/sheet/ActionTransient/${id}`);
-            details = {
-                action: await actionDetails.json(),
-                actionTransient: await actionTransientDetails.json()
-            };
-        } else if (type === 'Status') {
-            let statusDetails = await fetch(`${baseURL}/sheet/Status/${id}`);
-            details = { status: await statusDetails.json() };
-        } else if (type === 'Item') {
-            let itemDetails = await fetch(`${baseURL}/sheet/Item/${id}`);
-            details = { item: await itemDetails.json() };
+        if (!/^\d+$/.test(id) || !['Action', 'Status', 'Item'].includes(type)) {
+            throw new Error('Select a valid result.');
         }
-        return details;
+        const fields = {
+            Action: 'Name,Icon,Recast100ms',
+            Status: 'Name,Icon,Description,StatusCategory',
+            Item: 'Name,Icon'
+        };
+        const params = new URLSearchParams({ fields: fields[type] });
+        if (type === 'Action') params.set('transient', 'Description');
+        const row = await fetchJsonData(`${baseURL}/sheet/${type}/${id}?${params}`);
+        if (row.row_id !== Number(id) || !row.fields || typeof row.fields.Name !== 'string' || !row.fields.Icon ||
+            (type === 'Action' && (!row.transient || typeof row.transient.Description !== 'string')) ||
+            (type === 'Status' && typeof row.fields.Description !== 'string')) {
+            throw new Error('The data service returned invalid details. Please try again.');
+        }
+        return { [type.toLowerCase()]: row };
     }
 
     // Example usage
@@ -65,7 +88,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
         let itemIds = [];
 
         if (filteredIds) {
-            let ids = filteredIds.split(',').map(id => id.trim());
+            let ids = [...new Set(filteredIds.split(',').map(id => id.trim()))];
+            if (ids.some(id => !/^\d+$/.test(id))) throw new Error('Enter numeric IDs separated by commas.');
             if (actionSelect === 'Any' || actionSelect === 'Action') {
                 actionIds = ids;
             }
@@ -110,12 +134,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
                     <td>${result.row_id.toString(16).toUpperCase()}</td>
                     <td>${result.fields.Name}</td>
                     <td>${type}</td>
-                    <td><img src='${baseURL}/asset/${result.fields.Icon.path}?format=png'></td>
-                    <td><img src='${baseURL}/asset/${result.fields.Icon.path_hr1}?format=png'></td>
+                    <td><img src='${assetUrl(result.fields.Icon.path)}'></td>
+                    <td><img src='${assetUrl(result.fields.Icon.path_hr1)}'></td>
                     <td>${result.fields.Icon.id}</td>
                     <td><button type="button" class="btn btn-primary" id="detailsbutton" data-url="${
                         result.row_id
-                    }" data-urltype="${type}">Use this</button><a class="btn btn-primary" id="jsonbutton" href="https://xivapi.com/${type}/${result.row_id}" target="_blank">XIVAPI</a></td>
+                    }" data-urltype="${type}">Use this</button><a class="btn btn-primary" id="jsonbutton" href="${baseURL}/sheet/${type}/${result.row_id}" target="_blank">XIVAPI</a></td>
                 </tr>`;
         }
 
@@ -148,12 +172,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
     }
 
     // Event listener for the search button
-    document.getElementById('searchbutton').addEventListener('click', searchAbility);
+    document.getElementById('searchbutton').addEventListener('click', () => searchAbility().catch(showError));
 
     // Event listener for pressing Enter in the search input
     document.getElementById('searchquery').addEventListener('keypress', function (e) {
         if (e.key === "Enter") {
-            searchAbility();
+            searchAbility().catch(showError);
         }
     });
 
@@ -162,14 +186,20 @@ document.addEventListener('DOMContentLoaded', (event) => {
         if (e.target && e.target.id == "detailsbutton") {
             let id = e.target.getAttribute('data-url');
             let type = e.target.getAttribute('data-urltype');
-            let details = await fetchDetailsByIdAndType(id, type);
+            let details;
+            try {
+                details = await fetchDetailsByIdAndType(id, type);
+            } catch (error) {
+                showError(error);
+                return;
+            }
 
             console.log("Fetched Details:", details);
 
             // Populate the fields with the fetched details
             if (type === 'Action') {
                 let action = details.action.fields;
-                let actionTransient = details.actionTransient.fields;
+                let actionTransient = details.action.transient;
                 console.log(action);
 
                 $("#abilityname").val(action.Name);
@@ -180,7 +210,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 let suggestedDuration = durationMatch ? durationMatch[1] : '';
                 $("#duration").val(suggestedDuration);
 
-                $("#imageurl").val(`${baseURL}/asset/${action.Icon.path_hr1}?format=png`);
+                $("#imageurl").val(assetUrl(action.Icon.path_hr1));
                 $("#triggertypeability").prop("checked", true);
                 $("#imageoverlayenabled").prop("checked", true);
 
@@ -200,7 +230,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 let suggestedDuration = durationMatch ? durationMatch[1] : '';
                 $("#duration").val(suggestedDuration);
 
-                $("#imageurl").val(`${baseURL}/asset/${status.Icon.path_hr1}?format=png`);
+                $("#imageurl").val(assetUrl(status.Icon.path_hr1));
 
                 if (status.StatusCategory === 1) {
                     $("#triggertypestatus").prop("checked", true);
@@ -313,7 +343,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
         fontsize = fontsize * currentRatio;
     
         template = template.replace(/%uuidv4%/g, uuidv4());
-        template = template.replace(/%ability%/g, $("#abilityname").val());
+        template = template.replace(/%ability%/g, () => escapeXml($("#abilityname").val()));
         template = template.replace(/%spellid%/g, $("#spellid").val());
         template = template.replace(
             /%imageenabled%/g,
@@ -323,7 +353,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
             /%imageoverlayenabled%/g,
             capitalize($("#imageoverlayenabled").prop("checked").toString())
         );
-        template = template.replace(/%imageurl%/g, $("#imageurl").val());
+        template = template.replace(/%imageurl%/g, () => escapeXml($("#imageurl").val()));
         template = template.replace(
             /%textenabled%/g,
             capitalize($("#textenabled").prop("checked").toString())
